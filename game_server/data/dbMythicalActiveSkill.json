@@ -1,0 +1,3370 @@
+{
+  "47001": [
+    {
+      "INTRO": "Gây ra 3000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 1,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 3500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 2,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 4000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 3,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 4500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 4,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 5000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 5,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 5500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 6,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 6000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 7,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 6500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 8,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 7000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 9,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 7500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 10,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 8000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 11,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 8500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 12,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 9000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 13,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 9500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 14,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 10000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 15,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 10500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 16,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 11000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 17,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 11500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 18,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 12000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 19,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 12500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 20,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 13000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 21,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 13500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 22,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 14000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 23,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 14500 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 24,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 15000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 25,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 16000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 26,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 17000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 27,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 18000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 28,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 19000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 29,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 20000 ST Vật Lý lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 30,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 21000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 31,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 22000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 32,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 23000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 33,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 24000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 34,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 25000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 35,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 26000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 36,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 27000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 37,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 28000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 38,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 29000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 39,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 30000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 40,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 31000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 41,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 32000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 42,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 33000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 43,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 34000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 44,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 35000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 45,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 36000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 46,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 37000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 47,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 38000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 48,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 39000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 49,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 40000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 50,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 41000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 51,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 42000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 52,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 43000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 53,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 44000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 54,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 45000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 55,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 46000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 56,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 47000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 57,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 48000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 58,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 49000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 59,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 50000 ST Vật Lý lên 4 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây.",
+      "LEVEL": 60,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 52000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 61,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 54000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 62,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 56000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 63,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 58000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 64,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 60000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 65,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 62000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 66,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 64000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 67,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 66000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 68,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 68000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 69,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 70000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 70,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 72000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 71,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 74000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 72,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 76000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 73,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 78000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 74,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 80000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 75,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 82000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 76,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 84000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 77,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 86000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 78,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 88000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 79,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 90000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 80,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 92000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 81,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 94000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 82,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 96000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 83,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 98000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 84,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 100000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 85,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 102000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 86,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 104000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 87,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 106000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 88,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 108000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 89,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 110000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 20% Tốc Đánh trong 6 giây.",
+      "LEVEL": 90,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 112000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 91,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 114000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 92,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 116000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 93,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 118000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 94,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 120000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 95,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 122000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 96,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 124000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 97,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 126000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 98,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 128000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 99,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 130000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 100,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 132000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 101,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 134000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 102,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 136000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 103,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 138000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 104,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 140000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 105,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 142000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 106,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 144000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 107,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 146000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 108,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 148000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 109,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 150000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 110,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 152000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 111,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 154000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 112,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 156000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 113,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 158000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 114,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 160000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 115,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 162000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 116,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 164000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 117,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 166000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 118,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 168000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 119,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    },
+    {
+      "INTRO": "Gây ra 170000 ST Vật Lý lên 5 địch nhân ngẫu nhiên, đồng thời làm choáng 1.5 giây, giảm 30% Tốc Đánh trong 6 giây.",
+      "LEVEL": 120,
+      "ICON": "qinglong_1",
+      "NAME": "青龙出海",
+      "NAME_VN": "Thanh Long Xuất Hải"
+    }
+  ],
+  "47021": [
+    {
+      "INTRO": "Gây ra 2100 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 1,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 2450 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 2,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 2800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 3,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 3150 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 4,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 3500 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 5,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 3850 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 6,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 4200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 7,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 4550 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 8,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 4900 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 9,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 5250 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 10,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 5600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 11,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 5950 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 12,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 6300 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 13,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 6650 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 14,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 7000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 15,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 7350 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 16,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 7700 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 17,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 8050 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 18,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 8400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 19,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 8750 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 20,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 9100 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 21,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 9450 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 22,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 9800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 23,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 10150 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 24,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 10500 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 25,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 11200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 26,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 11900 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 27,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 12600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 28,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 13300 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 29,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 14000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 30,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 14700 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 4410 ST Phép).",
+      "LEVEL": 31,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 15400 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 4620 ST Phép).",
+      "LEVEL": 32,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 16100 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 4830 ST Phép).",
+      "LEVEL": 33,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 16800 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 5040 ST Phép).",
+      "LEVEL": 34,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 17500 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 5250 ST Phép).",
+      "LEVEL": 35,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 18200 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 5460 ST Phép).",
+      "LEVEL": 36,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 18900 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 5670 ST Phép).",
+      "LEVEL": 37,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 19600 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 5880 ST Phép).",
+      "LEVEL": 38,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 20300 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 6090 ST Phép).",
+      "LEVEL": 39,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 21000 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 6300 ST Phép).",
+      "LEVEL": 40,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 21700 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 6510 ST Phép).",
+      "LEVEL": 41,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 22400 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 6720 ST Phép).",
+      "LEVEL": 42,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 23100 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 6930 ST Phép).",
+      "LEVEL": 43,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 23800 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 7140 ST Phép).",
+      "LEVEL": 44,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 24500 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 7350 ST Phép).",
+      "LEVEL": 45,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 25200 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 7560 ST Phép).",
+      "LEVEL": 46,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 25900 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 7770 ST Phép).",
+      "LEVEL": 47,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 26600 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 7980 ST Phép).",
+      "LEVEL": 48,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 27300 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 8190 ST Phép).",
+      "LEVEL": 49,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 28000 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 8400 ST Phép).",
+      "LEVEL": 50,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 28700 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 8610 ST Phép).",
+      "LEVEL": 51,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 29400 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 8820 ST Phép).",
+      "LEVEL": 52,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 30100 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 9030 ST Phép).",
+      "LEVEL": 53,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 30800 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 9240 ST Phép).",
+      "LEVEL": 54,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 31500 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 9450 ST Phép).",
+      "LEVEL": 55,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 32200 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 9660 ST Phép).",
+      "LEVEL": 56,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 32900 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 9870 ST Phép).",
+      "LEVEL": 57,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 33600 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 10080 ST Phép).",
+      "LEVEL": 58,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 34300 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 10290 ST Phép).",
+      "LEVEL": 59,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 35000 ST Phép lên 4 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 10500 ST Phép).",
+      "LEVEL": 60,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 36400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 10920 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 61,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 37800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 11340 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 62,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 39200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 11760 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 63,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 40600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 12180 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 64,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 42000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 12600 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 65,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 43400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 13020 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 66,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 44800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 13440 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 67,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 46200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 13860 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 68,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 47600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 14280 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 69,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 49000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 14700 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 70,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 50400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 15120 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 71,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 51800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 15540 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 72,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 53200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 15960 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 73,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 54600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 16380 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 74,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 56000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 16800 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 75,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 57400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 17220 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 76,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 58800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 17640 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 77,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 60200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 18060 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 78,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 61600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 18480 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 79,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 63000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 18900 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 80,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 64400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 19320 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 81,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 65800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 19740 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 82,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 67200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 20160 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 83,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 68600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 20580 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 84,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 70000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 21000 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 85,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 71400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 21420 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 86,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 72800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 21840 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 87,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 74200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 22260 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 88,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 75600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 22680 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 89,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 77000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 23100 ST Phép), thời gian thiêu đốt thêm 25%.",
+      "LEVEL": 90,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 78400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 23520 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 91,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 79800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 23940 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 92,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 81200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 24360 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 93,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 82600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 24780 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 94,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 84000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 25200 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 95,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 85400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 25620 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 96,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 86800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 26040 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 97,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 88200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 26460 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 98,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 89600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 26880 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 99,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 91000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 27300 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 100,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 92400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 27720 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 101,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 93800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 28140 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 102,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 95200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 28560 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 103,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 96600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 28980 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 104,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 98000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 29400 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 105,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 99400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 29820 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 106,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 100800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 30240 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 107,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 102200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 30660 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 108,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 103600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 31080 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 109,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 105000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 31500 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 110,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 106400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 31920 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 111,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 107800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 32340 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 112,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 109200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 32760 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 113,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 110600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 33180 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 114,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 112000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 33600 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 115,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 113400 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 34020 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 116,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 114800 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 34440 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 117,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 116200 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 34860 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 118,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 117600 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 35280 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 119,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    },
+    {
+      "INTRO": "Gây ra 119000 ST Phép lên 5 địch nhân ngẫu nhiên, kèm thiêu đốt 5 giây (mỗi giây gây ra 35700 ST Phép), thời gian thiêu đốt thêm 35%.",
+      "LEVEL": 120,
+      "ICON": "zhuque_1",
+      "NAME": "朱雀降世",
+      "NAME_VN": "Chu Tước Giáng Thế"
+    }
+  ],
+  "47011": [
+    {
+      "INTRO": "Gây ra 2400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 1,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 2800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 2,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 3200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 3,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 3600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 4,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 4000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 5,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 4400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 6,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 4800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 7,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 5200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 8,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 5600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 9,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 6000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 10,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 6400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 11,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 6800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 12,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 7200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 13,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 7600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 14,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 8000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 15,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 8400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 16,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 8800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 17,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 9200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 18,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 9600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 19,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 10000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 20,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 10400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 21,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 10800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 22,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 11200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 23,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 11600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 24,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 12000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 25,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 12800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 26,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 13600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 27,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 14400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 28,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 15200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 29,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 16000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 30,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 16800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 31,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 17600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 32,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 18400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 33,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 19200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 34,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 20000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 35,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 20800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 36,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 21600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 37,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 22400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 38,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 23200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 39,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 24000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 40,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 24800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 41,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 25600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 42,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 26400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 43,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 27200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 44,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 28000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 45,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 28800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 46,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 29600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 47,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 30400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 48,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 31200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 49,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 32000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 50,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 32800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 51,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 33600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 52,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 34400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 53,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 35200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 54,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 36000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 55,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 36800 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 56,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 37600 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 57,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 38400 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 58,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 39200 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 59,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 40000 ST Phép lên 4 địch nhân ngẫu nhiên, đồng thời tăng 4 tướng phe mình 15% Tấn Công kéo dài 5 giây.",
+      "LEVEL": 60,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 41600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 61,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 43200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 62,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 44800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 63,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 46400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 64,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 48000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 65,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 49600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 66,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 51200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 67,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 52800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 68,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 54400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 69,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 56000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 70,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 57600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 71,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 59200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 72,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 60800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 73,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 62400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 74,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 64000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 75,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 65600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 76,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 67200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 77,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 68800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 78,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 70400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 79,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 72000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 80,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 73600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 81,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 75200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 82,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 76800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 83,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 78400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 84,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 80000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 85,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 81600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 86,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 83200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 87,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 84800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 88,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 86400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 89,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 88000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 15% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 90,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 89600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 91,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 91200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 92,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 92800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 93,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 94400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 94,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 96000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 95,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 97600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 96,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 99200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 97,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 100800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 98,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 102400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 99,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 104000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 100,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 105600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 101,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 107200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 102,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 108800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 103,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 110400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 104,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 112000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 105,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 113600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 106,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 115200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 107,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 116800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 108,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 118400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 109,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 120000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 110,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 121600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 111,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 123200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 112,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 124800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 113,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 126400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 114,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 128000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 115,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 129600 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 116,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 131200 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 117,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 132800 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 118,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 134400 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 119,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    },
+    {
+      "INTRO": "Gây ra 136000 ST Phép lên 5 địch nhân ngẫu nhiên, đồng thời tăng 5 tướng phe mình 15% Tấn Công, 25% ST Thuần kéo dài 5 giây.",
+      "LEVEL": 120,
+      "ICON": "baihu_1",
+      "NAME": "白虎降魔",
+      "NAME_VN": "Bạch Hổ Hàng Ma"
+    }
+  ],
+  "47031": [
+    {
+      "INTRO": "Gây ra 1800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 1,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 2100 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 2,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 2400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 3,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 2700 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 4,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 3000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 5,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 3300 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 6,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 3600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 7,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 3900 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 8,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 4200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 9,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 4500 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 10,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 4800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 11,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 5100 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 12,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 5400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 13,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 5700 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 14,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 6000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 15,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 6300 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 16,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 6600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 17,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 6900 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 18,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 7200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 19,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 7500 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 20,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 7800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 21,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 8100 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 22,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 8400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 23,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 8700 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 24,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 9000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 25,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 9600 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 26,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 10200 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 27,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 10800 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 28,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 11400 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 29,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 12000 ST Phép lên 3 địch nhân ngẫu nhiên.",
+      "LEVEL": 30,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 12600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 15750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 31,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 13200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 16500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 32,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 13800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 17250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 33,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 14400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 18000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 34,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 15000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 18750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 35,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 15600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 19500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 36,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 16200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 20250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 37,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 16800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 21000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 38,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 17400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 21750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 39,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 18000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 22500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 40,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 18600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 23250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 41,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 19200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 24000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 42,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 19800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 24750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 43,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 20400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 25500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 44,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 21000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 26250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 45,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 21600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 27000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 46,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 22200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 27750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 47,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 22800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 28500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 48,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 23400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 29250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 49,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 24000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 30000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 50,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 24600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 30750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 51,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 25200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 31500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 52,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 25800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 32250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 53,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 26400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 33000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 54,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 27000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 33750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 55,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 27600 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 34500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 56,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 28200 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 35250 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 57,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 28800 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 36000 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 58,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 29400 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 36750 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 59,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 30000 ST Phép lên 4 địch nhân ngẫu nhiên, 4 tướng phe ta có HP thấp nhất nhận 37500 điểm Hộ Thuẫn trong 5 giây.",
+      "LEVEL": 60,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 31200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 39000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 61,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 32400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 40500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 62,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 33600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 42000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 63,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 34800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 43500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 64,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 36000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 45000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 65,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 37200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 46500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 66,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 38400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 48000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 67,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 39600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 49500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 68,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 40800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 51000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 69,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 42000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 52500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 70,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 43200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 54000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 71,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 44400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 55500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 72,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 45600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 57000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 73,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 46800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 58500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 74,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 48000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 60000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 75,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 49200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 61500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 76,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 50400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 63000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 77,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 51600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 64500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 78,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 52800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 66000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 79,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 54000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 67500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 80,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 55200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 69000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 81,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 56400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 70500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 82,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 57600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 72000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 83,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 58800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 73500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 84,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 60000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 75000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 85,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 61200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 76500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 86,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 62400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 78000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 87,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 63600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 79500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 88,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 64800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 81000 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 89,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 66000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 82500 điểm Hộ Thuẫn và 5% Hút Máu trong 5 giây.",
+      "LEVEL": 90,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 67200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 84000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 91,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 68400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 85500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 92,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 69600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 87000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 93,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 70800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 88500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 94,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 72000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 90000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 95,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 73200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 91500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 96,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 74400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 93000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 97,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 75600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 94500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 98,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 76800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 96000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 99,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 78000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 97500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 100,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 79200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 99000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 101,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 80400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 100500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 102,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 81600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 102000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 103,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 82800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 103500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 104,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 84000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 105000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 105,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 85200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 106500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 106,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 86400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 108000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 107,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 87600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 109500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 108,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 88800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 111000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 109,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 90000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 112500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 110,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 91200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 114000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 111,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 92400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 115500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 112,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 93600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 117000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 113,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 94800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 118500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 114,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 96000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 120000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 115,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 97200 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 121500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 116,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 98400 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 123000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 117,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 99600 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 124500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 118,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 100800 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 126000 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 119,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    },
+    {
+      "INTRO": "Gây ra 102000 ST Phép lên 5 địch nhân ngẫu nhiên, 5 tướng phe ta có HP thấp nhất nhận 127500 điểm Hộ Thuẫn và 10% Hút Máu trong 5 giây.",
+      "LEVEL": 120,
+      "ICON": "xuanwu_1",
+      "NAME": "玄武震天",
+      "NAME_VN": "Huyền Vũ Chấn Thiên"
+    }
+  ]
+}

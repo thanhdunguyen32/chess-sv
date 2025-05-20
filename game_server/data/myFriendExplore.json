@@ -1,0 +1,83 @@
+[
+    {
+        "chapterid": 4,
+        "id": "10102",
+        "gsid": 16061,
+		"name": "地公将军",
+        "name_vn": "Địa Công Tướng Quân",
+        "level": 160,
+        "rewards": [
+            {
+                "GSID": 38005,
+                "COUNT": 50
+            }
+        ],
+        "maxhp": 54000000,
+        "bset": {
+            "14": {
+                "gsid": 16061,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 20250000,
+                "exatk": 7.7
+            },
+            "27": {
+                "gsid": 16061,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 20250000,
+                "exatk": 7.7
+            },
+            "28": {
+                "gsid": 16141,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 13500000,
+                "exatk": 7.7
+            }
+        }
+    },
+    {
+        "id": "10103",
+        "gsid": 16161,
+		"name": "天公将军",
+        "name_vn": "Thiên Công Tướng Quân",
+        "level": 200,
+        "rewards": [
+            {
+                "GSID": 38005,
+                "COUNT": 25
+            }
+        ],
+        "maxhp": 135000000,
+        "bset": {
+            "9": {
+                "gsid": 16001,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 47250000,
+                "exatk": 9
+            },
+            "12": {
+                "gsid": 16001,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 47250000,
+                "exatk": 9
+            },
+            "19": {
+                "gsid": 16162,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 40500000,
+                "exatk": 9
+            }
+        }
+    }
+]

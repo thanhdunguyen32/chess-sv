@@ -1,0 +1,61 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "desc": "Chuyển đến bối cảnh thành thị",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodePub"
+      }
+    },
+    {
+      "numstep": 46,
+      "desc": "Nhấn vào Tửu Quán",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "Main Camera > city_node > homecity_city / jiuguan",
+        "text": "Lại một lần nữa đến chốn quen thuộc này!"
+      }
+    },
+    {
+      "numstep": 47,
+      "desc": "Nhấn vào Chiêu Mộ Cao Cấp x1",
+      "command": {
+        "cmd": "finger",
+        "args": "cardpub_page > cardpub_03 > btn_pick_premium_1",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 48,
+      "desc": "Nhấn vào Xác Nhận",
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_reward > bg_node > node_btn > global_btn_confirm",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Không nghĩ tới chúa công vậy mà được đến Hoàng Nguyệt Anh thưởng thức."
+        ]
+      }
+    },
+    {
+      "numstep": 49,
+      "desc": "Nhấn vào Quay Lại",
+      "command": {
+        "cmd": "finger",
+        "args": "cardpub_page > global_btn_back_01",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tửu Quán Chiêu Mộ Cao Cấp"
+}

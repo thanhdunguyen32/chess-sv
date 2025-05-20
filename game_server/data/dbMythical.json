@@ -1,0 +1,98 @@
+{
+  "104": {
+    "IMG_BIG": "game_icon/icon_mythic/icon_xuanwu_big",
+    "IMG_SMALL": "game_icon/icon_mythic/icon_xuanwu_small",
+    "SKILL": [
+      47031,
+      47031,
+      47031,
+      47031
+    ],
+    "PSKILL": [
+      47401,
+      47402,
+      47403,
+      47404
+    ],
+    "ICON": [
+      "g_xuanwu01/stand",
+      "g_xuanwu01/stand",
+      "g_xuanwu01/stand",
+      "g_xuanwu01/stand"
+    ],
+    "NAME": "玄武",
+    "NAME_VN": "Huyền Vũ"
+  },
+  "101": {
+    "IMG_BIG": "game_icon/icon_mythic/icon_qinglong_big",
+    "IMG_SMALL": "game_icon/icon_mythic/icon_qinglong_small",
+    "SKILL": [
+      47001,
+      47001,
+      47001,
+      47001
+    ],
+    "PSKILL": [
+      47101,
+      47102,
+      47103,
+      47104
+    ],
+    "ICON": [
+      "g_qinglong01/stand",
+      "g_qinglong01/stand",
+      "g_qinglong01/stand",
+      "g_qinglong01/stand"
+    ],
+    "NAME": "青龙",
+    "NAME_VN": "Thanh Long"
+  },
+  "102": {
+    "IMG_BIG": "game_icon/icon_mythic/icon_baihu_big",
+    "IMG_SMALL": "game_icon/icon_mythic/icon_baihu_small",
+    "SKILL": [
+      47011,
+      47011,
+      47011,
+      47011
+    ],
+    "PSKILL": [
+      47201,
+      47202,
+      47203,
+      47204
+    ],
+    "ICON": [
+      "g_baihu01/stand",
+      "g_baihu01/stand",
+      "g_baihu01/stand",
+      "g_baihu01/stand"
+    ],
+    "NAME": "白虎",
+    "NAME_VN": "Bạch Hổ"
+  },
+  "103": {
+    "IMG_BIG": "game_icon/icon_mythic/icon_zhuque_big",
+    "IMG_SMALL": "game_icon/icon_mythic/icon_zhuque_small",
+    "SKILL": [
+      47021,
+      47021,
+      47021,
+      47021
+    ],
+    "PSKILL": [
+      47301,
+      47302,
+      47303,
+      47304
+    ],
+    "ICON": [
+      "g_fenghuang01/stand",
+      "g_fenghuang01/stand",
+      "g_fenghuang01/stand",
+      "g_fenghuang01/stand"
+    ],
+    "NAME": "朱雀",
+    "NAME_VN": "Chu Tước"
+  }
+}

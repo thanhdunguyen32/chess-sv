@@ -1,0 +1,78 @@
+import "battle.proto";
+package beans;
+
+option optimize_for = SPEED;
+option java_package = "game.module.rank.bean";
+
+message DBPlayerLevelRank {
+	repeated DBPlayerLevelRank1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBPlayerLevelRank1 {
+	required int32 player_id = 1;
+	required int32 rank_change = 2;
+}
+
+message DBArenaWinRank{
+	repeated DBArenaWinRank1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBArenaWinRank1{
+	required int32 player_id = 1;
+	required int32 win_count = 2;
+	required int32 rank_change = 3;
+}
+
+message DBRankBattleForce{
+	repeated DBRankBattleForce1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBRankBattleForce1{
+	required int32 player_id = 1;
+	required int32 battle_force = 2;//战力
+	required int32 rank_change = 3;
+}
+
+message DBRankMyItem{
+	required int32 player_id = 1;
+	required int32 rank_change = 2;
+}
+
+message DBRankHeroCount{
+	repeated DBRankHeroCount1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBRankHeroCount1{
+	required int32 player_id = 1;
+	required int32 hero_count = 2;//英雄数量
+	required int32 rank_change = 3;
+	repeated DBStageHero heros = 4;//所有英雄
+}
+
+message DBRankHeroStars{
+	repeated DBRankHeroStars1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBRankHeroStars1{
+	required int32 player_id = 1;
+	required int32 star_sum = 2;//总星数
+	required int32 rank_change = 3;
+	repeated DBStageHero heros = 4;//所有英雄
+}
+
+message DBRankCraft{
+	repeated DBRankCraft1 rank_item = 1;
+	repeated DBRankMyItem rank_my = 2;
+}
+
+message DBRankCraft1{
+	required int32 player_id = 1;
+	required int32 craft_level = 2;//诸神争霸等级
+	required int32 win_count = 3;
+	required int32 rank_change = 4;
+}

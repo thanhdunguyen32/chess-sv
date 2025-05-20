@@ -1,0 +1,121 @@
+{
+    "box": [
+        {
+            "SCORE": 20,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 30006,
+                    "COUNT": 10
+                }
+            ]
+        },
+        {
+            "SCORE": 40,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 38006,
+                    "COUNT": 20000000
+                }
+            ]
+        },
+        {
+            "SCORE": 60,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 30015,
+                    "COUNT": 5000
+                }
+            ]
+        },
+        {
+            "SCORE": 80,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 30001,
+                    "COUNT": 20000000
+                }
+            ]
+        },
+        {
+            "SCORE": 100,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 22141,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "SCORE": 150,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 34291,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "SCORE": 200,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 22061,
+                    "COUNT": 50
+                }
+            ]
+        },
+        {
+            "SCORE": 350,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 30029,
+                    "COUNT": 300
+                }
+            ]
+        },
+        {
+            "SCORE": 450,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 32502,
+                    "COUNT": 1
+                }
+            ]
+        },
+        {
+            "SCORE": 600,
+            "state": 0,
+            "REWARD": [
+                {
+                    "GSID": 33016,
+                    "COUNT": 1
+                }
+            ]
+        }
+    ],
+    "event": [
+        {
+            "intro": "Mỗi lần đổi tướng 5 sao sẽ nhận được 1 điểm, nhận tối đa 60 điểm",
+            "MARK": 90351,
+            "LIMIT": 60
+        },
+        {
+            "intro": "Tiêu hao 1 Điểm Tướng Lệnh sẽ nhận được 1 điểm, nhận tối đa 300 điểm",
+            "MARK": 90352,
+            "LIMIT": 300
+        },
+        {
+            "intro": "Nhận điểm thông qua mua gói quà, nhận tối đa 240 điểm",
+            "MARK": 90353,
+            "LIMIT": 240
+        }
+    ]
+}

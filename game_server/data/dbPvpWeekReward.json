@@ -1,0 +1,218 @@
+[
+  {
+    "REWARDS": [
+      {
+        "COUNT": 720,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1800,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 1200,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 1,
+    "MIN": 1
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 660,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1680,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 1080,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 2,
+    "MIN": 2
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 600,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1560,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 960,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 3,
+    "MIN": 3
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 540,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1440,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 840,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 4,
+    "MIN": 4
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 480,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1320,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 720,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 5,
+    "MIN": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 420,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1200,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 600,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 10,
+    "MIN": 6
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 360,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1020,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 480,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 20,
+    "MIN": 11
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 300,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 840,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 360,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 50,
+    "MIN": 21
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 240,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 720,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 300,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 100,
+    "MIN": 51
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 180,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 600,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 240,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 200,
+    "MIN": 101
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 120,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 480,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 180,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 500,
+    "MIN": 201
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 60,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 360,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 120,
+        "GSID": 30002
+      }
+    ],
+    "MAX": 99999,
+    "MIN": 501
+  }
+]

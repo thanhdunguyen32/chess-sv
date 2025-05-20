@@ -1,0 +1,78 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 60,
+      "desc": "Nhấp vào tướng (Hoàng Nguyệt Anh)",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > global_frame_01 > general_view > content # 12241 > icon",
+        "text": "Đầu tiên cần để võ tướng mới gia nhập ra trận!"
+      }
+    },
+    {
+      "numstep": 61,
+      "desc": "Bày binh bố trận, đối thoại lần hai",
+      "command": {
+        "cmd": "talk",
+        "args": "Wow, võ tướng xuất trận quân ta kích hoạt \"Liên kết\", giúp tăng cường rất nhiều năng lực võ tướng xuất trận!"
+      }
+    },
+    {
+      "numstep": 62,
+      "desc": "Nhấp vào liên kết",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "battle_page > battle_bg_heidi_01",
+        "text": "Ở đây có thể kiểm tra chi tiết liên kết."
+      }
+    },
+    {
+      "numstep": 63,
+      "desc": "Giới thiệu khắc chế trận doanh",
+      "command": {
+        "cmd": "locator",
+        "args": "battle_ready_detail_page > detail_info > global_windows_frame_02",
+        "textdirection": "mid",
+        "text": "Ở đây hiển thị thông tin khắc chế trận doanh."
+      }
+    },
+    {
+      "numstep": 64,
+      "desc": "Giới thiệu chi tiết về liên kết",
+      "command": {
+        "cmd": "locator",
+        "args": "battle_ready_detail_page > detail_info_scrollview",
+        "textdirection": "mid",
+        "text": "Nhấn vào đây kiểm tra chi tiết liên kết"
+      }
+    },
+    {
+      "numstep": 65,
+      "desc": "Đóng giao diện liên kết",
+      "command": {
+        "cmd": "closepage",
+        "args": "battle_ready_detail_page > battle_ready_detail_page > windows_tx_tips_guanbi",
+        "nomask": true,
+        "page": "battlereadydetailpage"
+      }
+    },
+    {
+      "numstep": 66,
+      "desc": "Nhấp vào để bắt đầu giao chiến!",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "battle_page > battle_btn_start_01",
+        "text": "Hoàn thành bày trận, giờ là thời điểm phát động công kích!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn chiến đấu"
+}

@@ -1,0 +1,121 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Quản lý thông báo">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <div class="alert" id="ErrorMessageDiv">
+                    <span class="febs-alert-base febs-alert-error" id="ErrorMessage"></span>
+                </div>
+                <form class="layui-form" action="" lay-filter="generator-configure-form">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Thông báo đăng nhập</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="refresh_page">
+                            <i class="layui-icon">&#xe79b;</i>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label" style="width:60px;padding-left:0px;">Nội dung:</label>
+                        <div class="layui-input-block" style="margin-left: 75px;">
+                            <textarea name="gonggaoContent" autocomplete="off" placeholder="Vui lòng nhập" class="layui-textarea" rows="10"></textarea>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:60px;padding-left:0px;">Địa chỉ:</label>
+                        <div class="layui-input-block" style="margin-left: 75px;">
+                            <input type="text" name="lsHostName" autocomplete="off" maxlength="50"
+                                   lay-verify="required" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:60px;padding-left:0px;">Cổng:</label>
+                        <div class="layui-input-block" style="margin-left: 75px;">
+                            <input type="text" name="lsLanPort" autocomplete="off" maxlength="20"
+                                   lay-verify="required" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item" shiro:hasPermission="gonggao:update">
+                        <div class="layui-input-block">
+                            <button class="layui-btn" lay-submit="" lay-filter="generator-configure-form-submit">Lưu cấu hình
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            $view = $('#febs-op-gonggao'),
+            $trimValue = $view.find('input[name="trimValue"]'),
+            $trimValueItem = $trimValue.parents('.layui-form-item'),
+            gonggaoContent = [[${gonggaoContent}]],
+            lsHostName = [[${lsHostName}]],
+            lsLanPort = [[${lsLanPort}]],
+            errorMsg = [[${errorMsg}]];
+
+        form.render();
+        initFormValue();
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function initFormValue() {
+            form.val("generator-configure-form", {
+                "gonggaoContent": gonggaoContent,
+                "lsHostName": lsHostName,
+                "lsLanPort": lsLanPort
+            });
+        }
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        form.on('submit(generator-configure-form-submit)', function (data) {
+            febs.post(ctx + 'op/gonggaoUpdate', data.field, function (r) {
+                febs.alert.success('Sửa đổi thành công!');
+            });
+            return false;
+        });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/gonggao?time="+(new Date().getTime()));
+        });
+    });
+</script>

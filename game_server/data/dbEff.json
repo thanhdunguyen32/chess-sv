@@ -1,0 +1,3758 @@
+{
+  "17121s": {
+    "target_hit": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuxiu/skill_01_long_down",
+        "posy": 5,
+        "scale": 2,
+        "pic": "skill_liuxiu/skill_01_long_down_pic"
+      }
+    }
+  },
+  "46161": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/shouji_up",
+        "posy": 80,
+        "scale": 0.6,
+        "pic": "skill_zhangjiao/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/shouji_down",
+        "posy": 80,
+        "scale": 0.6,
+        "pic": "skill_zhangjiao/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhangjiao/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhangjiao/shifa_down_pic"
+      }
+    }
+  },
+  "faqiu_blue": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "faqiu_public/faqiu_yuan_lan",
+        "posy": 15,
+        "scale": 0.75,
+        "pic": "faqiu_public/faqiu_yuan_lan_pic"
+      }
+    }
+  },
+  "44201": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_huanggai/shifa_r_side",
+          "skill_huanggai/shifa_b_side",
+          "skill_huanggai/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_huanggai/shifa_r_side_pic",
+          "skill_huanggai/shifa_b_side_pic",
+          "skill_huanggai/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40041": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangliao/dandao",
+        "posy": 0,
+        "scale": 0.56,
+        "pic": "skill_zhangliao/dandao_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_zhangliao/shifa_r_side",
+          "skill_zhangliao/shifa_b_side",
+          "skill_zhangliao/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_zhangliao/shifa_r_side_pic",
+          "skill_zhangliao/shifa_b_side_pic",
+          "skill_zhangliao/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46081": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhurong/buff_xunhuan_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhurong/buff_xunhuan_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhurong/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhurong/shifa_01_pic"
+      }
+    }
+  },
+  "fazheng_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fazheng/faqiu_fazheng",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_fazheng/faqiu_fazheng_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fazheng/faqiu_fazheng_shouji",
+        "opacity": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fazheng/faqiu_fazheng_shouji_pic"
+      }
+    }
+  },
+  "18036": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_shangshanqianxin/shifa_02_r_side",
+          "skill_shangshanqianxin/shifa_02_b_side",
+          "skill_shangshanqianxin/shifa_02_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_shangshanqianxin/shifa_02_r_side_pic",
+          "skill_shangshanqianxin/shifa_02_b_side_pic",
+          "skill_shangshanqianxin/shifa_02_f_side_pic"
+        ]
+      }
+    }
+  },
+  "47001": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shouji_qinglong",
+        "posy": 70,
+        "scale": 1.8,
+        "pic": "godbeast_eff/shouji_qinglong_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shifa_qinglong",
+        "posy": -40,
+        "scale": 1,
+        "pic": "godbeast_eff/shifa_qinglong_pic"
+      }
+    }
+  },
+  "46361": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_mateng/shouji_01",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "skill_mateng/shouji_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_mateng/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_mateng/shifa_01_pic"
+      }
+    }
+  },
+  "qiangnubing_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_qiangnubing/faqiu_qiangnvshou",
+        "posy": 10,
+        "scale": 0.4,
+        "pic": "skill_qiangnubing/faqiu_qiangnvshou_pic"
+      }
+    }
+  },
+  "yuji_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuji/faqiu_yuji",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_yuji/faqiu_yuji_pic"
+      }
+    }
+  },
+  "17056": {
+    "target_hit": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_hanxin/skill_shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_hanxin/skill_shouji_down_pic"
+      }
+    }
+  },
+  "42251": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "shouji_public/shouji_b_03",
+        "posy": 0,
+        "scale": 1.6,
+        "pic": "shouji_public/shouji_b_03_pic"
+      }
+    }
+  },
+  "46201": {
+    "target_hit": {
+      "up": {
+        "base_speed": 0.5,
+        "posx": 0,
+        "json": "skill_huatuo/shouji_01",
+        "posy": 40,
+        "scale": 1,
+        "pic": "skill_huatuo/shouji_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huatuo/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_huatuo/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huatuo/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_huatuo/shifa_down_pic"
+      }
+    }
+  },
+  "44162": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_bulianshi/shouji_up",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_bulianshi/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_bulianshi/shouji_down",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_bulianshi/shouji_down_pic"
+      }
+    }
+  },
+  "simayi_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayi/faqiu_simayi",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_simayi/faqiu_simayi_pic"
+      }
+    }
+  },
+  "40121": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_guojia/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_guojia/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 200,
+        "json": "skill_guojia/shifa_down_r_side",
+        "rotation": 1,
+        "posy": 10,
+        "scale": 1.5,
+        "pic": "skill_guojia/shifa_down_r_side_pic"
+      }
+    }
+  },
+  "40341": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caozhi/faqiu_caozhi",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caozhi/faqiu_caozhi_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caozhi/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caozhi/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caozhi/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caozhi/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caozhi/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caozhi/shifa_down_pic"
+      }
+    }
+  },
+  "46021": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_menghuo/shifa_01",
+        "posy": 10,
+        "scale": 1.5,
+        "pic": "skill_menghuo/shifa_01_pic"
+      }
+    }
+  },
+  "chengyu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengyu/faqiu_chengyu",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_chengyu/faqiu_chengyu_pic"
+      }
+    }
+  },
+  "42021": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubei/shifa",
+        "posy": 100,
+        "scale": 2,
+        "pic": "skill_liubei/shifa_pic"
+      }
+    }
+  },
+  "17021": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiangyu/shifa_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiangyu/shifa_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiangyu/shifa_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiangyu/shifa_01_down_pic"
+      }
+    }
+  },
+  "42181": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 70,
+        "json": [
+          "skill_guanxing/shifa_r_attack",
+          "skill_guanxing/shifa_b_attack",
+          "skill_guanxing/shifa_f_attack"
+        ],
+        "posy": 35,
+        "scale": 1,
+        "pic": [
+          "skill_guanxing/shifa_r_attack_pic",
+          "skill_guanxing/shifa_b_attack_pic",
+          "skill_guanxing/shifa_f_attack_pic"
+        ]
+      }
+    }
+  },
+  "40056": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_zhangliao/shifa_r_side",
+          "skill_zhangliao/shifa_b_side",
+          "skill_zhangliao/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_zhangliao/shifa_r_side_pic",
+          "skill_zhangliao/shifa_b_side_pic",
+          "skill_zhangliao/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40061": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiahoudun/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiahoudun/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_xiahoudun/shifa_r_side",
+          "skill_xiahoudun/shifa_b_side",
+          "skill_xiahoudun/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_xiahoudun/shifa_r_side_pic",
+          "skill_xiahoudun/shifa_b_side_pic",
+          "skill_xiahoudun/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40161": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jiaxu/shouji_up",
+        "posy": 100,
+        "scale": 0.8,
+        "pic": "skill_jiaxu/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jiaxu/shouji_down",
+        "posy": 100,
+        "scale": 0.8,
+        "pic": "skill_jiaxu/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_jiaxu/shifa_r_side",
+          "skill_jiaxu/shifa_b_side",
+          "skill_jiaxu/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_jiaxu/shifa_r_side_pic",
+          "skill_jiaxu/shifa_b_side_pic",
+          "skill_jiaxu/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "42121": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_madai/faqiu_madai",
+        "posy": 18,
+        "scale": 1,
+        "pic": "skill_madai/faqiu_madai_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_madai/shouji",
+        "posy": 20,
+        "scale": 1,
+        "pic": "skill_madai/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_madai/shifa_r_side",
+          "skill_madai/shifa_b_side",
+          "skill_madai/shifa_f_side"
+        ],
+        "posy": -20,
+        "scale": 1,
+        "pic": [
+          "skill_madai/shifa_r_side_pic",
+          "skill_madai/shifa_b_side_pic",
+          "skill_madai/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "42281": {
+    "target_hit": {
+      "up": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_liufeng/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liufeng/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 0.9,
+        "posx": 0,
+        "json": [
+          "skill_liufeng/shifa_r_side",
+          "skill_liufeng/shifa_b_side",
+          "skill_liufeng/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_liufeng/shifa_r_side_pic",
+          "skill_liufeng/shifa_b_side_pic",
+          "skill_liufeng/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46171": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/dandao_lan",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhangjiao/dandao_lan_pic"
+      }
+    }
+  },
+  "44411": {
+    "target_hit": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunjian/skill_ying_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunjian/skill_ying_down_pic"
+      }
+    }
+  },
+  "46401": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_huangjinjun/shifa_r_side",
+          "skill_huangjinjun/shifa_b_side",
+          "skill_huangjinjun/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_huangjinjun/shifa_r_side_pic",
+          "skill_huangjinjun/shifa_b_side_pic",
+          "skill_huangjinjun/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "44161": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_bulianshi/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_bulianshi/shifa_pic"
+      }
+    }
+  },
+  "47031": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shouji_xuanwu",
+        "posy": 70,
+        "scale": 1.8,
+        "pic": "godbeast_eff/shouji_xuanwu_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shifa_xuanwu",
+        "posy": -40,
+        "scale": 1,
+        "pic": "godbeast_eff/shifa_xuanwu_pic"
+      }
+    }
+  },
+  "47011": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shouji_baihu",
+        "posy": 70,
+        "scale": 1.8,
+        "pic": "godbeast_eff/shouji_baihu_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shifa_baihu",
+        "posy": -40,
+        "scale": 1,
+        "pic": "godbeast_eff/shifa_baihu_pic"
+      }
+    }
+  },
+  "40201": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dianwei/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dianwei/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dianwei/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dianwei/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dianwei/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dianwei/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dianwei/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dianwei/shifa_down_pic"
+      }
+    }
+  },
+  "42076": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_caocao/shifa_r_side",
+          "skill_caocao/shifa_b_side",
+          "skill_caocao/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_caocao/shifa_r_side_pic",
+          "skill_caocao/shifa_b_side_pic",
+          "skill_caocao/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "yuanshao_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuanshao/faqiu_yuanshao",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_yuanshao/faqiu_yuanshao_pic"
+      }
+    }
+  },
+  "lusu_qiu_red": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lusu/faqiu_lusu_red",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_lusu/faqiu_lusu_red_pic"
+      }
+    }
+  },
+  "yuanshu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuanshu/faqiu_yuanshu",
+        "posy": 10,
+        "scale": 0.5,
+        "pic": "skill_yuanshu/faqiu_yuanshu_pic"
+      }
+    }
+  },
+  "sunquan_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunquan/faqiu_sunquan",
+        "posy": -20,
+        "scale": 1,
+        "pic": "skill_sunquan/faqiu_sunquan_pic"
+      }
+    }
+  },
+  "44081": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunshangxiang/shouji_up_01",
+        "posy": 30,
+        "scale": 1.2,
+        "pic": "skill_sunshangxiang/shouji_up_01_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunshangxiang/shouji_down",
+        "posy": 35,
+        "scale": 1.3,
+        "pic": "skill_sunshangxiang/shouji_down_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunshangxiang/shouji_up_02",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunshangxiang/shouji_up_02_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_sunshangxiang/shifa_r_side",
+          "skill_sunshangxiang/shifa_b_side",
+          "skill_sunshangxiang/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_sunshangxiang/shifa_r_side_pic",
+          "skill_sunshangxiang/shifa_b_side_pic",
+          "skill_sunshangxiang/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "zhenji_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhenji/faqiu_zhenji",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_zhenji/faqiu_zhenji_pic"
+      }
+    }
+  },
+  "44121": {
+    "self_eff": {
+      "up": {
+        "base_speed": 0.9,
+        "posx": 0,
+        "json": "skill_luxun/shouji",
+        "posy": 100,
+        "scale": 1,
+        "pic": "skill_luxun/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_luxun/shifa_r_side",
+          "skill_luxun/shifa_b_side",
+          "skill_luxun/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_luxun/shifa_r_side_pic",
+          "skill_luxun/shifa_b_side_pic",
+          "skill_luxun/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40401": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_qiangnubing/dandao",
+        "posy": 10,
+        "scale": 0.75,
+        "pic": "skill_qiangnubing/dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_qiangnubing/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_qiangnubing/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_qiangnubing/shifa_r_side",
+          "skill_qiangnubing/shifa_b_side",
+          "skill_qiangnubing/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_qiangnubing/shifa_r_side_pic",
+          "skill_qiangnubing/shifa_b_side_pic",
+          "skill_qiangnubing/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46421": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/skill_eyun_shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/skill_eyun_shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/skill_eyun_shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/skill_eyun_shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/skill_eyun_shifa_buff_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/skill_eyun_shifa_buff_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/skill_eyun_shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/skill_eyun_shifa_down_pic"
+      }
+    }
+  },
+  "17036": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiangyu/shifa_02_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiangyu/shifa_02_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiangyu/shifa_02_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiangyu/shifa_02_down_pic"
+      }
+    }
+  },
+  "46451": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1.3,
+        "posx": 0,
+        "json": "skill_zuoci/skill_zuoci_03up",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "skill_zuoci/skill_zuoci_03up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zuoci/skill_zuoci_03down",
+        "posy": 0,
+        "scale": 1.7,
+        "pic": "skill_zuoci/skill_zuoci_03down_pic"
+      }
+    }
+  },
+  "18101": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_langren/feibiao_xunhuan",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_langren/feibiao_xunhuan_pic"
+      }
+    }
+  },
+  "huangyueying_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huangyueying/faqiu_huangyueying",
+        "posy": -30,
+        "scale": 1.2,
+        "pic": "skill_huangyueying/faqiu_huangyueying_pic"
+      }
+    }
+  },
+  "46181": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_diaochan/shouji_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_diaochan/shouji_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_diaochan/shifa_r_side",
+          "skill_diaochan/shifa_b_side",
+          "skill_diaochan/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1.5,
+        "pic": [
+          "skill_diaochan/shifa_r_side_pic",
+          "skill_diaochan/shifa_b_side_pic",
+          "skill_diaochan/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40281": {
+    "target_hit": {
+      "up": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_chengyu/shouji",
+        "posy": 100,
+        "scale": 1,
+        "pic": "skill_chengyu/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_chengyu/shifa_r_side",
+          "skill_chengyu/shifa_b_side",
+          "skill_chengyu/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_chengyu/shifa_r_side_pic",
+          "skill_chengyu/shifa_b_side_pic",
+          "skill_chengyu/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46196": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jianyong/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_jianyong/shouji_pic"
+      }
+    }
+  },
+  "daqiao_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_daqiao/faqiu_daqiao",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_daqiao/faqiu_daqiao_pic"
+      }
+    }
+  },
+  "18021": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_shangshanqianxin/shifa_01_up_r_side",
+          "skill_shangshanqianxin/shifa_01_up_b_side",
+          "skill_shangshanqianxin/shifa_01_up_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_shangshanqianxin/shifa_01_up_r_side_pic",
+          "skill_shangshanqianxin/shifa_01_up_b_side_pic",
+          "skill_shangshanqianxin/shifa_01_up_f_side_pic"
+        ]
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_shangshanqianxin/shifa_01_down_r_side",
+          "skill_shangshanqianxin/shifa_01_down_b_side",
+          "skill_shangshanqianxin/shifa_01_down_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_shangshanqianxin/shifa_01_down_r_side_pic",
+          "skill_shangshanqianxin/shifa_01_down_b_side_pic",
+          "skill_shangshanqianxin/shifa_01_down_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40081": {
+    "self_eff": {
+      "down": {
+        "base_speed": 0.7,
+        "posx": 0,
+        "json": "skill_caocao/shouji_down",
+        "posy": 10,
+        "scale": 1.15,
+        "pic": "skill_caocao/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_caocao/shifa_r_side",
+          "skill_caocao/shifa_b_side",
+          "skill_caocao/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_caocao/shifa_r_side_pic",
+          "skill_caocao/shifa_b_side_pic",
+          "skill_caocao/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "zhangjiao_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/faqiu_zhangjiao",
+        "posy": 3,
+        "scale": 0.6,
+        "pic": "skill_zhangjiao/faqiu_zhangjiao_pic"
+      }
+    }
+  },
+  "42411": {
+    "target_hit": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_maliang/skill_maliang_03down",
+        "posy": 0,
+        "scale": 1.5,
+        "pic": "skill_maliang/skill_maliang_03down_pic"
+      }
+    }
+  },
+  "44016": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunce/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunce/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunce/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunce/shifa_down_pic"
+      }
+    }
+  },
+  "42396": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fazheng/skill_yuanzhu_shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fazheng/skill_yuanzhu_shouji_pic"
+      }
+    }
+  },
+  "40381": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": -20,
+        "json": "skill_liuye/faqiu_liuye",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_liuye/faqiu_liuye_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuye/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liuye/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_liuye/shifa_r_side",
+          "skill_liuye/shifa_b_side",
+          "skill_liuye/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_liuye/shifa_r_side_pic",
+          "skill_liuye/shifa_b_side_pic",
+          "skill_liuye/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "17101": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jinjun/skill_shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_jinjun/skill_shifa_01_pic"
+      }
+    }
+  },
+  "42001": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangfei/shifa_01",
+        "posy": 20,
+        "scale": 1,
+        "pic": "skill_zhangfei/shifa_01_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangfei/shifa_02",
+        "posy": 75,
+        "scale": 1,
+        "pic": "skill_zhangfei/shifa_02_pic"
+      }
+    }
+  },
+  "42101": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huangzhong/shifa_dandao",
+        "posy": 15,
+        "scale": 1,
+        "pic": "skill_huangzhong/shifa_dandao_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huangzhong/shifa_01",
+        "posy": 30,
+        "scale": 1,
+        "pic": "skill_huangzhong/shifa_01_pic"
+      }
+    }
+  },
+  "46101": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuji/buff_dandao_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_yuji/buff_dandao_01_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuji/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_yuji/shifa_01_pic"
+      }
+    }
+  },
+  "44181": {
+    "target_hit": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunquan/shouji_down",
+        "posy": 300,
+        "scale": 1,
+        "pic": "skill_sunquan/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunquan/shouji_up",
+        "posy": 300,
+        "scale": 1,
+        "pic": "skill_sunquan/shouji_up_pic"
+      }
+    }
+  },
+  "44321": {
+    "target_hit": {
+      "up": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_sunxiu/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunxiu/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_sunxiu/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunxiu/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunxiu/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunxiu/shifa_pic"
+      }
+    }
+  },
+  "17061": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_hanxiandi/shouji_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_hanxiandi/shouji_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_hanxiandi/shifa_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_hanxiandi/shifa_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_hanxiandi/shifa_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_hanxiandi/shifa_01_down_pic"
+      }
+    }
+  },
+  "caiwenji_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caiwenji/faqiu_caiwenji",
+        "posy": 16,
+        "scale": 0.6,
+        "pic": "skill_caiwenji/faqiu_caiwenji_pic"
+      }
+    }
+  },
+  "42381": {
+    "self_eff": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fazheng/skill_shabao_xunhuan_down",
+        "posy": 0,
+        "scale": 1.6,
+        "pic": "skill_fazheng/skill_shabao_xunhuan_down_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fazheng/skill_shabao_shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fazheng/skill_shabao_shouji_pic"
+      }
+    }
+  },
+  "44361": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugejin/shouji_up",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "skill_zhugejin/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugejin/shouji_down",
+        "posy": 0,
+        "scale": 1.6,
+        "pic": "skill_zhugejin/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugejin/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhugejin/shifa_pic"
+      }
+    }
+  },
+  "xuezhe_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuezhe/faqiu_xuezhe",
+        "posy": 0,
+        "scale": 0.8,
+        "pic": "skill_xuezhe/faqiu_xuezhe_pic"
+      }
+    }
+  },
+  "40141": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 10,
+        "json": "skill_simayi/shouji_01",
+        "posy": 100,
+        "scale": 0.8,
+        "pic": "skill_simayi/shouji_01_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayi/shouji_02",
+        "posy": 0,
+        "scale": 0.8,
+        "pic": "skill_simayi/shouji_02_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_simayi/shifa_r_side",
+          "skill_simayi/shifa_b_side",
+          "skill_simayi/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_simayi/shifa_r_side_pic",
+          "skill_simayi/shifa_b_side_pic",
+          "skill_simayi/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "zuoci_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zuoci/skill_zuoci_attack",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zuoci/skill_zuoci_attack_pic"
+      }
+    }
+  },
+  "46321": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 100,
+        "json": "skill_wenpin/shifa_r_attack",
+        "rotation": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_wenpin/shifa_r_attack_pic"
+      }
+    }
+  },
+  "faqiu_green": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "faqiu_public/faqiu_yuan_lv",
+        "posy": 10,
+        "scale": 1,
+        "pic": "faqiu_public/faqiu_yuan_lv_pic"
+      }
+    }
+  },
+  "spring": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "buff_battle_season/buff_shuizhiziyang",
+        "opacity": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "buff_battle_season/buff_shuizhiziyang_pic"
+      }
+    }
+  },
+  "liubiao_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubiao/faqiu_liubiao",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_liubiao/faqiu_liubiao_pic"
+      }
+    }
+  },
+  "40451": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": -90,
+        "json": "skill_xuhuang/skill_xvhuang_04",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xuhuang/skill_xvhuang_04_pic"
+      }
+    }
+  },
+  "yujin_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yujin/faqiu_yujin",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_yujin/faqiu_yujin_pic"
+      }
+    }
+  },
+  "xushu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xushu/faqiu_xushu",
+        "posy": 10,
+        "scale": 0.7,
+        "pic": "skill_xushu/faqiu_xushu_pic"
+      }
+    }
+  },
+  "17121": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuxiu/skill_01_long_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liuxiu/skill_01_long_up_pic"
+      }
+    }
+  },
+  "44041": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_lvmeng/shifa_r_side",
+          "skill_lvmeng/shifa_b_side",
+          "skill_lvmeng/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_lvmeng/shifa_r_side_pic",
+          "skill_lvmeng/shifa_b_side_pic",
+          "skill_lvmeng/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "caozhi_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caozhi/faqiu_caozhi",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_caozhi/faqiu_caozhi_pic"
+      }
+    }
+  },
+  "chengpu_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengpu/skill_chengpu_attack",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_chengpu/skill_chengpu_attack_pic"
+      }
+    }
+  },
+  "46041": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 150,
+        "json": "skill_lvlingqi/shifa_r_attack",
+        "rotation": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lvlingqi/shifa_r_attack_pic"
+      }
+    }
+  },
+  "xunyu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xunyu/faqiu_xunyu",
+        "posy": -10,
+        "scale": 0.9,
+        "pic": "skill_xunyu/faqiu_xunyu_pic"
+      }
+    }
+  },
+  "18081": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_benduozhongsheng/shouji_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_benduozhongsheng/shouji_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_benduozhongsheng/shouji_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_benduozhongsheng/shouji_01_down_pic"
+      }
+    }
+  },
+  "42081": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_machao/shifa_xunhuan_r_attack",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_machao/shifa_xunhuan_r_attack_pic"
+      }
+    }
+  },
+  "42301": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xushu/shouji",
+        "posy": 0,
+        "scale": 2.2,
+        "pic": "skill_xushu/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_xushu/shifa_r_side",
+          "skill_xushu/shifa_b_side",
+          "skill_xushu/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_xushu/shifa_r_side_pic",
+          "skill_xushu/shifa_b_side_pic",
+          "skill_xushu/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "42241": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huangyueying/faqiu_huangyueying",
+        "posy": -20,
+        "scale": 2,
+        "pic": "skill_huangyueying/faqiu_huangyueying_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": -160,
+        "json": "skill_huangyueying/shouji",
+        "posy": 0,
+        "scale": 2,
+        "pic": "skill_huangyueying/shouji_pic"
+      }
+    }
+  },
+  "44261": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiaoqiao/dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiaoqiao/dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiaoqiao/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiaoqiao/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiaoqiao/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiaoqiao/shifa_pic"
+      }
+    }
+  },
+  "huatuo_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huatuo/faqiu_huatuo",
+        "posy": 4,
+        "scale": 0.6,
+        "pic": "skill_huatuo/faqiu_huatuo_pic"
+      }
+    }
+  },
+  "40021": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuchu/shouji_up",
+        "posy": 135,
+        "scale": 0.7,
+        "pic": "skill_xuchu/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuchu/shouji_down",
+        "posy": 135,
+        "scale": 0.7,
+        "pic": "skill_xuchu/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_xuchu/shifa_r_side",
+          "skill_xuchu/shifa_b_side",
+          "skill_xuchu/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_xuchu/shifa_r_side_pic",
+          "skill_xuchu/shifa_b_side_pic",
+          "skill_xuchu/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "42221": {},
+  "46076": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "shouji_public/shouji_b_01",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "shouji_public/shouji_b_01_pic"
+      }
+    }
+  },
+  "sunshangxiang_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunshangxiang/faqiu_sunshangxiang",
+        "posy": 10,
+        "scale": 0.66,
+        "pic": "skill_sunshangxiang/faqiu_sunshangxiang_pic"
+      }
+    }
+  },
+  "44341": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_handang/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_handang/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_handang/shifa_r_side",
+          "skill_handang/shifa_b_side",
+          "skill_handang/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_handang/shifa_r_side_pic",
+          "skill_handang/shifa_b_side_pic",
+          "skill_handang/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46281": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuanshao/shifa_dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_yuanshao/shifa_dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_gongsunzan/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_gongsunzan/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_yuanshao/shifa_r_attack",
+          "skill_yuanshao/shifa_b_attack",
+          "skill_yuanshao/shifa_f_attack"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_yuanshao/shifa_r_attack_pic",
+          "skill_yuanshao/shifa_b_attack_pic",
+          "skill_yuanshao/shifa_f_attack_pic"
+        ]
+      }
+    }
+  },
+  "caoxiu_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoxiu/faqiu_caoxiu",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_caoxiu/faqiu_caoxiu_pic"
+      }
+    }
+  },
+  "faqiu_red": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "faqiu_public/faqiu_yuan_hong",
+        "posy": 10,
+        "scale": 1,
+        "pic": "faqiu_public/faqiu_yuan_hong_pic"
+      }
+    }
+  },
+  "taishici_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_taishici/faqiu_taishici",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_taishici/faqiu_taishici_pic"
+      }
+    }
+  },
+  "46061": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huaxiong/shifa_02",
+        "posy": 0,
+        "scale": 1.15,
+        "pic": "skill_huaxiong/shifa_02_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huaxiong/shifa_01",
+        "posy": 0,
+        "scale": 1.15,
+        "pic": "skill_huaxiong/shifa_01_pic"
+      }
+    }
+  },
+  "44281": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_daqiao/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_daqiao/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_daqiao/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_daqiao/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_daqiao/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_daqiao/shifa_pic"
+      }
+    }
+  },
+  "42061": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_attack_others_up",
+        "posy": 30,
+        "scale": 1.2,
+        "pic": "skill_zhaoyun/skill_attack_others_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_attack_others_up",
+        "posy": 30,
+        "scale": 1.2,
+        "pic": "skill_zhaoyun/skill_attack_others_up_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_ready_self",
+        "posy": 3,
+        "scale": 1.3,
+        "pic": "skill_zhaoyun/skill_ready_self_pic"
+      }
+    }
+  },
+  "17041": {
+    "skill_ready_spine": {
+      "path": "skill_hanxin/hanxin"
+    }
+  },
+  "18051": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fububanzang/skill_leidian",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fububanzang/skill_leidian_pic"
+      }
+    }
+  },
+  "luxun_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_luxun/faqiu_luxun",
+        "posy": 10,
+        "scale": 2,
+        "pic": "skill_luxun/faqiu_luxun_pic"
+      }
+    }
+  },
+  "18001": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhitianxinchang/shouji_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhitianxinchang/shouji_01_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_zhitianxinchang/shifa_01_r_side",
+          "skill_zhitianxinchang/shifa_01_b_side",
+          "skill_zhitianxinchang/shifa_01_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_zhitianxinchang/shifa_01_r_side_pic",
+          "skill_zhitianxinchang/shifa_01_b_side_pic",
+          "skill_zhitianxinchang/shifa_01_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46172": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/dandao_huang",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhangjiao/dandao_huang_pic"
+      }
+    }
+  },
+  "42361": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_daofushou/shifa_r_side",
+          "skill_daofushou/shifa_b_side",
+          "skill_daofushou/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_daofushou/shifa_r_side_pic",
+          "skill_daofushou/shifa_b_side_pic",
+          "skill_daofushou/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40076": {
+    "self_ready": {
+      "up": {
+        "base_speed": 0.7,
+        "posx": 0,
+        "json": [
+          "skill_xiahoudun/shifa_r_side",
+          "skill_xiahoudun/shifa_b_side",
+          "skill_xiahoudun/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_xiahoudun/shifa_r_side_pic",
+          "skill_xiahoudun/shifa_b_side_pic",
+          "skill_xiahoudun/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46441": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zuoci/skill_zuoci_01",
+        "rotation": 1,
+        "posy": 0,
+        "scale": 1.5,
+        "pic": "skill_zuoci/skill_zuoci_01_pic"
+      }
+    }
+  },
+  "40441": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuhuang/skill_xvhuang_01xvli",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xuhuang/skill_xvhuang_01xvli_pic"
+      }
+    }
+  },
+  "42161": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_pangtong/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_pangtong/shifa_01_pic"
+      }
+    }
+  },
+  "40361": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lejin/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lejin/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lejin/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lejin/shouji_down_pic"
+      }
+    }
+  },
+  "maliang_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_maliang/skill_maliang_attack",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_maliang/skill_maliang_attack_pic"
+      }
+    }
+  },
+  "chengong_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengong/faqiu_chengong",
+        "posy": 5,
+        "scale": 0.8,
+        "pic": "skill_chengong/faqiu_chengong_pic"
+      }
+    }
+  },
+  "guojia_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_guojia/faqiu_guojia",
+        "posy": 10,
+        "scale": 0.85,
+        "pic": "skill_guojia/faqiu_guojia_pic"
+      }
+    }
+  },
+  "44221": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "json": "skill_lingtong/dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lingtong/dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lingtong/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lingtong/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_lingtong/shifa_r_side",
+          "skill_lingtong/shifa_b_side",
+          "skill_lingtong/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_lingtong/shifa_r_side_pic",
+          "skill_lingtong/shifa_b_side_pic",
+          "skill_lingtong/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "46001": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lvbu/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lvbu/shifa_01_pic"
+      }
+    }
+  },
+  "46431": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/skill_gudong_shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/skill_gudong_shifa_pic"
+      }
+    }
+  },
+  "40321": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoxiu/faqiu_caoxiu",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caoxiu/faqiu_caoxiu_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoxiu/shouji",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_caoxiu/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_caoxiu/shifa_r_side",
+          "skill_caoxiu/shifa_b_side",
+          "skill_caoxiu/shifa_r_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_caoxiu/shifa_r_side_pic",
+          "skill_caoxiu/shifa_b_side_pic",
+          "skill_caoxiu/shifa_r_side_pic"
+        ]
+      }
+    }
+  },
+  "18061": {
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_mingzhiguangxiu/shifa_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_mingzhiguangxiu/shifa_01_down_pic"
+      }
+    }
+  },
+  "zhangxingcai_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangxingcai/dandao",
+        "posy": 16,
+        "scale": 1,
+        "pic": "skill_zhangxingcai/dandao_pic"
+      }
+    }
+  },
+  "42141": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugeliang/shifa_02",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhugeliang/shifa_02_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugeliang/shifa_01",
+        "posy": 20,
+        "scale": 1,
+        "pic": "skill_zhugeliang/shifa_01_pic"
+      }
+    }
+  },
+  "faqiu_yellow": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "faqiu_public/faqiu_yuan_huang",
+        "posy": 10,
+        "scale": 1,
+        "pic": "faqiu_public/faqiu_yuan_huang_pic"
+      }
+    }
+  },
+  "diaochan_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_diaochan/faqiu_diaochan",
+        "posy": 10,
+        "scale": 0.65,
+        "pic": "skill_diaochan/faqiu_diaochan_pic"
+      }
+    }
+  },
+  "jian_zhaohuan": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "jian_public/zhaohuan_jian",
+        "posy": 10,
+        "scale": 1,
+        "pic": "jian_public/zhaohuan_jian_pic"
+      }
+    }
+  },
+  "44381": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuezhe/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xuezhe/shifa_pic"
+      }
+    }
+  },
+  "18121": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fengchenxiuji/skill_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_fengchenxiuji/skill_01_down_pic"
+      }
+    }
+  },
+  "40001": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoren/shifa",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_caoren/shifa_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoren/shouji_down",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_caoren/shouji_down_pic"
+      }
+    }
+  },
+  "44061": {
+    "self_ready": {
+      "up": {
+        "base_speed": 0.7,
+        "posx": 165,
+        "json": "skill_taishici/dandao_r_side",
+        "rotation": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_taishici/dandao_r_side_pic"
+      }
+    }
+  },
+  "46381": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_liuzhang/shifa_r_side",
+          "skill_liuzhang/shifa_b_side",
+          "skill_liuzhang/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1.2,
+        "pic": [
+          "skill_liuzhang/shifa_r_side_pic",
+          "skill_liuzhang/shifa_b_side_pic",
+          "skill_liuzhang/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "44141": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lusu/faqiu_lusu_green",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lusu/faqiu_lusu_green_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lusu/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_lusu/shifa_pic"
+      }
+    }
+  },
+  "jianyong_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jianyong/faqiu_jianyong",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_jianyong/faqiu_jianyong_pic"
+      }
+    }
+  },
+  "huangzhong_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_huangzhong/jian_huangzhong",
+        "posy": 30,
+        "scale": 0.75,
+        "pic": "skill_huangzhong/jian_huangzhong_pic"
+      }
+    }
+  },
+  "17001": {
+    "self_eff": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubang/shifa_01_xunhuan",
+        "posy": 0,
+        "scale": 1.5,
+        "pic": "skill_liubang/shifa_01_xunhuan_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubang/shifa_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liubang/shifa_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubang/shifa_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liubang/shifa_01_down_pic"
+      }
+    }
+  },
+  "47021": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shouji_fenghuang",
+        "posy": 70,
+        "scale": 1.8,
+        "pic": "godbeast_eff/shouji_fenghuang_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "godbeast_eff/shifa_fenghuang",
+        "posy": -40,
+        "scale": 1,
+        "pic": "godbeast_eff/shifa_fenghuang_pic"
+      }
+    }
+  },
+  "simayan_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_simayan/simayan_jian_pic"
+      }
+    }
+  },
+  "44401": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunjian/skill_hu_attack_shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunjian/skill_hu_attack_shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_sunjian/skill_hu_shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_sunjian/skill_hu_shifa_pic"
+      }
+    }
+  },
+  "40101": {
+    "self_eff": {
+      "up": {
+        "base_speed": 0.7,
+        "posx": 0,
+        "json": "skill_xiahouyuan/shouji",
+        "posy": 300,
+        "scale": 1.3,
+        "pic": "skill_xiahouyuan/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiahouyuan/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xiahouyuan/shifa_pic"
+      }
+    }
+  },
+  "40221": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_pangde/shouji_up",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_pangde/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_pangde/shouji_down",
+        "posy": 0,
+        "scale": 1.2,
+        "pic": "skill_pangde/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 0.75,
+        "posx": 0,
+        "json": [
+          "skill_pangde/shifa_r_side",
+          "skill_pangde/shifa_b_side",
+          "skill_pangde/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_pangde/shifa_r_side_pic",
+          "skill_pangde/shifa_b_side_pic",
+          "skill_pangde/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "44241": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lukang/shouji",
+        "opacity": 0.5,
+        "posy": 0,
+        "scale": 2,
+        "pic": "skill_lukang/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_lukang/shifa_r_side",
+          "skill_lukang/shifa_b_side",
+          "skill_lukang/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_lukang/shifa_r_side_pic",
+          "skill_lukang/shifa_b_side_pic",
+          "skill_lukang/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "liuxiu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuxiu/liuxiu_dandao",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_liuxiu/liuxiu_dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuxiu/liuxiu_shouji",
+        "opacity": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liuxiu/liuxiu_shouji_pic"
+      }
+    }
+  },
+  "44036": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "shouji_public/shouji_b_02",
+        "posy": 0,
+        "scale": 1.4,
+        "pic": "shouji_public/shouji_b_02_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_ganning/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_ganning/shifa_pic"
+      }
+    }
+  },
+  "40091": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "json": "faqiu_public/faqiu_yuan_huang",
+        "pic": "faqiu_public/faqiu_yuan_huang_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "shouji_public/shouji_b_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "shouji_public/shouji_b_01_pic"
+      }
+    }
+  },
+  "42341": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jianyong/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_jianyong/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jianyong/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_jianyong/shifa_pic"
+      }
+    }
+  },
+  "46121": {
+    "self_eff": {
+      "up": {
+        "base_speed": 0.5,
+        "posx": 0,
+        "json": "skill_caiwenji/shouji_up",
+        "posy": 5,
+        "scale": 1.8,
+        "pic": "skill_caiwenji/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 0.5,
+        "posx": 0,
+        "json": "skill_caiwenji/shouji_down",
+        "posy": 5,
+        "scale": 1.8,
+        "pic": "skill_caiwenji/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caiwenji/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caiwenji/shifa_01_pic"
+      }
+    }
+  },
+  "46141": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengong/faqiu_chengong",
+        "posy": 5,
+        "scale": 0.8,
+        "pic": "skill_chengong/faqiu_chengong_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengong/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengong/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengong/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengong/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengong/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengong/shifa_01_pic"
+      }
+    }
+  },
+  "zhouyu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhouyu/faqiu_zhouyu",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_zhouyu/faqiu_zhouyu_pic"
+      }
+    }
+  },
+  "zhugejin_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhugejin/faqiu_zhugejin",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_zhugejin/faqiu_zhugejin_pic"
+      }
+    }
+  },
+  "jiaxu_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jiaxu/faqiu_jiaxu",
+        "posy": 10,
+        "scale": 0.9,
+        "pic": "skill_jiaxu/faqiu_jiaxu_pic"
+      }
+    }
+  },
+  "17081": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayan/skill_jian_xunhuan",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_simayan/skill_jian_xunhuan_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayan/shouji_01_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_simayan/shouji_01_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayan/shouji_01_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_simayan/shouji_01_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_simayan/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_simayan/shifa_01_pic"
+      }
+    }
+  },
+  "42201": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_weiyan/shifa_02",
+        "posy": 6,
+        "scale": 1,
+        "pic": "skill_weiyan/shifa_02_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_weiyan/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_weiyan/shifa_01_pic"
+      }
+    }
+  },
+  "42321": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_wangping/faqiu_wangping",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_wangping/faqiu_wangping_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_wangping/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_wangping/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_wangping/shifa_r_side",
+          "skill_wangping/shifa_b_side",
+          "skill_wangping/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_wangping/shifa_r_side_pic",
+          "skill_wangping/shifa_b_side_pic",
+          "skill_wangping/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "xiahouyuan_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiahouyuan/faqiu_xiahouyuan",
+        "posy": 12,
+        "scale": 1,
+        "pic": "skill_xiahouyuan/faqiu_xiahouyuan_pic"
+      }
+    }
+  },
+  "42041": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_guanyu/shifa_01",
+        "posy": 80,
+        "scale": 1.3,
+        "pic": "skill_guanyu/shifa_01_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_guanyu/shifa_02",
+        "posy": 50,
+        "scale": 1,
+        "pic": "skill_guanyu/shifa_02_pic"
+      }
+    }
+  },
+  "46341": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuanshu/shouji",
+        "posy": 300,
+        "scale": 1.5,
+        "pic": "skill_yuanshu/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_yuanshu/shifa_r_side",
+          "skill_yuanshu/shifa_b_side",
+          "skill_yuanshu/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_yuanshu/shifa_r_side_pic",
+          "skill_yuanshu/shifa_b_side_pic",
+          "skill_yuanshu/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "40301": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhenji/dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhenji/dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhenji/shouji",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhenji/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhenji/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhenji/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhenji/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhenji/shifa_down_pic"
+      }
+    }
+  },
+  "wangping_jian": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_wangping/faqiu_wangping",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_wangping/faqiu_wangping_pic"
+      }
+    }
+  },
+  "44101": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhouyu/shifa_up_r_side",
+        "rotation": 1,
+        "posy": 50,
+        "scale": 1,
+        "pic": "skill_zhouyu/shifa_up_r_side_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": -160,
+        "json": "skill_zhouyu/shifa_down_r_side",
+        "rotation": 1,
+        "posy": 50,
+        "scale": 1,
+        "pic": "skill_zhouyu/shifa_down_r_side_pic"
+      }
+    }
+  },
+  "bulianshi_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_bulianshi/faqiu_bulianshi",
+        "posy": -17,
+        "scale": 1,
+        "pic": "skill_bulianshi/faqiu_bulianshi_pic"
+      }
+    }
+  },
+  "40136": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_guojia/buff_att",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_guojia/buff_att_pic"
+      }
+    }
+  },
+  "40261": {
+    "target_hit": {
+      "up": {
+        "base_speed": 0.66,
+        "posx": 0,
+        "json": "skill_yujin/shouji_up",
+        "posy": 0,
+        "scale": 1.35,
+        "pic": "skill_yujin/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 0.66,
+        "posx": 0,
+        "json": "skill_yujin/shouji_down",
+        "posy": 0,
+        "scale": 1.35,
+        "pic": "skill_yujin/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_yujin/shifa_r_side",
+          "skill_yujin/shifa_b_side",
+          "skill_yujin/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_yujin/shifa_r_side_pic",
+          "skill_yujin/shifa_b_side_pic",
+          "skill_yujin/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "liru_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/faqiu_liru",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_liru/faqiu_liru_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liru/faqiu_liru_shouji",
+        "opacity": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_liru/faqiu_liru_shouji_pic"
+      }
+    }
+  },
+  "46173": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhangjiao/dandao_hong",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_zhangjiao/dandao_hong_pic"
+      }
+    }
+  },
+  "40241": {
+    "self_eff": {
+      "up": {
+        "base_speed": 0.65,
+        "posx": 0,
+        "json": "skill_dengai/shouji",
+        "posy": 0,
+        "scale": 0.8,
+        "pic": "skill_dengai/shouji_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_dengai/shifa_r_side",
+          "skill_dengai/shifa_b_side",
+          "skill_dengai/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_dengai/shifa_r_side_pic",
+          "skill_dengai/shifa_b_side_pic",
+          "skill_dengai/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "xuhuang_fu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuhuang/skill_xvhuang_01attack",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_xuhuang/skill_xvhuang_01attack_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xuhuang/skill_xvhuang_01shouji",
+        "opacity": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xuhuang/skill_xvhuang_01shouji_pic"
+      }
+    }
+  },
+  "46301": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubiao/shouji_up",
+        "posy": 7,
+        "scale": 1.7,
+        "pic": "skill_liubiao/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liubiao/shouji_down",
+        "posy": 7,
+        "scale": 1.7,
+        "pic": "skill_liubiao/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_liubiao/shifa_r_side",
+          "skill_liubiao/shifa_b_side",
+          "skill_liubiao/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_liubiao/shifa_r_side_pic",
+          "skill_liubiao/shifa_b_side_pic",
+          "skill_liubiao/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "jian_zhanghe": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_zhanghe/faqiu_zhanghe_skill",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_zhanghe/faqiu_zhanghe_skill_pic"
+      }
+    }
+  },
+  "44021": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_ganning/dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_ganning/dandao_pic"
+      }
+    },
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_ganning/shouji_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_ganning/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_ganning/shouji_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_ganning/shouji_down_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_ganning/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_ganning/shifa_pic"
+      }
+    }
+  },
+  "46221": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dongzhuo/shifa_up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dongzhuo/shifa_up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_dongzhuo/shifa_down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_dongzhuo/shifa_down_pic"
+      }
+    }
+  },
+  "40181": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xunyu/shouji",
+        "posy": 0,
+        "scale": 1.5,
+        "pic": "skill_xunyu/shouji_pic"
+      }
+    },
+    "nohit": 1,
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xunyu/shifa",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_xunyu/shifa_pic"
+      }
+    }
+  },
+  "46111": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_yuji/buff_dandao_02",
+        "posy": 0,
+        "scale": 2,
+        "pic": "skill_yuji/buff_dandao_02_pic"
+      }
+    }
+  },
+  "liuzhang_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuzhang/faqiu_liuzhang",
+        "posy": 10,
+        "scale": 1,
+        "pic": "skill_liuzhang/faqiu_liuzhang_pic"
+      }
+    }
+  },
+  "44436": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengpu/skill_chengpu_04up",
+        "rotation": 1,
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengpu/skill_chengpu_04up_pic"
+      }
+    }
+  },
+  "xiaoqiao_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_xiaoqiao/faqiu_xiaoqiao",
+        "posy": 10,
+        "scale": 0.35,
+        "pic": "skill_xiaoqiao/faqiu_xiaoqiao_pic"
+      }
+    }
+  },
+  "44421": {
+    "target_hit": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengpu/skill_chengpu_01up",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengpu/skill_chengpu_01up_pic"
+      },
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_chengpu/skill_chengpu_01down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_chengpu/skill_chengpu_01down_pic"
+      }
+    }
+  },
+  "46241": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_gaoshun/shifa_r_side",
+          "skill_gaoshun/shifa_b_side",
+          "skill_gaoshun/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_gaoshun/shifa_r_side_pic",
+          "skill_gaoshun/shifa_b_side_pic",
+          "skill_gaoshun/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "42261": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_jiangwei/shifa_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_jiangwei/shifa_01_pic"
+      }
+    }
+  },
+  "42401": {
+    "self_eff": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_maliang/skill_maliang_01dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_maliang/skill_maliang_01dandao_pic"
+      }
+    },
+    "self_ready": {
+      "down": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_maliang/skill_maliang_01down",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_maliang/skill_maliang_01down_pic"
+      }
+    }
+  },
+  "44301": {
+    "self_ready": {
+      "up": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_zhoutai/shouji_up",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "skill_zhoutai/shouji_up_pic"
+      },
+      "down": {
+        "base_speed": 0.8,
+        "posx": 0,
+        "json": "skill_zhoutai/shouji_down",
+        "posy": 0,
+        "scale": 1.3,
+        "pic": "skill_zhoutai/shouji_down_pic"
+      }
+    }
+  },
+  "46261": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_gongsunzan/dandao",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_gongsunzan/dandao_pic"
+      }
+    },
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": [
+          "skill_gongsunzan/shifa_r_side",
+          "skill_gongsunzan/shifa_b_side",
+          "skill_gongsunzan/shifa_f_side"
+        ],
+        "posy": 0,
+        "scale": 1,
+        "pic": [
+          "skill_gongsunzan/shifa_r_side_pic",
+          "skill_gongsunzan/shifa_b_side_pic",
+          "skill_gongsunzan/shifa_f_side_pic"
+        ]
+      }
+    }
+  },
+  "liuye_qiu": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_liuye/faqiu_liuye",
+        "posy": 5,
+        "scale": 1,
+        "pic": "skill_liuye/faqiu_liuye_pic"
+      }
+    }
+  },
+  "40016": {
+    "self_ready": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_caoren/buff_01",
+        "posy": 0,
+        "scale": 1,
+        "pic": "skill_caoren/buff_01_pic"
+      }
+    }
+  },
+  "lusu_qiu_green": {
+    "self_eff": {
+      "up": {
+        "base_speed": 1,
+        "posx": 0,
+        "json": "skill_lusu/faqiu_lusu_green",
+        "posy": 10,
+        "scale": 0.8,
+        "pic": "skill_lusu/faqiu_lusu_green_pic"
+      }
+    }
+  }
+}

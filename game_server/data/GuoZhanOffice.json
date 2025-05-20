@@ -1,0 +1,93 @@
+[
+  {
+    "positions": [
+      "Vương"
+    ],
+    "count": 1,
+    "title": "Quân Vương"
+  },
+  {
+    "positions": [
+      "Thừa Tướng",
+      "Đại Tướng Quân"
+    ],
+    "count": 2,
+    "title": "Nhất Phẩm"
+  },
+  {
+    "positions": [
+      "Tư Đồ",
+      "Phiêu Kỵ Tướng Quân"
+    ],
+    "count": 2,
+    "title": "Nhị Phẩm"
+  },
+  {
+    "positions": [
+      "Thái Phó",
+      "Thái Úy",
+      "Xa Kỵ Tướng Quân"
+    ],
+    "count": 3,
+    "title": "Tam Phẩm"
+  },
+  {
+    "positions": [
+      "Quân Sư Tướng Quân",
+      "Dực Quân Tướng Quân",
+      "Chinh Đông Tướng Quân"
+    ],
+    "count": 3,
+    "title": "Tứ Phẩm"
+  },
+  {
+    "positions": [
+      "Thượng Thư Lệnh",
+      "Quang Lộc Huân",
+      "Phấn Uy Tướng Quân",
+      "Long Tương Tướng Quân"
+    ],
+    "count": 4,
+    "title": "Ngũ Phẩm"
+  },
+  {
+    "positions": [
+      "Hầu Trung",
+      "Ngự Sử Trung Thừa",
+      "An Quốc Tướng Quân",
+      "Phá Lỗ Tướng Quân"
+    ],
+    "count": 4,
+    "title": "Lục Phẩm"
+  },
+  {
+    "positions": [
+      "Vũ Lâm Giám",
+      "Gián Nghị Đại Phu",
+      "Trấn Quân Tướng Quân",
+      "Đãng Khấu Tướng Quân"
+    ],
+    "count": 4,
+    "title": "Thất Phẩm"
+  },
+  {
+    "positions": [
+      "Nghị Lang",
+      "Chiêu Nghĩa Tướng Quân",
+      "Hoành Giang Tướng Quân",
+      "Kiến Vũ Tướng Quân"
+    ],
+    "count": 4,
+    "title": "Bát Phẩm"
+  },
+  {
+    "positions": [
+      "Thị Lang",
+      "Hoàng Môn Lệnh",
+      "Hổ Uy Tướng Quân",
+      "Hổ Liệt Tướng Quân"
+    ],
+    "count": 4,
+    "title": "Cửu Phẩm"
+  }
+]

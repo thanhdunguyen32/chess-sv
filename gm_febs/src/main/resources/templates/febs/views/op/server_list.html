@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Danh sách Server</title>
+
+    <!-- Link các file CSS của LayUI -->
+    <style>
+        /* Làm đẹp bảng */
+        .layui-table th {
+            background-color: #f8f9fa !important;
+            color: #333;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        .layui-table td {
+            vertical-align: middle !important;
+        }
+
+        /* Tô màu badge */
+        .layui-badge {
+            font-size: 12px;
+            padding: 5px 10px;
+            border-radius: 5px;
+        }
+
+        .layui-bg-green {
+            background-color: #28a745 !important;
+        }
+
+        .layui-bg-red {
+            background-color: red !important;
+        }
+
+        .layui-bg-orange {
+            background-color: #ffc107 !important;
+        }
+
+        /* Pagination */
+        .layui-laypage .layui-laypage-btn {
+            background-color: #007bff !important;
+            color: white;
+        }
+    </style>
+
+</head>
+<body>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-server-list" lay-title="Danh sách Server">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+
+                <!-- FORM FILTER -->
+                <form class="layui-form" lay-filter="serverListForm" id="serverListForm">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Danh sách máy chủ</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+
+                    <!-- Checkbox servers -->
+                    <div class="layui-form-item">
+                        <label class="layui-form-label" style="width:80px;">Chọn máy chủ:</label>
+                        <div class="layui-input-block" id="serversCheckContainer" style="margin-left:100px;">
+                            <div style="max-height:150px; overflow-y:auto; border:1px solid #e6e6e6; padding:8px;">
+                                <!-- Nơi load checkbox -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Name & Status -->
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label" style="width:80px;">Tên:</label>
+                            <div class="layui-input-inline" style="width:160px;">
+                                <input type="text" name="name" placeholder="Tên máy chủ..." class="layui-input">
+                            </div>
+                        </div>
+
+                        <div class="layui-inline">
+                            <label class="layui-form-label" style="width:80px;">Trạng thái:</label>
+                            <div class="layui-input-inline" style="width:160px;">
+                                <select name="status">
+                                    <option value="">Tất cả</option>
+                                    <option value="1">Mở</option>
+                                    <option value="2">Đóng</option>
+                                    <option value="3">Bảo trì</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="layui-inline">
+                            <button type="submit" class="layui-btn" lay-submit lay-filter="serverListSearch">Tìm kiếm
+                            </button>
+                            <button type="button" class="layui-btn layui-btn-primary" id="resetBtn">Làm mới</button>
+                        </div>
+                    </div>
+                </form>
+
+                <!-- TABLE LAYUI -->
+                <table id="server-list-table"
+                       lay-filter="serverListTableFilter"
+                       lay-data="{
+            id: 'serverListTableId',
+            skin: 'line', // Làm mượt đường kẻ
+            even: true,  // Hiệu ứng kẻ sọc
+            size: 'sm',  // Kích thước nhỏ hơn
+            page: true,
+            limit: 10,
+            height: 'full-200'
+       }"></table>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" data-th-inline="none">
+    layui.use(['table', 'form', 'jquery'], function () {
+        var table = layui.table,
+            form = layui.form,
+            $ = layui.jquery;
+
+        //================ A) Tải DS server => render checkbox ================
+        function loadServerCheckboxes() {
+            $.ajax({
+                url: ctx + 'op/server/all',
+                type: 'GET',
+                success: function (resp) {
+                    var html = '';
+                    for (var i = 0; i < resp.length; i++) {
+                        var s = resp[i];
+                        html += '<input  type="checkbox" name="serverIds" value="' + s.id + '" lay-skin="primary" title="' + s.name + '">';
+                    }
+                    $('#serversCheckContainer').html(html);
+                    form.render('checkbox'); // Re-render ngay sau khi thêm checkbox
+                },
+                error: function (e) {
+                    console.error('cannot load /op/server/all', e);
+                }
+            });
+        }
+
+        //================ B) Khởi tạo trạng thái ban đầu =====================
+        function initializeFilters() {
+            // Tạo tùy chọn mặc định cho trạng thái nếu thiếu
+            var statusSelect = $('select[name="status"]');
+            if (statusSelect.find('option').length === 0) {
+                statusSelect.append('<option value="">Tất cả</option>');
+                statusSelect.append('<option value="1">Mở</option>');
+                statusSelect.append('<option value="2">Đóng</option>');
+                statusSelect.append('<option value="3">Bảo trì</option>'); // Thêm trạng thái "Bảo trì"
+            }
+            form.render('select'); // Re-render để hiển thị
+        }
+
+
+        // Gọi khởi tạo bộ lọc
+        initializeFilters();
+
+        //================ C) Tải checkbox lần đầu ============================
+        loadServerCheckboxes();
+
+        //================ D) Khởi tạo LayUI table ============================
+        var tableIns = table.render({
+            elem: '#server-list-table',
+            id: 'serverListTableId',
+            height: 520,
+            page: true,
+            loading: true,
+            url: ctx + 'op/server/list',
+            method: 'GET',
+            request: {
+                pageName: 'page',
+                limitName: 'limit'
+            },
+            response: {
+                statusName: 'code',
+                statusCode: 200,
+                msgName: 'message',
+                countName: 'count',
+                dataName: 'data'
+            },
+            cols: [[
+                {field: 'id', title: 'ID', width: 60, align: 'center', sort: true},
+                {field: 'name', title: 'Tên', minWidth: 120, align: 'left'},
+                {field: 'ip', title: 'IP', minWidth: 120, align: 'left'},
+                {field: 'port', title: 'Cổng', width: 80, align: 'center'},
+                {field: 'portSsl', title: 'Cổng SSL', width: 120, align: 'center'},
+                {
+                    field: 'status',
+                    title: 'Trạng thái',
+                    width: 120,
+                    align: 'center',
+                    templet: function (d) {
+                        if (d.status === 1) {
+                            return "<span class='layui-badge layui-bg-green'>Mở</span>";
+                        } else if (d.status === 2) {
+                            return "<span class='layui-badge layui-bg-red'>Đóng</span>";
+                        } else if (d.status === 3) {
+                            return "<span class='layui-badge layui-bg-orange'>Bảo trì</span>";
+                        }
+                    }
+                },
+                {field: 'lanPort', title: 'Cổng LAN', width: 120, align: 'center'},
+                {field: 'httpUrl', title: 'URL HTTP', minWidth: 160, align: 'center'},
+                //format lại thời gian mở
+                {
+                    field: 'time_open',
+                    title: 'Thời gian mở',
+                    minWidth: 160,
+                    align: 'center',
+                    sort: true,
+                    templet: function (d) {
+                        // Kiểm tra nếu time_open không tồn tại hoặc không hợp lệ
+                        if (!d.time_open || d.time_open === 'Invalid Date') {
+                            return 'Chưa có'; // Hiển thị "Chưa có" nếu giá trị không hợp lệ
+                        }
+                        return d.time_open;
+                    }
+
+                },
+
+                {field: 'totalUser', title: 'Tổng người chơi', minWidth: 120, align: 'center', sort: true},
+                {field: 'userOnline', title: 'Người chơi online', minWidth: 120, align: 'center', sort: true}
+            ]], page: {
+                layout: ['count', 'prev', 'page', 'next', 'limit', 'skip'],
+                limits: [10, 20, 50, 100]
+            },
+            text: {
+                none: 'Không có dữ liệu phù hợp'
+            }
+        });
+
+        //================ E) Sự kiện Tìm kiếm ===============================
+        form.on('submit(serverListSearch)', function (data) {
+            var arrServers = [];
+            $('#serversCheckContainer input[name="serverIds"]:checked').each(function () {
+                arrServers.push($(this).val());
+            });
+            var param = {
+                serverIds: arrServers.join(','),
+                name: data.field.name || '',
+                status: data.field.status || ''
+            };
+            tableIns.reload({
+                where: param,
+                page: {curr: 1}
+            });
+            return false;
+        });
+
+        //================ F) Reset =========================================
+        $('#resetBtn').on('click', function () {
+            $('#serverListForm')[0].reset();
+            $('#serversCheckContainer input[name="serverIds"]').prop('checked', false);
+            form.render('checkbox');
+            form.render('select'); // Re-render để cập nhật trạng thái
+            tableIns.reload({
+                where: {},
+                page: {curr: 1}
+            });
+        });
+    });
+
+</script>
+
+</body>
+</html>

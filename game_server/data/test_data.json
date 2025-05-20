@@ -1,0 +1,38 @@
+{
+  "guid": "5d7763776879eb246dd466e3",
+  "camp": 2,
+  "power": 307,
+  "battleset": {
+    "pvpdef": "28"
+  },
+  "star": 3,
+  "occu": 4,
+  "level": 1,
+  "property": {
+    "atk": 100,
+    "pasp": 0,
+    "msp": 300,
+    "pcri": 50,
+    "pmdef": 0,
+    "mdef": 50,
+    "hp": 4000,
+    "range": 500,
+    "atktime": 1,
+    "pdef": 0,
+    "def": 50,
+    "pcrid": 2000
+  },
+  "equip": [],
+  "gsid": 12301,
+  "skill": [
+    42301,
+    42306
+  ],
+  "class": 6,
+  "exclusive": {
+    "property": [],
+    "gsid": 39000,
+    "skill": [],
+    "level": 0
+  }
+}

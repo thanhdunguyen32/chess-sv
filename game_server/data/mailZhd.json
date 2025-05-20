@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Phần thưởng Quan Tinh",
+        "content": "Thân gửi chủ công, hoạt động mới đã được cập nhật. Mỗi ngày đăng nhập có thể xem nhiệm vụ trong hoạt động, hoàn thành nhiệm vụ sẽ nhận được phần thưởng phong phú. Tiểu Tước đặc biệt gửi tặng chủ công món quà, xin lưu ý nhận thưởng kịp thời. Chúc chủ công chơi game vui vẻ!",
+        "reward": [{"GSID":30009,"COUNT":1},{"GSID":38005,"COUNT":100}]
+    },
+    {
+        "title": "Phần thưởng Treo Máy",
+        "content": "Thân gửi chủ công, hoạt động mới đã được cập nhật. Mỗi ngày đăng nhập có thể xem nhiệm vụ trong hoạt động, hoàn thành nhiệm vụ sẽ nhận được phần thưởng phong phú. Tiểu Tước đặc biệt gửi tặng chủ công món quà, xin lưu ý nhận thưởng kịp thời. Chúc chủ công chơi game vui vẻ!",
+        "reward": [{"GSID":30043,"COUNT":100},{"GSID":30041,"COUNT":10}]
+    },
+    {
+        "title": "Phần thưởng Điểm Tướng",
+        "content": "Thân gửi chủ công, hoạt động mới đã được cập nhật. Mỗi ngày đăng nhập có thể xem nhiệm vụ trong hoạt động, hoàn thành nhiệm vụ sẽ nhận được phần thưởng phong phú. Tiểu Tước đặc biệt gửi tặng chủ công món quà, xin lưu ý nhận thưởng kịp thời. Chúc chủ công chơi game vui vẻ!",
+        "reward": [{"GSID":30011,"COUNT":1}]
+    },
+    {
+        "title": "Phần thưởng Chiêu Mộ Cao",
+        "content": "Thân gửi chủ công, hoạt động mới đã được cập nhật. Mỗi ngày đăng nhập có thể xem nhiệm vụ trong hoạt động, hoàn thành nhiệm vụ sẽ nhận được phần thưởng phong phú. Tiểu Tước đặc biệt gửi tặng chủ công món quà, xin lưu ý nhận thưởng kịp thời. Chúc chủ công chơi game vui vẻ!",
+        "reward": [{"GSID":30006,"COUNT":2}]
+    }
+]

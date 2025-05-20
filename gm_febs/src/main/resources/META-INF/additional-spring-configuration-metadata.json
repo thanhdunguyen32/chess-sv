@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "febs",
+      "type": "cc.mrbird.febs.common.properties.FebsProperties",
+      "sourceType": "cc.mrbird.febs.common.properties.FebsProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "febs.openAopLog",
+      "type": "java.lang.Boolean",
+      "description": "Enable AOP logging",
+      "sourceType": "cc.mrbird.febs.common.properties.FebsProperties",
+      "defaultValue": true
+    },
+    {
+      "name": "febs.shiro",
+      "type": "cc.mrbird.febs.common.properties.ShiroProperties",
+      "sourceType": "cc.mrbird.febs.common.properties.FebsProperties"
+    }
+  ],
+  "hints": []
+}

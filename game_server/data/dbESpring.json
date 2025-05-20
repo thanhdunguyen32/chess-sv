@@ -1,0 +1,590 @@
+{
+  "event": {
+    "3": {
+      "301": {
+        "gname": "Phi Điểu",
+        "rewards": {
+          "mincount": 20000,
+          "maxcount": 40000,
+          "gsid": 38006
+        },
+        "intro": "Phi Điểu xuất hiện gần Hoằng Nông, xác nhận tiến tới?",
+        "talk": [],
+        "mid": 301,
+        "krewards": [
+          {
+            "gsid": 38006,
+            "count": 1500000
+          },
+          {
+            "gsid": 32108,
+            "count": 6
+          },
+          {
+            "gsid": 30026,
+            "count": 600
+          }
+        ],
+        "name": "Phi Điểu"
+      },
+      "302": {
+        "gname": "Yến Tử",
+        "rewards": {
+          "mincount": 30000,
+          "maxcount": 50000,
+          "gsid": 38006
+        },
+        "intro": "Yến Tử xuất hiện tại Đồng Quan, xác nhận tiến tới ?",
+        "talk": [],
+        "mid": 302,
+        "krewards": [
+          {
+            "gsid": 38006,
+            "count": 7000000
+          },
+          {
+            "gsid": 32108,
+            "count": 15
+          },
+          {
+            "gsid": 30026,
+            "count": 1500
+          }
+        ],
+        "name": "Yến Tử"
+      }
+    },
+    "1": {
+      "101": {
+        "rewards": [],
+        "talk": [
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Mã ngựa đắc ý, gió xuân phơi phới, một ngày ngắm khắp hoa Trường An! Thanh minh là dịp tốt nhất để dạo chơi, chủ công mau đến chơi cùng chúng tôi nhé!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Vào dịp lễ truyền thống Thanh Minh này, đại nhân Lưu Bang cũng bận rộn tổ chức các hoạt động cúng bái tổ tiên, tảo mộ, cắm liễu và dạo chơi. Chúng ta sao có thể khoanh tay đứng nhìn, mau đi xem mọi người cần giúp gì nhé."
+          }
+        ],
+        "mid": 101
+      },
+      "105": {
+        "rewards": [],
+        "intro": "Thái Văn Cơ đang ở gần %s, có muốn đến thăm không?",
+        "mid": 105,
+        "talk": [
+          {
+            "gsid": 16121,
+            "pos": 2,
+            "text": "Hai vị cuối cùng cũng đến, Mạnh Đức đại nhân đã sớm phái người báo trước ý của hai vị. Nhưng hiện tại ta cần hai vị giúp một việc nhỏ, sau đó sẽ giao thù lao cho hai vị!"
+          },
+          {
+            "gsid": 16121,
+            "pos": 2,
+            "text": "Xem này, diều ta vừa thả lên cứ bị chim quấy phá. Nếu hai vị đuổi được chúng đi, ta sẽ giao cho hai vị. Nếu may mắn còn có thể nhận được diều giấy nữa đó!"
+          }
+        ]
+      },
+      "108": {
+        "to": "Nhận được: Giải Độc Dan!",
+        "rewards": [],
+        "intro": "Nghe nói Hoa Đà đang chữa bệnh gần %s, có muốn đến thăm không?",
+        "talk": [
+          {
+            "gsid": 16201,
+            "pos": 2,
+            "text": "Từ xa đã nghe tiếng ngựa phi, không ngờ lại là chủ công đến!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Thần y Hoa Đà, chúng tôi đến đây để cầu xin ngài một việc lớn... Trương Phi bị Thất Bộ Xà cắn, không biết ngài có cách nào giải độc và trị thương không?"
+          },
+          {
+            "gsid": 16201,
+            "pos": 2,
+            "text": "Chuyện này dễ thôi. Ta có một viên thuốc, ngài đem cho Trương Phi uống là có thể giải độc. Nhưng viên thuốc này phải dùng Liệt Tửu uống cùng mới phát huy hết tác dụng. Ta nhất thời không biết lấy Liệt Tửu ở đâu!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Cảm ơn ngài, chuyện Liệt Tửu để chúng tôi tự lo, không dám làm phiền ngài!"
+          }
+        ],
+        "mid": 108
+      },
+      "111": {
+        "rewards": [],
+        "talk": [
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Không hay rồi, viên Giải Độc Đan bị chim én tha mất... Giờ phải làm sao đây..."
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Huyền Đức công đừng lo, chúng tôi sẽ đi lấy lại viên thuốc!"
+          }
+        ],
+        "mid": 111
+      },
+      "113": {
+        "rewards": [
+          {
+            "gsid": 34491,
+            "count": 1
+          },
+          {
+            "gsid": 32101,
+            "count": 1
+          },
+          {
+            "gsid": 32109,
+            "count": 5
+          }
+        ],
+        "talk": [
+          {
+            "gsid": 12001,
+            "pos": 2,
+            "text": "Cảm ơn chủ công và cô nương Tiểu Tước đã ra tay giúp đỡ, nếu không ta khó mà giữ được mạng sống này!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Khách sáo gì chứ. Thấy việc bất bình mà giúp đỡ là chuyện thường tình mà thôi!"
+          },
+          {
+            "gsid": 12001,
+            "pos": 2,
+            "text": "Tuy nói vậy nhưng ơn cứu mạng khó lòng đền đáp, chút quà này xin chủ công nhận!"
+          },
+          {
+            "gsid": 12001,
+            "pos": 2,
+            "text": "Thanh Minh đã đến, chúc chủ công sức khỏe bình an, mọi việc thuận lợi, cát tường như ý."
+          }
+        ],
+        "mid": 113
+      },
+      "103": {
+        "rewards": [
+          {
+            "gsid": 38006,
+            "count": 200000
+          },
+          {
+            "gsid": 32108,
+            "count": 3
+          }
+        ],
+        "intro": "Tào Tháo đang ở gần %s, có muốn đến thăm không?",
+        "mid": 103,
+        "talk": [
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Vừa rồi hai con chim hỷ thước bay quanh rừng, ta đã biết có quý nhân đến. Không ngờ lại là chủ công!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Tiểu Tước và chủ công nhận lệnh của Lưu Bang, đặc biệt mang Tố Tửu đến cho Mạnh Đức để không làm chậm trễ việc cúng bái Thanh Minh!"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Thật cảm ơn chủ công và cô nương Tiểu Tước!"
+          },
+          {
+            "gsid": 10001,
+            "pos": 2,
+            "text": "Chủ công, chủ công, không hay rồi! Thiếu gia Tào Thực đã ăn hết Thanh Đoàn dùng để cúng bái rồi…"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Làm sao bây giờ... Ở đây trước không có làng, sau không có quán, ta biết tìm đâu ra Thanh Đoàn để làm lễ cúng bái..."
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Mạnh Đức công đừng lo lắng, giúp một lần là giúp, giúp hai lần cũng là giúp. Trước khi vào núi, chúng tôi thấy có người cũng định vào núi cúng bái, có lẽ người đó có dư Thanh Đoàn. Tôi và chủ công sẽ đi hỏi giúp!"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Đành làm phiền chủ công và cô nương Tiểu Tước thêm lần nữa... Dù thành hay bại, Tào mỗ nhất định sẽ trọng thưởng!"
+          }
+        ]
+      },
+      "106": {
+        "rewards": [
+          {
+            "gsid": 30001,
+            "count": 140000
+          },
+          {
+            "gsid": 32108,
+            "count": 3
+          }
+        ],
+        "intro": "Thái Văn Cơ đang ở gần %s, có muốn đến thăm không?",
+        "mid": 106,
+        "talk": [
+          {
+            "gsid": 16121,
+            "pos": 2,
+            "text": "Cảm ơn chủ công và cô nương Tiểu Tước đã giúp đỡ, đây là phần thưởng mà Mạnh Đức đã hứa, xin hãy nhận!"
+          },
+          {
+            "gsid": 16121,
+            "pos": 2,
+            "text": "Đúng rồi, sau khi hai vị rời đi, Lưu Bị đã tìm đến. Hình như có việc muốn bàn với chủ công. Nếu rảnh, chủ công hãy đến tìm Lưu Bị hỏi rõ."
+          }
+        ]
+      },
+      "107": {
+        "rewards": [],
+        "intro": "Nghe nói Lưu Bị đang ở gần %s, có muốn đến thăm không?",
+        "mid": 107,
+        "talk": [
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Chủ công hôm nay đi đâu vậy? Ta tìm ngài đến mức ngựa Đích Lư của ta gầy rộc cả rồi!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Huyền Đức công có chuyện gì gấp vậy?"
+          },
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Là chuyện của tam đệ ta. Đúng vào dịp Thanh Minh, ta cùng nhị đệ và tam đệ về quê, tổ chức dã ngoại ở vườn đào nơi kết nghĩa năm xưa. Không ngờ một con rắn độc từ sau cây đào lao ra cắn tam đệ!"
+          },
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Nhị đệ nói rằng con rắn đó là Thất Bộ Xà, người bị cắn đi bảy bước sẽ phát độc mà chết. Ta biết chủ công có quen thần y Hoa Đà, nên để tam đệ ở lại nghỉ dưỡng, nhị đệ trông chừng, còn ta đến nhờ chủ công giúp đỡ!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Không ngờ tình hình lại nghiêm trọng như vậy! Chủ công, việc này không thể chậm trễ, chúng ta mau lên đường!"
+          },
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Tính mạng tam đệ giao cả vào tay chủ công và cô nương Tiểu Tước!"
+          }
+        ]
+      },
+      "112": {
+        "to": "Trương Phi đã uống Giải Độc Dan.",
+        "rewards": [],
+        "intro": "Có vẻ như Lưu Bị đang ở gần %s, có muốn đến thăm không?",
+        "talk": [
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Chủ công quả nhiên xuất chúng, nhanh chóng lấy lại viên Giải Độc Đan từ chim én!"
+          },
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Không thể chậm trễ, ta cho tam đệ uống ngay!"
+          }
+        ],
+        "mid": 112
+      },
+      "110": {
+        "to": "Một bóng đen đột nhiên vụt qua...",
+        "rewards": [],
+        "intro": "Có vẻ như Lưu Bị đang ở gần %s, có muốn đến thăm không?",
+        "talk": [
+          {
+            "gsid": 12021,
+            "pos": 2,
+            "text": "Cô nương Tiểu Tước, cuối cùng các ngài đã đến... Tam đệ không ổn rồi! Dù không đi lại nhưng tình trạng ngày càng xấu, ta rất lo!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Đừng lo, chúng tôi đã xin được Giải Độc Đan từ thần y Hoa Đà, tam đệ nhất định sẽ vượt qua nguy hiểm!"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Mau, cho tam đệ uống viên Giải Độc Đan này, nhớ dùng Liệt Tửu uống cùng để đạt hiệu quả tốt nhất!"
+          }
+        ],
+        "mid": 110
+      },
+      "109": {
+        "rewards": [
+          {
+            "gsid": 30015,
+            "count": 120
+          },
+          {
+            "gsid": 32108,
+            "count": 3
+          }
+        ],
+        "talk": [
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Chủ công, việc không thể chậm trễ, giờ chúng ta đã có Liệt Tửu, mau đến tìm Huyền Đức công!"
+          }
+        ],
+        "mid": 109
+      },
+      "104": {
+        "rewards": [],
+        "intro": "Tào Tháo đang ở gần %s, có muốn đến thăm không?",
+        "mid": 104,
+        "talk": [
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Mạnh Đức công, Thanh Đoàn mà ngài cần, chúng tôi đã tìm được rồi!"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Đa tạ chủ công và cô nương Tiểu Tước đã vất vả giúp ta giải quyết nguy nan này."
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Mạnh Đức công, ngài vừa nói sẽ trọng thưởng, đừng có nuốt lời nhé!"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Được, được... Không quên đâu, vừa rồi ta nói nhất định sẽ trọng thưởng! Sao dám lừa dối các ngài, chỉ là..."
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Thật không giấu gì, trong nhà phu nhân nắm quyền, tiền bạc cũng đều do nàng giữ. Ta muốn tặng các ngài thù lao, cũng phải thương lượng với phu nhân đã."
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Người đời ai cũng biết phu nhân Tào gia giỏi quản lý, chỉ vào mà không ra. Chúng tôi làm sao lấy được thù lao từ tay phu nhân đây? Rõ ràng ngài muốn trốn tránh!"
+          },
+          {
+            "gsid": 10081,
+            "pos": 2,
+            "text": "Cô nương Tiểu Tước đừng vội, may mà ta đã nghĩ trước, lén giữ lại một ít. Số đó hiện đang được ái nữ của cố hữu là Thái Văn Cơ trông coi. Các ngài chỉ cần đến tìm nàng, nói là ta bảo đến, nàng sẽ hiểu."
+          }
+        ]
+      },
+      "102": {
+        "to": "Nhận được: Tố Tửu!",
+        "rewards": [],
+        "intro": "Lưu Bang đang ở gần %s, có muốn đến thăm không?",
+        "talk": [
+          {
+            "gsid": 17001,
+            "pos": 2,
+            "text": "Ai, Thanh minh trời mưa lất phất, lữ khách trên đường muốn đứt cả hồn. Hỏi rằng quán rượu nơi đâu? Mục đồng xa chỉ thôn Hạnh Hoa."
+          },
+          {
+            "gsid": 17001,
+            "pos": 2,
+            "text": "Ta đang buồn rầu, không ngờ lại gặp chủ công và cô nương Tiểu Tước, vậy là vấn đề của ta đã được giải quyết!"
+          },
+          {
+            "gsid": 17001,
+            "pos": 2,
+            "text": "Trước đó gia đình Mạnh Đức lên núi cúng bái tổ tiên, không ngờ trên đường làm vỡ vò rượu, nên sai người quay lại lấy. Tiếc rằng ta cũng bận việc khác, đành nhờ chủ công đi thay nhé!"
+          }
+        ],
+        "mid": 102
+      }
+    },
+    "2": {
+      "201": {
+        "mid": 201,
+        "to": "Nhận được: Thanh Đoàn!",
+        "rewards": [
+          {
+            "gsid": 38006,
+            "count": 150000
+          },
+          {
+            "gsid": 32109,
+            "count": 1
+          }
+        ],
+        "des": "Chỉ cần cho ta 1 Điểm Tướng Lệnh, ta sẽ đưa Thanh Đoàn cho các ngươi!",
+        "talk": [
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Vị huynh đài này, có phải muốn vào núi cúng bái? Chúng tôi đang cần Thanh Đoàn để làm lễ, không biết huynh có dư để nhường không?"
+          },
+          {
+            "gsid": 14301,
+            "pos": 2,
+            "text": "Hai người đúng là bất cẩn, biết rõ dịp Thanh Minh phải ăn Thanh Đoàn, cả người lớn lẫn trẻ nhỏ đều thích. Sao lại không dặn gia đình chuẩn bị thêm..."
+          },
+          {
+            "gsid": 14301,
+            "pos": 2,
+            "text": "Nói nhiều vô ích, ta đây quả thật còn một ít Thanh Đoàn, nhưng ta không cho không. Muốn lấy từ tay ta cũng cần trả giá!"
+          }
+        ],
+        "cost": {
+          "gsid": 30011,
+          "count": 1
+        },
+        "intro": "Văn quan đang ở gần %s, có muốn đến thăm không?"
+      },
+      "202": {
+        "mid": 202,
+        "to": "Nhận được: Liệt Tửu!",
+        "rewards": [
+          {
+            "gsid": 38006,
+            "count": 250000
+          },
+          {
+            "gsid": 32109,
+            "count": 1
+          }
+        ],
+        "des": "Chỉ cần cho ta 1 Chiêu Mộ Lệnh Cao Cấp, ta sẽ đưa Liệt Tửu cho các ngươi!",
+        "talk": [
+          {
+            "gsid": 14021,
+            "pos": 2,
+            "text": "Lâu ngày không gặp, chủ công vẫn phong thái như trước~ Cô nương Tiểu Tước vẫn rực rỡ như ngày nào~"
+          },
+          {
+            "gsid": 0,
+            "pos": 1,
+            "text": "Đồ lẻo mép, đừng có giở giọng đó trước mặt chủ công! Ta hỏi ngươi, có mang theo Liệt Tửu không?"
+          },
+          {
+            "gsid": 14021,
+            "pos": 2,
+            "text": "Có, có mang, nhưng đây là loại rượu ngon ta vừa kiếm được, sao có thể dễ dàng giao cho các ngươi được chứ!"
+          }
+        ],
+        "cost": {
+          "gsid": 30006,
+          "count": 1
+        },
+        "intro": "Cam Ninh đang ở gần %s, có muốn đến thăm không?"
+      }
+    }
+  },
+  "queue": [
+    {
+      "step": 0,
+      "type": 1,
+      "mid": 101
+    },
+    {
+      "step": 1,
+      "type": 1,
+      "mid": 102,
+      "icon": 17001
+    },
+    {
+      "step": 2,
+      "type": 1,
+      "mid": 103,
+      "icon": 10081
+    },
+    {
+      "step": 3,
+      "type": 2,
+      "mid": 201,
+      "icon": 10081
+    },
+    {
+      "step": 4,
+      "type": 1,
+      "mid": 104,
+      "icon": 14301
+    },
+    {
+      "step": 5,
+      "type": 1,
+      "mid": 105,
+      "icon": 16121
+    },
+    {
+      "step": 6,
+      "type": 3,
+      "mid": 301
+    },
+    {
+      "step": 7,
+      "type": 1,
+      "mid": 106,
+      "icon": 16121
+    },
+    {
+      "step": 8,
+      "type": 1,
+      "mid": 107,
+      "icon": 12021
+    },
+    {
+      "step": 9,
+      "type": 1,
+      "mid": 108,
+      "icon": 16201
+    },
+    {
+      "step": 10,
+      "type": 2,
+      "mid": 202,
+      "icon": 14021
+    },
+    {
+      "step": 11,
+      "type": 1,
+      "mid": 109
+    },
+    {
+      "step": 12,
+      "type": 1,
+      "mid": 110,
+      "icon": 12021
+    },
+    {
+      "step": 13,
+      "type": 1,
+      "mid": 111
+    },
+    {
+      "step": 14,
+      "type": 3,
+      "mid": 302
+    },
+    {
+      "step": 15,
+      "type": 1,
+      "mid": 112,
+      "icon": 12021
+    },
+    {
+      "step": 16,
+      "type": 1,
+      "mid": 113
+    }
+  ]
+}

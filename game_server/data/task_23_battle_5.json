@@ -1,0 +1,16 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 126,
+      "desc": "Nhấn để bắt đầu chiến đấu",
+      "command": {
+        "cmd": "finger",
+        "args": "battle_page > battle_btn_start_01",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn chiến đấu"
+}

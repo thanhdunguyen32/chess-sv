@@ -1,0 +1,41 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 182,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, Điểm Tướng Đài có thể chiêu mộ võ tướng chỉ định trận doanh, còn có thể thay thế võ tướng thành võ tướng khác, cùng đi xem sao!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 183,
+      "desc": "Nhấn vào Điểm Tướng Đài",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / dianjiangtai",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Hình ảnh giới thiệu",
+      "command": {
+        "cmd": "intro",
+        "funname": "darw"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Điểm Tướng Đài"
+}

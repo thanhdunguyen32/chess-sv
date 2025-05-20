@@ -1,0 +1,103 @@
+package lion.http;
+
+import java.io.UnsupportedEncodingException;
+import java.net.URLDecoder;
+import java.util.HashMap;
+import java.util.Map;
+
+import org.apache.commons.lang3.ArrayUtils;
+import org.apache.commons.lang3.StringUtils;
+
+import io.netty.buffer.Unpooled;
+import io.netty.channel.ChannelHandlerContext;
+import io.netty.handler.codec.http.DefaultFullHttpResponse;
+import io.netty.handler.codec.http.FullHttpRequest;
+import io.netty.handler.codec.http.FullHttpResponse;
+import io.netty.handler.codec.http.HttpHeaderNames;
+import io.netty.handler.codec.http.HttpHeaderValues;
+import io.netty.handler.codec.http.HttpResponseStatus;
+import io.netty.handler.codec.http.HttpUtil;
+import io.netty.handler.codec.http.HttpVersion;
+import io.netty.util.CharsetUtil;
+
+/**
+ * Created by shaoh on 2017/5/3.
+ */
+public abstract class HttpGetHandler extends HttpSyncHandler {
+
+    public HttpGetHandler(String name) {
+        super(name);
+    }
+    
+    @Override
+    public FullHttpResponse httpHandle(ChannelHandlerContext ctx, FullHttpRequest request) throws Exception {
+        String res = this.strHttpHandle(ctx, request, this.getContent(request));
+        FullHttpResponse response;
+        if(res == null) {
+            response = this.createFullHttpResponseSimple(HttpResponseStatus.NOT_FOUND);
+            return response;
+        }
+
+        response = createFullHttpResponseSimple(res);
+
+        if(HttpUtil.isKeepAlive(request)) {
+            response.headers().set(HttpHeaderNames.CONNECTION, HttpHeaderValues.KEEP_ALIVE);
+        }
+        return response;
+    }
+
+    @Override
+    public void httpWrite(ChannelHandlerContext ctx, FullHttpRequest request, FullHttpResponse response) throws Exception {
+        ctx.writeAndFlush(response);
+    }
+
+    public abstract String strHttpHandle(ChannelHandlerContext ctx, FullHttpRequest request, Map<String, String> queryMap) throws Exception;
+
+    public FullHttpResponse createFullHttpResponseSimple(HttpResponseStatus status, String content) throws Exception {
+        FullHttpResponse response = new DefaultFullHttpResponse(
+                HttpVersion.HTTP_1_1,
+                status,
+                Unpooled.wrappedBuffer(content.getBytes(CharsetUtil.UTF_8)));
+        response.headers().set(HttpHeaderNames.CONTENT_TYPE, "text/plain; charset=UTF-8");
+        response.headers().set(HttpHeaderNames.CONTENT_LENGTH, response.content().readableBytes());
+        return response;
+    }
+
+    public FullHttpResponse createFullHttpResponseSimple(String content) throws Exception {
+        return createFullHttpResponseSimple(HttpResponseStatus.OK, content);
+    }
+
+    public FullHttpResponse createFullHttpResponseSimple(HttpResponseStatus status) throws Exception {
+        return new DefaultFullHttpResponse(
+                HttpVersion.HTTP_1_1,
+                status);
+    }
+    
+    public Map<String, String> getContent(FullHttpRequest request) throws UnsupportedEncodingException {
+    	String request_uri = request.uri();
+    	int idx_query_start = request_uri.indexOf("?");
+    	if(idx_query_start > -1) {
+    		String queryStr = URLDecoder.decode(request_uri.substring(idx_query_start+1),"UTF-8");
+    		return extractParameters(queryStr);
+    	}
+        return null;
+    }
+    
+	public Map<String, String> extractParameters(String queryString) {
+		Map<String, String> retMap = new HashMap<String, String>();
+		String[] retList = StringUtils.split(queryString, "&");
+		if (ArrayUtils.isNotEmpty(retList)) {
+			for (String parameterOne : retList) {
+				String[] paramPair = StringUtils.split(parameterOne, "=");
+				if (ArrayUtils.isNotEmpty(paramPair)) {
+					if (paramPair.length == 2) {
+						retMap.put(paramPair[0], paramPair[1]);
+					} else {
+						retMap.put(paramPair[0], "");
+					}
+				}
+			}
+		}
+		return retMap;
+	}
+}

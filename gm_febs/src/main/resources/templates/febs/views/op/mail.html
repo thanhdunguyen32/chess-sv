@@ -1,0 +1,263 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+
+    .xm-cz{
+        display:inline-block;
+        cursor:pointer;
+        margin-right: 20px;
+    }
+
+    .xm-cz:hover{color: #C0C4CC;}
+
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Tùy chỉnh thư">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <div class="alert" id="ErrorMessageDiv">
+                    <span class="febs-alert-base febs-alert-error" id="ErrorMessage"></span>
+                </div>
+                <form class="layui-form" action="" lay-filter="generator-configure-form">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Gửi vật phẩm qua thư</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <dd lay-value="" class="xm-select-tips" style="background-color: #FFF!important;margin:.5rem .5rem;">
+                        <div class="xm-cz-group">
+                            <div class="xm-cz" method="全选" title="Chọn tất cả" id="gs-selectall">
+                                <i class="xm-iconfont icon-quanxuan"></i><span>Chọn tất cả</span>
+                            </div>
+                            <div class="xm-cz" method="清空" title="Xóa tất cả" id="gs-unselectall">
+                                <i class="xm-iconfont icon-qingkong"></i><span>Xóa tất cả</span>
+                            </div>
+                        </div>
+                    </dd>
+                    <div class="layui-form-item" style="margin-left:.5rem;" id="gs_select_div">
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Đối tượng</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <input type="radio" name="addressee" id="addr1" value="1" title="Người chơi cụ thể" checked="" lay-filter="addr">
+                            <input type="radio" name="addressee" id="addrAll" value="2" title="Tất cả người chơi" lay-filter="addr">
+                        </div>
+                    </div>
+                    <div class="layui-form-item" id="receiver_input_div">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">ID người nhận</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <textarea name="receiveId" id="receiveId" autocomplete="off" placeholder="Nhập nhiều ID người chơi, mỗi ID cách nhau bằng dấu |. Ví dụ: 1001|1002|1003" class="layui-textarea" rows="4"></textarea>
+                            <div style="color:#666;font-size:12px;margin-top:5px;">* Có thể nhập nhiều ID, cách nhau bằng dấu | hoặc xuống dòng</div>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Tên người gửi</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <input type="text" name="sender" autocomplete="off" maxlength="50" placeholder="Ví dụ: Hệ thống"
+                                   lay-verify="required" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Tiêu đề</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <input type="text" name="mailTitle" autocomplete="off" maxlength="30"
+                                   lay-verify="required" class="layui-input" oninput="countChars(this, 'titleCount')" placeholder="Tối đa 30 ký tự">
+                            <div style="text-align: right;"><span id="titleCount">0</span>/30</div>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Nội dung</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <textarea name="mailCont" required autocomplete="off" lay-verify="required" placeholder="Nội dung thư, Tối đa 1000 ký tự" 
+                                      class="layui-textarea" rows="5" maxlength="1000" oninput="countChars(this, 'contentCount')"></textarea>
+                            <div style="text-align: right;"><span id="contentCount">0</span>/1000</div>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Quà đính kèm</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <textarea name="attch" required autocomplete="off" lay-verify="required|maxItems" 
+                                placeholder="(ID vật phẩm|Số lượng) Ví dụ: 13001|10-30001|100. Tối đa 5 vật phẩm" 
+                                class="layui-textarea" rows="5" oninput="countItems(this, 'itemCount')"></textarea>
+                            <div style="text-align: right;color:#ff0a0a"><span id="itemCount">0</span>/5 vật phẩm</div>
+                        </div>
+                    </div>
+                    <div style="color:red"><b>Lưu ý: Thời gian làm tròn là 1 ngày tính từ lúc gửi quà</b></div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Ngày hết hạn</label>
+                        <div class="layui-input-block" style="margin-left: 105px;">
+                            <input type="text" name="validity" id="validity" lay-verify="required" placeholder="Chọn ngày hết hạn" autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item" shiro:hasPermission="mail:send">
+                        <div class="layui-input-block">
+                            <button class="layui-btn" lay-submit="" lay-filter="generator-configure-form-submit">Gửi
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'laydate'], function () {
+        var $ = layui.$;
+        var febs = layui.febs;
+        var form = layui.form;
+        var laydate = layui.laydate;
+        var $view = $('#febs-op-gonggao');
+        var gs_list = [[${gs_list}]];
+        var $trimValue = $view.find('input[name="trimValue"]');
+        var $trimValueItem = $trimValue.parents('.layui-form-item');
+        var errorMsg = [[${errorMsg}]];
+
+        for(let i=0;i<gs_list.length;i++){
+            $('<input>', {
+            name: 'selected_gs['+i+']',
+            type: 'checkbox',
+            title: gs_list[i].name,
+            checked: gs_list[i].is_selected,
+            value : gs_list[i].id
+          }).appendTo($('#gs_select_div'));
+        }
+
+        form.render();
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        form.on('submit(generator-configure-form-submit)', function (data) {
+            febs.post(ctx + 'op/mailSend', data.field, function (r) {
+                febs.alert.success('Gửi thành công!');
+            });
+            return false;
+        });
+
+
+            form.on('radio(addr)', function (data) {
+                if(data.value == 2){
+                    $('#receiver_input_div').hide();
+                }else{
+                    $('#receiver_input_div').show();
+                }
+                form.render();
+            });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/subtitle?time="+(new Date().getTime()));
+        });
+
+        $view.find('#gs-selectall').on('click', function () {
+            console.log("select all");
+            let params = {};
+            for(let i=0;i<gs_list.length;i++){
+                params['selected_gs['+i+']'] = true;
+            }
+            form.val("generator-configure-form", params);
+        });
+
+        $view.find('#gs-unselectall').on('click', function () {
+            console.log("unselect all");
+            let params = {};
+            for(let i=0;i<gs_list.length;i++){
+                params['selected_gs['+i+']'] = false;
+            }
+            form.val("generator-configure-form", params);
+        });
+
+        // Khởi tạo date picker
+        laydate.render({
+            elem: '#validity',
+            type: 'datetime',
+            format: 'yyyy-MM-dd HH:mm:ss',
+            min: 0,
+            lang: 'vn',
+            calendar: true,
+            btns: ['clear', 'now', 'confirm'],
+            theme: '#1E9FFF',
+            ready: function(date){
+                //Khởi tạo ngôn ngữ tiếng Việt
+                laydate.lang('vn', {
+                    weeks: ['CN', 'T2', 'T3', 'T4', 'T5', 'T6', 'T7'],
+                    time: ['Giờ', 'Phút', 'Giây'],
+                    timeTips: 'Chọn giờ',
+                    startTime: 'Giờ bắt đầu',
+                    endTime: 'Giờ kết thúc',
+                    dateTips: 'Chọn ngày',
+                    month: ['Th.1', 'Th.2', 'Th.3', 'Th.4', 'Th.5', 'Th.6', 'Th.7', 'Th.8', 'Th.9', 'Th.10', 'Th.11', 'Th.12'],
+                    tools: {
+                        confirm: 'Xác nhận',
+                        clear: 'Xóa',
+                        now: 'Hiện tại'
+                    }
+                });
+            }
+        });
+
+        // Thêm hàm đếm ký tự
+        window.countChars = function(element, counterId) {
+            document.getElementById(counterId).innerText = element.value.length;
+        }
+
+        // Thêm hàm đếm số lượng item
+        window.countItems = function(element, counterId) {
+            let items = element.value.trim() ? element.value.trim().split('-') : [];
+            document.getElementById(counterId).innerText = items.length;
+            
+            // Đổi màu khi vượt quá giới hạn
+            let countElement = document.getElementById(counterId);
+            if (items.length > 5) {
+                countElement.style.color = '#FF5722';  // Màu đỏ
+            } else {
+                countElement.style.color = '#1E9FFF';  // Màu xanh
+            }
+        }
+
+        // Thêm validator cho số lượng item tối đa
+        form.verify({
+            maxItems: function(value) {
+                let items = value.trim() ? value.trim().split('-') : [];
+                if (items.length > 5) {
+                    return 'Chỉ được phép gửi tối đa 5 vật phẩm';
+                }
+            }
+        });
+
+        // Khởi tạo số ký tự ban đầu
+        countChars(document.querySelector('input[name="mailTitle"]'), 'titleCount');
+        countChars(document.querySelector('textarea[name="mailCont"]'), 'contentCount');
+
+        // Khởi tạo số lượng item ban đầu
+        countItems(document.querySelector('textarea[name="attch"]'), 'itemCount');
+    });
+</script>

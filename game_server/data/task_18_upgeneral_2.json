@@ -1,0 +1,75 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 92,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Võ tướng mới tuy có thực lực, nhưng cũng không thích hợp lập tức tham chiến, cần phải bồi dưỡng thêm!"
+      }
+    },
+    {
+      "numstep": 93,
+      "desc": "Nhấn vào võ tướng",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_02",
+        "location": "up",
+        "text": "Chúc mừng ngươi chiêu mộ đến võ tướng mới, chúng ta cần phải đi tăng lên một chút sức chiến đấu của võ tướng!"
+      }
+    },
+    {
+      "numstep": 94,
+      "desc": "Nhấn vào võ tướng 2",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "generalbag_handbook_page > generalbag_handbook_page_generalbag > generalbag_tableview > content % 2",
+        "textdirection": "mid",
+        "text": "Nhấn vào đây kiểm tra chi tiết võ tướng!"
+      }
+    },
+    {
+      "numstep": 94,
+      "desc": "Nhấn vào võ tướng 3",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "generalbag_handbook_page > generalbag_handbook_page_generalbag > generalbag_tableview > content % 3",
+        "textdirection": "mid",
+        "text": "Nhấn vào đây kiểm tra chi tiết võ tướng!"
+      }
+    },
+    {
+      "numstep": 95,
+      "desc": "Nhấn vào xuất trận nhanh",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "left",
+        "args": "general_page_info > btn_onekey_up_down",
+        "text": "Nhấn vào đây để mặc trang bị nhanh"
+      }
+    },
+    {
+      "numstep": 96,
+      "desc": "Nhấn vào tăng cấp 5 lần",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "morefinger",
+        "nomask": true,
+        "textdirection": "left",
+        "times": 5,
+        "args": "general_page_info / general_bag_upgrade_level / btn_upgarde_level",
+        "mark": 14,
+        "text": "Hoàn thành mặc trang bị, giờ chúng ta cần \n nâng cấp tăng năng lực võ tướng!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn bồi dưỡng võ tướng"
+}

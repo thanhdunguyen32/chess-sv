@@ -1,0 +1,50 @@
+[
+  {
+    "YBNUM": 600,
+    "LEVEL": 40
+  },
+  {
+    "YBNUM": 900,
+    "LEVEL": 50
+  },
+  {
+    "YBNUM": 1200,
+    "LEVEL": 60
+  },
+  {
+    "YBNUM": 1500,
+    "LEVEL": 70
+  },
+  {
+    "YBNUM": 1800,
+    "LEVEL": 80
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 90
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 100
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 110
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 120
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 130
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 140
+  },
+  {
+    "YBNUM": 2000,
+    "LEVEL": 150
+  }
+]

@@ -1,0 +1,272 @@
+{
+  "101": {
+    "EQUIP": [
+      33008,
+      33108,
+      33208,
+      33308
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 40
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 50
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 20
+      }
+    ],
+    "NAME": "龙鳞套装",
+    "NAME_VN": "Bộ Long Lân"
+  },
+  "105": {
+    "EQUIP": [
+      33012,
+      33112,
+      33212,
+      33312
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 130
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 50
+      }
+    ],
+    "NAME": "百兽套装",
+    "NAME_VN": "Bộ Bách Thú"
+  },
+  "108": {
+    "EQUIP": [
+      33015,
+      33115,
+      33215,
+      33315
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 190
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 70
+      }
+    ],
+    "NAME": "盘古套装",
+    "NAME_VN": "Bộ Bàn Cổ"
+  },
+  "103": {
+    "EQUIP": [
+      33010,
+      33110,
+      33210,
+      33310
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 70
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 90
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 40
+      }
+    ],
+    "NAME": "九龙套装",
+    "NAME_VN": "Bộ Cửu Long"
+  },
+  "106": {
+    "EQUIP": [
+      33013,
+      33113,
+      33213,
+      33313
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 110
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 150
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 60
+      }
+    ],
+    "NAME": "梵天套装",
+    "NAME_VN": "Bộ Phạn Thiên"
+  },
+  "107": {
+    "EQUIP": [
+      33014,
+      33114,
+      33214,
+      33314
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 170
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 70
+      }
+    ],
+    "NAME": "六道套装",
+    "NAME_VN": "Bộ Lục Đạo"
+  },
+  "110": {
+    "EQUIP": [
+      33017,
+      33117,
+      33217,
+      33317
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 210
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 80
+      }
+    ],
+    "NAME": "混沌套装",
+    "NAME_VN": "Bộ Hỗn Độn"
+  },
+  "109": {
+    "EQUIP": [
+      33016,
+      33116,
+      33216,
+      33316
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 150
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 200
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 80
+      }
+    ],
+    "NAME": "灭世套装",
+    "NAME_VN": "Bộ Diệt Thế"
+  },
+  "104": {
+    "EQUIP": [
+      33011,
+      33111,
+      33211,
+      33311
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 80
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 110
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 50
+      }
+    ],
+    "NAME": "麒麟套装",
+    "NAME_VN": "Bộ Kỳ Lân"
+  },
+  "102": {
+    "EQUIP": [
+      33009,
+      33109,
+      33209,
+      33309
+    ],
+    "PROPERTY": [
+      {
+        "NUM": 2,
+        "KEY": "PHP",
+        "VAL": 50
+      },
+      {
+        "NUM": 3,
+        "KEY": "PATK",
+        "VAL": 70
+      },
+      {
+        "NUM": 4,
+        "KEY": "PHP",
+        "VAL": 40
+      }
+    ],
+    "NAME": "七星套装",
+    "NAME_VN": "Bộ Thất Tinh"
+  }
+}

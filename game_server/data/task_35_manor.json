@@ -1,0 +1,131 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 184,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúc mừng chúa công, hệ thống Đất Phong đã mở khóa, chúng ta đi xem sao!"
+      }
+    },
+    {
+      "numstep": 185,
+      "desc": "Nhấn vào Đất Phong",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_08",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 186,
+      "desc": "Dẫn đạo đối thoại 2",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Đất phong kinh lịch chiến loạn, trăm việc bộn bề, nhu cầu cấp bách chúa công ra tay, dẫn dắt dân chúng trùng kiến đất phong!"
+      }
+    },
+    {
+      "numstep": 187,
+      "desc": "Nhấn vào Phủ Đệ",
+      "command": {
+        "cmd": "finger",
+        "args": "manor_page > node_home",
+        "nomask": true,
+        "location": "down"
+      }
+    },
+    {
+      "numstep": 188,
+      "desc": "Dẫn đạo đối thoại 3",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Đây là chúa công phủ đệ, có thể kiểm tra cơ sở tin tức đất phong!"
+      }
+    },
+    {
+      "numstep": 189,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 190,
+      "desc": "Nhấn vào ô đã mở khóa",
+      "command": {
+        "cmd": "finger",
+        "args": "manor_page > manor_node ^ 1",
+        "nomask": true,
+        "location": "down"
+      }
+    },
+    {
+      "numstep": 191,
+      "desc": "Nhấn vào Quân Khố",
+      "command": {
+        "cmd": "finger",
+        "args": "manor_build_page > node_select_bg > content > build_item",
+        "nomask": true,
+        "location": "down"
+      }
+    },
+    {
+      "numstep": 192,
+      "desc": "Nhấn vào Xây Dựng",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "finger",
+        "args": "manor_build_page > btn_up",
+        "nomask": true,
+        "location": "down"
+      }
+    },
+    {
+      "numstep": 193,
+      "desc": "Dẫn đạo đối thoại 4",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Hoàn thành xây dưng Quân Khố! Nó có thể tăng thêm sức chiến đấu cho quân đội chúa công! Hãy xuất chinh đi thảo phạt sơn tặc!"
+      }
+    },
+    {
+      "numstep": 194,
+      "desc": "Nhấn vào Chinh Phạt",
+      "command": {
+        "cmd": "finger",
+        "args": "manor_page > btn_fight",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 195,
+      "desc": "Dẫn đạo đối thoại 5",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Thảo phạt sơn tặc có thể nhận được nguyên liệu kiến thiết đất phong!"
+      }
+    },
+    {
+      "numstep": 196,
+      "desc": "Nhấn vào quái ở doanh địa",
+      "command": {
+        "cmd": "finger",
+        "args": "manor_siege_page > enemy_node ^ 0",
+        "nomask": true,
+        "location": "down"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn mở khóa Đất Phong"
+}

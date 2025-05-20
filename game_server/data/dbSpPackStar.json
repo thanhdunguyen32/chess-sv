@@ -1,0 +1,34 @@
+{
+  "5": {
+    "TITLE": "xg_tx_05",
+    "BG": "xg_bg_star05",
+    "TCBG": "xg_tcbg_star05",
+    "LIMIT": 5,
+    "ICON": "xg_icon_05",
+    "STAR": 5
+  },
+  "10": {
+    "TITLE": "xg_tx_10",
+    "BG": "xg_bg_star10",
+    "TCBG": "xg_tcbg_star10",
+    "LIMIT": 1,
+    "ICON": "xg_icon_10",
+    "STAR": 10
+  },
+  "6": {
+    "TITLE": "xg_tx_06",
+    "BG": "xg_bg_star06",
+    "TCBG": "xg_tcbg_star06",
+    "LIMIT": 3,
+    "ICON": "xg_icon_06",
+    "STAR": 6
+  },
+  "9": {
+    "TITLE": "xg_tx_09",
+    "BG": "xg_bg_star09",
+    "TCBG": "xg_tcbg_star09",
+    "LIMIT": 1,
+    "ICON": "xg_icon_09",
+    "STAR": 9
+  }
+}

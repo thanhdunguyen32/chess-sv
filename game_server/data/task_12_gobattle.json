@@ -1,0 +1,44 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 56,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Thời cơ chín muồi có thể tiếp tục công thành!"
+      }
+    },
+    {
+      "numstep": 57,
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 58,
+      "desc": "Nhấn vào thành trì",
+      "command": {
+        "cmd": "finger",
+        "args": "new_worldmap_page > worldmap_icon_ditu > btn_fight",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 59,
+      "desc": "Nhấn vào Công Thành",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > windows_page_siege > btn_right",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới Chinh Chiến"
+}

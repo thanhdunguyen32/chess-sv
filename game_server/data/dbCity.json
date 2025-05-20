@@ -1,0 +1,1547 @@
+{
+  "111": {
+    "CAMPID": 2,
+    "CITYMAP": "pingyuan",
+    "NAME": "宛城",
+    "NAME_VN": "Uyển Thành",
+    "EID": [
+      "111"
+    ],
+    "OFFSET": {
+      "y": "84",
+      "x": "-106"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11101,
+      11102,
+      11103,
+      11104,
+      11105,
+      11106,
+      11107,
+      11108,
+      11109,
+      11110
+    ],
+    "INTRO": "Cửa ngõ phía tây của quân đoàn Tào Tháo, do đại tướng Vu Cấm trấn giữCửa ngõ phía tây của quân đoàn Tào Tháo, do đại tướng Vu Cấm trấn giữ.",
+    "GENERAL": 10261,
+    "ICON": "city_02"
+  },
+  "115": {
+    "CAMPID": 2,
+    "CITYMAP": "xuedi",
+    "NAME": "官渡",
+    "NAME_VN": "Quan Độ",
+    "EID": [
+      "115"
+    ],
+    "OFFSET": {
+      "y": "-66",
+      "x": "-80"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11501,
+      11502,
+      11503,
+      11504,
+      11505,
+      11506,
+      11507,
+      11508,
+      11509,
+      11510
+    ],
+    "INTRO": "Từng được gọi là Phượng Hoàng Thành. Đây là nơi Tào Tháo khởi binh, là căn cơ của quân đoàn Tào, do đại tướng Tào Nhân trấn giữ.",
+    "GENERAL": 10001,
+    "ICON": "city_03"
+  },
+  "134": {
+    "CAMPID": 4,
+    "CITYMAP": "pingyuan",
+    "NAME": "寿春",
+    "NAME_VN": "Thọ Xuân",
+    "EID": [
+      "134"
+    ],
+    "OFFSET": {
+      "y": "-118",
+      "x": "88"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13401,
+      13402,
+      13403,
+      13404,
+      13405,
+      13406,
+      13407,
+      13408,
+      13409,
+      13410
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14261,
+    "ICON": "city_01"
+  },
+  "106": {
+    "CAMPID": 1,
+    "CITYMAP": "xuedi",
+    "NAME": "虎牢关",
+    "NAME_VN": "Hổ Lao Quan",
+    "EID": [
+      "106",
+      "1106"
+    ],
+    "OFFSET": {
+      "y": "66",
+      "x": "76"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": -1
+    },
+    "MAP": [
+      10601,
+      10602,
+      10603,
+      10604,
+      10605,
+      10606,
+      10607,
+      10608,
+      10609,
+      10610
+    ],
+    "INTRO": "Quân đoàn của Đổng Trác liên tục bại trận, hiện co cụm tại Hàm Dương. Lữ Linh Khởi, con gái Lữ Bố, cùng cha dẫn quân tiêu diệt quốc tặc, thắng bại quyết định tại trận này.",
+    "GENERAL": 16222,
+    "ICON": "city_03"
+  },
+  "161": {
+    "CAMPID": 7,
+    "CITYMAP": "pingyuan",
+    "NAME": "天水",
+    "NAME_VN": "Thiên Thủy",
+    "EID": [
+      "161"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      16101,
+      16102,
+      16103,
+      16104,
+      16105,
+      16106,
+      16107,
+      16108,
+      16109,
+      16110
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 10241,
+    "ICON": "city_02"
+  },
+  "163": {
+    "CAMPID": 7,
+    "CITYMAP": "xuedi",
+    "NAME": "金城",
+    "NAME_VN": "Kim Thành",
+    "EID": [
+      "163"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      16301,
+      16302,
+      16303,
+      16304,
+      16305,
+      16306,
+      16307,
+      16308,
+      16309,
+      16310
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 10141,
+    "ICON": "city_02"
+  },
+  "172": {
+    "CAMPID": 8,
+    "NAME": "邺城",
+    "NAME_VN": "Nghiệp Thành",
+    "EID": [
+      "172",
+      "1119"
+    ],
+    "OFFSET": {
+      "y": "102",
+      "x": "-114"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17201,
+      17202,
+      17203,
+      17204,
+      17205,
+      17206,
+      17207,
+      17208,
+      17209,
+      17210
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 10041,
+    "ICON": "city_01"
+  },
+  "104": {
+    "CAMPID": 1,
+    "CITYMAP": "pingyuan",
+    "NAME": "洛阳",
+    "NAME_VN": "Lạc Dương",
+    "EID": [
+      "104",
+      "1104"
+    ],
+    "OFFSET": {
+      "y": "102",
+      "x": "-114"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      10401,
+      10402,
+      10403,
+      10404,
+      10405,
+      10406,
+      10407,
+      10408,
+      10409,
+      10410
+    ],
+    "INTRO": "Mang danh 'Cửa ải số một'. Địa thế hiểm yếu, phía nam có Tần Lĩnh, phía bắc có hai sông Vị và Lạc giao với Hoàng Hà, phía tây gần Hoa Sơn. Núi nối núi, đỉnh liền đỉnh, thung lũng sâu và vách đá dựng đứng, đường núi hiểm trở!.",
+    "GENERAL": 16261,
+    "ICON": "city_01"
+  },
+  "143": {
+    "CAMPID": 5,
+    "CITYMAP": "pingyuan",
+    "NAME": "桂阳",
+    "NAME_VN": "Quế Dương",
+    "EID": [
+      "143",
+      "1115"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14301,
+      14302,
+      14303,
+      14304,
+      14305,
+      14306,
+      14307,
+      14308,
+      14309,
+      14310
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14021,
+    "ICON": "city_02"
+  },
+  "156": {
+    "CAMPID": 6,
+    "CITYMAP": "pingyuan",
+    "NAME": "祁山",
+    "NAME_VN": "Kỳ Sơn",
+    "EID": [
+      "156",
+      "1117"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15601,
+      15602,
+      15603,
+      15604,
+      15605,
+      15606,
+      15607,
+      15608,
+      15609,
+      15610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12141,
+    "ICON": "city_02"
+  },
+  "153": {
+    "CAMPID": 6,
+    "CITYMAP": "huangcheng",
+    "NAME": "永安",
+    "NAME_VN": "Vĩnh An",
+    "EID": [
+      "153",
+      "1116"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15301,
+      15302,
+      15303,
+      15304,
+      15305,
+      15306,
+      15307,
+      15308,
+      15309,
+      15310
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12001,
+    "ICON": "city_02"
+  },
+  "105": {
+    "CAMPID": 1,
+    "CITYMAP": "huangcheng",
+    "NAME": "弘农",
+    "NAME_VN": "Hồng Nông",
+    "EID": [
+      "105",
+      "1105"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      10501,
+      10502,
+      10503,
+      10504,
+      10505,
+      10506,
+      10507,
+      10508,
+      10509,
+      10510
+    ],
+    "INTRO": "Đổng Trác dẫn Hiến Đế cùng các vương hầu và tướng soái đến Tây Kinh Trường An, có quân đoàn lớn bảo vệ. Thừa lúc họ chưa ổn định, hãy tập kích Trường An.",
+    "GENERAL": 16241,
+    "ICON": "city_02"
+  },
+  "141": {
+    "CAMPID": 5,
+    "CITYMAP": "huangcheng",
+    "NAME": "江夏",
+    "NAME_VN": "Giang Hạ",
+    "EID": [
+      "141"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14101,
+      14102,
+      14103,
+      14104,
+      14105,
+      14106,
+      14107,
+      14108,
+      14109,
+      14110
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12201,
+    "ICON": "city_02"
+  },
+  "175": {
+    "CAMPID": 8,
+    "NAME": "北平",
+    "NAME_VN": "Bắc Bình",
+    "EID": [
+      "175"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17501,
+      17502,
+      17503,
+      17504,
+      17505,
+      17506,
+      17507,
+      17508,
+      17509,
+      17510
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 10161,
+    "ICON": "city_01"
+  },
+  "133": {
+    "CAMPID": 4,
+    "CITYMAP": "huangcheng",
+    "NAME": "会稽",
+    "NAME_VN": "Cối Kê",
+    "EID": [
+      "133",
+      "1113"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13301,
+      13302,
+      13303,
+      13304,
+      13305,
+      13306,
+      13307,
+      13308,
+      13309,
+      13310
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14141,
+    "ICON": "city_02"
+  },
+  "131": {
+    "CAMPID": 4,
+    "CITYMAP": "huangcheng",
+    "NAME": "濡须口",
+    "NAME_VN": "Nhu Tu Khẩu",
+    "EID": [
+      "131"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13101,
+      13102,
+      13103,
+      13104,
+      13105,
+      13106,
+      13107,
+      13108,
+      13109,
+      13110
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14041,
+    "ICON": "city_02"
+  },
+  "124": {
+    "CAMPID": 3,
+    "CITYMAP": "huangcheng",
+    "NAME": "琅琊",
+    "NAME_VN": "Lang Nha",
+    "EID": [
+      "124",
+      "1111"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12401,
+      12402,
+      12403,
+      12404,
+      12405,
+      12406,
+      12407,
+      12408,
+      12409,
+      12410
+    ],
+    "INTRO": "Phía nam giáp Tứ Thủy, được sông Ỷ và Vũ thủy từ phía bắc hợp dòng với Tứ Thủy bao quanh thành. Nơi đây không chỉ thuận tiện giao thông thủy lợi mà còn thuận tiện cho sản xuất nông nghiệp, đất đai phì nhiêu, tài nguyên dồi dào.",
+    "GENERAL": 12161,
+    "ICON": "city_02"
+  },
+  "132": {
+    "CAMPID": 4,
+    "CITYMAP": "pingyuan",
+    "NAME": "建安",
+    "NAME_VN": "Kiến An",
+    "EID": [
+      "132"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13201,
+      13202,
+      13203,
+      13204,
+      13205,
+      13206,
+      13207,
+      13208,
+      13209,
+      13210
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14201,
+    "ICON": "city_02"
+  },
+  "135": {
+    "CAMPID": 4,
+    "CITYMAP": "huangcheng",
+    "NAME": "合肥",
+    "NAME_VN": "Hợp Phì",
+    "EID": [
+      "135"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13501,
+      13502,
+      13503,
+      13504,
+      13505,
+      13506,
+      13507,
+      13508,
+      13509,
+      13510
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14081,
+    "ICON": "city_02"
+  },
+  "123": {
+    "CAMPID": 3,
+    "CITYMAP": "huangcheng",
+    "NAME": "小沛",
+    "NAME_VN": "Tiểu Bái",
+    "EID": [
+      "123"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12301,
+      12302,
+      12303,
+      12304,
+      12305,
+      12306,
+      12307,
+      12308,
+      12309,
+      12310
+    ],
+    "INTRO": "Từng là nơi Lưu Bị cư trú tại Từ Châu, hiện chỉ còn một số quân đóng giữ.",
+    "GENERAL": 12201,
+    "ICON": "city_02"
+  },
+  "151": {
+    "CAMPID": 6,
+    "CITYMAP": "pingyuan",
+    "NAME": "江州",
+    "NAME_VN": "Giang Châu",
+    "EID": [
+      "151"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15101,
+      15102,
+      15103,
+      15104,
+      15105,
+      15106,
+      15107,
+      15108,
+      15109,
+      15110
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14121,
+    "ICON": "city_02"
+  },
+  "146": {
+    "CAMPID": 5,
+    "CITYMAP": "huangcheng",
+    "NAME": "武陵",
+    "NAME_VN": "Vũ Lăng",
+    "EID": [
+      "146"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14601,
+      14602,
+      14603,
+      14604,
+      14605,
+      14606,
+      14607,
+      14608,
+      14609,
+      14610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12021,
+    "ICON": "city_02"
+  },
+  "164": {
+    "CAMPID": 7,
+    "CITYMAP": "huangcheng",
+    "NAME": "陇西",
+    "NAME_VN": "Lũng Tây",
+    "EID": [
+      "164",
+      "1118"
+    ],
+    "OFFSET": {
+      "y": "84",
+      "x": "-106"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      16401,
+      16402,
+      16403,
+      16404,
+      16405,
+      16406,
+      16407,
+      16408,
+      16409,
+      16410
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 10021,
+    "ICON": "city_02"
+  },
+  "176": {
+    "CAMPID": 8,
+    "NAME": "襄平",
+    "NAME_VN": "Tương Bình",
+    "EID": [
+      "176"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17601,
+      17602,
+      17603,
+      17604,
+      17605,
+      17606,
+      17607,
+      17608,
+      17609,
+      17610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16101,
+    "ICON": "city_03"
+  },
+  "102": {
+    "CAMPID": 1,
+    "CITYMAP": "pingyuan",
+    "NAME": "荥阳",
+    "NAME_VN": "Hình Dương",
+    "EID": [
+      "102",
+      "1102"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      10201,
+      10202,
+      10203,
+      10204,
+      10205,
+      10206,
+      10207,
+      10208,
+      10209,
+      10210
+    ],
+    "INTRO": "Phía đông giáp Hoài Hà và Tứ Thủy, phía bắc tựa núi Màng gần Hoàng Hà, phía nam tiếp giáp sông Tác, liền kề Tung Sơn, phía tây nối với Lạc Dương và Trường An. Địa thế hiểm yếu, là nơi binh gia tranh đoạt.",
+    "GENERAL": 16341,
+    "ICON": "city_02"
+  },
+  "166": {
+    "CAMPID": 7,
+    "CITYMAP": "pingyuan",
+    "NAME": "街亭",
+    "NAME_VN": "Nhai Đình",
+    "EID": [
+      "166"
+    ],
+    "OFFSET": {
+      "y": "66",
+      "x": "76"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": -1
+    },
+    "MAP": [
+      16601,
+      16602,
+      16603,
+      16604,
+      16605,
+      16606,
+      16607,
+      16608,
+      16609,
+      16610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12081,
+    "ICON": "city_03"
+  },
+  "114": {
+    "CAMPID": 2,
+    "CITYMAP": "huangcheng",
+    "NAME": "许昌",
+    "NAME_VN": "Hứa Xương",
+    "EID": [
+      "114",
+      "1108"
+    ],
+    "OFFSET": {
+      "y": "-116",
+      "x": "-108"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11401,
+      11402,
+      11403,
+      11404,
+      11405,
+      11406,
+      11407,
+      11408,
+      11409,
+      11410
+    ],
+    "INTRO": "Tào Tháo khống chế thiên tử, lấy nơi này làm trung tâm chính trị của mình.",
+    "GENERAL": 10301,
+    "ICON": "city_01"
+  },
+  "144": {
+    "CAMPID": 5,
+    "CITYMAP": "pingyuan",
+    "NAME": "新野",
+    "NAME_VN": "Tân Dã",
+    "EID": [
+      "144"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14401,
+      14402,
+      14403,
+      14404,
+      14405,
+      14406,
+      14407,
+      14408,
+      14409,
+      14410
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12061,
+    "ICON": "city_02"
+  },
+  "101": {
+    "CAMPID": 1,
+    "CITYMAP": "pingyuan",
+    "NAME": "长安",
+    "NAME_VN": "Trường An",
+    "EID": [
+      "101",
+      "1101"
+    ],
+    "OFFSET": {
+      "y": "70",
+      "x": "114"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      10101,
+      10102,
+      10103,
+      10104,
+      10105
+    ],
+    "INTRO": "Cửa ngõ phía đông kinh đô. Nơi này phía nam liền với Tung Nhạc, phía bắc giáp Hoàng Hà, núi non trùng điệp, tựa như thiên hiểm. Có thế như “Một người giữ ải, vạn người khó qua”.",
+    "GENERAL": 16321,
+    "ICON": "city_01"
+  },
+  "113": {
+    "CAMPID": 2,
+    "CITYMAP": "xuedi",
+    "NAME": "汝南",
+    "NAME_VN": "Nhữ Nam",
+    "EID": [
+      "113"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11301,
+      11302,
+      11303,
+      11304,
+      11305,
+      11306,
+      11307,
+      11308,
+      11309,
+      11310
+    ],
+    "INTRO": "Vùng đất phì nhiêu với nguồn nước dồi dào, tài nguyên phong phú, là kho lương thực quan trọng của quân Tào Tháo.",
+    "GENERAL": 10221,
+    "ICON": "city_02"
+  },
+  "155": {
+    "CAMPID": 6,
+    "CITYMAP": "huangcheng",
+    "NAME": "剑阁",
+    "NAME_VN": "Kiếm Các",
+    "EID": [
+      "155"
+    ],
+    "OFFSET": {
+      "y": "-66",
+      "x": "-80"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15501,
+      15502,
+      15503,
+      15504,
+      15505,
+      15506,
+      15507,
+      15508,
+      15509,
+      15510
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16381,
+    "ICON": "city_03"
+  },
+  "171": {
+    "CAMPID": 8,
+    "NAME": "河内",
+    "NAME_VN": "Hà Nam",
+    "EID": [
+      "171"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17101,
+      17102,
+      17103,
+      17104,
+      17105,
+      17106,
+      17107,
+      17108,
+      17109,
+      17110
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16201,
+    "ICON": "city_02"
+  },
+  "116": {
+    "CAMPID": 2,
+    "CITYMAP": "pingyuan",
+    "NAME": "濮阳",
+    "NAME_VN": "Bộc Dương",
+    "EID": [
+      "116",
+      "1109"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11601,
+      11602,
+      11603,
+      11604,
+      11605,
+      11606,
+      11607,
+      11608,
+      11609,
+      11610
+    ],
+    "INTRO": "Sau trận Quan Độ, Tào Tháo đại phá 30 vạn quân Viên Thiệu. Nay ông chỉ còn quân đơn độc giữ Quan Độ, chính là đường cùng.",
+    "GENERAL": 10081,
+    "ICON": "city_02"
+  },
+  "103": {
+    "CAMPID": 1,
+    "CITYMAP": "huangcheng",
+    "NAME": "潼关",
+    "NAME_VN": "Đồng Quan",
+    "EID": [
+      "103",
+      "1103"
+    ],
+    "OFFSET": {
+      "y": "-66",
+      "x": "-80"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      10301,
+      10302,
+      10303,
+      10304,
+      10305,
+      10306,
+      10307,
+      10308,
+      10309,
+      10310
+    ],
+    "INTRO": "Kinh đô Lạc Dương, từng là thành phố phồn hoa nhất Đại Hán. Sau khi Đổng Trác rút về Trường An, nơi đây chỉ còn lại tường thành đổ nát.",
+    "GENERAL": 16281,
+    "ICON": "city_03"
+  },
+  "154": {
+    "CAMPID": 6,
+    "CITYMAP": "pingyuan",
+    "NAME": "梓潼",
+    "NAME_VN": "Tử Đồng",
+    "EID": [
+      "154"
+    ],
+    "OFFSET": {
+      "y": "-96",
+      "x": "82"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15401,
+      15402,
+      15403,
+      15404,
+      15405,
+      15406,
+      15407,
+      15408,
+      15409,
+      15410
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12201,
+    "ICON": "city_02"
+  },
+  "142": {
+    "CAMPID": 5,
+    "CITYMAP": "pingyuan",
+    "NAME": "长沙",
+    "NAME_VN": "Trường Sa",
+    "EID": [
+      "142"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14201,
+      14202,
+      14203,
+      14204,
+      14205,
+      14206,
+      14207,
+      14208,
+      14209,
+      14210
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14061,
+    "ICON": "city_02"
+  },
+  "145": {
+    "CAMPID": 5,
+    "CITYMAP": "huangcheng",
+    "NAME": "襄阳",
+    "NAME_VN": "Tương Dương",
+    "EID": [
+      "145"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "126"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      14501,
+      14502,
+      14503,
+      14504,
+      14505,
+      14506,
+      14507,
+      14508,
+      14509,
+      14510
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16301,
+    "ICON": "city_01"
+  },
+  "125": {
+    "CAMPID": 3,
+    "CITYMAP": "pingyuan",
+    "NAME": "下邳",
+    "NAME_VN": "Hạ Bì",
+    "EID": [
+      "125"
+    ],
+    "OFFSET": {
+      "y": "84",
+      "x": "-106"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12501,
+      12502,
+      12503,
+      12504,
+      12505,
+      12506,
+      12507,
+      12508,
+      12509,
+      12510
+    ],
+    "INTRO": "Trung tâm lương thảo của quân đoàn Lưu Bị, được quân đội trọng yếu bảo vệ.",
+    "GENERAL": 12241,
+    "ICON": "city_02"
+  },
+  "165": {
+    "CAMPID": 7,
+    "CITYMAP": "xuedi",
+    "NAME": "安定",
+    "NAME_VN": "An Định",
+    "EID": [
+      "165"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      16501,
+      16502,
+      16503,
+      16504,
+      16505,
+      16506,
+      16507,
+      16508,
+      16509,
+      16510
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16361,
+    "ICON": "city_02"
+  },
+  "126": {
+    "CAMPID": 3,
+    "CITYMAP": "huangcheng",
+    "NAME": "广陵",
+    "NAME_VN": "Quảng Lăng",
+    "EID": [
+      "126",
+      "1112"
+    ],
+    "OFFSET": {
+      "y": "74",
+      "x": "96"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12601,
+      12602,
+      12603,
+      12604,
+      12605,
+      12606,
+      12607,
+      12608,
+      12609,
+      12610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12041,
+    "ICON": "city_02"
+  },
+  "136": {
+    "CAMPID": 4,
+    "CITYMAP": "pingyuan",
+    "NAME": "赤壁",
+    "NAME_VN": "Xích Bích",
+    "EID": [
+      "136",
+      "1114"
+    ],
+    "OFFSET": {
+      "y": "32",
+      "x": "100"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      13601,
+      13602,
+      13603,
+      13604,
+      13605,
+      13606,
+      13607,
+      13608,
+      13609,
+      13610
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 14181,
+    "ICON": "city_03"
+  },
+  "152": {
+    "CAMPID": 6,
+    "CITYMAP": "pingyuan",
+    "NAME": "成都",
+    "NAME_VN": "Thành Đô",
+    "EID": [
+      "152"
+    ],
+    "OFFSET": {
+      "y": "-118",
+      "x": "88"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      15201,
+      15202,
+      15203,
+      15204,
+      15205,
+      15206,
+      15207,
+      15208,
+      15209,
+      15210
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12241,
+    "ICON": "city_01"
+  },
+  "174": {
+    "CAMPID": 8,
+    "NAME": "平原",
+    "NAME_VN": "Bình Nguyên",
+    "EID": [
+      "174",
+      "1120"
+    ],
+    "OFFSET": {
+      "y": "84",
+      "x": "-106"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17401,
+      17402,
+      17403,
+      17404,
+      17405,
+      17406,
+      17407,
+      17408,
+      17409,
+      17410
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16261,
+    "ICON": "city_02"
+  },
+  "112": {
+    "CAMPID": 2,
+    "CITYMAP": "huangcheng",
+    "NAME": "陈留",
+    "NAME_VN": "Trần Lưu",
+    "EID": [
+      "112",
+      "1107"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      11201,
+      11202,
+      11203,
+      11204,
+      11205,
+      11206,
+      11207,
+      11208,
+      11209,
+      11210
+    ],
+    "INTRO": "Cảng giao thương đường thủy và bộ kết nối bắc nam vùng Trung Nguyên, nơi Tào Tháo cử mãnh tướng Điển Vi dẫn quân đóng giữ.",
+    "GENERAL": 10201,
+    "ICON": "city_02"
+  },
+  "162": {
+    "CAMPID": 7,
+    "CITYMAP": "huangcheng",
+    "NAME": "武威",
+    "NAME_VN": "Vũ Uy",
+    "EID": [
+      "162"
+    ],
+    "OFFSET": {
+      "y": "-118",
+      "x": "88"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      16201,
+      16202,
+      16203,
+      16204,
+      16205,
+      16206,
+      16207,
+      16208,
+      16209,
+      16210
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 12261,
+    "ICON": "city_01"
+  },
+  "173": {
+    "CAMPID": 8,
+    "NAME": "南皮",
+    "NAME_VN": "Nam Bì",
+    "EID": [
+      "173"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      17301,
+      17302,
+      17303,
+      17304,
+      17305,
+      17306,
+      17307,
+      17308,
+      17309,
+      17310
+    ],
+    "INTRO": "Địa danh có vai trò quan trọng trong Tam Quốc Chí.",
+    "GENERAL": 16121,
+    "ICON": "city_02"
+  },
+  "122": {
+    "CAMPID": 3,
+    "CITYMAP": "pingyuan",
+    "NAME": "北海",
+    "NAME_VN": "Bắc Hải",
+    "EID": [
+      "122",
+      "1110"
+    ],
+    "OFFSET": {
+      "y": "-116",
+      "x": "-108"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12201,
+      12202,
+      12203,
+      12204,
+      12205,
+      12206,
+      12207,
+      12208,
+      12209,
+      12210
+    ],
+    "INTRO": "Từng là nơi Phạm Lãi về ẩn cư và buôn bán. Nay định Đào phát triển thương mại, trở thành trung tâm buôn bán của Từ Châu.",
+    "GENERAL": 12121,
+    "ICON": "city_01"
+  },
+  "121": {
+    "CAMPID": 3,
+    "CITYMAP": "pingyuan",
+    "NAME": "济南",
+    "NAME_VN": "Tế Nam",
+    "EID": [
+      "121"
+    ],
+    "OFFSET": {
+      "y": "-80",
+      "x": "-104"
+    },
+    "SCALE": {
+      "y": 1,
+      "x": 1
+    },
+    "MAP": [
+      12101,
+      12102,
+      12103,
+      12104,
+      12105,
+      12106,
+      12107,
+      12108,
+      12109,
+      12110
+    ],
+    "INTRO": "Vùng đất giàu có của quân đoàn Lưu Bị, tài nguyên phong phú, lương thảo dồi dào.",
+    "GENERAL": 12181,
+    "ICON": "city_02"
+  }
+}

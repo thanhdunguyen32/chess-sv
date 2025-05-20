@@ -1,0 +1,71 @@
+{
+	"C2SChat":{
+		"is_req":true,
+		"id":601,
+		"fields":[
+			{"msgtype":"int","desc":"1: Thế giới, 2: Chiêu mộ, 3: Công hội"},
+			{"content":"string"}
+		]
+	},
+	"S2CChat":{
+		"is_resp":true,
+		"id":602
+	},
+	"S2CChatPush":{
+		"is_resp":true,
+		"id":604,
+		"fields":[
+			{"msgtype":"int","desc":"1: Thế giới, 2: Chiêu mộ, 3: Công hội"},
+			{"senderid":"string","desc":"own,system,..."},
+			{"rid":"int","desc":"ID của người gửi"},
+			{"rname":"string"},
+			{"iconid":"int"},
+			{"headid":"int"},
+			{"frameid":"int"},
+			{"level":"int"},
+			{"vip":"int"},
+			{"office_index":"int","desc":"Chức vụ, chữ số hàng trăm đại diện cho ID quốc gia, chữ số hàng đơn vị và chục đại diện cho chỉ mục chức vụ."},
+			{"serverid":"int"},
+			{"content":"string"},
+			{"videoId":"long"},
+			{"send_time":"long"},
+			{"id":"int"}
+		]
+	},
+	"C2SChatView":{
+		"is_req":true,
+		"id":605,
+		"fields":[
+			{"chat_type":"int","desc":"1: Tổng hợp, 2: Cá nhân, 3: Quân đoàn"}
+		]
+	},
+	"S2CChatView":{
+		"is_resp":true,
+		"id":606,
+		"fields":[
+			{"chat_type":"int","desc":"1: Tổng hợp, 2: Cá nhân, 3: Quân đoàn"},
+			{"chat_content":"[]S2CChatPush"},
+			{"new_msg_list":"[]bool"}
+		]
+	},
+	"C2SChatVisit":{
+		"is_req":true,
+		"id":607,
+		"desc":"Truy cập trò chuyện, hủy bỏ chấm đỏ"
+	},
+	"S2CChatVisit":{
+		"is_resp":true,
+		"id":608
+	},
+	"C2SChatNewmsg":{
+		"is_req":true,
+		"id":609
+	},
+	"S2CChatNewmsg":{
+		"is_resp":true,
+		"id":610,
+		"fields":[
+			{"has_newmsg":"bool"}
+		]
+	}
+}

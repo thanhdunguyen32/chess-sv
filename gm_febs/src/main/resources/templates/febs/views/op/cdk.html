@@ -1,0 +1,124 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Tạo CDK">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <div class="alert" id="ErrorMessageDiv">
+                    <span class="febs-alert-base febs-alert-error" id="ErrorMessage"></span>
+                </div>
+                <form class="layui-form" action="" lay-filter="generator-configure-form">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Tạo CDK</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Loại area:</label>
+                        <div class="layui-input-inline">
+                            <input type="text" name="area" lay-verify="required|number" autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Số lượng:</label>
+                        <div class="layui-input-inline">
+                            <input type="text" name="cnt" autocomplete="off" maxlength="50"
+                                   lay-verify="required|number" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">ID phần thưởng:</label>
+                        <div class="layui-input-inline">
+                            <input type="text" name="awardId" autocomplete="off" maxlength="50"
+                                   lay-verify="required|number" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Tên:</label>
+                        <div class="layui-input-inline">
+                            <input type="text" name="cdkName" autocomplete="off" maxlength="50"
+                                   lay-verify="required" class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:90px;padding-left:0px;">Có tái sử dụng không:</label>
+                        <div class="layui-input-inline">
+                            <input type="checkbox" name="isReuse" lay-skin="switch" lay-text="ON|OFF">
+                        </div>
+                    </div>
+                    <div class="layui-form-item" shiro:hasPermission="cdk:generate">
+                        <div class="layui-input-block">
+                            <button class="layui-btn" lay-submit="" lay-filter="generator-configure-form-submit">Gửi
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            $view = $('#febs-op-gonggao'),
+            $trimValue = $view.find('input[name="trimValue"]'),
+            $trimValueItem = $trimValue.parents('.layui-form-item'),
+            errorMsg = [[${errorMsg}]];
+
+        form.render();
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        form.on('submit(generator-configure-form-submit)', function (data) {
+            let isReuse = $(".layui-form-switch").find("em").text();
+            console.log('isReuse:'+isReuse);
+            data.field.isReuse = isReuse == "ON" ? 1 : 0;
+            let loadingLayer = layer.load(0, {
+                    shade: [0.1, '#000']
+                });
+            febs.post(ctx + 'op/cdkGenerate', data.field, function (r) {
+                layer.close(loadingLayer);
+                febs.alert.success('Tạo CDK thành công!');
+            });
+            return false;
+        });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/subtitle?time="+(new Date().getTime()));
+        });
+    });
+</script>

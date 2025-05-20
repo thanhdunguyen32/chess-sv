@@ -1,0 +1,15 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 176,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, chiến đấu thắng có thể nhận được phần thưởng!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Đại Chiến Dịch"
+}

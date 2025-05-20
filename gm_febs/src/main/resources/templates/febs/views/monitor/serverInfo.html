@@ -1,0 +1,125 @@
+<style>
+    #febs-server-info table th, #febs-server-info table td {
+        height: 28px;
+        line-height: 28px;
+        padding: 9px 15px;
+        position: relative;
+        box-sizing: border-box;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-server-info" lay-title="Thông tin máy chủ">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <span class="febs-alert-base febs-alert-success">
+                        Thời gian lấy dữ liệu <strong id="time"></strong>
+                        &nbsp;&nbsp;
+                        <a id="refresh">Nhấn để làm mới</a>
+                    </span>
+                    <div class="layui-form layui-border-box layui-table-view" lay-id="tomcat-infoTable">
+                        <div class="layui-table-box">
+                            <table cellspacing="0" cellpadding="0" border="0" class="layui-table" lay-skin="line">
+                                <tr>
+                                    <th>Tham số</th>
+                                    <th>Mô tả</th>
+                                    <th>Giá trị hiện tại</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-green">
+                                        system.cpu.count
+                                    </span>
+                                    </td>
+                                    <td>Số nhân CPU</td>
+                                    <td data-th-text="${#numbers.formatInteger(server.systemCpuCount, 0)} + ' 个'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-green">
+                                        system.cpu.usage
+                                    </span>
+                                    </td>
+                                    <td>Tỷ lệ sử dụng CPU máy chủ</td>
+                                    <td data-th-text="${#numbers.formatDecimal((server.systemCpuUsage*100), 2, 2,'POINT')} + ' %'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        process.startTime
+                                    </span>
+                                    </td>
+                                    <td>Thời điểm khởi động ứng dụng</td>
+                                    <td data-th-text="${server.processStartTime}"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        process.uptime
+                                    </span>
+                                    </td>
+                                    <td>Thời gian ứng dụng đã chạy</td>
+                                    <td data-th-text="${server.processUptime} + ' 秒'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        process.cpu.usage
+                                    </span>
+                                    </td>
+                                    <td>Tỷ lệ sử dụng CPU của ứng dụng</td>
+                                    <td data-th-text="${#numbers.formatDecimal((server.processCpuUsage*100), 2, 2,'POINT')} + ' %'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        jdbc.connections.active
+                                    </span>
+                                    </td>
+                                    <td>Số kết nối JDBC đang hoạt động</td>
+                                    <td data-th-text="${#numbers.formatInteger(server.jdbcConnectionsActive, 0)}"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        jdbc.connections.max
+                                    </span>
+                                    </td>
+                                    <td>Số kết nối JDBC tối đa</td>
+                                    <td data-th-text="${#numbers.formatInteger(server.jdbcConnectionsMax, 0)}"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        jdbc.connections.min
+                                    </span>
+                                    </td>
+                                    <td>Số kết nối JDBC tối thiểu</td>
+                                    <td data-th-text="${#numbers.formatInteger(server.jdbcConnectionsMin, 0)}"></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['jquery', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            util = layui.util,
+            $view = $('#febs-server-info');
+        $view.find('#time').text(util.toDateString(new Date().getTime(), 'yyyy年MM月dd日 HH时mm分ss秒'));
+
+        $view.find('a#refresh').on('click', function () {
+            var isTab = currentUser.isTab;
+            if (isTab === '1') {
+                febs.view.tab.refresh();
+            } else {
+                window.location.reload();
+            }
+        });
+    });
+</script>

@@ -1,0 +1,50 @@
+syntax = "proto3";
+
+package db.proto;
+
+option java_outer_classname = "ProtoMessageBag";
+option optimize_for = SPEED;
+
+message DbVipPackGet{
+	repeated int32 vip_levels = 1;
+}
+
+message DbPaymentLevels{
+	repeated int32 payment_level = 1;
+}
+
+message DbChatPersist{
+	map<int32, int64> public_visit = 1;
+	map<int32, int64> nation_visit = 2;
+	repeated DbChatItem chat_public = 3;
+	map<int32, DbChatNation> chat_nation = 4;
+}
+
+message DbChatNation{
+	repeated DbChatItem chat_item = 1;
+}
+
+message DbChatItem{
+	int32 sender_uid = 1;
+	string sender_name = 2;
+	int32 icon = 3;
+	int32 head_frame_id = 4;
+	int32 level = 5;
+	int32 vip_level = 6;
+	int32 office_index = 7;
+	string content = 8;
+	int32 chat_type = 9;
+	int32 timestamp = 10;
+	string receiver_name = 11;
+}
+
+message DbRankLike{
+	map<int32, int32> beLikeInfo = 1;
+	map<int32, DbLikePlayerInfo> myLikeInfo = 2;
+}
+
+message DbLikePlayerInfo{
+	int32 player_id = 1;
+	int64 last_visit_time = 2;
+	repeated int32 today_like_players = 3;
+}

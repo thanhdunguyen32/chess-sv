@@ -1,0 +1,1 @@
+java -server -Xms256M -Xmx2048M -XX:MaxPermSize=128m -XX:+UseG1GC -jar idle-login-1.0.2.jar

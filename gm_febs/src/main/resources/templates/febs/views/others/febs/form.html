@@ -1,0 +1,211 @@
+<div class="layui-fluid layui-anim febs-anim" lay-title="Thành phần biểu mẫu">
+    <div class="layui-row layui-col-space8 febs-container">
+        <div class="layui-col-md6">
+            <div class="layui-card">
+                <div class="layui-card-header">Ô nhập liệu</div>
+                <div class="layui-card-body layui-row layui-col-space10">
+                    <div class="layui-col-md12">
+                        <input type="text" name="title" placeholder="Vui lòng nhập tiêu đề" autocomplete="off" class="layui-input">
+                    </div>
+                    <div class="layui-col-md6">
+                        <input type="text" name="title" placeholder="Tên người dùng" autocomplete="off" class="layui-input">
+                    </div>
+                    <div class="layui-col-md6">
+                        <input type="password" name="title" placeholder="Mật khẩu" autocomplete="off" class="layui-input">
+                    </div>
+                    <div class="layui-col-md12">
+                        <textarea name="" placeholder="Nhập nhiều dòng" class="layui-textarea"></textarea>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-card layui-form" lay-filter="febs-form-elements">
+                <div class="layui-card-header">Hộp chọn thả xuống</div>
+                <div class="layui-card-body layui-row layui-col-space10">
+                    <div class="layui-col-md6">
+                        <select name="city" lay-verify="">
+                            <option value="">Vui lòng chọn một thành phố</option>
+                            <option value="010">Bắc Kinh</option>
+                            <option value="021">Thượng Hải</option>
+                            <option value="0571">Hàng Châu</option>
+                        </select>
+                    </div>
+                    <div class="layui-col-md6">
+                        <select name="city" lay-verify="">
+                            <option value="010">Bắc Kinh</option>
+                            <option value="021" disabled>Thượng Hải (Vô hiệu hóa)</option>
+                            <option value="0571" selected>Hàng Châu</option>
+                        </select>
+                    </div>
+                    <div class="layui-col-md6">
+                        <select name="quiz">
+                            <option value="">Vui lòng chọn</option>
+                            <optgroup label="Ký ức thành phố">
+                                <option value="你工作的第一个城市">Thành phố đầu tiên bạn làm việc?</option>
+                            </optgroup>
+                            <optgroup label="Thời học sinh">
+                                <option value="你的工号">Mã số nhân viên của bạn?</option>
+                                <option value="你最喜欢的老师">Giáo viên bạn yêu thích nhất?</option>
+                            </optgroup>
+                        </select>
+                    </div>
+                    <div class="layui-col-md6">
+                        <select name="city" lay-verify="required" lay-search>
+                            <option value="">Hộp chọn có tìm kiếm</option>
+                            <option value="1">layer</option>
+                            <option value="2">form</option>
+                            <option value="3">layim</option>
+                            <option value="4">element</option>
+                            <option value="5">laytpl</option>
+                            <option value="6">upload</option>
+                            <option value="7">laydate</option>
+                            <option value="8">laypage</option>
+                            <option value="9">flow</option>
+                            <option value="10">util</option>
+                            <option value="11">code</option>
+                            <option value="12">tree</option>
+                            <option value="13">layedit</option>
+                            <option value="14">nav</option>
+                            <option value="15">tab</option>
+                            <option value="16">table</option>
+                            <option value="17">select</option>
+                            <option value="18">checkbox</option>
+                            <option value="19">switch</option>
+                            <option value="20">radio</option>
+                        </select>
+                    </div>
+                    <div class="layui-col-md12">
+                        <select name="city" lay-verify="">
+                            <option value="">Vui lòng chọn một thành phố</option>
+                            <option value="010">Bắc Kinh</option>
+                            <option value="021">Thượng Hải</option>
+                            <option value="0571">Hàng Châu</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-card layui-form" lay-filter="febs-form-elements">
+                <div class="layui-card-header">Công tắc</div>
+                <div class="layui-card-body layui-row layui-col-space10">
+                    <div class="layui-col-md12">
+                        <input type="checkbox" name="xxx" lay-skin="switch">
+                        <input type="checkbox" name="yyy" lay-skin="switch" lay-text="BẬT|TẮT" checked>
+                        <input type="checkbox" name="zzz" lay-skin="switch" lay-text="Bật|Tắt">
+                        <input type="checkbox" name="aaa" lay-skin="switch" disabled>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-card layui-form" lay-filter="febs-form-elements">
+                <div class="layui-card-header">Nút radio</div>
+                <div class="layui-card-body layui-row layui-col-space10">
+                    <div class="layui-col-md12">
+                        <input type="radio" name="sex" value="nan" title="Nam">
+                        <input type="radio" name="sex" value="nv" title="Nữ" checked>
+                        <input type="radio" name="sex" value="" title="Khác" disabled>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md6">
+            <div class="layui-card layui-form" lay-filter="febs-form-elements">
+                <div class="layui-card-header">Hộp kiểm</div>
+                <div class="layui-card-body layui-row layui-col-space10">
+                    <div class="layui-col-md12">
+                        <input type="checkbox" name="" title="Viết" checked>
+                        <input type="checkbox" name="" title="Ngẫm nghĩ">
+                        <input type="checkbox" name="" title="Vô hiệu" disabled>
+                    </div>
+                    <div class="layui-col-md12">
+                        <input type="checkbox" name="" title="Viết" lay-skin="primary" checked>
+                        <input type="checkbox" name="" title="Ngẫm nghĩ" lay-skin="primary">
+                        <input type="checkbox" name="" title="Vô hiệu" lay-skin="primary" disabled>
+                    </div>
+                </div>
+            </div>
+            <div class="layui-card">
+                <div class="layui-card-header">Tổ hợp đáp ứng</div>
+                <div class="layui-card-body">
+                    <form class="layui-form" action="" lay-filter="febs-form-elements">
+                        <div class="layui-row layui-col-space10 layui-form-item">
+                            <div class="layui-col-lg6">
+                                <label class="layui-form-label">Tên nhân viên:</label>
+                                <div class="layui-input-block">
+                                    <input type="text" name="fullname" lay-verify="required" placeholder="" autocomplete="off" class="layui-input">
+                                </div>
+                            </div>
+                            <div class="layui-col-lg6">
+                                <label class="layui-form-label">Chuyên môn:</label>
+                                <div class="layui-input-block">
+                                    <select name="type" lay-verify="required" lay-filter="aihao">
+                                        <option value=""></option>
+                                        <option value="0">Kỹ sư Front-end</option>
+                                        <option value="1">Kỹ sư Node.js</option>
+                                        <option value="2">Kỹ sư PHP</option>
+                                        <option value="3">Kỹ sư Java</option>
+                                        <option value="4">Vận hành</option>
+                                        <option value="4">Thiết kế UI/UX</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Sở thích:</label>
+                            <div class="layui-input-block">
+                                <input type="checkbox" name="interest[write]" title="Viết">
+                                <input type="checkbox" name="interest[read]" title="Đọc">
+                                <input type="checkbox" name="interest[code]" title="Code" checked>
+                                <input type="checkbox" name="interest[eat]" title="Ăn uống">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Tình trạng hôn nhân:</label>
+                            <div class="layui-input-block">
+                                <input type="checkbox" name="marriage" lay-skin="switch" lay-text="Có|Không">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Chức danh:</label>
+                            <div class="layui-input-block">
+                                <input type="radio" name="role" value="" title="Giám đốc">
+                                <input type="radio" name="role" value="" title="Trưởng phòng">
+                                <input type="radio" name="role" value="" title="Lập trình viên" checked>
+                                <input type="radio" name="role" value="" title="Nhân viên">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Thông tin khác:</label>
+                            <div class="layui-input-block">
+                                <textarea name="other" placeholder="" class="layui-textarea"></textarea>
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label"> </label>
+                            <div class="layui-input-block">
+                                <input type="checkbox" name="" title="Đồng ý" lay-skin="primary" checked>
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <div class="layui-input-block">
+                                <button class="layui-btn" lay-submit lay-filter="febs-form-elements">Gửi ngay</button>
+                                <button type="reset" class="layui-btn layui-btn-primary">Đặt lại</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    layui.use(['febs', 'form'], function (febs, form) {
+        var $ = layui.$;
+        var element = layui.element;
+
+        form.render(null, 'febs-form-elements');
+
+        form.on('submit(febs-form-elements)', function (data) {
+            layer.msg(JSON.stringify(data.field));
+            return false;
+        });
+    });
+</script>

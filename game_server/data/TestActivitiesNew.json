@@ -1,0 +1,607 @@
+[
+  {
+    "name": "7天登录送马超",
+    "day": 30,
+    "order": 1,
+    "rewards": [
+      {
+        "money": 1000,
+        "items": [
+          [
+            1603,
+            5
+          ],
+          [
+            2106,
+            1
+          ]
+        ],
+        "gamemoney": 10000
+      },
+      {
+        "money": 1500,
+        "items": [
+          [
+            1103,
+            5
+          ],
+          [
+            2107,
+            1
+          ]
+        ],
+        "gamemoney": 50000
+      },
+      {
+        "money": 2000,
+        "items": [
+          [
+            1613,
+            1
+          ],
+          [
+            2108,
+            1
+          ]
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 2500,
+        "items": [
+          [
+            1113,
+            1
+          ],
+          [
+            2109,
+            1
+          ]
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 3000,
+        "items": [
+          [
+            1613,
+            1
+          ],
+          [
+            1004,
+            20
+          ]
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 3500,
+        "items": [
+          [
+            1113,
+            1
+          ],
+          [
+            3113,
+            1
+          ]
+        ],
+        "gamemoney": 0
+      },
+      {
+        "money": 4000,
+        "items": [
+          [
+            1626,
+            1
+          ],
+          [
+            21,
+            1
+          ]
+        ],
+        "gamemoney": 0
+      }
+    ]
+  },
+  {
+    "name": "冲级有礼，成长助力！",
+    "day": 30,
+    "order": 2,
+    "rewards": [
+      {
+        "money": 500,
+        "items": [
+          [
+            1002,
+            200
+          ]
+        ],
+        "limit": 25,
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            20
+          ],
+          [
+            2114,
+            1
+          ]
+        ],
+        "limit": 30,
+        "gamemoney": 0
+      },
+      {
+        "money": 1000,
+        "items": [
+          [
+            1009,
+            10
+          ]
+        ],
+        "limit": 35,
+        "gamemoney": 100000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            3099,
+            5
+          ],
+          [
+            3199,
+            5
+          ]
+        ],
+        "limit": 40,
+        "gamemoney": 200000
+      },
+      {
+        "money": 1500,
+        "items": [
+          [
+            1613,
+            1
+          ],
+          [
+            1113,
+            1
+          ],
+          [
+            1017,
+            5
+          ]
+        ],
+        "limit": 50,
+        "gamemoney": 0
+      }
+    ]
+  },
+  {
+    "name": "激活码兑换",
+    "day": 0,
+    "order": 6,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ],
+          [
+            1201,
+            2
+          ]
+        ],
+        "limit": [],
+        "gamemoney": 50000
+      },
+      {
+        "money": 500,
+        "items": [
+          [
+            1008,
+            50
+          ],
+          [
+            1201,
+            5
+          ]
+        ],
+        "limit": [],
+        "gamemoney": 500000
+      }
+    ]
+  },
+  {
+    "name": "副本达人，经验书和兵符奉上！",
+    "day": 7,
+    "order": 3,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ],
+          [
+            1104,
+            1000
+          ]
+        ],
+        "limit": 410,
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            15
+          ],
+          [
+            1104,
+            1500
+          ]
+        ],
+        "limit": 610,
+        "gamemoney": 0
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            20
+          ],
+          [
+            1104,
+            2000
+          ]
+        ],
+        "limit": 810,
+        "gamemoney": 0
+      },
+      {
+        "money": 500,
+        "items": [
+          [
+            1009,
+            5
+          ],
+          [
+            1104,
+            2500
+          ]
+        ],
+        "limit": 1010,
+        "gamemoney": 0
+      },
+      {
+        "money": 1500,
+        "items": [
+          [
+            1009,
+            10
+          ],
+          [
+            1104,
+            3000
+          ]
+        ],
+        "limit": 1210,
+        "gamemoney": 0
+      }
+    ]
+  },
+  {
+    "name": "精英出征，黑市随便逛，部队升级爽爽爽！",
+    "day": 0,
+    "order": 4,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            1000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": 310,
+        "gamemoney": 10000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            2000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": 410,
+        "gamemoney": 20000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            3000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": 510,
+        "gamemoney": 30000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            4000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": 610,
+        "gamemoney": 40000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1011,
+            5
+          ],
+          [
+            1104,
+            5000
+          ],
+          [
+            1003,
+            300
+          ]
+        ],
+        "limit": 710,
+        "gamemoney": 50000
+      }
+    ]
+  },
+  {
+    "name": "竞技先锋,竞技场胜利n场",
+    "day": 7,
+    "order": 5,
+    "rewards": [
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            5
+          ]
+        ],
+        "limit": 10,
+        "gamemoney": 10000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            5
+          ]
+        ],
+        "limit": 20,
+        "gamemoney": 20000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            10
+          ]
+        ],
+        "limit": 40,
+        "gamemoney": 50000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            15
+          ]
+        ],
+        "limit": 60,
+        "gamemoney": 75000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1008,
+            20
+          ]
+        ],
+        "limit": 80,
+        "gamemoney": 100000
+      },
+      {
+        "money": 0,
+        "items": [
+          [
+            1009,
+            5
+          ]
+        ],
+        "limit": 100,
+        "gamemoney": 150000
+      }
+    ]
+  },
+  {
+    "time": [
+      0,
+      0
+    ],
+    "name": "基金活动",
+    "day": 0,
+    "order": 7,
+    "rewards": [
+      {
+        "items": [
+          [
+            1451,
+            2000
+          ]
+        ],
+        "limit": 10,
+        "money": 0,
+        "nSubID": 1,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            3000
+          ]
+        ],
+        "limit": 15,
+        "money": 0,
+        "nSubID": 2,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            4000
+          ]
+        ],
+        "limit": 20,
+        "money": 0,
+        "nSubID": 3,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            6000
+          ]
+        ],
+        "limit": 25,
+        "money": 0,
+        "nSubID": 4,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            8000
+          ]
+        ],
+        "limit": 30,
+        "money": 0,
+        "nSubID": 5,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            10000
+          ]
+        ],
+        "limit": 35,
+        "money": 0,
+        "nSubID": 6,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            15000
+          ]
+        ],
+        "limit": 40,
+        "money": 0,
+        "nSubID": 7,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            20000
+          ]
+        ],
+        "limit": 50,
+        "money": 0,
+        "nSubID": 8,
+        "nState": 0,
+        "gamemoney": 0
+      },
+      {
+        "items": [
+          [
+            1451,
+            30000
+          ]
+        ],
+        "limit": 60,
+        "money": 0,
+        "nSubID": 9,
+        "nState": 0,
+        "gamemoney": 0
+      }
+    ]
+  }
+]

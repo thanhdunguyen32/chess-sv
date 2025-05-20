@@ -1,0 +1,23 @@
+{
+  "3": {
+    "MAX": 5,
+    "INTRO": "Mỗi tầng tất cả võ tướng +15 năng lượng ban đầu.",
+    "VAL": 15,
+    "NAME": "怒气祝福",
+    "NAME_VN": "Chúc Phúc Nộ Khí"
+  },
+  "1": {
+    "MAX": 5,
+    "INTRO": "Mỗi tầng tất cả võ tướng +15% Tấn Công",
+    "VAL": 150,
+    "NAME": "兵器祝福",
+    "NAME_VN": "Chúc Phúc Vũ Khí"
+  },
+  "2": {
+    "MAX": 5,
+    "INTRO": "Mỗi tầng tất cả võ tướng +15% HP",
+    "VAL": 150,
+    "NAME": "生命祝福",
+    "NAME_VN": "Chúc Phúc Sinh Mệnh"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 30,
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 31,
+      "desc": "Nhấn vào Trường An",
+      "command": {
+        "cmd": "cityfinger",
+        "cityid": "101",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 32,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúc mừng chúa công trận đầu thắng lợi, theo thám tử hồi báo trong thành còn 4 danh tướng thủ hộ, chúng ta cần đánh bại tất cả thì mới có thể công hãm Trường An!"
+      }
+    },
+    {
+      "numstep": 33,
+      "desc": "Giới thiệu số lướng tướng thủ hộ",
+      "command": {
+        "cmd": "locator",
+        "textdirection": "mid",
+        "isbox": true,
+        "args": "Main Camera > windows_page_siege > battle_bg_num",
+        "text": "Hiển thị tướng thủ thành và lượng máu tường thành!"
+      }
+    },
+    {
+      "numstep": 34,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Chúa công tuy đã giành chiến thắng trong trận đầu, nhưng không nên kiêu ngạo hay lơ là, chúng ta còn cần chiêu mộ thêm võ tướng để tăng cường sức mạnh!",
+          "Trước khi trở về Hoàng Thành, hãy thu thập thuế từ các nơi trước đã."
+        ]
+      }
+    },
+    {
+      "numstep": 35,
+      "desc": "Nhấn vào Quay Lại",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "Main Camera > windows_page_siege > btn_return",
+        "text": "Nhấn vào đây để quay lại bản đồ Chinh Chiến"
+      }
+    },
+    {
+      "numstep": 36,
+      "desc": "Nhấn vào nhận thưởng AFK",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "new_worldmap_page > btn_reward",
+        "text": "Nhấn vào đây để nhận thưởng thu thuế."
+      }
+    },
+    {
+      "numstep": 37,
+      "desc": "Nhấn vào chỗ trống",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 38,
+      "desc": "Nhấn vào Chủ Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Nhận thưởng AFK"
+}

@@ -1,0 +1,337 @@
+{
+  "30001": {
+    "INTRO": "Dùng để tăng lên đẳng cấp võ tướng",
+    "ICON": 30001,
+    "QUALITY": 4,
+    "NAME": "武将经验",
+    "NAME_VN": "Kinh Nghiệm Võ Tướng"
+  },
+  "30002": {
+    "INTRO": "Dùng để mua vật phẩm trong cửa hàng Diễn Võ",
+    "ICON": 30002,
+    "QUALITY": 4,
+    "NAME": "勋章",
+    "NAME_VN": "Huân Chương"
+  },
+  "30103": {
+    "INTRO": "Vật phẩm tiêu hao đặc biệt dành cho chiến trường xa, sau khi sử dụng có thể hồi sinh tất cả các tướng cao cấp và phục hồi đầy đủ máu và năng lượng của tất cả các tướng cao cấp",
+    "ICON": 30103,
+    "QUALITY": 4,
+    "NAME": "七星灯",
+    "NAME_VN": "Thất Tinh Đăng"
+  },
+  "30007": {
+    "INTRO": "Dùng 1000 điểm Thiên Vận chiêu mộ võ tướng 5 sao trong Tửu Quán",
+    "QUALITY": 4,
+    "HIDE": 1,
+    "ICON": 30007,
+    "NAME": "天运",
+    "NAME_VN": "Thiên Vận"
+  },
+  "30020": {
+    "INTRO": "Dùng để đổi vật phẩm trong Cửa hàng Quân Đoàn hoặc nâng cấp kỹ năng Quân Đoàn",
+    "ICON": 30020,
+    "QUALITY": 4,
+    "NAME": "军团贡献",
+    "NAME_VN": "Quân Đoàn Cống Hiến"
+  },
+  "30004": {
+    "INTRO": "Dùng để mua vật phẩm trong cửa hàng Hoa Dung Đạo",
+    "ICON": 30004,
+    "QUALITY": 4,
+    "NAME": "华容道货币",
+    "NAME_VN": "Hoa Dung Đạo Tiền"
+  },
+  "30013": {
+    "INTRO": "Dùng để đổi Võ Tướng trong Cửa hàng Điểm Tướng Đài",
+    "ICON": 30013,
+    "QUALITY": 5,
+    "NAME": "龙玉",
+    "NAME_VN": "Long Ngọc"
+  },
+  "30021": {
+    "INTRO": "Dùng để nhận nhiệm vụ Nội Chính 3 sao trong giao diện Nội Chính",
+    "ICON": 30021,
+    "QUALITY": 3,
+    "NAME": "3星任务卷轴",
+    "NAME_VN": "Quyển Trục 3 Sao"
+  },
+  "30005": {
+    "INTRO": "Dùng để chiêu mộ võ tướng 1-5 sao trong Tửu Quán",
+    "ICON": 30005,
+    "QUALITY": 3,
+    "NAME": "普通招募令",
+    "NAME_VN": "Chiêu Mộ Lệnh"
+  },
+  "30014": {
+    "INTRO": "Nhận được khi võ tướng giải giáp quy điền, có thể đổi Mảnh Võ Tướng trong Cửa Hàng Võ Tướng",
+    "ICON": 30014,
+    "QUALITY": 4,
+    "NAME": "求贤帖",
+    "NAME_VN": "Cầu Hiền Thiếp"
+  },
+  "30028": {
+    "INTRO": "Dùng để tham gia Diễn Võ Trường hoặc thử thách Vương Giả",
+    "ICON": 30028,
+    "QUALITY": 4,
+    "NAME": "演武令",
+    "NAME_VN": "Diễn Võ Lệnh"
+  },
+  "30040": {
+    "INTRO": "Tôn vinh tất cả người lao động! Sử dụng Huân Chương Lao Động để đổi phần thưởng giá trị trong Cửa hàng Lễ Hội",
+    "PRICE": 100,
+    "QUALITY": 4,
+    "EXID": "prop_30040",
+    "ICON": 30040,
+    "NAME": "劳动勋章",
+    "NAME_VN": "Lao Động Huân Chương"
+  },
+  "30018": {
+    "INTRO": "Dùng để xây dựng hoặc nâng cấp công trình trong Phong Địa",
+    "ICON": 30018,
+    "QUALITY": 2,
+    "NAME": "封地材料",
+    "NAME_VN": "Tài Liệu Đất Phong"
+  },
+  "30011": {
+    "INTRO": "Dùng tại Điểm Tướng Đài nhận được chỉ định trận doanh mảnh võ tướng 4-5 sao",
+    "ICON": 30011,
+    "QUALITY": 5,
+    "NAME": "点将令",
+    "NAME_VN": "Điểm Tướng Lệnh"
+  },
+  "30026": {
+    "INTRO": "Dùng để nâng cấp sao hoặc cải thiện chỉ số cho Tọa Kỵ trong giao diện Tọa Kỵ",
+    "ICON": 30026,
+    "QUALITY": 4,
+    "NAME": "坐骑丹",
+    "NAME_VN": "Tọa Kỵ Đan"
+  },
+  "30031": {
+    "INTRO": "Dùng để nhận nhiệm vụ Nội Chính 7 sao trong giao diện Nội Chính",
+    "ICON": 30031,
+    "QUALITY": 6,
+    "NAME": "7星任务卷轴",
+    "NAME_VN": "Quyển Trục 7 Sao"
+  },
+  "30029": {
+    "INTRO": "Dùng để đổi Võ Tướng Truyền Thuyết trong Cửa hàng Uy Danh",
+    "ICON": 30029,
+    "QUALITY": 5,
+    "NAME": "威望",
+    "NAME_VN": "Uy Vọng"
+  },
+  "30033": {
+    "INTRO": "Đạo cụ sự kiện, có thể dùng để đổi vật phẩm cao cấp trong các sự kiện mùa",
+    "ICON": 30033,
+    "QUALITY": 5,
+    "NAME": "犒赏令",
+    "NAME_VN": "Khao Thưởng Lệnh"
+  },
+  "30043": {
+    "INTRO": "Dùng để đổi vật phẩm giá trị trong Cửa Hàng Lễ Hội",
+    "PRICE": 100,
+    "QUALITY": 4,
+    "EXID": "prop_30043",
+    "ICON": 30043,
+    "NAME": "六月狂欢币",
+    "NAME_VN": "Tháng Sáu Cuồng Hoan Tệ"
+  },
+  "30101": {
+    "INTRO": "Dùng để nâng cấp trang bị tăng 10 điểm kinh nghiệm nâng cấp",
+    "ICON": 30101,
+    "QUALITY": 3,
+    "NAME": "铸铁精华",
+    "NAME_VN": "Gang Tinh Hoa"
+  },
+  "30023": {
+    "INTRO": "Hiện chưa có công dụng",
+    "ICON": 30023,
+    "QUALITY": 4,
+    "NAME": "宝物经验道具",
+    "NAME_VN": "Đạo Cụ Kinh Nghiệm"
+  },
+  "30102": {
+    "INTRO": "Dùng để nâng cấp trang bị tăng 100 điểm kinh nghiệm nâng cấp",
+    "ICON": 30102,
+    "QUALITY": 4,
+    "NAME": "黑铁精华",
+    "NAME_VN": "Hắc Thiết Tinh Hoa"
+  },
+  "30025": {
+    "INTRO": "Khi đạt số điểm nhất định có thể nhận thưởng Rương Điểm Quan Tinh Cao Cấp",
+    "QUALITY": 3,
+    "HIDE": 1,
+    "ICON": 30025,
+    "NAME": "高级观星积分",
+    "NAME_VN": "Điểm Quan Tinh Cao Cấp"
+  },
+  "30027": {
+    "INTRO": "Dùng để mua vật phẩm giá trị cao trong Cửa Hàng Quan Tinh",
+    "ICON": 30027,
+    "QUALITY": 4,
+    "NAME": "幸运星",
+    "NAME_VN": "Ngôi Sao May Mắn"
+  },
+  "30034": {
+    "INTRO": "Đạo cụ sự kiện, có thể dùng để đổi vật phẩm cao cấp trong sự kiện Kim Thử Chúc Xuân dịp Tết",
+    "PRICE": 100,
+    "QUALITY": 4,
+    "EXID": "prop_30034",
+    "ICON": 30034,
+    "NAME": "春节鞭炮",
+    "NAME_VN": "Pháo Hoa"
+  },
+  "30036": {
+    "INTRO": "Dùng để tái sinh Võ Tướng 10, 11, 12 sao",
+    "ICON": 30036,
+    "QUALITY": 5,
+    "NAME": "一阶重生石",
+    "NAME_VN": "Trong Sinh Thạch C1"
+  },
+  "30015": {
+    "INTRO": "Dùng để nâng cấp phẩm chất Võ Tướng trong giao diện Võ Tướng",
+    "ICON": 30015,
+    "QUALITY": 4,
+    "NAME": "进阶石",
+    "NAME_VN": "Tiến Giai Thạch"
+  },
+  "30024": {
+    "INTRO": "Dùng để thách đấu ải Cốt Truyện trong Chinh Chiến hoặc các ải Tháng trong Đại Chiến",
+    "ICON": 30024,
+    "QUALITY": 4,
+    "NAME": "兵符",
+    "NAME_VN": "Binh Phù"
+  },
+  "30003": {
+    "INTRO": "Dùng để mua vật phẩm trong cửa hàng Viễn Chinh",
+    "ICON": 30003,
+    "QUALITY": 4,
+    "NAME": "战功",
+    "NAME_VN": "Chiến Công"
+  },
+  "30009": {
+    "INTRO": "Dùng để Quan Tinh Cao Cấp nhận được vật phẩm bồi dưỡng võ tướng hoặc mảnh võ tướng",
+    "ICON": 30009,
+    "QUALITY": 5,
+    "NAME": "高级神符",
+    "NAME_VN": "Thần Phù Cao Cấp"
+  },
+  "30035": {
+    "INTRO": "Đạo cụ sự kiện, có thể dùng để đổi vật phẩm trong sự kiện Xuân Hồi Đại Địa",
+    "PRICE": 100,
+    "QUALITY": 4,
+    "EXID": "prop_30035",
+    "ICON": 30035,
+    "NAME": "春意盎然",
+    "NAME_VN": "Xuân Ý Dạt Dào"
+  },
+  "30042": {
+    "INTRO": "Đạo cụ tái sinh, có thể sử dụng để tái sinh các tướng từ 6 sao đến 9 sao",
+    "ICON": 30042,
+    "QUALITY": 4,
+    "NAME": "低阶重生石",
+    "NAME_VN": "Trọng Sinh Thạch"
+  },
+  "30030": {
+    "INTRO": "Dùng để nhận nhiệm vụ Nội Chính 6 sao trong giao diện Nội Chính",
+    "ICON": 30030,
+    "QUALITY": 6,
+    "NAME": "6星任务卷轴",
+    "NAME_VN": "Quyển Trục 6 Sao"
+  },
+  "30041": {
+    "INTRO": "Dùng Cuốc Sắt Thần Kỳ để tìm kiếm báu vật trong Bí Cảnh Bảo Các",
+    "ICON": 30041,
+    "QUALITY": 5,
+    "NAME": "铁镐",
+    "NAME_VN": "Cuốc Sắt"
+  },
+  "30008": {
+    "INTRO": "Dùng để Quan Tinh nhận được vật phẩm bồi dưỡng võ tướng hoặc mảnh võ tướng",
+    "ICON": 30008,
+    "QUALITY": 3,
+    "NAME": "神符",
+    "NAME_VN": "Thần Phù"
+  },
+  "30012": {
+    "INTRO": "Dùng để tiến hành tính năng Hoán Đổi Võ Tướng tại Điểm Tướng Đài",
+    "ICON": 30012,
+    "QUALITY": 5,
+    "NAME": "将魂",
+    "NAME_VN": "Hồn Tướng"
+  },
+  "30022": {
+    "INTRO": "Dùng để nhận nhiệm vụ Nội Chính 5 sao trong giao diện Nội Chính",
+    "ICON": 30022,
+    "QUALITY": 5,
+    "NAME": "5星任务卷轴",
+    "NAME_VN": "Quyển Trục 5 Sao"
+  },
+  "30032": {
+    "INTRO": "Tiêu hao 1 cái khi thất bại trong Tháp Thí Luyện",
+    "ICON": 30032,
+    "QUALITY": 3,
+    "NAME": "试炼令",
+    "NAME_VN": "Thí Luyện Lệnh"
+  },
+  "30037": {
+    "INTRO": "Dùng để tái sinh Võ Tướng 13 sao",
+    "ICON": 30037,
+    "QUALITY": 5,
+    "NAME": "二阶重生石",
+    "NAME_VN": "Trong Sinh Thạch C2"
+  },
+  "30019": {
+    "INTRO": "Dùng để  Chiêu Mộ Tình Bạn nhận được võ tướng 2-5 sao trong Tửu Quán",
+    "ICON": 30019,
+    "QUALITY": 4,
+    "NAME": "友情点",
+    "NAME_VN": "Điểm Tình Bạn"
+  },
+  "30017": {
+    "INTRO": "Dùng để nâng cấp hào quang Thần Thú trong giao diện Thần Thú",
+    "ICON": 30017,
+    "QUALITY": 4,
+    "NAME": "五彩石",
+    "NAME_VN": "Ngũ Thải Thạch"
+  },
+  "30038": {
+    "INTRO": "Bánh Thanh Đoàn ngon miệng, có thể dùng đổi vật phẩm giá trị trong sự kiện Thanh Minh",
+    "PRICE": 100,
+    "QUALITY": 5,
+    "EXID": "prop_30038",
+    "ICON": 30038,
+    "NAME": "青团",
+    "NAME_VN": "Thanh Đoàn"
+  },
+  "30010": {
+    "INTRO": "Dùng nhận được điểm Quan Tinh",
+    "QUALITY": 1,
+    "HIDE": 1,
+    "ICON": 30010,
+    "NAME": "观星积分",
+    "NAME_VN": "Điểm Quan Tinh"
+  },
+  "30039": {
+    "INTRO": "Dùng để đổi vật phẩm trong Cửa hàng Thí Luyện",
+    "ICON": 30039,
+    "QUALITY": 4,
+    "NAME": "试炼币",
+    "NAME_VN": "Thí Luyện Tệ"
+  },
+  "30006": {
+    "INTRO": "Dùng để chiêu mộ võ tướng 3-5 sao trong Tửu Quán",
+    "ICON": 30006,
+    "QUALITY": 4,
+    "NAME": "高级招募令",
+    "NAME_VN": "Chiêu Mộ Lệnh Cao Cấp"
+  },
+  "30016": {
+    "INTRO": "Dùng để kích hoạt, nâng cấp và tăng bậc Thần Thú trong giao diện Thần Thú",
+    "ICON": 30016,
+    "QUALITY": 4,
+    "NAME": "圣灵石",
+    "NAME_VN": "Thánh Linh Thạch"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 13,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Bẩm chúa công, thám tử hồi báo phía trước 50 lý phát hiện một tòa thành trì tựa hồ là Hổ Lao Quan"
+      }
+    },
+    {
+      "numstep": 14,
+      "desc": "Lựa chọn 1",
+      "command": {
+        "cmd": "choose",
+        "num": 0,
+        "text": "Thỉnh chủ công hạ lệnh!"
+      }
+    },
+    {
+      "numstep": 15,
+      "desc": "Đi tới Trường An",
+      "command": {
+        "cmd": "gocity",
+        "cityid": "101",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 16,
+      "desc": "Nhấn vào Trường An",
+      "command": {
+        "cmd": "cityfinger",
+        "nomask": true,
+        "textdirection": "right",
+        "cityid": "101",
+        "text": "Nhấn vào giao diện công thành"
+      }
+    },
+    {
+      "numstep": 17,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Chúa công, đã dò xét rõ hư thực, phía trước là Đổng tặc ổ Trường An!",
+          "Tiểu Tước có một kiến nghị, chúa công có thể cho thám tử lẻn vào thành, thăm dò tin tức tướng thủ thành."
+        ]
+      }
+    },
+    {
+      "numstep": 18,
+      "desc": "Nhấn vào tướng thủ thành",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "Main Camera > windows_page_siege > hero_node",
+        "text": "Nhấn vào đây để xem tin tức tướng thủ thành"
+      }
+    },
+    {
+      "numstep": 19,
+      "desc": "Dẫn đạo đối thoại 3",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Cơ hội trời cho, Lữ Bố cư nhiên không ở trong thành, nghĩ đến đại quân Tây Lương đại quân lúc này đang Hổ Lao quan cùng mười tám lộ chư hầu giằng co.",
+          "Thành Trường An phòng như thế trống rỗng, chúng ta sao không thừa cơ trực tiếp đánh hạ trường an!",
+          "Chỉ là trường an dù sao cũng là Đổng tặc ổ, tường thành cao lớn, cửa thành kiên cố, chỉ sợ rất khó đánh hạ!"
+        ]
+      }
+    },
+    {
+      "numstep": 20,
+      "desc": "Đóng giao diện giới thiệu võ tướng thủ thành",
+      "command": {
+        "cmd": "closenode",
+        "args": "Main Camera > windows_page_siege > general_info"
+      }
+    },
+    {
+      "numstep": 21,
+      "desc": "Lựa chọn 2",
+      "command": {
+        "cmd": "choose",
+        "num": 1,
+        "text": "Thỉnh chúa công định ra kế hoạch tác chiến!"
+      }
+    },
+    {
+      "numstep": 22,
+      "desc": "Nhấn vào Công Thành",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "Main Camera > windows_page_siege > btn_right",
+        "text": "Nhấn vào đây để tấn công thành trì."
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Dẫn Đạo Xuất Chiến"
+}

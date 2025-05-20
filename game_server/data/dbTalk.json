@@ -1,0 +1,470 @@
+{
+  "CITY": {
+    "111": {
+      "G_GSID": 10261,
+      "FLEE_TALK": "Kẻ nào to gan dám hành thích bản vương?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Quân ta yếu thế, tạm thời rút lui!"
+    },
+    "115": {
+      "G_GSID": 10001,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công hãy an tâm, trong thành có vạn tinh binh, nơi đây quyết không thể mất!",
+      "FLEE_TALK": "Một lũ vô dụng! Đến cả thời gian một chén trà cũng không giữ nổi thành, vậy mà còn dám khoe khoang!",
+      "FLEE": "Đợi ta hội hợp đại quân, chính là tử kỳ của bọn ngươi!"
+    },
+    "134": {
+      "G_GSID": 14263,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công mau rút lui, thần nguyện đoạn hậu bảo vệ!",
+      "FLEE_TALK": "Con gái của Kiều Công quả là trung nghĩa, chỉ tiếc quân địch đã lớn mạnh, khó lòng chống lại!",
+      "FLEE": "Ta không muốn chết!"
+    },
+    "106": {
+      "G_GSID": 16001,
+      "OPEN": "Nghĩa phụ chớ lo lắng, có ta trấn giữ Hổ Lao Quan, lũ chuột nhắt này sao dám tấn công thành!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "161": {
+      "G_GSID": 10241,
+      "FLEE_TALK": "Ta chỉ muốn bảo vệ một vùng bình an, không có ý tranh bá thiên hạ. Cớ sao các ngươi lại khơi mào chiến tranh?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Các ngươi ức hiếp người quá đáng!"
+    },
+    "163": {
+      "G_GSID": 10141,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, quân địch tuy mạnh, chúng ta chưa chắc đã không địch nổi!",
+      "FLEE_TALK": "Thành trì đã mất một nửa, liệu phần còn lại có thể giữ nổi?",
+      "FLEE": "Ta sẽ không dễ dàng thất bại như vậy!"
+    },
+    "172": {
+      "G_GSID": 10041,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ giận, đợi ta ra trận lấy đầu tướng địch, vì chủ công mà giải hận!",
+      "FLEE_TALK": "Quân địch quả thật rất mạnh, nhưng nếu muốn nuốt chửng ta, cũng phải trả giá đắt!",
+      "FLEE": "Đợi ta quay về triệu tập đại quân!"
+    },
+    "104": {
+      "G_GSID": 16261,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công hãy vào thành trước, đợi ta mang đầu tướng địch về rồi sẽ bái kiến chủ công!",
+      "FLEE_TALK": "Chẳng lẽ không có ai đủ sức đối đầu với kẻ này sao!",
+      "FLEE": "Anh hùng tha mạng!"
+    },
+    "143": {
+      "G_GSID": 14022,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, quân địch tuy mạnh, chúng ta chưa chắc đã không địch nổi!",
+      "FLEE_TALK": "Thành trì đã mất một nửa, liệu phần còn lại có thể giữ nổi?",
+      "FLEE": "Ta sẽ không dễ dàng thất bại như vậy!"
+    },
+    "156": {
+      "G_GSID": 12141,
+      "OPEN": "Nguyện chết vì chủ công! Thành còn người còn, thành mất người chết!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "153": {
+      "G_GSID": 12001,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, quân địch tuy mạnh, chúng ta chưa chắc đã không địch nổi!",
+      "FLEE_TALK": "Thành trì đã mất một nửa, liệu phần còn lại có thể giữ nổi?",
+      "FLEE": "Ta sẽ không dễ dàng thất bại như vậy!"
+    },
+    "105": {
+      "G_GSID": 16241,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công đừng lo, đợi ta dẫn quân đánh lui giặc xâm phạm!",
+      "FLEE_TALK": "Toàn lũ vô dụng! Có Phụng Tiên ở đây, ta không cần lo lắng!",
+      "FLEE": "Phụng Tiên, cứu ta!"
+    },
+    "141": {
+      "G_GSID": 12203,
+      "FLEE_TALK": "Ta chỉ muốn bảo vệ một vùng bình an, không có ý tranh bá thiên hạ. Cớ sao các ngươi lại khơi mào chiến tranh?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Các ngươi ức hiếp người quá đáng!"
+    },
+    "175": {
+      "G_GSID": 10161,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Thần nguyện vì chủ công mà chiến đấu đến cùng!",
+      "FLEE_TALK": "Trời muốn diệt ta! Trời muốn diệt ta!",
+      "FLEE": "Đến nước này, chỉ có thể quyết chiến sống còn với các ngươi!"
+    },
+    "133": {
+      "G_GSID": 14142,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ lo, thần nhất định không phạm sai lầm khinh địch, nhất định sẽ đánh lui quân thù!",
+      "FLEE_TALK": "Thuyền chiến của ta bị quân địch chiếm dụng không ít, sức mạnh của chúng nay đã tăng đáng kể! Giờ lại thất bại thêm lần nữa, chẳng phải càng khó đối phó sao?",
+      "FLEE": "Chẳng lẽ ta cũng sắp đi vào vết xe đổ của Huyền Đức sao?"
+    },
+    "131": {
+      "G_GSID": 14042,
+      "FLEE_TALK": "Hôm qua ta vừa mở tiệc chiêu đãi chư tướng, sáng nay đã bị quân địch tập kích cướp thành! Quân ta chắc chắn có nội gián, nếu không chuyện này không thể nào xảy ra!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Chờ ta trở về bắt được nội gian!"
+    },
+    "124": {
+      "G_GSID": 12162,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công đừng lo lắng, ta có một kế sách, nhất định có thể đánh lui quân địch!",
+      "FLEE_TALK": "Quả nhiên nắm đấm lớn mới là đạo lí, thực lực quân ta không bằng người, có chút mưu kế cũng vô dụng",
+      "FLEE": "Chuyện này phải làm sao đây?"
+    },
+    "132": {
+      "G_GSID": 14202,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công hãy yên lòng, thủy quân của ta thiên hạ vô song, không ai có thể địch lại!",
+      "FLEE_TALK": "Một lũ phế vật! Quân địch rõ ràng không giỏi thủy chiến, nếu không phải các ngươi khinh địch, làm sao bị bắt và mất thành!",
+      "FLEE": "Quay về nhất định phải chỉnh đốn quân đội!"
+    },
+    "135": {
+      "G_GSID": 14082,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công vào thành nghỉ ngơi, thần nguyện làm sứ giả đi nghị hòa với quân địch!",
+      "FLEE_TALK": "Đáng hận! Thì ra là nội gián! Ta đã đặt hết lòng tin vào hắn! Nếu không phải ta chạy nhanh, giờ e rằng đã thành tù nhân!",
+      "FLEE": "Đừng ép ta liều mạng với các ngươi!"
+    },
+    "123": {
+      "G_GSID": 12203,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công hãy lên thành lầu quan sát, xem ta chém giết địch thế nào!",
+      "FLEE_TALK": "Một mãnh tướng như thế này, tiếc thay lại là kẻ địch. Nếu có thể thu phục hắn, còn lo gì thiên hạ không định?",
+      "FLEE": "Tướng quân có thể nghe ta một lời không?"
+    },
+    "151": {
+      "G_GSID": 14121,
+      "FLEE_TALK": "Ta chỉ muốn bảo vệ một vùng bình an, không có ý tranh bá thiên hạ. Cớ sao các ngươi lại khơi mào chiến tranh?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Các ngươi ức hiếp người quá đáng!"
+    },
+    "146": {
+      "G_GSID": 12022,
+      "OPEN": "Nguyện chết vì chủ công! Thành còn người còn, thành mất người vong!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "164": {
+      "G_GSID": 10021,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công nhanh chóng vào thành, thành này phòng thủ vững chắc như thành đồng, chắc chắn sẽ cản được quân thù ngoài cổng thành!",
+      "FLEE_TALK": "Quân địch thế như chẻ tre, ta thật sự muốn để những anh hùng dưới trướng chết oan uổng sao?",
+      "FLEE": "Ta không cam lòng!"
+    },
+    "176": {
+      "G_GSID": 16101,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, có ta ở đây, không cần đến Ôn Hầu ra tay cũng đủ giữ vững an toàn!",
+      "FLEE_TALK": "not",
+      "FLEE": "not"
+    },
+    "102": {
+      "G_GSID": 16341,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Thái sư cớ sao đến đây? Chẳng lẽ Trường An đã xảy ra biến cố gì?",
+      "FLEE_TALK": "Không ngờ Hậu Tướng Quân cũng vô dụng như vậy, may mà ta chạy nhanh, nếu không đã bị bắt sống rồi!",
+      "FLEE": "Ngươi có gan thì đuổi theo ta đi!"
+    },
+    "166": {
+      "G_GSID": 12081,
+      "OPEN": "Nguyện chết vì chủ công! Thành còn người còn, thành mất người vong!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "114": {
+      "G_GSID": 10301,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Vương gia mau mau vào thành, nô gia đã phái người cầu viện ",
+      "FLEE_TALK": "Đáng hận! Tên giặc này truy sát quá gắt! Viện quân chưa đến, trong thành không còn tướng, căn bản không thể giữ nổi!",
+      "FLEE": "Chạy mau! Chạy mau!"
+    },
+    "144": {
+      "G_GSID": 12062,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công nhanh chóng vào thành, thành này phòng thủ vững chắc như thành đồng, chắc chắn sẽ cản được quân thù ngoài cổng thành!",
+      "FLEE_TALK": "Quân địch thế như chẻ tre, ta thật sự muốn để những anh hùng dưới trướng chết oan uổng sao?",
+      "FLEE": "Ta không cam lòng!"
+    },
+    "101": {
+      "G_GSID": 16061,
+      "FLEE_TALK": "Ta đang cùng Điêu Thuyền vui đùa, sao Trường An lại nói mất là mất? Rốt cuộc là kẻ nào gây ra, ta tuyệt đối sẽ không để hắn yên!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Đợi ta quay về triệu tập đại quân, rồi tái chiến!"
+    },
+    "113": {
+      "G_GSID": 10221,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công, Lệnh Minh đến muộn bảo vệ, tội đáng muôn chết! Để ta bắt sống tên giặc này, lấy công chuộc tội!",
+      "FLEE_TALK": "Lệnh Minh thật quá lỗ mãng! Quân địch còn chưa rõ lai lịch, sao đã mù quáng xuất thành nghênh chiến, để rồi trong mất cả thành trì!",
+      "FLEE": "Đừng ức hiếp người quá đáng!"
+    },
+    "155": {
+      "G_GSID": 16381,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Thần nguyện vì chủ công mà chiến đấu đến cùng!",
+      "FLEE_TALK": "Trời muốn diệt ta! Trời muốn diệt ta!",
+      "FLEE": "Đến nước này, chỉ có thể quyết chiến sống còn với các ngươi!"
+    },
+    "171": {
+      "G_GSID": 16201,
+      "FLEE_TALK": "Ta chỉ muốn bảo vệ một vùng bình an, không có ý tranh bá thiên hạ. Cớ sao các ngươi lại khơi mào chiến tranh?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Các ngươi ức hiếp người quá đáng!"
+    },
+    "116": {
+      "G_GSID": 10082,
+      "OPEN": "Chủ công, đại quân của ta đã đến, chỉ chờ lệnh của chủ công!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "103": {
+      "G_GSID": 16281,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, có ta ở đây, không cần đến Ôn Hầu ra tay cũng đủ giữ vững an toàn!",
+      "FLEE_TALK": "Đúng là một lũ vô dụng! Ta còn chưa nghỉ ngơi được bao lâu, sao thành trì lại rơi vào tay giặc?!",
+      "FLEE": "Lạc mất ái thiếp, thật đau lòng…"
+    },
+    "154": {
+      "G_GSID": 12201,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công nhanh chóng vào thành, thành này phòng thủ vững chắc như thành đồng, chắc chắn sẽ cản được quân thù ngoài cổng thành!",
+      "FLEE_TALK": "Quân địch thế như chẻ tre, ta thật sự muốn để những anh hùng dưới trướng chết oan uổng sao?",
+      "FLEE": "Ta không cam lòng!"
+    },
+    "142": {
+      "G_GSID": 14062,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ giận, đợi ta ra trận lấy đầu tướng địch, vì chủ công mà giải hận!",
+      "FLEE_TALK": "Quân địch quả thật rất mạnh, nhưng nếu muốn nuốt chửng ta, cũng phải trả giá đắt!",
+      "FLEE": "Đợi ta quay về triệu tập đại quân!"
+    },
+    "145": {
+      "G_GSID": 16303,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Thần nguyện vì chủ công mà chiến đấu đến cùng!",
+      "FLEE_TALK": "Trời muốn diệt ta! Trời muốn diệt ta!",
+      "FLEE": "Đến nước này, chỉ có thể quyết chiến sống còn với các ngươi!"
+    },
+    "125": {
+      "G_GSID": 12242,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công, ta đã bày mai phục, trận này chắc chắn sẽ tiêu diệt quân thù!",
+      "FLEE_TALK": "Sao quân địch có thể phát hiện mai phục của ta? Chẳng lẽ trong quân có kẻ phản bội?",
+      "FLEE": "Nhị đệ, Tam đệ, cứu ta!"
+    },
+    "165": {
+      "G_GSID": 16361,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Thần nguyện vì chủ công mà chiến đấu đến cùng!",
+      "FLEE_TALK": "Trời muốn diệt ta! Trời muốn diệt ta!",
+      "FLEE": "Đến nước này, chỉ có thể quyết chiến sống còn với các ngươi!"
+    },
+    "126": {
+      "G_GSID": 12042,
+      "OPEN": "Ca ca yên tâm, chúng ta sẽ liều chết bảo vệ ca ca chu toàn!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "136": {
+      "G_GSID": 14182,
+      "OPEN": "Chủ công, chúng ta đã không còn đường lùi, chỉ có thể quyết tử một trận!",
+      "A_NAME": "zhaoyun_1"
+    },
+    "152": {
+      "G_GSID": 12241,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ giận, đợi ta ra trận lấy đầu tướng địch, vì chủ công mà giải hận!",
+      "FLEE_TALK": "Quân địch quả thật rất mạnh, nhưng nếu muốn nuốt chửng ta, cũng phải trả giá đắt!",
+      "FLEE": "Đợi ta quay về triệu tập đại quân!"
+    },
+    "174": {
+      "G_GSID": 16262,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Xin chủ công nhanh chóng vào thành, thành này phòng thủ vững chắc như thành đồng, chắc chắn sẽ cản được quân thù ngoài cổng thành!",
+      "FLEE_TALK": "Quân địch thế như chẻ tre, ta thật sự muốn để những anh hùng dưới trướng chết oan uổng sao?",
+      "FLEE": "Ta không cam lòng!"
+    },
+    "112": {
+      "G_GSID": 10201,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Đừng làm hại chủ công của ta! Ác Lai có mặt ở đây, ai dám cùng ta quyết chiến?!",
+      "FLEE_TALK": "Rốt cuộc là thần thánh phương nào? Đến cả Ác Lai cũng không địch lại?!",
+      "FLEE": "Lũ chuột nhắt, có dám xưng tên!"
+    },
+    "162": {
+      "G_GSID": 12261,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ giận, đợi ta ra trận lấy đầu tướng địch, vì chủ công mà giải hận!",
+      "FLEE_TALK": "Quân địch quả thật rất mạnh, nhưng nếu muốn nuốt chửng ta, cũng phải trả giá đắt!",
+      "FLEE": "Đợi ta quay về triệu tập đại quân!"
+    },
+    "173": {
+      "G_GSID": 16121,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công chớ hoảng, quân địch tuy mạnh, chúng ta chưa chắc đã không địch nổi!",
+      "FLEE_TALK": "Thành trì đã mất một nửa, liệu phần còn lại có thể giữ nổi?",
+      "FLEE": "Ta sẽ không dễ dàng thất bại như vậy!"
+    },
+    "122": {
+      "G_GSID": 12122,
+      "A_NAME": "zhaoyun_1",
+      "OPEN": "Chủ công đừng hoảng, ta đã triệu tập đại quân, sẵn sàng quyết chiến!",
+      "FLEE_TALK": "Tuy đã sớm biết quân địch mạnh, nhưng không ngờ chúng lại hùng mạnh đến mức này! Quân ta đại bại trong chớp mắt!",
+      "FLEE": "May mà tay chạy nhanh"
+    },
+    "121": {
+      "G_GSID": 12182,
+      "FLEE_TALK": "Hôm qua nghe tin Tào Công bị bắt, sao hôm nay đã kéo quân đánh tới đây rồi?!",
+      "A_NAME": "zhaoyun_1",
+      "FLEE": "Quân địch quá mạnh, mau rút lui!"
+    }
+  },
+  "FORCE": {
+    "1": [],
+    "5": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Thật là một trận chiến kỳ lạ! Nhưng may nhờ chủ công anh minh, tính toán mọi đường mà dễ dàng đánh bại quân Tôn Quyền!"
+      },
+      {
+        "gsid": 16301,
+        "pos": 2,
+        "text": "Kinh Châu và Giang Đông như cành liền nhánh, Tôn Quyền là cháu ta, ta phải thay hắn báo thù!"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Khoan đã, chẳng phải các ngươi là kẻ thù không đội trời chung sao?"
+      },
+      {
+        "gsid": 16301,
+        "pos": 2,
+        "text": "Đừng nói bậy! Ta với Tôn Quyền vừa gặp đã như cố tri, cùng nhau nâng chén rượu. Hôm nay thấy cơ nghiệp của hắn tiêu tan, ta sao có thể không đứng ra bảo vệ chính nghĩa?"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "… Ta chưa từng thấy kẻ nào mặt dày vô sỉ như ngươi!"
+      }
+    ],
+    "2": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Chúc mừng chủ công đã thành công đánh bại quân Tây Lương của Đổng Trác. Với thực lực hiện tại, chủ công đã xứng danh là một vị chư hầu!"
+      },
+      {
+        "gsid": 10061,
+        "pos": 2,
+        "text": "Ếch ngồi đáy giếng ở đâu mà dám lớn tiếng? Chỉ đánh bại chút tàn binh của Đổng Trác mà cũng dám tự xưng chư hầu, chẳng phải sẽ khiến 18 lộ chư hầu năm xưa cười đến rụng răng sao?"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Ngươi là ai, dám cả gan chế nhạo chủ công ta!"
+      },
+      {
+        "gsid": 10061,
+        "pos": 2,
+        "text": "Ta là tiên phong đại tướng Hạ Hầu Đôn dưới trướng Ngụy Vương. Đom đóm sao dám tranh sáng với trăng rằm? Thiên hạ sớm muộn cũng là của chủ công ta. Nếu ngươi sớm quy phục, tất sẽ được phong công danh!"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "To gan! Thiên hạ nhà Hán sao có thể để kẻ lòng dạ hiểm ác như các ngươi chiếm đoạt! Chúng ta là người trung nghĩa, chỉ mong khôi phục nhà Hán, không muốn làm đồng lõa với nghịch tặc!"
+      }
+    ],
+    "8": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Giờ đây thiên hạ phần lớn đã nằm trong tay chủ công, thống nhất thiên hạ chỉ còn cách một bước nữa."
+      },
+      {
+        "gsid": 16261,
+        "pos": 2,
+        "text": "Vì sao chúng ta không thể sống hòa bình? U Châu là vùng đất khổ hàn, chiếm được cũng chẳng ích gì."
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Không cần nhiều lời, chúng ta hãy quyết chiến đi!"
+      }
+    ],
+    "4": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Chúc mừng chủ công đã chiếm được ba châu, từ nay xứng danh một vị bá chủ!"
+      },
+      {
+        "gsid": 14181,
+        "pos": 2,
+        "text": "Có người bên giường sao có thể ngủ ngon? Toàn quân chuẩn bị chiến đấu, kẻ địch sắp xâm phạm lãnh địa!"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "？？？"
+      }
+    ],
+    "3": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Tào Tháo bất quá chỉ như vậy mà thôi, chủ công ta chưa xuất toàn lực mà đã gục ngã!"
+      },
+      {
+        "gsid": 12021,
+        "pos": 2,
+        "text": "Tào Mạnh Đức là gian hùng, không ngờ lại có người có thể dễ dàng đánh bại hắn. Ta thấy vị tráng sĩ khí độ bất phàm, chẳng lẽ là dòng dõi hoàng tộc nhà Hán?"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Chủ công ta khởi nghiệp từ cánh đồng nghèo nàn, không phải hoàng tộc nhà Hán."
+      },
+      {
+        "gsid": 12001,
+        "pos": 2,
+        "text": "Vậy chẳng qua chỉ là dân quê mà thôi. Để người này đánh bại, xem ra Tào Mạnh Đức cũng chẳng hơn gì!"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Ngươi là kẻ thô lỗ dám nói năng thô tục, vậy thì hãy gặp nhau trên chiến trường để phân cao thấp!"
+      }
+    ],
+    "7": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Ích Châu là nơi cao tổ năm xưa khởi nghiệp. Chủ công chiếm được Ích Châu, ngày thống nhất thiên hạ xem ra không còn xa!"
+      },
+      {
+        "gsid": 16361,
+        "pos": 2,
+        "text": "Hừ, muốn thống nhất thiên hạ, cũng phải hỏi quân Tây Lương ta có đồng ý không! Đổng Trác năm xưa chỉ mang một phần quân Tây Lương vào Quan Trung đã khiến các ngươi chui rúc như chuột. Nay toàn quân Tây Lương xuất kích, ai có thể ngăn cản?"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Quân Tây Lương các ngươi so được với Lữ Bố không? Lữ Bố - người được xưng là 'nhân trung Lữ Bố' còn bại dưới tay chủ công ta, các ngươi đừng ngạo mạn!"
+      }
+    ],
+    "6": [
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Cuối cùng cũng đánh bại được tên ngụy quân tử Lưu Biểu. Chủ công thuận lợi chiếm được Kinh Tương - vùng đất tứ chiến trọng địa, bá chủ một phương quả nhiên danh bất hư truyền."
+      },
+      {
+        "gsid": 16381,
+        "pos": 2,
+        "text": "Ích Châu và Kinh Châu là anh em một nhà, Lưu Biểu là huynh trưởng của ta, ta phải thay ông ấy báo thù!"
+      },
+      {
+        "gsid": 0,
+        "pos": 1,
+        "text": "Lại nữa sao? Hoàng tộc nhà Hán các ngươi đều vô sỉ như vậy à?"
+      }
+    ]
+  }
+}

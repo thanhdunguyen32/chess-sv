@@ -1,0 +1,140 @@
+<style>
+    #febs-eximport-result .bold {
+        font-weight: 600;
+    }
+    #febs-eximport-result .layui-card {
+        box-shadow: none;
+    }
+</style>
+<div class="layui-fluid" id="febs-eximport-result" lay-title="Kết quả nhập">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <script type="text/html" template>
+                    {{#
+                    var successL = POPUP_DATA.data.length;
+                    var failL = POPUP_DATA.error.length;
+                    var time = POPUP_DATA.time;
+                    if(successL === 0 && failL === 0) {
+                    }}
+                    <span class="febs-alert-base febs-alert-info">Chưa có bản ghi nhập</span>
+                    {{#
+                    } else if (successL !== 0 && failL === 0) {
+                    }}
+                    <span class="febs-alert-base febs-alert-success">
+                        Nhập thành công tất cả, tổng cộng
+                        <a class="bold"> {{successL}} </a> bản ghi,
+                        thời gian <span class="bold">{{time}}</span>
+                    </span>
+                    {{#
+                    } else if (successL === 0 && failL !== 0) {
+                    }}
+                    <span class="febs-alert-base febs-alert-error">
+                        Nhập thất bại tất cả, tổng cộng
+                        <a class="bold"> {{failL}} </a> bản ghi,
+                        thời gian <span class="bold">{{time}}</span>
+                    </span>
+                    {{#
+                    } else  {
+                    }}
+                    <span class="febs-alert-base febs-alert-warn">
+                        Nhập thành công một phần, 
+                        nhập thành công <a class="bold"> {{successL}} </a> bản ghi,
+                        nhập thất bại <a class="bold"> {{failL}} </a> bản ghi,
+                        thời gian <span class="bold">{{time}}</span>
+                    </span>
+                    {{# } }}
+                </script>
+                <div class="layui-tab layui-tab-brief" lay-filter="result-tab">
+                    <ul class="layui-tab-title">
+                        <li class="layui-this" lay-id="success-tab">Bản ghi thành công</li>
+                        <li lay-id="fail-tab">Bản ghi thất bại</li>
+                    </ul>
+                    <div class="layui-tab-content">
+                        <div class="layui-tab-item layui-show">
+                            <table id="successTable" lay-filter="successTable" lay-data="{id: 'successTable'}"></table>
+                        </div>
+                        <div class="layui-tab-item">
+                            <table id="failTable" lay-filter="failTable" lay-data="{id: 'failTable'}"></table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/html" id="fail-row">
+    <span>Dòng {{ d.row }}</span>
+</script>
+<script type="text/html" id="fail-column">
+    <span>Cột {{ d.cellIndex + 1 }}</span>
+</script>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['jquery', 'table', 'upload'], function () {
+        var $ = layui.jquery,
+            table = layui.table,
+            element = layui.element,
+            $view = $('#febs-eximport-result'),
+            result = POPUP_DATA;
+
+        initTabs();
+
+        function renderSuccessTable() {
+            table.render({
+                elem: '#successTable',
+                id: 'successTable',
+                data: result.data,
+                page: true,
+                limits: [6, 10, 20, 100],
+                limit: 6,
+                cols: [[
+                    {field: 'field1', title: 'Trường 1'},
+                    {field: 'field2', title: 'Trường 2'},
+                    {field: 'field3', title: 'Trường 3'},
+                    {field: 'createTime', title: 'Thời gian nhập'}
+                ]]
+            });
+        }
+
+        function renderFailTable() {
+            var data = [];
+            layui.each(result.error, function (key, item) {
+                var row = item.row;
+                layui.each(item.errorFields, function (k, v) {
+                    v.row = row;
+                    data.push(v);
+                });
+            });
+            table.render({
+                elem: '#failTable',
+                id: 'failTable',
+                data: data,
+                page: true,
+                limits: [6, 10, 20, 100],
+                limit: 6,
+                cols: [[
+                    {title: 'Dòng', templet: '#fail-row'},
+                    {title: 'Cột', templet: '#fail-column'},
+                    {field: 'column', title: 'Tên cột'},
+                    {field: 'name', title: 'Trường tương ứng'},
+                    {field: 'errorMessage', title: 'Thông báo lỗi', maxlength: 400}
+                ]]
+            });
+        }
+
+        function initTabs() {
+            if (result.data.length !== 0 && result.error.length === 0) {
+                renderSuccessTable();
+                element.tabDelete('result-tab', 'fail-tab');
+            } else if (result.data.length === 0 && result.error.length !== 0) {
+                renderFailTable();
+                element.tabDelete('result-tab', 'success-tab');
+            } else {
+                renderSuccessTable();
+                renderFailTable();
+            }
+        }
+
+
+    });
+</script>

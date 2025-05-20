@@ -1,0 +1,11 @@
+创建数据库 appXX
+导入原始数据 source
+导入tcdk和activity表
+
+解压缩服务器包 unzip seeed-server.zip
+
+配置app.properties,主要是端口和数据库连接的数据库名
+
+配置cross-server
+lan_allow_ip添加gs的ip
+cross_server_list添加新的gs地址

@@ -1,0 +1,692 @@
+{
+  "2104": {
+    "REWARDS": [
+      {
+        "COUNT": 125000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 90,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 65,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_kunnan01",
+    "TIMES": 4,
+    "GENERAL": 10001,
+    "PASSCOUNT": 4,
+    "PASSID": 90101
+  },
+  "2205": {
+    "REWARDS": [
+      {
+        "COUNT": 30,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 15,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 110,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 80,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_kunnan02",
+    "TIMES": 4,
+    "GENERAL": 10181,
+    "PASSCOUNT": 5,
+    "PASSID": 90102
+  },
+  "2003": {
+    "REWARDS": [
+      {
+        "COUNT": 200000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 20,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 60,
+    "LEVEL": "bigbattle_icon_jy",
+    "LOCK": 45,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_jy",
+    "TIMES": 4,
+    "GENERAL": 16221,
+    "PASSCOUNT": 3,
+    "PASSID": 90100
+  },
+  "2208": {
+    "REWARDS": [
+      {
+        "COUNT": 30,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 180,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 125,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_kunnan05",
+    "TIMES": 4,
+    "GENERAL": 10161,
+    "PASSCOUNT": 8,
+    "PASSID": 90102
+  },
+  "2209": {
+    "REWARDS": [
+      {
+        "COUNT": 35,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 35,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 205,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 140,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_emeng01",
+    "TIMES": 4,
+    "GENERAL": 16201,
+    "PASSCOUNT": 9,
+    "PASSID": 90102
+  },
+  "2102": {
+    "REWARDS": [
+      {
+        "COUNT": 75000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 50,
+    "LEVEL": "bigbattle_icon_ry",
+    "LOCK": 35,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_ry",
+    "TIMES": 4,
+    "GENERAL": 10321,
+    "PASSCOUNT": 2,
+    "PASSID": 90101
+  },
+  "2109": {
+    "REWARDS": [
+      {
+        "COUNT": 300000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 205,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 140,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_emeng01",
+    "TIMES": 4,
+    "GENERAL": 16001,
+    "PASSCOUNT": 9,
+    "PASSID": 90101
+  },
+  "2107": {
+    "REWARDS": [
+      {
+        "COUNT": 200000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 40,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 155,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 110,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_kunnan04",
+    "TIMES": 4,
+    "GENERAL": 12021,
+    "PASSCOUNT": 7,
+    "PASSID": 90101
+  },
+  "2110": {
+    "REWARDS": [
+      {
+        "COUNT": 375000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 55,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 230,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 155,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_emeng02",
+    "TIMES": 4,
+    "GENERAL": 14001,
+    "PASSCOUNT": 10,
+    "PASSID": 90101
+  },
+  "2206": {
+    "REWARDS": [
+      {
+        "COUNT": 30,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 20,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 130,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 95,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_kunnan03",
+    "TIMES": 4,
+    "GENERAL": 16181,
+    "PASSCOUNT": 6,
+    "PASSID": 90102
+  },
+  "2210": {
+    "REWARDS": [
+      {
+        "COUNT": 40,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 40,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 230,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 155,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_emeng02",
+    "TIMES": 4,
+    "GENERAL": 10161,
+    "PASSCOUNT": 10,
+    "PASSID": 90102
+  },
+  "2004": {
+    "REWARDS": [
+      {
+        "COUNT": 250000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 80,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 60,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_kunnan01",
+    "TIMES": 4,
+    "GENERAL": 12001,
+    "PASSCOUNT": 4,
+    "PASSID": 90100
+  },
+  "2106": {
+    "REWARDS": [
+      {
+        "COUNT": 175000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 35,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 130,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 95,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_kunnan03",
+    "TIMES": 4,
+    "GENERAL": 16222,
+    "PASSCOUNT": 6,
+    "PASSID": 90101
+  },
+  "2005": {
+    "REWARDS": [
+      {
+        "COUNT": 300000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 100,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 75,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_kunnan02",
+    "TIMES": 4,
+    "GENERAL": 10021,
+    "PASSCOUNT": 5,
+    "PASSID": 90100
+  },
+  "2007": {
+    "REWARDS": [
+      {
+        "COUNT": 400000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 40,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 150,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 105,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_kunnan04",
+    "TIMES": 4,
+    "GENERAL": 16222,
+    "PASSCOUNT": 7,
+    "PASSID": 90100
+  },
+  "2008": {
+    "REWARDS": [
+      {
+        "COUNT": 450000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 45,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 175,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 120,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_kunnan05",
+    "TIMES": 4,
+    "GENERAL": 14001,
+    "PASSCOUNT": 8,
+    "PASSID": 90100
+  },
+  "2105": {
+    "REWARDS": [
+      {
+        "COUNT": 150000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 110,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 80,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_kunnan02",
+    "TIMES": 4,
+    "GENERAL": 10021,
+    "PASSCOUNT": 5,
+    "PASSID": 90101
+  },
+  "2203": {
+    "REWARDS": [
+      {
+        "COUNT": 20,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 5,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 70,
+    "LEVEL": "bigbattle_icon_jy",
+    "LOCK": 50,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_jy",
+    "TIMES": 4,
+    "GENERAL": 12261,
+    "PASSCOUNT": 3,
+    "PASSID": 90102
+  },
+  "2002": {
+    "REWARDS": [
+      {
+        "COUNT": 150000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 45,
+    "LEVEL": "bigbattle_icon_ry",
+    "LOCK": 30,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_ry",
+    "TIMES": 4,
+    "GENERAL": 16321,
+    "PASSCOUNT": 2,
+    "PASSID": 90100
+  },
+  "2101": {
+    "REWARDS": [
+      {
+        "COUNT": 50000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 30,
+    "LEVEL": "bigbattle_icon_rm",
+    "LOCK": 20,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_rm",
+    "TIMES": 4,
+    "GENERAL": 12321,
+    "PASSCOUNT": 1,
+    "PASSID": 90101
+  },
+  "2108": {
+    "REWARDS": [
+      {
+        "COUNT": 250000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 45,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 180,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 125,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_kunnan05",
+    "TIMES": 4,
+    "GENERAL": 10001,
+    "PASSCOUNT": 8,
+    "PASSID": 90101
+  },
+  "2010": {
+    "REWARDS": [
+      {
+        "COUNT": 550000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 55,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 225,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 150,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_emeng02",
+    "TIMES": 4,
+    "GENERAL": 16222,
+    "PASSCOUNT": 10,
+    "PASSID": 90100
+  },
+  "2204": {
+    "REWARDS": [
+      {
+        "COUNT": 20,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 90,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 65,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_kunnan01",
+    "TIMES": 4,
+    "GENERAL": 10301,
+    "PASSCOUNT": 4,
+    "PASSID": 90102
+  },
+  "2009": {
+    "REWARDS": [
+      {
+        "COUNT": 500000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 200,
+    "LEVEL": "bigbattle_icon_emeng",
+    "LOCK": 135,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_emeng01",
+    "TIMES": 4,
+    "GENERAL": 12001,
+    "PASSCOUNT": 9,
+    "PASSID": 90100
+  },
+  "2006": {
+    "REWARDS": [
+      {
+        "COUNT": 350000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 35,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 125,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 90,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_kunnan03",
+    "TIMES": 4,
+    "GENERAL": 14001,
+    "PASSCOUNT": 6,
+    "PASSID": 90100
+  },
+  "2202": {
+    "REWARDS": [
+      {
+        "COUNT": 15,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 2,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 50,
+    "LEVEL": "bigbattle_icon_ry",
+    "LOCK": 35,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_ry",
+    "TIMES": 4,
+    "GENERAL": 12301,
+    "PASSCOUNT": 2,
+    "PASSID": 90102
+  },
+  "2201": {
+    "REWARDS": [
+      {
+        "COUNT": 10,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 1,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 30,
+    "LEVEL": "bigbattle_icon_rm",
+    "LOCK": 20,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_rm",
+    "TIMES": 4,
+    "GENERAL": 10381,
+    "PASSCOUNT": 1,
+    "PASSID": 90102
+  },
+  "2103": {
+    "REWARDS": [
+      {
+        "COUNT": 100000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 20,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 2,
+    "GLEVEL": 70,
+    "LEVEL": "bigbattle_icon_jy",
+    "LOCK": 50,
+    "MAP": "battle_img_matou",
+    "LEVEL2": "bigbattle_tx_jy",
+    "TIMES": 4,
+    "GENERAL": 12181,
+    "PASSCOUNT": 3,
+    "PASSID": 90101
+  },
+  "2001": {
+    "REWARDS": [
+      {
+        "COUNT": 100000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30015
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 1,
+    "GLEVEL": 20,
+    "LEVEL": "bigbattle_icon_rm",
+    "LOCK": 15,
+    "MAP": "battle_img_xuedi",
+    "LEVEL2": "bigbattle_tx_rm",
+    "TIMES": 4,
+    "GENERAL": 10361,
+    "PASSCOUNT": 1,
+    "PASSID": 90100
+  },
+  "2207": {
+    "REWARDS": [
+      {
+        "COUNT": 30,
+        "GSID": 36041
+      },
+      {
+        "COUNT": 25,
+        "GSID": 36021
+      }
+    ],
+    "RATIO": 350,
+    "TYPE": 3,
+    "GLEVEL": 155,
+    "LEVEL": "bigbattle_icon_kunnan",
+    "LOCK": 110,
+    "MAP": "battle_img_guanai",
+    "LEVEL2": "bigbattle_tx_kunnan04",
+    "TIMES": 4,
+    "GENERAL": 16181,
+    "PASSCOUNT": 7,
+    "PASSID": 90102
+  }
+}

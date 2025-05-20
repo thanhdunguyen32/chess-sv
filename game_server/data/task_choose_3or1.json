@@ -1,0 +1,24 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "desc": "Nhấn vào Thần Tướng 3 chọn 1",
+      "command": {
+        "cmd": "finger",
+        "args": "new_worldmap_page > activity_node > 3or1",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Giới thiệu chọn võ tướng",
+      "command": {
+        "cmd": "locator",
+        "args": "activity_qiri_choise_page > bg_node > layout",
+        "textdirection": "mid",
+        "text": "Cần chọn một Thần Tướng!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Thần Tướng 3 chọn 1"
+}

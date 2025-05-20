@@ -1,0 +1,154 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 105,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, tướng thủ hộ Trường An đa số đã bị chúa công đánh bại, cửa thành sập, nhân tâm tán loạn, phá thành chỉ là chuyện sớm muộn, nhưng thỉnh chúa công tạm dừng công thành, tiểu tước có chuyện quan trọng cần báo."
+      }
+    },
+    {
+      "numstep": 106,
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "notice",
+        "text": "Tiểu tước vẻ mặt khẩn trương, đuổi đi thủ vệ doanh trướng và kéo lại rèm. . ."
+      }
+    },
+    {
+      "numstep": 107,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Chúa công, Tiểu Tước mới tại trong loạn quân phát hiện Y Đới Chiếu, đồn đại đây là thiên tử tín vật, được người bí mật mang ra hoàng cung kêu gọi quần hùng thiên hạ khởi binh thảo phạt Đổng tặc!",
+          "Chủ Công nhận được vật này, có thể thuận ứng thiên mệnh phụng chỉ dẹp loạn, Hiến Đế sẽ phong thưởng cho những ai có công lớn trong việc trừ gian."
+        ]
+      }
+    },
+    {
+      "numstep": 108,
+      "desc": "Chọn lựa 5",
+      "command": {
+        "cmd": "choose",
+        "num": 4,
+        "text": "Chúa công, chúng ta nên lợi dụng Y Đới Chiếu này như thế nào?"
+      }
+    },
+    {
+      "numstep": 109,
+      "desc": "Dẫn đạo đối thoại 3",
+      "command": {
+        "cmd": "talk",
+        "args": "Không hổ là chúa công, đại trượng phu thân phùng loạn thế, kiến công lập nghiệp há có thể tầm thường một đời! Hy vọng một ngày kia Tiểu Tước có thể may mắn thấy chúa công đạt được ước muốn!"
+      }
+    },
+    {
+      "numstep": 110,
+      "desc": "Nút quan chức",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "left",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_07",
+        "location": "up",
+        "text": "Nhấn vào tiến tới giao diện quan chức"
+      }
+    },
+    {
+      "numstep": 111,
+      "desc": "Giới thiệu quan chức tăng cường",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "locator",
+        "args": "office_page > office_switch_page > power_bg",
+        "textdirection": "right",
+        "text": "Ở đây hiển thị chức quan cùng thuộc tính tăng cường"
+      }
+    },
+    {
+      "numstep": 111,
+      "desc": "Giới thiệu nhiệm vụ quan chức",
+      "command": {
+        "cmd": "locator",
+        "args": "office_page > office_switch_page > bg_01",
+        "textdirection": "right",
+        "text": "Ở đây hiển thị điều kiện tăng bậc chức quan"
+      }
+    },
+    {
+      "numstep": 112,
+      "desc": "Nhận nhiệm vụ quan chức 1",
+      "command": {
+        "cmd": "finger",
+        "args": "office_page > office_switch_page > bg_01 > tower_reward_item_02 > btn_get_reward",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 113,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 114,
+      "desc": "Nhận nhiệm vụ quan chức 2",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "office_page > office_switch_page > bg_01 > tower_reward_item_03 > btn_get_reward",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 115,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 116,
+      "desc": "Nhận nhiệm vụ quan chức 3",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "office_page > office_switch_page > bg_01 > tower_reward_item_04 > btn_get_reward",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 117,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 118,
+      "desc": "Dẫn đạo đối thoại 4",
+      "command": {
+        "cmd": "talk",
+        "args": "Bẩm chúa công, chỉ còn một bước nữa là Người sẽ chính thức xuất sĩ. Chỉ cần công phá Trường An, chúa công sẽ lập tức được thăng quan tiến chức, tương lai thăng tiến như diều gặp gió, việc phân đất phong không còn là chuyện xa vời. Hãy xuất phát ngay thôi!"
+      }
+    },
+    {
+      "numstep": 119,
+      "desc": "Tiến tới nhiệm vụ quan chức",
+      "command": {
+        "cmd": "finger",
+        "args": "office_page > office_switch_page > bg_01 > tower_reward_item_01 > btn_get_reward",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn quan chức"
+}

@@ -1,0 +1,102 @@
+﻿安装上传下载工具
+yum -y install lrzsz
+安装wget工具
+yum -y install wget
+
+yum install -y unzip zip
+
+Mysql安装
+删除已有的mysql组件：yum remove mysql-server mysql-devel
+运行 mysql80.sh
+上传 my-80.cnf
+修改my.cnf的innodb内存参数
+启动mysql:
+systemctl restart mysqld.service
+
+Java安装
+删除openJdk
+rpm -qa | grep openjdk | xargs rpm -e --nodeps
+
+下载 jdk-11.0.21_linux-x64_bin.rpm文件
+rpm -ivh jdk-11.0.21_linux-x64_bin.rpm
+
+java环境变量设置
+sudo sh -c "echo '
+export JAVA_HOME=/usr/java/jdk-11.0.21
+export CLASSPATH=.:\$JAVA_HOME/jre/lib/rt.jar:\$JAVA_HOME/lib/dt.jar:\$JAVA_HOME/lib/tools.jar
+export PATH=\$PATH:\$JAVA_HOME/bin' >> /etc/profile"
+
+同时打开文件数 vi /etc/security/limits.conf
+在最后加入
+* soft noproc 65535
+* hard noproc 65535
+* soft nofile 65535
+* hard nofile 65535
+
+关闭ntp时间同步，否则会导致id重复
+
+关闭 selinux
+永久性关闭（这样需要重启服务器后生效）
+# sudo sed -i 's/SELINUX=enforcing/SELINUX=disabled/' /etc/selinux/config
+
+临时性关闭（立即生效，但是重启服务器后失效）
+# setenforce 0 #设置selinux为permissive模式（即关闭）
+# setenforce 1 #设置selinux为enforcing模式（即开启）
+
+编译安装包
+sh /home/tool/package.sh
+sh /home/tool/package_gm.sh
+
+发送安装包
+scp /home/package/login-server-1.0.2-bin.zip root@120.26.68.113:/home/package
+
+scp /home/package/seed-server-1.0.2-bin.zip root@120.26.68.113:/home/package
+
+scp /home/package/gm_main.war root@120.26.68.113:/home/package
+
+导出sql文件
+mysqldump -uroot -proot -hlocalhost -P3306 --no-data mobile_app > mobile_app.sql
+sed -i 's/AUTO_INCREMENT=[.0-9]*/AUTO_INCREMENT=1/' mobile_app.sql
+
+mysqldump -uroot -proot -hlocalhost -P3306 --no-data gm_tool > gm_tool.sql
+sed -i 's/AUTO_INCREMENT=[.0-9]*/AUTO_INCREMENT=1/' gm_tool.sql
+
+发送sql文件
+scp gm_tool.sql root@120.26.68.113:/home/package
+scp mobile_app.sql root@120.26.68.113:/home/package
+scp init.sql root@120.26.68.113:/home/package
+
+
+创建数据库
+create database hack_sango_dev default character set utf8mb4 collate utf8mb4_general_ci;
+create database gm_tool default character set utf8mb4 collate utf8mb4_general_ci;
+
+导入数据
+use mobile_app
+source /home/package/mobile_app.sql
+
+初始化数据
+source /home/package/init.sql
+
+导入gm数据
+use gm_tool
+source /home/package/gm_tool.sql
+
+解压文件
+unzip seed-server-1.0.2-bin.zip
+
+修改数据库配置
+vi app.properties 
+修改内容:
+1.服务器ip改成127.0.0.1
+2.zone.id改成1
+
+修改login.properties
+1.服务器ip改成127.0.0.1
+
+操作如下：
+:g/192.168.0.100/s//127.0.0.1/
+:g/zone.id=2/s//zone.id=1/
+
+启动服务器
+sh start.sh

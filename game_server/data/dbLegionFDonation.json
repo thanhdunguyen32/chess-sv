@@ -1,0 +1,60 @@
+{
+  "1": [
+    {
+      "ADDEXP": 200000,
+      "CASTITEMS": [
+        {
+          "COUNT": 200000,
+          "GSID": 38006
+        }
+      ]
+    },
+    {
+      "ADDEXP": 200000,
+      "CASTITEMS": [
+        {
+          "COUNT": 300000,
+          "GSID": 38006
+        }
+      ]
+    },
+    {
+      "ADDEXP": 200000,
+      "CASTITEMS": [
+        {
+          "COUNT": 400000,
+          "GSID": 38006
+        }
+      ]
+    }
+  ],
+  "2": [
+    {
+      "ADDEXP": 400000,
+      "CASTITEMS": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ]
+    },
+    {
+      "ADDEXP": 400000,
+      "CASTITEMS": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ]
+    },
+    {
+      "ADDEXP": 400000,
+      "CASTITEMS": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ]
+    }
+  ]
+}

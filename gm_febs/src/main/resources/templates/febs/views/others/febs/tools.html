@@ -1,0 +1,236 @@
+<style>
+    #febs-tools .layui-card-header {
+        font-weight: 600;
+    }
+
+    #febs-tools p {
+        margin-bottom: 10px
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-tools" lay-title="Công cụ FEBS">
+    <div class="layui-row layui-col-space8 febs-container">
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">Lớp popup</div>
+                <div class="layui-card-body">
+                    <p>febs.modal.info / warn / success / error(), sử dụng layer.alert() để thực hiện, tham số giống với trang chủ.</p>
+                    <div class="layui-btn-container">
+                        <button class="layui-btn layui-btn-normal" id="modal-info">Thông tin</button>
+                        <button class="layui-btn layui-btn-warm" id="modal-warn">Cảnh báo</button>
+                        <button class="layui-btn layui-btn-success" id="modal-success">Thành công</button>
+                        <button class="layui-btn layui-btn-danger" id="modal-error">Lỗi</button>
+                        <button class="layui-btn layui-btn-normal" id="modal-confirm">Xác nhận</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">Lớp thông báo</div>
+                <div class="layui-card-body">
+                    <p>febs.alert.info / warn / success / error(), sử dụng layer.alert() để thực hiện, tham số giống với trang chủ.</p>
+                    <div class="layui-btn-container">
+                        <button class="layui-btn layui-btn-normal" id="alert-info">Thông tin</button>
+                        <button class="layui-btn layui-btn-warm" id="alert-warn">Cảnh báo</button>
+                        <button class="layui-btn layui-btn-success" id="alert-success">Thành công</button>
+                        <button class="layui-btn layui-btn-danger" id="alert-error">Lỗi</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">Lớp popup</div>
+                <div class="layui-card-body">
+                    <p>Sử dụng febs.modal.open() để mở bất kỳ URL nào, sử dụng layer.open() để thực hiện, tham số giống với trang chủ.</p>
+                    <div class="layui-btn-container">
+                        <button class="layui-btn  layui-btn-primary" id="popup-out">Trang web ngoài</button>
+                        <button class="layui-btn  layui-btn-primary" id="popup-inner">Trang web trong</button>
+                        <button class="layui-btn  layui-btn-primary" id="popup-clean">Kiểu đơn giản</button>
+                        <button class="layui-btn  layui-btn-primary" id="popup-with-button">Thêm nút</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">Thao tác Tab</div>
+                <div class="layui-card-body">
+                    <p>Làm mới trang Tab hiện tại: <a id="refresh-tab">Nhấn để làm mới</a></p>
+                    <pre class="layui-code" lay-title="JavaScript" lay-encode="true">
+// html
+<a>Nhấn để làm mới</a>
+// js
+$('a').on('click', function () {
+    febs.view.tab.refresh();
+}
+                    </pre>
+                    <p>Chuyển đến trang Tab chỉ định: <a id="change-tab">Nhấn để chuyển đến trang chủ</a></p>
+                    <pre class="layui-code" lay-title="JavaScript" lay-encode="true">
+// html
+<a>Nhấn để chuyển</a>
+// js
+$('a').on('click', function () {
+    febs.view.tab.change("/index");
+}
+                    </pre>
+                    <p>Đóng trang Tab chỉ định: <a id="del-tab">Nhấn để đóng Tab hiện tại và chuyển đến trang chủ</a></p>
+                    <pre class="layui-code" lay-title="JavaScript" lay-encode="true">
+// html
+<a>Nhấn để chuyển</a>
+// js
+$('a').on('click', function () {
+    var currentUrl = window.location.hash.replace('#', '');
+    febs.view.tab.del(currentUrl);
+    febs.view.tab.change("/index");
+}
+                    </pre>
+                    <span class="febs-alert-base febs-alert-success">Để biết thêm thao tác Tab, vui lòng đọc mã nguồn static/febs/lay/modules/view.js.</span>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">Thao tác Router</div>
+                <div class="layui-card-body">
+                    <p>Chặn chuyển hướng router:</p>
+                    <pre class="layui-code" lay-title="JavaScript">
+febs.routeLeave(function (route, nextPath, next) {
+    // route: thông tin router trang hiện tại
+    // nextPath: đường dẫn sẽ chuyển đến
+    // next(): thực hiện chuyển trang
+})
+                    </pre>
+                    <p>Lấy địa chỉ router hiện tại:</p>
+                    <pre class="layui-code" lay-title="JavaScript">
+var url = febs.route.href;
+                    </pre>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header">LoadBar</div>
+                <div class="layui-card-body">
+                    <p>Nhấn để xem hiệu ứng:</p>
+                    <button class="layui-btn layui-btn-normal" id="load-start">Bắt đầu Start</button>
+                    <button class="layui-btn layui-btn-normal" id="load-finish">Kết thúc Finish</button>
+                    <button class="layui-btn layui-btn-danger" id="load-error">Lỗi Error</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="javascript" type="text/javascript">
+    layui.use(['febs', 'code'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            $view = $("#febs-tools");
+
+        layui.code();
+        // ------------ Lớp popup ------------------------
+        $view.find('#modal-info').on('click', function () {
+            febs.modal.info('Vui lòng nhập tiêu đề', 'Vui lòng nhập nội dung', function () {
+                febs.alert.info("Callback nút xác nhận");
+            });
+        });
+        $view.find('#modal-warn').on('click', function () {
+            febs.modal.warn('Vui lòng nhập tiêu đề', 'Vui lòng nhập nội dung', function () {
+                febs.alert.info("Callback nút xác nhận");
+            });
+        });
+        $view.find('#modal-success').on('click', function () {
+            febs.modal.success('Vui lòng nhập tiêu đề', 'Vui lòng nhập nội dung', function () {
+                febs.alert.info("Callback nút xác nhận");
+            });
+        });
+        $view.find('#modal-error').on('click', function () {
+            febs.modal.error('Vui lòng nhập tiêu đề', 'Vui lòng nhập nội dung', function () {
+                febs.alert.info("Callback nút xác nhận");
+            });
+        });
+        $view.find('#modal-confirm').on('click', function () {
+            febs.modal.confirm('Vui lòng nhập tiêu đề', 'Vui lòng nhập nội dung', function () {
+                febs.alert.info("Callback nút xác nhận");
+            }, function () {
+                febs.alert.info("Callback nút hủy");
+            });
+        });
+
+        // ------------------- Lớp thông báo ---------------------
+        $view.find('#alert-info').on('click', function () {
+            febs.alert.info("Thông tin thông báo");
+        });
+        $view.find('#alert-warn').on('click', function () {
+            febs.alert.warn("Thông tin cảnh báo");
+        });
+        $view.find('#alert-success').on('click', function () {
+            febs.alert.success("Thông tin thành công");
+        });
+        $view.find('#alert-error').on('click', function () {
+            febs.alert.error("Thông tin lỗi");
+        });
+
+        // -------------------- popup ----------------------
+        $view.find('#popup-out').on('click', function () {
+            febs.modal.open('Tìm kiếm Baidu', 'https://www.baidu.com');
+        });
+        $view.find('#popup-inner').on('click', function () {
+            febs.modal.open('Trang web nội bộ', 'others/apex/radar', {
+                //Truyền tham số, trang popup có thể lấy giá trị bằng POPUP_DATA.username
+                data: {
+                    username: 'MrBird'
+                }
+            });
+        });
+        $view.find('#popup-clean').on('click', function () {
+            febs.modal.view('Địa chỉ blog', 'https://mrbird.cc');
+        });
+
+        $view.find('#popup-with-button').on('click', function () {
+            febs.modal.view('Địa chỉ blog', 'https://mrbird.cc', {
+                btn: ['Xác nhận', 'Hủy'],
+                yes: function () {
+                    febs.alert.info('Callback nút xác nhận');
+                },
+                btn2: function () {
+                    febs.alert.info('Callback nút hủy');
+                    return false;
+                }
+            });
+        });
+
+        //  ------------------- Thao tác tab ---------------------------
+        $view.find('a#refresh-tab').on('click', function () {
+            var isTab = currentUser.isTab;
+            if (isTab === '1') {
+                febs.view.tab.refresh();
+            } else {
+                window.location.reload();
+            }
+            febs.alert.success('Làm mới hoàn tất')
+        });
+        $view.find('a#change-tab').on('click', function () {
+            febs.view.tab.change("/index");
+        });
+        $view.find('a#del-tab').on('click', function () {
+            var currentUrl = window.location.hash.replace('#', '');
+            febs.view.tab.change("/index");
+            febs.view.tab.del(currentUrl);
+        });
+
+        // -------------- LoadBar --------------------------------
+        $view.find('#load-start').on('click', function () {
+            febs.view.loadBar.start();
+        });
+        $view.find('#load-finish').on('click', function () {
+            febs.view.loadBar.finish();
+        });
+        $view.find('#load-error').on('click', function () {
+            febs.view.loadBar.start();
+            setTimeout(function () {
+                febs.view.loadBar.error();
+            }, 1000);
+        });
+    });
+</script>

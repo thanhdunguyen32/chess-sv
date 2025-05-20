@@ -1,0 +1,38 @@
+file {
+  name: "Base.proto"
+  message_type {
+    name: "Base"
+    field {
+      name: "cmd"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "code"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "param"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "lordId"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    extension_range {
+      start: 100
+      end: 536870912
+    }
+  }
+  options {
+    java_package: "com.hundredcent.game.mw.pb"
+    java_outer_classname: "BasePb"
+  }
+}

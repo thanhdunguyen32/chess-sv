@@ -1,0 +1,39 @@
+等级小于5级，没有充值，半个月内没有登录。
+
+drop table if EXISTS delete_players;
+SET global max_heap_table_size=76800000;
+
+CREATE TABLE `delete_players` (`f_id` int(11) NOT NULL AUTO_INCREMENT, `player_id` int(11) NOT NULL DEFAULT '0', PRIMARY KEY (`f_id`)) ENGINE=HEAP DEFAULT CHARSET=utf8;
+
+insert into delete_players(player_id) select player.id from player LEFT JOIN log_topup on player.id = log_topup.player_id where player.level<5 and TO_DAYS(NOW()) - TO_DAYS(player.regist_time) >7 and log_topup.player_id is NULL;
+
+
+delete from player where id in (select player_id from delete_players);
+delete from activity_player where player_id in (select player_id from delete_players);
+delete from arena where player_id in (select player_id from delete_players);
+delete from boss_log where player_id in (select player_id from delete_players);
+delete from buy_cost where player_id in (select player_id from delete_players);
+delete from cdkey where player_id in (select player_id from delete_players);
+delete from craft where player_id in (select player_id from delete_players);
+delete from enemy_invade where player_id in (select player_id from delete_players);
+delete from friend where player_id in (select player_id from delete_players);
+delete from friend where friend_id in (select player_id from delete_players);
+delete from friend_building where player_id in (select player_id from delete_players);
+delete from guild_self where player_id in (select player_id from delete_players);
+delete from hero where player_id in (select player_id from delete_players);
+delete from invite where player_id in (select player_id from delete_players);
+delete from item where player_id in (select player_id from delete_players);
+delete from log_topup where player_id in (select player_id from delete_players);
+delete from mail where player_id in (select player_id from delete_players);
+delete from online_award where player_id in (select player_id from delete_players);
+delete from player_box where player_id in (select player_id from delete_players);
+delete from player_buy where player_id in (select player_id from delete_players);
+delete from player_extra where player_id in (select player_id from delete_players);
+delete from pvp where player_id in (select player_id from delete_players);
+delete from secret where player_id in (select player_id from delete_players);
+delete from setting where player_id in (select player_id from delete_players);
+delete from sign where player_id in (select player_id from delete_players);
+delete from stage where player_id in (select player_id from delete_players);
+delete from store where player_id in (select player_id from delete_players);
+delete from task_progress where player_id in (select player_id from delete_players);
+delete from tower where player_id in (select player_id from delete_players);

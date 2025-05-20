@@ -1,0 +1,191 @@
+<div class="layui-layout layui-layout-admin" id="febs-layout">
+    <div class="layui-header layui-anim febs-anim-down" id="app-header">
+        <script type="text/html"
+                template
+                lay-done="layui.element.render('nav','febs-header')">
+            <ul class="layui-nav layui-layout-left" lay-filter="febs-header">
+                <li class="layui-nav-item" lay-unselect>
+                    <a febs-event="flexible" title="Kính thiên văn bên">
+                        <i class="layui-icon layui-icon-shrink-right"></i>
+                    </a>
+                </li>
+                <span class="febs-breadcrumb"></span>
+            </ul>
+            <div class="layui-layout-left layui-input-block layui-form" style="margin-left:60px;margin-top:5px;width:160px;" lay-filter="febs-form-elements">
+                <select name="default-gs" id="default-gs" lay-filter="default-gs">
+                    <option value="">Vui lòng chọn máy chủ trò chơi</option>
+                    {{# gslist.forEach(function(val){  }}
+                    <option value="{{ val.id }}" {{ (currentUser.gsEntity !=null && currentUser.gsEntity.id == val.id) ? "selected=''" : "" }}>{{ val.name }}</option>
+                    {{# }) }}
+                </select>
+            </div>
+            <ul class="layui-nav layui-layout-right" lay-filter="febs-header">
+                <li class="layui-nav-item layui-user" lay-unselect>
+                    <a>
+                        <img style="width: 1.9rem;margin-right:.5rem;border-radius: 50%"
+                             src="{{= ctx + 'febs/images/avatar/' + currentUser.avatar }}" title="头像">
+                        {{ currentUser.username }}
+                    </a>
+                    <dl class="layui-nav-child">
+                        <dd><a class="layui-nav-child-href" id="user-profile">Trung tâm cá nhân</a></dd>
+                        <dd><a class="layui-nav-child-href" id="password-update">Thay đổi mật khẩu</a></dd>
+                        <dd><a class="layui-nav-child-href" target="_blank" href="https://github.com/wuyouzhuguli/FEBS-Shiro">Địa chỉ dự án</a></dd>
+                        <hr/>
+                        <dd><a class="layui-nav-child-href" data-th-href="@{logout}">Đăng xuất</a></dd>
+                    </dl>
+                </li>
+            </ul>
+        </script>
+    </div>
+
+    <div class="febs-tabs-hidden">
+        <script type="text/html" id="TPL-app-tabsmenu" template>
+            {{# if(layui.conf.viewTabs){ }}
+            <div class="febs-tabs-wrap">
+          <span class="febs-tabs-btn febs-tabs-action febs-tabs-prev" data-type="prev">
+              <i class="layui-icon layui-icon-left"></i>
+          </span>
+                <span class="febs-tabs-btn febs-tabs-action febs-tabs-next" data-type="next">
+              <i class="layui-icon layui-icon-right"></i>
+          </span>
+                <span class="febs-tabs-btn febs-tabs-action febs-tabs-down" data-type="down">
+              <i class="layui-icon layui-icon-close"></i>
+          </span>
+                <ul class="febs-tabs-menu">
+                    {{# layui.each(layui.view.tab.data,function(i, item){ }}
+                    <li data-type="page" class="febs-tabs-btn" lay-url="{{item.fileurl}}">
+                        <i class="febs-tabs-ball"></i>{{ item.title }}<b class="layui-icon layui-icon-close febs-tabs-close"></b>
+                    </li>
+                    {{# }) }}
+                </ul>
+            </div>
+            {{# } }}
+        </script>
+    </div>
+
+    <!-- 侧边菜单 -->
+    <div class="layui-side" id="app-sidebar">
+        <div class="layui-side-scroll">
+            <div class="layui-logo" style="cursor: pointer">
+                <img data-th-src="@{febs/images/logo.png}">
+                <span>Hệ thống quản lý phụ trợ</span>
+            </div>
+            <script
+                    type="text/html"
+                    template
+                    lay-api="getMenus"
+                    lay-done="layui.element.render('nav','febs-sidebar');layui.febs.sidebarFocus()">
+                <ul class="layui-nav layui-nav-tree" lay-filter="febs-sidebar" lay-shrink="all">
+                    {{#
+                    function __createSlidebar(data,index){
+                    if(!data || data.length == 0) return '';
+                    var html = '
+                    <dl class="layui-nav-child">';
+                        layui.each(data, function(i, child) {
+                        var left = index == 0 ? 50 : 50 + index * 20;
+                        var title = child.title;
+                        if (child.icon) {
+                        title = '<i class="layui-icon '+child.icon+'"></i>' + child.title
+                        }
+                        html += '
+                        <dd><a style="padding-left:' + left + 'px" target="'+(child.target||'')+'"
+                               lay-href="'+ (child.href||'') +'">' + title + '</a>';
+                            if(child.childs) html += __createSlidebar(child.childs,index+1);
+                            html += '</dd>';
+                        });
+                        html = html +'</dl>';
+                    return html;
+                    }
+                    layui.each(d.childs, function(i,child){
+                    }}
+                    <li class="layui-nav-item">
+                        <a lay-href="{{child.href||''}}" target="{{child.target||''}}" title="{{child.title}}"><i
+                                class="layui-icon {{child.icon}}"></i>{{child.title}} {{# if(child.notice){ }}<span
+                                class="layui-badge">{{ child.notice }}</span>{{# } }}</a>
+                        {{ __createSlidebar(child.childs,0) }}
+                    </li>
+                    {{# }) }}
+                </ul>
+            </script>
+        </div>
+    </div>
+    <!-- 主体内容 -->
+    <div class="layui-body" id="febs-body"></div>
+    <!-- 底部内容 -->
+    <div class="layui-footer footer footer-demo">
+        <div class="layui-main">
+            <p>© 2019 <a href="/">layui.com</a> MIT license</p>
+            <p>
+                <a href="http://fly.layui.com/case/2019/" target="_blank">Trường hợp</a>
+                <a href="http://fly.layui.com/jie/3147/" target="_blank">Ủng hộ</a>
+                <!--<a href="javascript:;" site-event="contactInfo">联系</a>-->
+                <a href="https://github.com/sentsin/layui/" target="_blank" rel="nofollow">GitHub</a>
+                <a href="https://gitee.com/sentsin/layui" target="_blank" rel="nofollow">Đám mây mã</a>
+                <a href="http://fly.layui.com/jie/2461/" target="_blank" class="layui-hide-xs">Tài khoản chính thức</a>
+                <a href="http://www.miitbeian.gov.cn/" target="_blank" rel="nofollow">Gan ICP số 13006272-2</a>
+            </p>
+        </div>
+    </div>
+</div>
+<script data-th-inline="javascript" type="text/javascript">
+    layui.use(['jquery', 'febs', 'element', 'form'], function () {
+        var $ = layui.jquery,
+            form = layui.form,
+            $view = $('#febs-layout'),
+            febs = layui.febs;
+
+        var element = layui.element;
+        //init select
+
+        form.render(null, 'febs-form-elements');
+
+        form.on("select(default-gs)",function(d){
+            let selectgs = d.value;
+            if(selectgs == null || selectgs == ""){
+                return;
+            }
+            console.log("gs_id:"+selectgs);
+            febs.get(ctx + 'gs_set/' + selectgs, null, function (r) {
+                febs.alert.success('Thiết lập máy chủ mặc định thành công!');
+                currentUser.gsEntity = r.data.gsEntity;
+            });
+        });
+
+        initTheme();
+
+        $view.find('#user-avatar').attr('src', ctx + "febs/images/avatar/" + currentUser.avatar);
+
+        $view.on('click', '.layui-logo', function () {
+            febs.navigate("/index");
+        });
+
+        $view.on('click', '#default_server', function () {
+            febs.navigate("/index");
+        });
+
+        $view.on('click', '#password-update', function () {
+            febs.modal.view('Thay đổi mật khẩu', 'password/update', {
+                area: $(window).width() <= 750 ? '90%' : '500px',
+                btn: ['Chắc chắn'],
+                yes: function () {
+                    $('#user-password-update').find('#submit').trigger('click');
+                }
+            });
+        });
+
+        $view.on('click', '#user-profile', function () {
+            febs.navigate("/user/profile");
+        });
+
+        function initTheme() {
+            var theme = currentUser.theme;
+            var $sidebar = $('#app-sidebar');
+            if (theme === 'black') {
+                $sidebar.removeClass('febs-theme-white');
+            }
+            if (theme === 'white') {
+                $sidebar.addClass('febs-theme-white');
+            }
+        }
+    });
+</script>

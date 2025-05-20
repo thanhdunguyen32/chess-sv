@@ -1,0 +1,114 @@
+{
+  "49005": {
+    "INTRO": "Khi HP<35%, Tốc Đánh +20%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49005,
+    "NAME": "急速",
+    "NAME_VN": "Cấp Tốc"
+  },
+  "49008": {
+    "INTRO": "Đòn đánh thường tăng 4%Tốc Đánh, kéo dài 10 giây, có thể cộng dồn.",
+    "PROP": [],
+    "ICON": 49008,
+    "NAME": "专注",
+    "NAME_VN": "Chuyên Chú"
+  },
+  "49007": {
+    "INTRO": "Khi HP<35%, hồi phục toàn bộ năng lượng và đặt lại hồi chiêu của tất cả kỹ năng. Hồi chiêu 60 giây.",
+    "PROP": [],
+    "ICON": 49007,
+    "NAME": "日月星辰",
+    "NAME_VN": "Nhật Nguyệt"
+  },
+  "49002": {
+    "INTRO": "Khi HP<35%, Giảm Thương +20%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49002,
+    "NAME": "重整",
+    "NAME_VN": "Trọng Chỉnh"
+  },
+  "49003": {
+    "INTRO": "Khi HP<35%, Né Tránh +20%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49003,
+    "NAME": "闪避",
+    "NAME_VN": "Né Tránh"
+  },
+  "49012": {
+    "INTRO": "Khi lần đầu nhận sát thương chí mạng tiến vào trạng thái Hỗn Độn, miễn nhiễm mọi sát thương và hồi máu, đồng thời tăng 30% Tốc Đánh và ST Kỹ Năng. Kéo dài 3 giây, sau đó tướng sẽ chết.",
+    "PROP": [],
+    "ICON": 49012,
+    "NAME": "混沌之力",
+    "NAME_VN": "Hỗn Độn"
+  },
+  "49015": {
+    "INTRO": "Tăng 25% Giảm Thương nhưng giảm 12% sát thương gây ra, kéo dài 4 giây. Hồi chiêu 12 giây.",
+    "PROP": [],
+    "ICON": 49015,
+    "NAME": "洪荒妖力",
+    "NAME_VN": "Hồng Hoang"
+  },
+  "49011": {
+    "INTRO": "Trong chiến đấu, cứ mỗi 3 giây Hút Máu, Bạo Kích, Tốc Đánh tăng 1% kéo dài đến khi kết thúc chiến đấu. (Có thể cộng dồn vô hạn).",
+    "PROP": [],
+    "ICON": 49011,
+    "NAME": "嗜血杀意",
+    "NAME_VN": "Thị Huyết"
+  },
+  "49013": {
+    "INTRO": "Khi HP<50%, tăng 60% kháng hiệu ứng, kéo dài 4 giây. Hồi chiêu 12 giây.",
+    "PROP": [],
+    "ICON": 49013,
+    "NAME": "不动如山",
+    "NAME_VN": "Bất Động"
+  },
+  "49001": {
+    "INTRO": "Khi HP<35%, Sát Thương +20%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49001,
+    "NAME": "血战",
+    "NAME_VN": "Huyết Chiến"
+  },
+  "49010": {
+    "INTRO": "Khi HP>70%, Sát Thương +20% và Giảm Thưởng +15%.",
+    "PROP": [],
+    "ICON": 49010,
+    "NAME": "龙魄",
+    "NAME_VN": "Long Phách"
+  },
+  "49014": {
+    "INTRO": "Khi tấn công kẻ địch có tỷ lệ máu thấp hơn mình, đòn đánh thường chắc chắn chí mạng.",
+    "PROP": [],
+    "ICON": 49014,
+    "NAME": "开天神力",
+    "NAME_VN": "Khai Thiên"
+  },
+  "49006": {
+    "INTRO": "Khi HP<35%, Hút Máu +5%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49006,
+    "NAME": "嗜血",
+    "NAME_VN": "Thị Huyết"
+  },
+  "49004": {
+    "INTRO": "Khi HP<35%, Đề Kháng +20%, kéo dài 10 giây. Hồi chiêu 30 giây.",
+    "PROP": [],
+    "ICON": 49004,
+    "NAME": "抵抗",
+    "NAME_VN": "Để Kháng"
+  },
+  "49009": {
+    "INTRO": "Khi nhận sát thương, tăng 35% Hộ Giáp và Kháng Phép trong 3 giây. (Không thể cộng dồn).",
+    "PROP": [],
+    "ICON": 49009,
+    "NAME": "稳固",
+    "NAME_VN": "Vững Vàng"
+  },
+  "49016": {
+    "INTRO": "Đòn đánh thường có 50% tỷ lệ gây hiệu ứng Chí Tử (giảm 70% khả năng hồi máu của mục tiêu), kéo dài 4 giây.",
+    "PROP": [],
+    "ICON": 48041,
+    "NAME": "致死仙法",
+    "NAME_VN": "Chí Tử"
+  }
+}

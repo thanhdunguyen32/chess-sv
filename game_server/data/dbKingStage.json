@@ -1,0 +1,658 @@
+[
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1000,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 1500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2000,
+        "GSID": 30015
+      }
+    ],
+    "ID": 101,
+    "NAME": "青铜5",
+    "NAME_VN": "Đồng 5",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1030,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 51,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 1800,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2250,
+        "GSID": 30015
+      }
+    ],
+    "ID": 102,
+    "NAME": "青铜4",
+    "NAME_VN": "Đồng 4",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1060,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 52,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 2200,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2450,
+        "GSID": 30015
+      }
+    ],
+    "ID": 103,
+    "NAME": "青铜3",
+    "NAME_VN": "Đồng 3",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1090,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 53,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 2600,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2650,
+        "GSID": 30015
+      }
+    ],
+    "ID": 104,
+    "NAME": "青铜2",
+    "NAME_VN": "Đồng 2",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1120,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 54,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 3000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2850,
+        "GSID": 30015
+      }
+    ],
+    "ID": 105,
+    "PROMWINNUM": 2,
+    "PROMNUM": 3,
+    "STAR": 5,
+    "NAME": "青铜1",
+    "NAME_VN": "Đồng 1"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1160,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 55,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 3400,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 3050,
+        "GSID": 30015
+      }
+    ],
+    "ID": 201,
+    "NAME": "白银5",
+    "NAME_VN": "Bạc 5",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1200,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 56,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 3800,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 3300,
+        "GSID": 30015
+      }
+    ],
+    "ID": 202,
+    "NAME": "白银4",
+    "NAME_VN": "Bạc 4",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1240,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 57,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 4200,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 3550,
+        "GSID": 30015
+      }
+    ],
+    "ID": 203,
+    "NAME": "白银3",
+    "NAME_VN": "Bạc 3",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1280,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 58,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 4600,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 3800,
+        "GSID": 30015
+      }
+    ],
+    "ID": 204,
+    "NAME": "白银2",
+    "NAME_VN": "Bạc 2",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1320,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 59,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 5000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 4050,
+        "GSID": 30015
+      }
+    ],
+    "ID": 205,
+    "PROMWINNUM": 2,
+    "PROMNUM": 3,
+    "STAR": 5,
+    "NAME": "白银1",
+    "NAME_VN": "Bạc 1"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1360,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 61,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 5500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 4300,
+        "GSID": 30015
+      }
+    ],
+    "ID": 301,
+    "NAME": "黄金5",
+    "NAME_VN": "Vàng 5",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1400,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 63,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 6000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 4700,
+        "GSID": 30015
+      }
+    ],
+    "ID": 302,
+    "NAME": "黄金4",
+    "NAME_VN": "Vàng 4",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1440,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 65,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 6500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 5100,
+        "GSID": 30015
+      }
+    ],
+    "ID": 303,
+    "NAME": "黄金3",
+    "NAME_VN": "Vàng 3",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1480,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 67,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 7000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 5500,
+        "GSID": 30015
+      }
+    ],
+    "ID": 304,
+    "NAME": "黄金2",
+    "NAME_VN": "Vàng 2",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1520,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 70,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 7500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 5900,
+        "GSID": 30015
+      }
+    ],
+    "ID": 305,
+    "PROMWINNUM": 2,
+    "PROMNUM": 3,
+    "STAR": 5,
+    "NAME": "黄金1",
+    "NAME_VN": "Vàng 1"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1560,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 75,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 8000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 6300,
+        "GSID": 30015
+      }
+    ],
+    "ID": 401,
+    "NAME": "白金5",
+    "NAME_VN": "Bạch Kim 5",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1680,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 80,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 8500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 6700,
+        "GSID": 30015
+      }
+    ],
+    "ID": 402,
+    "NAME": "白金4",
+    "NAME_VN": "Bạch Kim 4",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1800,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 85,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 9000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 7100,
+        "GSID": 30015
+      }
+    ],
+    "ID": 403,
+    "NAME": "白金3",
+    "NAME_VN": "Bạch Kim 3",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 1920,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 90,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 9500,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 7500,
+        "GSID": 30015
+      }
+    ],
+    "ID": 404,
+    "NAME": "白金2",
+    "NAME_VN": "Bạch Kim 2",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2040,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 95,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 10000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 7900,
+        "GSID": 30015
+      }
+    ],
+    "ID": 405,
+    "PROMWINNUM": 2,
+    "PROMNUM": 3,
+    "STAR": 5,
+    "NAME": "白金1",
+    "NAME_VN": "Bạch Kim 1"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2160,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 11000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 8300,
+        "GSID": 30015
+      }
+    ],
+    "ID": 501,
+    "NAME": "钻石5",
+    "NAME_VN": "Kim Cương 5",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2280,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 105,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 12000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 8700,
+        "GSID": 30015
+      }
+    ],
+    "ID": 502,
+    "NAME": "钻石4",
+    "NAME_VN": "Kim Cương 4",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2400,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 110,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 13000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 9100,
+        "GSID": 30015
+      }
+    ],
+    "ID": 503,
+    "NAME": "钻石3",
+    "NAME_VN": "Kim Cương 3",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2520,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 115,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 14000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 9500,
+        "GSID": 30015
+      }
+    ],
+    "ID": 504,
+    "NAME": "钻石2",
+    "NAME_VN": "Kim Cương 2",
+    "STAR": 5
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 2640,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 120,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 15000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 10000,
+        "GSID": 30015
+      }
+    ],
+    "ID": 505,
+    "PROMWINNUM": 3,
+    "PROMNUM": 5,
+    "STAR": 5,
+    "NAME": "钻石1",
+    "NAME_VN": "Kim Cương 1"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 3120,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 160,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 20000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 15000,
+        "GSID": 30015
+      }
+    ],
+    "ID": 601,
+    "NAME": "大师",
+    "NAME_VN": "Đại Sư"
+  },
+  {
+    "REWARDS": [
+      {
+        "COUNT": 3600,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 200,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 30000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 20000,
+        "GSID": 30015
+      }
+    ],
+    "ID": 701,
+    "NAME": "最强王者",
+    "NAME_VN": "Chí Tôn Vương Giả"
+  }
+]

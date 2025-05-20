@@ -1,0 +1,68 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 158,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, hệ thống Quan Tinh đã mở, mau đến xem sao!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Di chuyển đến bối cảnh thành thị",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodeLookStar"
+      }
+    },
+    {
+      "numstep": 159,
+      "desc": "Nhấn vào Quan Tinh",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / guanxing",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 160,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Tiêu hao 1 Thần Phù có thể tiến hành Quan Tinh, có cơ hội nhận được phần thưởng phong phú! Mau tới thử xem!"
+      }
+    },
+    {
+      "numstep": 161,
+      "desc": "Nhấn vào Quan Tinh",
+      "command": {
+        "cmd": "finger",
+        "args": "lookstar_page > widget_down > btn_pick_01",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 162,
+      "desc": "Nhấn vào Xác Nhận",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_reward > bg_node > node_btn > global_btn_confirm",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Quan Tinh"
+}

@@ -1,0 +1,1944 @@
+{
+  "RANK": [
+    {
+      "MAX": 1,
+      "MIN": 1,
+      "RAND": 100
+    },
+    {
+      "MAX": 2,
+      "MIN": 2,
+      "RAND": 90
+    },
+    {
+      "MAX": 3,
+      "MIN": 3,
+      "RAND": 80
+    },
+    {
+      "MAX": 4,
+      "MIN": 10,
+      "RAND": 66
+    },
+    {
+      "MAX": 11,
+      "MIN": 15,
+      "RAND": 50
+    },
+    {
+      "MAX": 16,
+      "MIN": 20,
+      "RAND": 40
+    },
+    {
+      "MAX": 21,
+      "MIN": 99,
+      "RAND": 35
+    }
+  ],
+  "COST": [
+    {
+      "COST": 0,
+      "NUM": 1
+    },
+    {
+      "COST": 0,
+      "NUM": 2
+    },
+    {
+      "COST": 40,
+      "NUM": 3
+    },
+    {
+      "COST": 80,
+      "NUM": 4
+    }
+  ],
+  "BOSS": [
+    {
+      "ID": 1,
+      "NAME": "周泰",
+      "NAME_VN": "Chu Thái",
+      "LV": 35,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 4000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 5000
+        },
+        {
+          "gsid": 30020,
+          "count": 15
+        }
+      ],
+      "ICON": 14301,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 75000
+        },
+        {
+          "gsid": 30020,
+          "count": 500
+        }
+      ]
+    },
+    {
+      "ID": 2,
+      "NAME": "袁绍",
+      "NAME_VN": "Viên Thiệu",
+      "LV": 40,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 8000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 6000
+        },
+        {
+          "gsid": 30020,
+          "count": 15
+        }
+      ],
+      "ICON": 16281,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 90000
+        },
+        {
+          "gsid": 30020,
+          "count": 750
+        }
+      ]
+    },
+    {
+      "ID": 3,
+      "NAME": "典韦",
+      "NAME_VN": "Điển Vi",
+      "LV": 45,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 12000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 7000
+        },
+        {
+          "gsid": 30020,
+          "count": 16
+        }
+      ],
+      "ICON": 10201,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 105000
+        },
+        {
+          "gsid": 30020,
+          "count": 1000
+        }
+      ]
+    },
+    {
+      "ID": 4,
+      "NAME": "黄月英",
+      "NAME_VN": "Hoàng Nguyệt Anh",
+      "LV": 50,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 16000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 8000
+        },
+        {
+          "gsid": 30020,
+          "count": 16
+        }
+      ],
+      "ICON": 12241,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 120000
+        },
+        {
+          "gsid": 30020,
+          "count": 1500
+        }
+      ]
+    },
+    {
+      "ID": 5,
+      "NAME": "陆抗",
+      "NAME_VN": "Lục Kháng",
+      "LV": 55,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 20000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 9000
+        },
+        {
+          "gsid": 30020,
+          "count": 17
+        }
+      ],
+      "ICON": 14241,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 135000
+        },
+        {
+          "gsid": 30020,
+          "count": 2100
+        }
+      ]
+    },
+    {
+      "ID": 6,
+      "NAME": "魏延",
+      "NAME_VN": "Ngụy Duyên",
+      "LV": 60,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 40000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 10000
+        },
+        {
+          "gsid": 30020,
+          "count": 17
+        }
+      ],
+      "ICON": 12202,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 150000
+        },
+        {
+          "gsid": 30020,
+          "count": 3000
+        }
+      ]
+    },
+    {
+      "ID": 7,
+      "NAME": "甄姬",
+      "NAME_VN": "Chân Cơ",
+      "LV": 65,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 60000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 11000
+        },
+        {
+          "gsid": 30020,
+          "count": 18
+        }
+      ],
+      "ICON": 10301,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 165000
+        },
+        {
+          "gsid": 30020,
+          "count": 3750
+        }
+      ]
+    },
+    {
+      "ID": 8,
+      "NAME": "刘表",
+      "NAME_VN": "Lưu Biểu",
+      "LV": 70,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 80000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 12000
+        },
+        {
+          "gsid": 30020,
+          "count": 18
+        }
+      ],
+      "ICON": 16301,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 180000
+        },
+        {
+          "gsid": 30020,
+          "count": 4500
+        }
+      ]
+    },
+    {
+      "ID": 9,
+      "NAME": "黄盖",
+      "NAME_VN": "Hoàng Cái",
+      "LV": 75,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 100000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 13000
+        },
+        {
+          "gsid": 30020,
+          "count": 19
+        }
+      ],
+      "ICON": 14201,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 190000
+        },
+        {
+          "gsid": 30020,
+          "count": 5250
+        }
+      ]
+    },
+    {
+      "ID": 10,
+      "NAME": "庞德",
+      "NAME_VN": "Bàng Đức",
+      "LV": 80,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 120000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 14000
+        },
+        {
+          "gsid": 30020,
+          "count": 19
+        }
+      ],
+      "ICON": 10221,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 200000
+        },
+        {
+          "gsid": 30020,
+          "count": 6000
+        }
+      ]
+    },
+    {
+      "ID": 11,
+      "NAME": "姜维",
+      "NAME_VN": "Khương Duy",
+      "LV": 85,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 140000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 15000
+        },
+        {
+          "gsid": 30020,
+          "count": 20
+        }
+      ],
+      "ICON": 12261,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 210000
+        },
+        {
+          "gsid": 30020,
+          "count": 6750
+        }
+      ]
+    },
+    {
+      "ID": 12,
+      "NAME": "小乔",
+      "NAME_VN": "Tiểu Kiều",
+      "LV": 90,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 160000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 16000
+        },
+        {
+          "gsid": 30020,
+          "count": 20
+        }
+      ],
+      "ICON": 14261,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 220000
+        },
+        {
+          "gsid": 30020,
+          "count": 7500
+        }
+      ]
+    },
+    {
+      "ID": 13,
+      "NAME": "刘表",
+      "NAME_VN": "Lưu Biểu",
+      "LV": 95,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 180000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 17000
+        },
+        {
+          "gsid": 30020,
+          "count": 21
+        }
+      ],
+      "ICON": 16301,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 230000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 14,
+      "NAME": "孟获",
+      "NAME_VN": "Mạnh Hoạch",
+      "LV": 100,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 200000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 18000
+        },
+        {
+          "gsid": 30020,
+          "count": 21
+        }
+      ],
+      "ICON": 16021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 240000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 15,
+      "NAME": "马超",
+      "NAME_VN": "Mã Siêu",
+      "LV": 105,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 250000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 19000
+        },
+        {
+          "gsid": 30020,
+          "count": 22
+        }
+      ],
+      "ICON": 12081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 250000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 16,
+      "NAME": "太史慈",
+      "NAME_VN": "Thái Sử Từ",
+      "LV": 110,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 300000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 20000
+        },
+        {
+          "gsid": 30020,
+          "count": 22
+        }
+      ],
+      "ICON": 14061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 260000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 17,
+      "NAME": "郭嘉",
+      "NAME_VN": "Quách Gia",
+      "LV": 115,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 350000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 21000
+        },
+        {
+          "gsid": 30020,
+          "count": 23
+        }
+      ],
+      "ICON": 10121,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 270000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 18,
+      "NAME": "甘宁",
+      "NAME_VN": "Cam Ninh",
+      "LV": 120,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 400000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 22000
+        },
+        {
+          "gsid": 30020,
+          "count": 23
+        }
+      ],
+      "ICON": 14021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 280000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 19,
+      "NAME": "荀彧",
+      "NAME_VN": "Tuân Úc",
+      "LV": 125,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 450000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 23000
+        },
+        {
+          "gsid": 30020,
+          "count": 24
+        }
+      ],
+      "ICON": 10181,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 290000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 20,
+      "NAME": "关羽",
+      "NAME_VN": "Quan Vũ",
+      "LV": 130,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 500000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 24000
+        },
+        {
+          "gsid": 30020,
+          "count": 24
+        }
+      ],
+      "ICON": 12041,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 300000
+        },
+        {
+          "gsid": 30020,
+          "count": 8250
+        }
+      ]
+    },
+    {
+      "ID": 21,
+      "NAME": "蔡文姬",
+      "NAME_VN": "Thái Văn Cơ",
+      "LV": 135,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 550000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 25000
+        },
+        {
+          "gsid": 30020,
+          "count": 25
+        }
+      ],
+      "ICON": 16121,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 310000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 22,
+      "NAME": "马岱",
+      "NAME_VN": "Mã Đại",
+      "LV": 140,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 600000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 26000
+        },
+        {
+          "gsid": 30020,
+          "count": 25
+        }
+      ],
+      "ICON": 12121,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 320000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 23,
+      "NAME": "周瑜",
+      "NAME_VN": "Chu Du",
+      "LV": 145,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 650000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 27000
+        },
+        {
+          "gsid": 30020,
+          "count": 26
+        }
+      ],
+      "ICON": 14101,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 330000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 24,
+      "NAME": "夏侯惇",
+      "NAME_VN": "Hạ Hầu Đôn",
+      "LV": 150,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 700000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 28000
+        },
+        {
+          "gsid": 30020,
+          "count": 26
+        }
+      ],
+      "ICON": 10061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 340000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 25,
+      "NAME": "吕布",
+      "NAME_VN": "Lữ Bố",
+      "LV": 160,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 750000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 29000
+        },
+        {
+          "gsid": 30020,
+          "count": 27
+        }
+      ],
+      "ICON": 16001,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 350000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 26,
+      "NAME": "陆逊",
+      "NAME_VN": "Lục Tốn",
+      "LV": 170,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 800000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 30000
+        },
+        {
+          "gsid": 30020,
+          "count": 27
+        }
+      ],
+      "ICON": 14121,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 360000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 27,
+      "NAME": "庞统",
+      "NAME_VN": "Bàng Thống",
+      "LV": 180,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 850000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 31000
+        },
+        {
+          "gsid": 30020,
+          "count": 28
+        }
+      ],
+      "ICON": 12161,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 370000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 28,
+      "NAME": "许褚",
+      "NAME_VN": "Hứa Chử",
+      "LV": 190,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 900000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 32000
+        },
+        {
+          "gsid": 30020,
+          "count": 28
+        }
+      ],
+      "ICON": 10021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 380000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 29,
+      "NAME": "华雄",
+      "NAME_VN": "Hoa Hùng",
+      "LV": 200,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 950000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 33000
+        },
+        {
+          "gsid": 30020,
+          "count": 29
+        }
+      ],
+      "ICON": 16061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 390000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 30,
+      "NAME": "诸葛亮",
+      "NAME_VN": "Gia Cát Lượng",
+      "LV": 210,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 34000
+        },
+        {
+          "gsid": 30020,
+          "count": 29
+        }
+      ],
+      "ICON": 12141,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 400000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 31,
+      "NAME": "孙尚香",
+      "NAME_VN": "Tôn Thượng Hương",
+      "LV": 220,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1050000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 35000
+        },
+        {
+          "gsid": 30020,
+          "count": 30
+        }
+      ],
+      "ICON": 14081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 410000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 32,
+      "NAME": "曹操",
+      "NAME_VN": "Tào Tháo",
+      "LV": 230,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1100000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 36000
+        },
+        {
+          "gsid": 30020,
+          "count": 30
+        }
+      ],
+      "ICON": 10081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 420000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 33,
+      "NAME": "张角",
+      "NAME_VN": "Trương Giác",
+      "LV": 240,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1150000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 37000
+        },
+        {
+          "gsid": 30020,
+          "count": 31
+        }
+      ],
+      "ICON": 16161,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 430000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 34,
+      "NAME": "夏侯渊",
+      "NAME_VN": "Hạ Hầu Uyên",
+      "LV": 250,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1200000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 38000
+        },
+        {
+          "gsid": 30020,
+          "count": 31
+        }
+      ],
+      "ICON": 10101,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 440000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 35,
+      "NAME": "赵云",
+      "NAME_VN": "Triệu Vân",
+      "LV": 260,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1250000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 39000
+        },
+        {
+          "gsid": 30020,
+          "count": 32
+        }
+      ],
+      "ICON": 12061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 450000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 36,
+      "NAME": "鲁肃",
+      "NAME_VN": "Lỗ Túc",
+      "LV": 270,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1300000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 40000
+        },
+        {
+          "gsid": 30020,
+          "count": 32
+        }
+      ],
+      "ICON": 14141,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 460000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 37,
+      "NAME": "貂蝉",
+      "NAME_VN": "Điêu Thuyền",
+      "LV": 280,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1350000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 41000
+        },
+        {
+          "gsid": 30020,
+          "count": 33
+        }
+      ],
+      "ICON": 16181,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 470000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 38,
+      "NAME": "贾诩",
+      "NAME_VN": "Giả Hủ",
+      "LV": 290,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1400000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 42000
+        },
+        {
+          "gsid": 30020,
+          "count": 33
+        }
+      ],
+      "ICON": 10161,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 480000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 39,
+      "NAME": "于吉",
+      "NAME_VN": "Vu Cát",
+      "LV": 300,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1450000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 43000
+        },
+        {
+          "gsid": 30020,
+          "count": 34
+        }
+      ],
+      "ICON": 16101,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 490000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 40,
+      "NAME": "陆逊",
+      "NAME_VN": "Lục Tốn",
+      "LV": 310,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1500000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 44000
+        },
+        {
+          "gsid": 30020,
+          "count": 34
+        }
+      ],
+      "ICON": 14121,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 500000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 41,
+      "NAME": "汉献帝",
+      "NAME_VN": "Hán Hiến Đế",
+      "LV": 320,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1600000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 45000
+        },
+        {
+          "gsid": 30020,
+          "count": 35
+        }
+      ],
+      "ICON": 17061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 510000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 42,
+      "NAME": "明智光秀",
+      "NAME_VN": "Akechi Mitsuhide",
+      "LV": 330,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1750000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 46000
+        },
+        {
+          "gsid": 30020,
+          "count": 35
+        }
+      ],
+      "ICON": 18061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 520000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 43,
+      "NAME": "本多忠胜",
+      "NAME_VN": "Honda Tadakatsu",
+      "LV": 340,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 1900000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 47000
+        },
+        {
+          "gsid": 30020,
+          "count": 36
+        }
+      ],
+      "ICON": 18081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 530000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 44,
+      "NAME": "司马炎",
+      "NAME_VN": "Tư Mã Viêm",
+      "LV": 350,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2050000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 48000
+        },
+        {
+          "gsid": 30020,
+          "count": 36
+        }
+      ],
+      "ICON": 17081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 540000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 45,
+      "NAME": "项羽",
+      "NAME_VN": "Hạng Vũ",
+      "LV": 360,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2200000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 49000
+        },
+        {
+          "gsid": 30020,
+          "count": 37
+        }
+      ],
+      "ICON": 17021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 550000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 46,
+      "NAME": "服部半藏",
+      "NAME_VN": "Hattori Hanzo",
+      "LV": 370,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2350000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 50000
+        },
+        {
+          "gsid": 30020,
+          "count": 37
+        }
+      ],
+      "ICON": 18041,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 560000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 47,
+      "NAME": "上杉谦信",
+      "NAME_VN": "Uesugi Kenshin",
+      "LV": 380,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2500000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 51000
+        },
+        {
+          "gsid": 30020,
+          "count": 38
+        }
+      ],
+      "ICON": 18021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 570000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 48,
+      "NAME": "刘邦",
+      "NAME_VN": "Lưu Bang",
+      "LV": 390,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2650000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 52000
+        },
+        {
+          "gsid": 30020,
+          "count": 38
+        }
+      ],
+      "ICON": 17001,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 580000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 49,
+      "NAME": "织田信长",
+      "NAME_VN": "Oda Nobunaga",
+      "LV": 400,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2800000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 53000
+        },
+        {
+          "gsid": 30020,
+          "count": 39
+        }
+      ],
+      "ICON": 18001,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 590000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 50,
+      "NAME": "韩信",
+      "NAME_VN": "Hàn Tín",
+      "LV": 410,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 2950000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 54000
+        },
+        {
+          "gsid": 30020,
+          "count": 39
+        }
+      ],
+      "ICON": 17041,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 600000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 51,
+      "NAME": "曹操",
+      "NAME_VN": "Tào Tháo",
+      "LV": 420,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3100000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 55000
+        },
+        {
+          "gsid": 30020,
+          "count": 40
+        }
+      ],
+      "ICON": 10081,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 610000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 52,
+      "NAME": "刘备",
+      "NAME_VN": "Lưu Bị",
+      "LV": 430,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3250000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 56000
+        },
+        {
+          "gsid": 30020,
+          "count": 40
+        }
+      ],
+      "ICON": 12021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 620000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 53,
+      "NAME": "孙权",
+      "NAME_VN": "Tôn Quyền",
+      "LV": 440,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3400000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 57000
+        },
+        {
+          "gsid": 30020,
+          "count": 41
+        }
+      ],
+      "ICON": 14181,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 630000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 54,
+      "NAME": "贾诩",
+      "NAME_VN": "Giả Hủ",
+      "LV": 450,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3550000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 58000
+        },
+        {
+          "gsid": 30020,
+          "count": 41
+        }
+      ],
+      "ICON": 10161,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 640000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 55,
+      "NAME": "赵云",
+      "NAME_VN": "Triệu Vân",
+      "LV": 460,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3700000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 59000
+        },
+        {
+          "gsid": 30020,
+          "count": 42
+        }
+      ],
+      "ICON": 12061,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 650000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 56,
+      "NAME": "于吉",
+      "NAME_VN": "Vu Cát",
+      "LV": 470,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 3850000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 60000
+        },
+        {
+          "gsid": 30020,
+          "count": 42
+        }
+      ],
+      "ICON": 16101,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 660000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 57,
+      "NAME": "周瑜",
+      "NAME_VN": "Chu Du",
+      "LV": 480,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 4000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 61000
+        },
+        {
+          "gsid": 30020,
+          "count": 43
+        }
+      ],
+      "ICON": 14101,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 670000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 58,
+      "NAME": "织田信长",
+      "NAME_VN": "Oda Nobunaga",
+      "LV": 490,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 4150000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 62000
+        },
+        {
+          "gsid": 30020,
+          "count": 43
+        }
+      ],
+      "ICON": 18001,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 680000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 59,
+      "NAME": "韩信",
+      "NAME_VN": "Hàn Tín",
+      "LV": 500,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 4300000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 63000
+        },
+        {
+          "gsid": 30020,
+          "count": 44
+        }
+      ],
+      "ICON": 17041,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 690000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 60,
+      "NAME": "项羽",
+      "NAME_VN": "Hạng Vũ",
+      "LV": 510,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 4450000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 64000
+        },
+        {
+          "gsid": 30020,
+          "count": 44
+        }
+      ],
+      "ICON": 17021,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 700000
+        },
+        {
+          "gsid": 30020,
+          "count": 10000
+        }
+      ]
+    },
+    {
+      "ID": 61,
+      "NAME": "法正",
+      "NAME_VN": "Pháp Chính",
+      "LV": 520,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 8000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 65000
+        },
+        {
+          "gsid": 30020,
+          "count": 45
+        }
+      ],
+      "ICON": 12386,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 2000000
+        },
+        {
+          "gsid": 30020,
+          "count": 15000
+        }
+      ]
+    },
+    {
+      "ID": 62,
+      "NAME": "李儒",
+      "NAME_VN": "Lý Nho",
+      "LV": 530,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 10000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 66000
+        },
+        {
+          "gsid": 30020,
+          "count": 45
+        }
+      ],
+      "ICON": 16426,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 4000000
+        },
+        {
+          "gsid": 30020,
+          "count": 20000
+        }
+      ]
+    },
+    {
+      "ID": 63,
+      "NAME": "孙坚",
+      "NAME_VN": "Tôn Kiên",
+      "LV": 540,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 12000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 67000
+        },
+        {
+          "gsid": 30020,
+          "count": 46
+        }
+      ],
+      "ICON": 14406,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 6000000
+        },
+        {
+          "gsid": 30020,
+          "count": 25000
+        }
+      ]
+    },
+    {
+      "ID": 64,
+      "NAME": "张郃",
+      "NAME_VN": "Trương Cáp",
+      "LV": 550,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 14000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 68000
+        },
+        {
+          "gsid": 30020,
+          "count": 46
+        }
+      ],
+      "ICON": 10426,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 8000000
+        },
+        {
+          "gsid": 30020,
+          "count": 30000
+        }
+      ]
+    },
+    {
+      "ID": 65,
+      "NAME": "刘秀",
+      "NAME_VN": "Lưu Tú",
+      "LV": 560,
+      "MAP": "battle_img_pvp",
+      "BOSSHP": 20000000000,
+      "REWARD": [
+        {
+          "gsid": 38006,
+          "count": 69000
+        },
+        {
+          "gsid": 30020,
+          "count": 47
+        }
+      ],
+      "ICON": 17126,
+      "KREWARD": [
+        {
+          "gsid": 38006,
+          "count": 10000000
+        },
+        {
+          "gsid": 30020,
+          "count": 35000
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "charge500": {
+    "TYPE": "RECHARGE",
+    "EXYB": 5000,
+    "PID": "charge500",
+    "SIGN": 91007,
+    "YB": 5000,
+    "PRICE": 500,
+    "INTRO": "Nạp 1.899.000",
+    "VIPEXP": 5000
+  },
+  "charge98": {
+    "PID": "charge98",
+    "INTRO": "Nạp 379.000",
+    "YB": 980,
+    "PRICE": 98,
+    "TYPE": "RECHARGE1",
+    "VIPEXP": 980
+  },
+  "charge448": {
+    "PID": "charge448",
+    "INTRO": "Nạp 1.799.000",
+    "YB": 4480,
+    "PRICE": 448,
+    "TYPE": "RECHARGE1",
+    "VIPEXP": 4480
+  },
+  "charge128": {
+    "TYPE": "RECHARGE",
+    "EXYB": 1280,
+    "PID": "charge128",
+    "SIGN": 91003,
+    "YB": 1280,
+    "PRICE": 128,
+    "INTRO": "Nạp 499.000",
+    "VIPEXP": 1280
+  },
+  "charge1000": {
+    "TYPE": "RECHARGE",
+    "EXYB": 0,
+    "PID": "charge1000",
+    "SIGN": 91008,
+    "YB": 0,
+    "PRICE": 1000,
+    "INTRO": "Nạp 3.799.000",
+    "VIPEXP": 10000
+  },
+  "specialqz": {
+    "PID": "specialqz",
+    "INTRO": "Đặc Quyền Cần Chính Yêu Dân",
+    "PRICE": 68,
+    "TYPE": "RIGHT",
+    "VIPEXP": 680
+  },
+  "charge328": {
+    "TYPE": "RECHARGE",
+    "EXYB": 3280,
+    "PID": "charge328",
+    "SIGN": 91005,
+    "YB": 3280,
+    "PRICE": 328,
+    "INTRO": "Nạp 1.299.000",
+    "VIPEXP": 3280
+  },
+  "charge2000": {
+    "TYPE": "RECHARGE",
+    "EXYB": 20000,
+    "PID": "charge2000",
+    "SIGN": 91009,
+    "YB": 20000,
+    "PRICE": 2000,
+    "INTRO": "Nạp 7.999.000",
+    "VIPEXP": 20000
+  },
+  "specialgz": {
+    "PID": "specialgz",
+    "FIRST": 12,
+    "INTRO": "Thẻ Tháng VIP",
+    "PRICE": 30,
+    "TYPE": "RIGHT",
+    "VIPEXP": 300
+  },
+  "charge12": {
+    "PID": "charge12",
+    "INTRO": "Nạp 49.000",
+    "YB": 120,
+    "PRICE": 12,
+    "TYPE": "RECHARGE1",
+    "VIPEXP": 120
+  },
+  "charge1": {
+    "PID": "charge1",
+    "INTRO": "Nạp 5.000",
+    "YB": 10,
+    "PRICE": 1,
+    "TYPE": "RECHARGE1",
+    "VIPEXP": 10
+  },
+  "charge648": {
+    "TYPE": "RECHARGE",
+    "EXYB": 6480,
+    "PID": "charge648",
+    "SIGN": 91006,
+    "YB": 6480,
+    "PRICE": 648,
+    "INTRO": "Nạp 2.499.000",
+    "VIPEXP": 6480
+  },
+  "specialbw": {
+    "PID": "specialbw",
+    "INTRO": "Đặc Quyền Bá Vương",
+    "PRICE": 30,
+    "TYPE": "RIGHT",
+    "VIPEXP": 300
+  },
+  "charge60": {
+    "PID": "charge60",
+    "INTRO": "Nạp 229.000",
+    "YB": 600,
+    "PRICE": 60,
+    "TYPE": "RECHARGE1",
+    "VIPEXP": 600
+  },
+  "charge30": {
+    "TYPE": "RECHARGE",
+    "EXYB": 300,
+    "PID": "charge30",
+    "SIGN": 91001,
+    "YB": 300,
+    "PRICE": 30,
+    "INTRO": "Nạp 129.000",
+    "VIPEXP": 300
+  },
+  "specialcz": {
+    "PID": "specialcz",
+    "INTRO": "Quỹ Trưởng Thành",
+    "PRICE": 68,
+    "TYPE": "RIGHT",
+    "VIPEXP": 680
+  },
+  "charge6": {
+    "TYPE": "RECHARGE",
+    "EXYB": 60,
+    "PID": "charge6",
+    "SIGN": 91000,
+    "YB": 60,
+    "PRICE": 6,
+    "INTRO": "Nạp 25.000",
+    "VIPEXP": 60
+  },
+  "specialzz": {
+    "PID": "specialzz",
+    "FIRST": 60,
+    "INTRO": "Thẻ Tháng Chí Tôn",
+    "PRICE": 98,
+    "TYPE": "RIGHT",
+    "VIPEXP": 980
+  },
+  "charge68": {
+    "TYPE": "RECHARGE",
+    "EXYB": 680,
+    "PID": "charge68",
+    "SIGN": 91002,
+    "YB": 680,
+    "PRICE": 68,
+    "INTRO": "Nạp 249.000",
+    "VIPEXP": 680
+  },
+  "specialyd": {
+    "PID": "specialyd",
+    "INTRO": "Đặc Quyền Tháng",
+    "PRICE": 68,
+    "TYPE": "RIGHT",
+    "VIPEXP": 680
+  },
+  "charge198": {
+    "TYPE": "RECHARGE",
+    "EXYB": 1980,
+    "PID": "charge198",
+    "SIGN": 91004,
+    "YB": 1980,
+    "PRICE": 198,
+    "INTRO": "Nạp 779.000",
+    "VIPEXP": 1980
+  }
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "NUM": 30,
+    "RMARK": 90250,
+    "ITEMS": [
+      {
+        "COUNT": 10,
+        "GSID": 30006
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90246,
+    "NAME": "完成4星任务30次",
+    "NAME_VN": "Hoàn thành nhiệm vụ 4 sao 30 lần"
+  },
+  {
+    "NUM": 20,
+    "RMARK": 90251,
+    "ITEMS": [
+      {
+        "COUNT": 5,
+        "GSID": 30011
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90247,
+    "NAME": "完成5星任务20次",
+    "NAME_VN": "Hoàn thành nhiệm vụ 5 sao 20 lần"
+  },
+  {
+    "NUM": 5,
+    "RMARK": 90252,
+    "ITEMS": [
+      {
+        "COUNT": 5,
+        "GSID": 30011
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90248,
+    "NAME": "完成6星任务5次",
+    "NAME_VN": "Hoàn thành nhiệm vụ 6 sao 5 lần"
+  },
+  {
+    "NUM": 2,
+    "RMARK": 90253,
+    "ITEMS": [
+      {
+        "COUNT": 10,
+        "GSID": 30011
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "PROCESS": 90249,
+    "NAME": "完成7星任务2次",
+    "NAME_VN": "Hoàn thành nhiệm vụ 7 sao 2 lần"
+  }
+]

@@ -1,0 +1,110 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Cấm chat">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <form class="layui-form" action="">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Cấm chat</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label febs-form-item-require" style="width:80px;padding-left:0px;">ID người chơi:</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="playerId" lay-verify="required|number" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label" style="width:80px;padding-left:0px;">Thời gian kết thúc:</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="endTime" id="endTime" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <div class="layui-input-block">
+                                <button type="submit" class="layui-btn" lay-submit="" lay-filter="fenghao">Cấm chat</button>
+                                <button type="submit" class="layui-btn layui-btn-warm" lay-submit="" lay-filter="jiefeng">Bỏ cấm</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'laydate'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            laydate = layui.laydate,
+            $view = $('#febs-op-gonggao'),
+            $trimValue = $view.find('input[name="trimValue"]'),
+            $trimValueItem = $trimValue.parents('.layui-form-item'),
+            errorMsg = [[${errorMsg}]];
+
+        //日期
+        laydate.render({
+        elem: '#endTime'
+        });
+
+        form.render();
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        form.on('submit(fenghao)', function (data) {
+            data.field.opType = 3;
+            febs.post(ctx + 'op/fenghaoSend', data.field, function (r) {
+                febs.alert.success('Cấm chat thành công!');
+            });
+            return false;
+        });
+
+        form.on('submit(jiefeng)', function (data) {
+            data.field.opType = 4;
+            febs.post(ctx + 'op/fenghaoSend', data.field, function (r) {
+                febs.alert.success('Bỏ cấm chat thành công!');
+            });
+            return false;
+        });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/subtitle?time="+(new Date().getTime()));
+        });
+    });
+</script>

@@ -1,0 +1,7995 @@
+{
+  "34523": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34524,
+      "EXP": 5760
+    },
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 3
+  },
+  "34372": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34373,
+      "EXP": 5760
+    },
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 2
+  },
+  "34084": {
+    "QUALITY": 2,
+    "EXP": 610,
+    "NAME": "流星镖",
+    "NAME_VN": "Lưu Tinh Phiêu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 420
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Khi ra tay như sao băng bay vút",
+    "SKILL": [],
+    "ICON": 34081,
+    "STAR": 4
+  },
+  "34275": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34276,
+      "EXP": 5760
+    },
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 5
+  },
+  "34175": {
+    "QUALITY": 4,
+    "EXP": 6410,
+    "NAME": "武圣披风",
+    "NAME_VN": "Võ Thánh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Hạo nhiên đại khí, anh tư hùng phát",
+    "SKILL": [],
+    "ICON": 34171,
+    "STAR": 5
+  },
+  "34395": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34396,
+      "EXP": 5760
+    },
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 5
+  },
+  "34063": {
+    "QUALITY": 2,
+    "EXP": 420,
+    "NEXT": {
+      "ID": 34064,
+      "EXP": 190
+    },
+    "NAME": "明光盾",
+    "NAME_VN": "Minh Quang Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 360
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Mặt khiên sáng bóng như gương, tỏa sáng rực rỡ",
+    "SKILL": [],
+    "ICON": 34061,
+    "STAR": 3
+  },
+  "34355": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34356,
+      "EXP": 2880
+    },
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 90
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 220
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 5
+  },
+  "34013": {
+    "QUALITY": 1,
+    "EXP": 100,
+    "NEXT": {
+      "ID": 34014,
+      "EXP": 40
+    },
+    "NAME": "鬼角",
+    "NAME_VN": "Quỷ Giác",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mặt khiên giống như một con quỷ hung dữ",
+    "SKILL": [],
+    "ICON": 34011,
+    "STAR": 3
+  },
+  "34123": {
+    "QUALITY": 3,
+    "EXP": 1310,
+    "NEXT": {
+      "ID": 34124,
+      "EXP": 580
+    },
+    "NAME": "金丝披风",
+    "NAME_VN": "Kim Ty Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Áo choàng làm từ chỉ vàng, giá trị vô giá",
+    "SKILL": [],
+    "ICON": 34121,
+    "STAR": 3
+  },
+  "34514": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34515,
+      "EXP": 5760
+    },
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 4
+  },
+  "34042": {
+    "QUALITY": 1,
+    "EXP": 60,
+    "NEXT": {
+      "ID": 34043,
+      "EXP": 40
+    },
+    "NAME": "金丝锦囊",
+    "NAME_VN": "Kim Ty Cẩm Nang",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Hộp gấm tinh xảo có viền chỉ vàng",
+    "SKILL": [],
+    "ICON": 34041,
+    "STAR": 2
+  },
+  "34391": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34392,
+      "EXP": 5760
+    },
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 1
+  },
+  "34164": {
+    "QUALITY": 4,
+    "EXP": 4970,
+    "NEXT": {
+      "ID": 34165,
+      "EXP": 1440
+    },
+    "NAME": "紫金孤月盾",
+    "NAME_VN": "Tử Kim Cô Nguyệt Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 800
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Làm từ Tử Kim, hình dáng tựa Cô nguyệt",
+    "SKILL": [],
+    "ICON": 34161,
+    "STAR": 4
+  },
+  "34351": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34352,
+      "EXP": 2880
+    },
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 50
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 1
+  },
+  "34053": {
+    "QUALITY": 2,
+    "EXP": 420,
+    "NEXT": {
+      "ID": 34054,
+      "EXP": 190
+    },
+    "NAME": "孟德新书",
+    "NAME_VN": "Mạnh Đức Tân Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 360
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Biinh pháp do Tào Tháo biên soạn",
+    "SKILL": [],
+    "ICON": 34051,
+    "STAR": 3
+  },
+  "34173": {
+    "QUALITY": 4,
+    "EXP": 3530,
+    "NEXT": {
+      "ID": 34174,
+      "EXP": 1440
+    },
+    "NAME": "武圣披风",
+    "NAME_VN": "Võ Thánh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 700
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Hạo nhiên đại khí, anh tư hùng phát",
+    "SKILL": [],
+    "ICON": 34171,
+    "STAR": 3
+  },
+  "34525": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34526,
+      "EXP": 5760
+    },
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 5
+  },
+  "34061": {
+    "QUALITY": 2,
+    "EXP": 40,
+    "NEXT": {
+      "ID": 34062,
+      "EXP": 190
+    },
+    "NAME": "明光盾",
+    "NAME_VN": "Minh Quang Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 240
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Mặt khiên sáng bóng như gương, tỏa sáng rực rỡ",
+    "SKILL": [],
+    "ICON": 34061,
+    "STAR": 1
+  },
+  "34543": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34544,
+      "EXP": 5760
+    },
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 140
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 70
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 3
+  },
+  "34532": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34533,
+      "EXP": 5760
+    },
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 30
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 2
+  },
+  "34492": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34493,
+      "EXP": 2880
+    },
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 95
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 45
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 2
+  },
+  "34091": {
+    "QUALITY": 2,
+    "EXP": 40,
+    "NEXT": {
+      "ID": 34092,
+      "EXP": 190
+    },
+    "NAME": "夜明珠",
+    "NAME_VN": "Dạ Minh Châu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 240
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Tỏa sáng như trăng sáng",
+    "SKILL": [],
+    "ICON": 34091,
+    "STAR": 1
+  },
+  "34371": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34372,
+      "EXP": 5760
+    },
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 1
+  },
+  "34135": {
+    "QUALITY": 3,
+    "EXP": 2470,
+    "NAME": "诸葛连弩",
+    "NAME_VN": "Gia Cát Liên Nỗ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Có thể lập tức bắn ra 9 mũi tên",
+    "SKILL": [],
+    "ICON": 34131,
+    "STAR": 5
+  },
+  "34161": {
+    "QUALITY": 4,
+    "EXP": 650,
+    "NEXT": {
+      "ID": 34162,
+      "EXP": 1440
+    },
+    "NAME": "紫金孤月盾",
+    "NAME_VN": "Tử Kim Cô Nguyệt Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Làm từ Tử Kim, hình dáng tựa Cô nguyệt",
+    "SKILL": [],
+    "ICON": 34161,
+    "STAR": 1
+  },
+  "34296": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 6
+  },
+  "34505": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34506,
+      "EXP": 5760
+    },
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 5
+  },
+  "34224": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34225,
+      "EXP": 2880
+    },
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1200
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 320
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 4
+  },
+  "34261": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34262,
+      "EXP": 5760
+    },
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 1
+  },
+  "34252": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34253,
+      "EXP": 5760
+    },
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 350
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 2
+  },
+  "34273": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34274,
+      "EXP": 5760
+    },
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 3
+  },
+  "34274": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34275,
+      "EXP": 5760
+    },
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 450
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 4
+  },
+  "34444": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34445,
+      "EXP": 5760
+    },
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 80
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 4
+  },
+  "34264": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34265,
+      "EXP": 5760
+    },
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 450
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 4
+  },
+  "34344": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34345,
+      "EXP": 2880
+    },
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 160
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 4
+  },
+  "34422": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34423,
+      "EXP": 5760
+    },
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 180
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 120
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 2
+  },
+  "34232": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34233,
+      "EXP": 2880
+    },
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 2
+  },
+  "34403": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34404,
+      "EXP": 2880
+    },
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 210
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 3
+  },
+  "34425": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34426,
+      "EXP": 5760
+    },
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 270
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 270
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 180
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 5
+  },
+  "34386": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 6
+  },
+  "34541": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34542,
+      "EXP": 5760
+    },
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 50
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 1
+  },
+  "34134": {
+    "QUALITY": 3,
+    "EXP": 1890,
+    "NEXT": {
+      "ID": 34135,
+      "EXP": 580
+    },
+    "NAME": "诸葛连弩",
+    "NAME_VN": "Gia Cát Liên Nỗ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Có thể lập tức bắn ra 9 mũi tên",
+    "SKILL": [],
+    "ICON": 34131,
+    "STAR": 4
+  },
+  "34012": {
+    "QUALITY": 1,
+    "EXP": 60,
+    "NEXT": {
+      "ID": 34013,
+      "EXP": 40
+    },
+    "NAME": "鬼角",
+    "NAME_VN": "Quỷ Giác",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mặt khiên giống như một con quỷ hung dữ",
+    "SKILL": [],
+    "ICON": 34011,
+    "STAR": 2
+  },
+  "34454": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34455,
+      "EXP": 5760
+    },
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 170
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 170
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 4
+  },
+  "34041": {
+    "QUALITY": 1,
+    "EXP": 20,
+    "NEXT": {
+      "ID": 34042,
+      "EXP": 40
+    },
+    "NAME": "金丝锦囊",
+    "NAME_VN": "Kim Ty Cẩm Nang",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Hộp gấm tinh xảo có viền chỉ vàng",
+    "SKILL": [],
+    "ICON": 34041,
+    "STAR": 1
+  },
+  "34301": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34302,
+      "EXP": 2880
+    },
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 1
+  },
+  "34322": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34323,
+      "EXP": 2880
+    },
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 180
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 30
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 2
+  },
+  "34331": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34332,
+      "EXP": 2880
+    },
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 1
+  },
+  "34495": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34496,
+      "EXP": 2880
+    },
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 270
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 5
+  },
+  "34324": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34325,
+      "EXP": 2880
+    },
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 240
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 4
+  },
+  "34332": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34333,
+      "EXP": 2880
+    },
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 30
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 2
+  },
+  "34406": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 6
+  },
+  "34433": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34434,
+      "EXP": 5760
+    },
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 190
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 190
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 190
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 3
+  },
+  "34475": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34476,
+      "EXP": 5760
+    },
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 90
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 5
+  },
+  "34536": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 70
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 6
+  },
+  "34043": {
+    "QUALITY": 1,
+    "EXP": 100,
+    "NEXT": {
+      "ID": 34044,
+      "EXP": 40
+    },
+    "NAME": "金丝锦囊",
+    "NAME_VN": "Kim Ty Cẩm Nang",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Hộp gấm tinh xảo có viền chỉ vàng",
+    "SKILL": [],
+    "ICON": 34041,
+    "STAR": 3
+  },
+  "34284": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34285,
+      "EXP": 5760
+    },
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 450
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 4
+  },
+  "34321": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34322,
+      "EXP": 2880
+    },
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 150
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 1
+  },
+  "34443": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34444,
+      "EXP": 5760
+    },
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 70
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 3
+  },
+  "34133": {
+    "QUALITY": 3,
+    "EXP": 1310,
+    "NEXT": {
+      "ID": 34134,
+      "EXP": 580
+    },
+    "NAME": "诸葛连弩",
+    "NAME_VN": "Gia Cát Liên Nỗ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Có thể lập tức bắn ra 9 mũi tên",
+    "SKILL": [],
+    "ICON": 34131,
+    "STAR": 3
+  },
+  "34314": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34315,
+      "EXP": 2880
+    },
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 4
+  },
+  "34002": {
+    "QUALITY": 1,
+    "EXP": 60,
+    "NEXT": {
+      "ID": 34003,
+      "EXP": 40
+    },
+    "NAME": "青囊书",
+    "NAME_VN": "Thanh Nang Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Sách y học do Thần y Hoa Đà biên soạn",
+    "SKILL": [],
+    "ICON": 34001,
+    "STAR": 2
+  },
+  "34202": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34203,
+      "EXP": 2880
+    },
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 2
+  },
+  "34325": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34326,
+      "EXP": 2880
+    },
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 270
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 5
+  },
+  "34342": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34343,
+      "EXP": 2880
+    },
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 120
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 2
+  },
+  "34366": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 250
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 200
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 6
+  },
+  "34455": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34456,
+      "EXP": 5760
+    },
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 210
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 5
+  },
+  "34072": {
+    "QUALITY": 2,
+    "EXP": 230,
+    "NEXT": {
+      "ID": 34073,
+      "EXP": 190
+    },
+    "NAME": "望月斗篷",
+    "NAME_VN": "Vọng Nguyệt Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Trên áo choàng có họa tiết hình trăng lưỡi liềm",
+    "SKILL": [],
+    "ICON": 34071,
+    "STAR": 2
+  },
+  "34465": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34466,
+      "EXP": 5760
+    },
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 90
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 260
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 5
+  },
+  "34323": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34324,
+      "EXP": 2880
+    },
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 210
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 3
+  },
+  "34235": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34236,
+      "EXP": 2880
+    },
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1350
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 360
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 5
+  },
+  "34081": {
+    "QUALITY": 2,
+    "EXP": 40,
+    "NEXT": {
+      "ID": 34082,
+      "EXP": 190
+    },
+    "NAME": "流星镖",
+    "NAME_VN": "Lưu Tinh Phiêu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 240
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Khi ra tay như sao băng bay vút",
+    "SKILL": [],
+    "ICON": 34081,
+    "STAR": 1
+  },
+  "34054": {
+    "QUALITY": 2,
+    "EXP": 610,
+    "NAME": "孟德新书",
+    "NAME_VN": "Mạnh Đức Tân Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 420
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Biinh pháp do Tào Tháo biên soạn",
+    "SKILL": [],
+    "ICON": 34051,
+    "STAR": 4
+  },
+  "34011": {
+    "QUALITY": 1,
+    "EXP": 20,
+    "NEXT": {
+      "ID": 34012,
+      "EXP": 40
+    },
+    "NAME": "鬼角",
+    "NAME_VN": "Quỷ Giác",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mặt khiên giống như một con quỷ hung dữ",
+    "SKILL": [],
+    "ICON": 34011,
+    "STAR": 1
+  },
+  "34194": {
+    "QUALITY": 4,
+    "EXP": 4970,
+    "NEXT": {
+      "ID": 34195,
+      "EXP": 1440
+    },
+    "NAME": "和氏壁",
+    "NAME_VN": "Hòa Thị Bích",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 800
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Châu báu hiếm có!",
+    "SKILL": [],
+    "ICON": 34191,
+    "STAR": 4
+  },
+  "34521": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34522,
+      "EXP": 5760
+    },
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 1
+  },
+  "34171": {
+    "QUALITY": 4,
+    "EXP": 650,
+    "NEXT": {
+      "ID": 34172,
+      "EXP": 1440
+    },
+    "NAME": "武圣披风",
+    "NAME_VN": "Võ Thánh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Hạo nhiên đại khí",
+    "SKILL": [],
+    "ICON": 34171,
+    "STAR": 1
+  },
+  "34531": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34532,
+      "EXP": 5760
+    },
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 20
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 1
+  },
+  "34221": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34222,
+      "EXP": 2880
+    },
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 1
+  },
+  "34441": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34442,
+      "EXP": 5760
+    },
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 1
+  },
+  "34236": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 6
+  },
+  "34203": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34204,
+      "EXP": 2880
+    },
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1050
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 280
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 3
+  },
+  "34335": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34336,
+      "EXP": 2880
+    },
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 270
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 5
+  },
+  "34064": {
+    "QUALITY": 2,
+    "EXP": 610,
+    "NAME": "明光盾",
+    "NAME_VN": "Minh Quang Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 420
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Mặt khiên sáng bóng như gương, tỏa sáng rực rỡ",
+    "SKILL": [],
+    "ICON": 34061,
+    "STAR": 4
+  },
+  "34512": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34513,
+      "EXP": 5760
+    },
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 2
+  },
+  "34226": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 6
+  },
+  "34474": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34475,
+      "EXP": 5760
+    },
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 80
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 4
+  },
+  "34382": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34383,
+      "EXP": 5760
+    },
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 2
+  },
+  "34031": {
+    "QUALITY": 1,
+    "EXP": 20,
+    "NEXT": {
+      "ID": 34032,
+      "EXP": 40
+    },
+    "NAME": "飞刀",
+    "NAME_VN": "Phi Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Con dao ném nhỏ cự ly ngắn",
+    "SKILL": [],
+    "ICON": 34031,
+    "STAR": 1
+  },
+  "34513": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34514,
+      "EXP": 5760
+    },
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 3
+  },
+  "34003": {
+    "QUALITY": 1,
+    "EXP": 100,
+    "NEXT": {
+      "ID": 34004,
+      "EXP": 40
+    },
+    "NAME": "青囊书",
+    "NAME_VN": "Thanh Nang Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Sách y học do Thần y Hoa Đà biên soạn",
+    "SKILL": [],
+    "ICON": 34001,
+    "STAR": 3
+  },
+  "34313": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34314,
+      "EXP": 2880
+    },
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 3
+  },
+  "34234": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34235,
+      "EXP": 2880
+    },
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1200
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 320
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 4
+  },
+  "34185": {
+    "QUALITY": 4,
+    "EXP": 6410,
+    "NAME": "落日神弓",
+    "NAME_VN": "Lạc Nhật Thần Cung",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Cung thần của Hậu Nghệ",
+    "SKILL": [],
+    "ICON": 34181,
+    "STAR": 5
+  },
+  "34484": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34485,
+      "EXP": 5760
+    },
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 160
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 160
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 4
+  },
+  "34104": {
+    "QUALITY": 3,
+    "EXP": 1890,
+    "NEXT": {
+      "ID": 34105,
+      "EXP": 580
+    },
+    "NAME": "太平要术",
+    "NAME_VN": "Thái Bình Yếu Thuật",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Trời đã chết, hoàng thiên sẽ lập",
+    "SKILL": [],
+    "ICON": 34101,
+    "STAR": 4
+  },
+  "34402": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34403,
+      "EXP": 2880
+    },
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 2
+  },
+  "34493": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34494,
+      "EXP": 2880
+    },
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 110
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 210
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 3
+  },
+  "34181": {
+    "QUALITY": 4,
+    "EXP": 650,
+    "NEXT": {
+      "ID": 34182,
+      "EXP": 1440
+    },
+    "NAME": "落日神弓",
+    "NAME_VN": "Lạc Nhật Thần Cung",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Cung thần của Hậu Nghệ",
+    "SKILL": [],
+    "ICON": 34181,
+    "STAR": 1
+  },
+  "34302": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34303,
+      "EXP": 2880
+    },
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 30
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 2
+  },
+  "34461": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34462,
+      "EXP": 5760
+    },
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 50
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 1
+  },
+  "34472": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34473,
+      "EXP": 5760
+    },
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 60
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 2
+  },
+  "34421": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34422,
+      "EXP": 5760
+    },
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 150
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 100
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 1
+  },
+  "34144": {
+    "QUALITY": 3,
+    "EXP": 1890,
+    "NEXT": {
+      "ID": 34145,
+      "EXP": 580
+    },
+    "NAME": "虎符",
+    "NAME_VN": "Hổ Phù",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Tín vật của chỉ huy ba quân",
+    "SKILL": [],
+    "ICON": 34141,
+    "STAR": 4
+  },
+  "34093": {
+    "QUALITY": 2,
+    "EXP": 420,
+    "NEXT": {
+      "ID": 34094,
+      "EXP": 190
+    },
+    "NAME": "夜明珠",
+    "NAME_VN": "Dạ Minh Châu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 360
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Tỏa sáng như trăng sáng",
+    "SKILL": [],
+    "ICON": 34091,
+    "STAR": 3
+  },
+  "34034": {
+    "QUALITY": 1,
+    "EXP": 140,
+    "NAME": "飞刀",
+    "NAME_VN": "Phi Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Con dao ném nhỏ cự ly ngắn",
+    "SKILL": [],
+    "ICON": 34031,
+    "STAR": 4
+  },
+  "34153": {
+    "QUALITY": 4,
+    "EXP": 3530,
+    "NEXT": {
+      "ID": 34154,
+      "EXP": 1440
+    },
+    "NAME": "兵法二十四篇",
+    "NAME_VN": "Binh Pháp Nhị Thập Tứ Thiên",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 700
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Binh thư truyền thế của Ngọa Long",
+    "SKILL": [],
+    "ICON": 34151,
+    "STAR": 3
+  },
+  "34311": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34312,
+      "EXP": 2880
+    },
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 1
+  },
+  "34143": {
+    "QUALITY": 3,
+    "EXP": 1310,
+    "NEXT": {
+      "ID": 34144,
+      "EXP": 580
+    },
+    "NAME": "虎符",
+    "NAME_VN": "Hổ Phù",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Tín vật của chỉ huy ba quân",
+    "SKILL": [],
+    "ICON": 34141,
+    "STAR": 3
+  },
+  "34516": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 6
+  },
+  "34384": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34385,
+      "EXP": 5760
+    },
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 4
+  },
+  "34503": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34504,
+      "EXP": 5760
+    },
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 110
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 3
+  },
+  "34404": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34405,
+      "EXP": 2880
+    },
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 240
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 4
+  },
+  "34452": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34453,
+      "EXP": 5760
+    },
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 90
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 2
+  },
+  "34451": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34452,
+      "EXP": 5760
+    },
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 50
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 1
+  },
+  "34401": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34402,
+      "EXP": 2880
+    },
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 1
+  },
+  "34482": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34483,
+      "EXP": 5760
+    },
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 120
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 120
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 2
+  },
+  "34051": {
+    "QUALITY": 2,
+    "EXP": 40,
+    "NEXT": {
+      "ID": 34052,
+      "EXP": 190
+    },
+    "NAME": "孟德新书",
+    "NAME_VN": "Mạnh Đức Tân Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 240
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Biinh pháp do Tào Tháo biên soạn",
+    "SKILL": [],
+    "ICON": 34051,
+    "STAR": 1
+  },
+  "34436": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 250
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 250
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 6
+  },
+  "34052": {
+    "QUALITY": 2,
+    "EXP": 230,
+    "NEXT": {
+      "ID": 34053,
+      "EXP": 190
+    },
+    "NAME": "孟德新书",
+    "NAME_VN": "Mạnh Đức Tân Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Biinh pháp do Tào Tháo biên soạn",
+    "SKILL": [],
+    "ICON": 34051,
+    "STAR": 2
+  },
+  "34071": {
+    "QUALITY": 2,
+    "EXP": 40,
+    "NEXT": {
+      "ID": 34072,
+      "EXP": 190
+    },
+    "NAME": "望月斗篷",
+    "NAME_VN": "Vọng Nguyệt Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 240
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Trên áo choàng có họa tiết hình trăng lưỡi liềm",
+    "SKILL": [],
+    "ICON": 34071,
+    "STAR": 1
+  },
+  "34213": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34214,
+      "EXP": 2880
+    },
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1050
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 280
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 3
+  },
+  "34362": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34363,
+      "EXP": 5760
+    },
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 170
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 170
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 120
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 2
+  },
+  "34442": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34443,
+      "EXP": 5760
+    },
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 2
+  },
+  "34032": {
+    "QUALITY": 1,
+    "EXP": 60,
+    "NEXT": {
+      "ID": 34033,
+      "EXP": 40
+    },
+    "NAME": "飞刀",
+    "NAME_VN": "Phi Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Con dao ném nhỏ cự ly ngắn",
+    "SKILL": [],
+    "ICON": 34031,
+    "STAR": 2
+  },
+  "34211": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34212,
+      "EXP": 2880
+    },
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 1
+  },
+  "34315": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34316,
+      "EXP": 2880
+    },
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 5
+  },
+  "34165": {
+    "QUALITY": 4,
+    "EXP": 6410,
+    "NAME": "紫金孤月盾",
+    "NAME_VN": "Tử Kim Cô Nguyệt Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Làm từ Tử Kim, hình dáng tựa Cô nguyệt",
+    "SKILL": [],
+    "ICON": 34161,
+    "STAR": 5
+  },
+  "34434": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34435,
+      "EXP": 5760
+    },
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 210
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 210
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 4
+  },
+  "34462": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34463,
+      "EXP": 5760
+    },
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 60
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 2
+  },
+  "34544": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34545,
+      "EXP": 5760
+    },
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 160
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 80
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 4
+  },
+  "34534": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34535,
+      "EXP": 5760
+    },
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 50
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 240
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 4
+  },
+  "34212": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34213,
+      "EXP": 2880
+    },
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 2
+  },
+  "34113": {
+    "QUALITY": 3,
+    "EXP": 1310,
+    "NEXT": {
+      "ID": 34114,
+      "EXP": 580
+    },
+    "NAME": "霸王战盾",
+    "NAME_VN": "Bá Vương Chiến Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Khiên chiến tinh xảo, khí thế bừng bừng",
+    "SKILL": [],
+    "ICON": 34111,
+    "STAR": 3
+  },
+  "34092": {
+    "QUALITY": 2,
+    "EXP": 230,
+    "NEXT": {
+      "ID": 34093,
+      "EXP": 190
+    },
+    "NAME": "夜明珠",
+    "NAME_VN": "Dạ Minh Châu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Tỏa sáng như trăng sáng",
+    "SKILL": [],
+    "ICON": 34091,
+    "STAR": 2
+  },
+  "34033": {
+    "QUALITY": 1,
+    "EXP": 100,
+    "NEXT": {
+      "ID": 34034,
+      "EXP": 40
+    },
+    "NAME": "飞刀",
+    "NAME_VN": "Phi Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Con dao ném nhỏ cự ly ngắn",
+    "SKILL": [],
+    "ICON": 34031,
+    "STAR": 3
+  },
+  "34001": {
+    "QUALITY": 1,
+    "EXP": 20,
+    "NEXT": {
+      "ID": 34002,
+      "EXP": 40
+    },
+    "NAME": "青囊书",
+    "NAME_VN": "Thanh Nang Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Sách y học do Thần y Hoa Đà biên soạn",
+    "SKILL": [],
+    "ICON": 34001,
+    "STAR": 1
+  },
+  "34394": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34395,
+      "EXP": 5760
+    },
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 4
+  },
+  "34363": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34364,
+      "EXP": 5760
+    },
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 190
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 190
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 140
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 3
+  },
+  "34021": {
+    "QUALITY": 1,
+    "EXP": 20,
+    "NEXT": {
+      "ID": 34022,
+      "EXP": 40
+    },
+    "NAME": "御风斗篷",
+    "NAME_VN": "Ngự Phong Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Áo choàng bay theo gió",
+    "SKILL": [],
+    "ICON": 34021,
+    "STAR": 1
+  },
+  "34396": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 6
+  },
+  "34312": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34313,
+      "EXP": 2880
+    },
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 30
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 2
+  },
+  "34435": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34436,
+      "EXP": 5760
+    },
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 230
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 230
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 230
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 5
+  },
+  "34352": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34353,
+      "EXP": 2880
+    },
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 60
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 130
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 2
+  },
+  "34000": {
+    "QUALITY": 1,
+    "EXP": 1,
+    "NAME": "珍珠",
+    "NAME_VN": "Trân Châu",
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 1
+      }
+    ],
+    "PRICE": 1,
+    "INTRO": "Có thể cung cấp 1 điểm kinh nghiệm bảo vật",
+    "SKILL": [],
+    "ICON": 34000,
+    "STAR": 1
+  },
+  "34526": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 6
+  },
+  "34272": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34273,
+      "EXP": 5760
+    },
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 350
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 2
+  },
+  "34383": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34384,
+      "EXP": 5760
+    },
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 3
+  },
+  "34115": {
+    "QUALITY": 3,
+    "EXP": 2470,
+    "NAME": "霸王战盾",
+    "NAME_VN": "Bá Vương Chiến Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Khiên chiến tinh xảo, khí thế bừng bừng",
+    "SKILL": [],
+    "ICON": 34111,
+    "STAR": 5
+  },
+  "34192": {
+    "QUALITY": 4,
+    "EXP": 2090,
+    "NEXT": {
+      "ID": 34193,
+      "EXP": 1440
+    },
+    "NAME": "和氏壁",
+    "NAME_VN": "Hòa Thị Bích",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Châu báu hiếm có!",
+    "SKILL": [],
+    "ICON": 34191,
+    "STAR": 2
+  },
+  "34356": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 100
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 6
+  },
+  "34481": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34482,
+      "EXP": 5760
+    },
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 100
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 75
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 1
+  },
+  "34206": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 6
+  },
+  "34233": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34234,
+      "EXP": 2880
+    },
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1050
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 280
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 3
+  },
+  "34445": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34446,
+      "EXP": 5760
+    },
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 90
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 5
+  },
+  "34162": {
+    "QUALITY": 4,
+    "EXP": 2090,
+    "NEXT": {
+      "ID": 34163,
+      "EXP": 1440
+    },
+    "NAME": "紫金孤月盾",
+    "NAME_VN": "Tử Kim Cô Nguyệt Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Làm từ Tử Kim, hình dáng tựa Cô nguyệt",
+    "SKILL": [],
+    "ICON": 34161,
+    "STAR": 2
+  },
+  "34286": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 6
+  },
+  "34423": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34424,
+      "EXP": 5760
+    },
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 210
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 140
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 3
+  },
+  "34466": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 100
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 6
+  },
+  "34535": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34536,
+      "EXP": 5760
+    },
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 60
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 270
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 270
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 5
+  },
+  "34125": {
+    "QUALITY": 3,
+    "EXP": 2470,
+    "NAME": "金丝披风",
+    "NAME_VN": "Kim Ty Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Áo choàng làm từ chỉ vàng, giá trị vô giá",
+    "SKILL": [],
+    "ICON": 34121,
+    "STAR": 5
+  },
+  "34375": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34376,
+      "EXP": 5760
+    },
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 5
+  },
+  "34184": {
+    "QUALITY": 4,
+    "EXP": 4970,
+    "NEXT": {
+      "ID": 34185,
+      "EXP": 1440
+    },
+    "NAME": "落日神弓",
+    "NAME_VN": "Lạc Nhật Thần Cung",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 800
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Cung thần của Hậu Nghệ",
+    "SKILL": [],
+    "ICON": 34181,
+    "STAR": 4
+  },
+  "34496": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 155
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 65
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 6
+  },
+  "34265": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34266,
+      "EXP": 5760
+    },
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 5
+  },
+  "34343": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34344,
+      "EXP": 2880
+    },
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 140
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 3
+  },
+  "34334": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34335,
+      "EXP": 2880
+    },
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 240
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 4
+  },
+  "34251": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34252,
+      "EXP": 5760
+    },
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 1
+  },
+  "34432": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34433,
+      "EXP": 5760
+    },
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 170
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 170
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 170
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 2
+  },
+  "34354": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34355,
+      "EXP": 2880
+    },
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 80
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 190
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 4
+  },
+  "34145": {
+    "QUALITY": 3,
+    "EXP": 2470,
+    "NAME": "虎符",
+    "NAME_VN": "Hổ Phù",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Tín vật của chỉ huy ba quân",
+    "SKILL": [],
+    "ICON": 34141,
+    "STAR": 5
+  },
+  "34262": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34263,
+      "EXP": 5760
+    },
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 350
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 2
+  },
+  "34103": {
+    "QUALITY": 3,
+    "EXP": 1310,
+    "NEXT": {
+      "ID": 34104,
+      "EXP": 580
+    },
+    "NAME": "太平要术",
+    "NAME_VN": "Thái Bình Yếu Thuật",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Trời đã chết, hoàng thiên sẽ lập",
+    "SKILL": [],
+    "ICON": 34101,
+    "STAR": 3
+  },
+  "34294": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34295,
+      "EXP": 5760
+    },
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 450
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 4
+  },
+  "34374": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34375,
+      "EXP": 5760
+    },
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 4
+  },
+  "34246": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 6
+  },
+  "34306": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 6
+  },
+  "34473": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34474,
+      "EXP": 5760
+    },
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 70
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 3
+  },
+  "34225": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34226,
+      "EXP": 2880
+    },
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1350
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 360
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 5
+  },
+  "34522": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34523,
+      "EXP": 5760
+    },
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 2
+  },
+  "34282": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34283,
+      "EXP": 5760
+    },
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 350
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 2
+  },
+  "34494": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34495,
+      "EXP": 2880
+    },
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 125
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 55
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 4
+  },
+  "34255": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34256,
+      "EXP": 5760
+    },
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 5
+  },
+  "34392": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34393,
+      "EXP": 5760
+    },
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 2
+  },
+  "34283": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34284,
+      "EXP": 5760
+    },
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 3
+  },
+  "34515": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34516,
+      "EXP": 5760
+    },
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 5
+  },
+  "34533": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34534,
+      "EXP": 5760
+    },
+    "NAME": "神火罩",
+    "NAME_VN": "Thần Hỏa Tráo",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 40
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 210
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể triệu hồi Cửu Long, phun ra Tam Muội Chân Hỏa",
+    "SKILL": [],
+    "QLEVEL": 8,
+    "ICON": 34531,
+    "STAR": 3
+  },
+  "34124": {
+    "QUALITY": 3,
+    "EXP": 1890,
+    "NEXT": {
+      "ID": 34125,
+      "EXP": 580
+    },
+    "NAME": "金丝披风",
+    "NAME_VN": "Kim Ty Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Áo choàng làm từ chỉ vàng, giá trị vô giá",
+    "SKILL": [],
+    "ICON": 34121,
+    "STAR": 4
+  },
+  "34253": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34254,
+      "EXP": 5760
+    },
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 3
+  },
+  "34316": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "朱雀羽",
+    "NAME_VN": "Chu Tước Vũ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PRDC",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh tái sinh của Chu Tước",
+    "SKILL": [
+      49002
+    ],
+    "ICON": 34311,
+    "STAR": 6
+  },
+  "34295": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34296,
+      "EXP": 5760
+    },
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 5
+  },
+  "34204": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34205,
+      "EXP": 2880
+    },
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1200
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 320
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 4
+  },
+  "34424": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34425,
+      "EXP": 5760
+    },
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 240
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 240
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 160
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 4
+  },
+  "34244": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34245,
+      "EXP": 2880
+    },
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1200
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 320
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 4
+  },
+  "34285": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34286,
+      "EXP": 5760
+    },
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 5
+  },
+  "34336": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 6
+  },
+  "34024": {
+    "QUALITY": 1,
+    "EXP": 140,
+    "NAME": "御风斗篷",
+    "NAME_VN": "Ngự Phong Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Áo choàng bay theo gió",
+    "SKILL": [],
+    "ICON": 34021,
+    "STAR": 4
+  },
+  "34524": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34525,
+      "EXP": 5760
+    },
+    "NAME": "炼妖壶",
+    "NAME_VN": "Luyện Yêu Hồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Bên trong chứa một phương thiên địa, có thể luyện hóa vạn vật",
+    "SKILL": [
+      49015
+    ],
+    "QLEVEL": 8,
+    "ICON": 34521,
+    "STAR": 4
+  },
+  "34364": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34365,
+      "EXP": 5760
+    },
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 210
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 210
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 160
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 4
+  },
+  "34376": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 6
+  },
+  "34276": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 6
+  },
+  "34216": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 6
+  },
+  "34471": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34472,
+      "EXP": 5760
+    },
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 50
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 1
+  },
+  "34044": {
+    "QUALITY": 1,
+    "EXP": 140,
+    "NAME": "金丝锦囊",
+    "NAME_VN": "Kim Ty Cẩm Nang",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Hộp gấm tinh xảo có viền chỉ vàng",
+    "SKILL": [],
+    "ICON": 34041,
+    "STAR": 4
+  },
+  "34413": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34414,
+      "EXP": 2880
+    },
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 70
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 90
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 3
+  },
+  "34506": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 155
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 6
+  },
+  "34456": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 250
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 6
+  },
+  "34141": {
+    "QUALITY": 3,
+    "EXP": 150,
+    "NEXT": {
+      "ID": 34142,
+      "EXP": 580
+    },
+    "NAME": "虎符",
+    "NAME_VN": "Hổ Phù",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 400
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Tín vật của chỉ huy ba quân",
+    "SKILL": [],
+    "ICON": 34141,
+    "STAR": 1
+  },
+  "34222": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34223,
+      "EXP": 2880
+    },
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 2
+  },
+  "34292": {
+    "QUALITY": 6,
+    "EXP": 9360,
+    "NEXT": {
+      "ID": 34293,
+      "EXP": 5760
+    },
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1900
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 350
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 2
+  },
+  "34193": {
+    "QUALITY": 4,
+    "EXP": 3530,
+    "NEXT": {
+      "ID": 34194,
+      "EXP": 1440
+    },
+    "NAME": "和氏壁",
+    "NAME_VN": "Hòa Thị Bích",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 700
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Châu báu hiếm có!",
+    "SKILL": [],
+    "ICON": 34191,
+    "STAR": 3
+  },
+  "34263": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34264,
+      "EXP": 5760
+    },
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 3
+  },
+  "34191": {
+    "QUALITY": 4,
+    "EXP": 650,
+    "NEXT": {
+      "ID": 34192,
+      "EXP": 1440
+    },
+    "NAME": "和氏壁",
+    "NAME_VN": "Hòa Thị Bích",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Châu báu hiếm có!",
+    "SKILL": [],
+    "ICON": 34191,
+    "STAR": 1
+  },
+  "34483": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34484,
+      "EXP": 5760
+    },
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 140
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 140
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 105
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 3
+  },
+  "34412": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34413,
+      "EXP": 2880
+    },
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 60
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 70
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 2
+  },
+  "34511": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34512,
+      "EXP": 5760
+    },
+    "NAME": "盘古斧",
+    "NAME_VN": "Bàn Cổ Phủ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Sinh ra từ hỗn mang, chứa đựng thần lực khai thiên lập địa",
+    "SKILL": [
+      49014
+    ],
+    "QLEVEL": 8,
+    "ICON": 34511,
+    "STAR": 1
+  },
+  "34132": {
+    "QUALITY": 3,
+    "EXP": 730,
+    "NEXT": {
+      "ID": 34133,
+      "EXP": 580
+    },
+    "NAME": "诸葛连弩",
+    "NAME_VN": "Gia Cát Liên Nỗ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 450
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Có thể lập tức bắn ra 9 mũi tên",
+    "SKILL": [],
+    "ICON": 34131,
+    "STAR": 2
+  },
+  "34114": {
+    "QUALITY": 3,
+    "EXP": 1890,
+    "NEXT": {
+      "ID": 34115,
+      "EXP": 580
+    },
+    "NAME": "霸王战盾",
+    "NAME_VN": "Bá Vương Chiến Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Khiên chiến tinh xảo, khí thế bừng bừng",
+    "SKILL": [],
+    "ICON": 34111,
+    "STAR": 4
+  },
+  "34215": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34216,
+      "EXP": 2880
+    },
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1350
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 360
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 5
+  },
+  "34415": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34416,
+      "EXP": 2880
+    },
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 90
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 130
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 130
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 5
+  },
+  "34111": {
+    "QUALITY": 3,
+    "EXP": 150,
+    "NEXT": {
+      "ID": 34112,
+      "EXP": 580
+    },
+    "NAME": "霸王战盾",
+    "NAME_VN": "Bá Vương Chiến Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 400
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Khiên chiến tinh xảo, khí thế bừng bừng",
+    "SKILL": [],
+    "ICON": 34111,
+    "STAR": 1
+  },
+  "34155": {
+    "QUALITY": 4,
+    "EXP": 6410,
+    "NAME": "兵法二十四篇",
+    "NAME_VN": "Binh Pháp Nhị Thập Tứ Thiên",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Binh thư truyền thế của Ngọa Long",
+    "SKILL": [],
+    "ICON": 34151,
+    "STAR": 5
+  },
+  "34271": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34272,
+      "EXP": 5760
+    },
+    "NAME": "凤凰羽",
+    "NAME_VN": "Phượng Hoàng Vũ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Lông của Phương Hoàng",
+    "SKILL": [],
+    "ICON": 34271,
+    "STAR": 1
+  },
+  "34094": {
+    "QUALITY": 2,
+    "EXP": 610,
+    "NAME": "夜明珠",
+    "NAME_VN": "Dạ Minh Châu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 420
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Tỏa sáng như trăng sáng",
+    "SKILL": [],
+    "ICON": 34091,
+    "STAR": 4
+  },
+  "34281": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34282,
+      "EXP": 5760
+    },
+    "NAME": "番天印",
+    "NAME_VN": "Phiên Thiên Ấn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần cản giết thần, Phật cản giết Phật",
+    "SKILL": [],
+    "ICON": 34281,
+    "STAR": 1
+  },
+  "34333": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34334,
+      "EXP": 2880
+    },
+    "NAME": "麒麟血",
+    "NAME_VN": "Kỳ Lân Huyết",
+    "PROP": [
+      {
+        "KEY": "PMDEF",
+        "VAL": 210
+      },
+      {
+        "KEY": "PMDEX",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có tác dụng kỳ diệu đối với ma thuật",
+    "SKILL": [
+      49004
+    ],
+    "ICON": 34331,
+    "STAR": 3
+  },
+  "34004": {
+    "QUALITY": 1,
+    "EXP": 140,
+    "NAME": "青囊书",
+    "NAME_VN": "Thanh Nang Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Sách y học do Thần y Hoa Đà biên soạn",
+    "SKILL": [],
+    "ICON": 34001,
+    "STAR": 4
+  },
+  "34131": {
+    "QUALITY": 3,
+    "EXP": 150,
+    "NEXT": {
+      "ID": 34132,
+      "EXP": 580
+    },
+    "NAME": "诸葛连弩",
+    "NAME_VN": "Gia Cát Liên Nỗ",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 400
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Có thể lập tức bắn ra 9 mũi tên",
+    "SKILL": [],
+    "ICON": 34131,
+    "STAR": 1
+  },
+  "34245": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34246,
+      "EXP": 2880
+    },
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1350
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 360
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 5
+  },
+  "34353": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34354,
+      "EXP": 2880
+    },
+    "NAME": "怒龙牙",
+    "NAME_VN": "Nộ Long Nha",
+    "PROP": [
+      {
+        "KEY": "PCRI",
+        "VAL": 70
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 160
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Phẫn nộ, phẫn nộ, phẫn nộ! Trong mắt ngươi chỉ có giết chóc",
+    "SKILL": [
+      49006
+    ],
+    "ICON": 34351,
+    "STAR": 3
+  },
+  "34464": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34465,
+      "EXP": 5760
+    },
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 80
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 220
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 4
+  },
+  "34304": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34305,
+      "EXP": 2880
+    },
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 80
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 4
+  },
+  "34431": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34432,
+      "EXP": 5760
+    },
+    "NAME": "东皇钟",
+    "NAME_VN": "Đông Hoàng Chung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 150
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMDAM",
+        "VAL": 150
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Pháp khi sinh ra khi thiên địa sơ khai, chứa sức mạnh hỗn độn",
+    "SKILL": [
+      49012
+    ],
+    "ICON": 34431,
+    "STAR": 1
+  },
+  "34545": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34546,
+      "EXP": 5760
+    },
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 180
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 90
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 90
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 5
+  },
+  "34014": {
+    "QUALITY": 1,
+    "EXP": 140,
+    "NAME": "鬼角",
+    "NAME_VN": "Quỷ Giác",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mặt khiên giống như một con quỷ hung dữ",
+    "SKILL": [],
+    "ICON": 34011,
+    "STAR": 4
+  },
+  "34242": {
+    "QUALITY": 5,
+    "EXP": 5280,
+    "NEXT": {
+      "ID": 34243,
+      "EXP": 2880
+    },
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 240
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 2
+  },
+  "34214": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34215,
+      "EXP": 2880
+    },
+    "NAME": "玲珑盾",
+    "NAME_VN": "Linh Lung Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1200
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 320
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Không ai biết khiên này được chế tạo như thế nào",
+    "SKILL": [],
+    "ICON": 34211,
+    "STAR": 4
+  },
+  "34151": {
+    "QUALITY": 4,
+    "EXP": 650,
+    "NEXT": {
+      "ID": 34152,
+      "EXP": 1440
+    },
+    "NAME": "兵法二十四篇",
+    "NAME_VN": "Binh Pháp Nhị Thập Tứ Thiên",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Binh thư truyền thế của Ngọa Long",
+    "SKILL": [],
+    "ICON": 34151,
+    "STAR": 1
+  },
+  "34062": {
+    "QUALITY": 2,
+    "EXP": 230,
+    "NEXT": {
+      "ID": 34063,
+      "EXP": 190
+    },
+    "NAME": "明光盾",
+    "NAME_VN": "Minh Quang Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Mặt khiên sáng bóng như gương, tỏa sáng rực rỡ",
+    "SKILL": [],
+    "ICON": 34061,
+    "STAR": 2
+  },
+  "34254": {
+    "QUALITY": 6,
+    "EXP": 20880,
+    "NEXT": {
+      "ID": 34255,
+      "EXP": 5760
+    },
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2700
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 450
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 4
+  },
+  "34256": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "遁甲天书",
+    "NAME_VN": "Độn Giáp Thiên Thư",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chia thành ba quyển: Thiên Độn-Địa Độn-Nhân Độ",
+    "SKILL": [],
+    "ICON": 34251,
+    "STAR": 6
+  },
+  "34346": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 200
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 6
+  },
+  "34365": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34366,
+      "EXP": 5760
+    },
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 230
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 230
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 180
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 5
+  },
+  "34326": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "玄武甲",
+    "NAME_VN": "Huyền Vũ Giáp",
+    "PROP": [
+      {
+        "KEY": "PDEF",
+        "VAL": 300
+      },
+      {
+        "KEY": "PDEX",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Huyền Vũ.",
+    "SKILL": [
+      49003
+    ],
+    "ICON": 34321,
+    "STAR": 6
+  },
+  "34293": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34294,
+      "EXP": 5760
+    },
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 400
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 3
+  },
+  "34361": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34362,
+      "EXP": 5760
+    },
+    "NAME": "轩辕剑",
+    "NAME_VN": "Hiên Viên Kiếm",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 150
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 150
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 100
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thần kiếm chư thần ban cho Hoàng Đế Hiên Viên",
+    "SKILL": [
+      49007
+    ],
+    "ICON": 34361,
+    "STAR": 1
+  },
+  "34411": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34412,
+      "EXP": 2880
+    },
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 50
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 50
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 1
+  },
+  "34231": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34232,
+      "EXP": 2880
+    },
+    "NAME": "孔雀翎",
+    "NAME_VN": "Khổng Tước Linh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Ám khí số một thiên hạ",
+    "SKILL": [],
+    "ICON": 34231,
+    "STAR": 1
+  },
+  "34485": {
+    "QUALITY": 6,
+    "EXP": 28040,
+    "NEXT": {
+      "ID": 34486,
+      "EXP": 5760
+    },
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 180
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 135
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 5
+  },
+  "34105": {
+    "QUALITY": 3,
+    "EXP": 2470,
+    "NAME": "太平要术",
+    "NAME_VN": "Thái Bình Yếu Thuật",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Trời đã chết, hoàng thiên sẽ lập",
+    "SKILL": [],
+    "ICON": 34101,
+    "STAR": 5
+  },
+  "34172": {
+    "QUALITY": 4,
+    "EXP": 2090,
+    "NEXT": {
+      "ID": 34173,
+      "EXP": 1440
+    },
+    "NAME": "武圣披风",
+    "NAME_VN": "Võ Thánh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Hạo nhiên đại khí",
+    "SKILL": [],
+    "ICON": 34171,
+    "STAR": 2
+  },
+  "34345": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34346,
+      "EXP": 2880
+    },
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 180
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 5
+  },
+  "34453": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34454,
+      "EXP": 5760
+    },
+    "NAME": "刑天盾",
+    "NAME_VN": "Hình Thiên Thuẫn",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 130
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 130
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên của Hình Thiên, mang sức mạnh vô tận của thần ma",
+    "SKILL": [],
+    "ICON": 34451,
+    "STAR": 3
+  },
+  "34121": {
+    "QUALITY": 3,
+    "EXP": 150,
+    "NEXT": {
+      "ID": 34122,
+      "EXP": 580
+    },
+    "NAME": "金丝披风",
+    "NAME_VN": "Kim Ty Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 400
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Áo choàng làm từ chỉ vàng, giá trị vô giá",
+    "SKILL": [],
+    "ICON": 34121,
+    "STAR": 1
+  },
+  "34385": {
+    "QUALITY": 6,
+    "EXP": 26640,
+    "NEXT": {
+      "ID": 34386,
+      "EXP": 5760
+    },
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3100
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 5
+  },
+  "34303": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34304,
+      "EXP": 2880
+    },
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 70
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 3
+  },
+  "34405": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34406,
+      "EXP": 2880
+    },
+    "NAME": "五彩灯笼",
+    "NAME_VN": "Ngũ Sắc Đăng Lồng",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 180
+      },
+      {
+        "KEY": "PDEF",
+        "VAL": 270
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 270
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Dùng để xua đuổi  Niên Thú trong dịp Tết Nguyên Đán",
+    "SKILL": [],
+    "ICON": 34401,
+    "STAR": 5
+  },
+  "34205": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34206,
+      "EXP": 2880
+    },
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1350
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 360
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 5
+  },
+  "34504": {
+    "QUALITY": 6,
+    "EXP": 22280,
+    "NEXT": {
+      "ID": 34505,
+      "EXP": 5760
+    },
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 125
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 80
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 4
+  },
+  "34223": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34224,
+      "EXP": 2880
+    },
+    "NAME": "梦影披风",
+    "NAME_VN": "Mộng Ảnh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1050
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 280
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Áo choàng mộng ảo được làm từ vải mỏng nhẹ",
+    "SKILL": [],
+    "ICON": 34221,
+    "STAR": 3
+  },
+  "34163": {
+    "QUALITY": 4,
+    "EXP": 3530,
+    "NEXT": {
+      "ID": 34164,
+      "EXP": 1440
+    },
+    "NAME": "紫金孤月盾",
+    "NAME_VN": "Tử Kim Cô Nguyệt Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 700
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Làm từ Tử Kim, hình dáng tựa Cô nguyệt",
+    "SKILL": [],
+    "ICON": 34161,
+    "STAR": 3
+  },
+  "34201": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34202,
+      "EXP": 2880
+    },
+    "NAME": "孙子兵法",
+    "NAME_VN": "Tôn Tử Binh Pháp",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Binh thư tổng hợp các mưu kế của các bậc quân sự qua các đời",
+    "SKILL": [],
+    "ICON": 34201,
+    "STAR": 1
+  },
+  "34266": {
+    "QUALITY": 6,
+    "EXP": 32400,
+    "NAME": "麒麟盾",
+    "NAME_VN": "Kỳ Lân Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3500
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Khiên thần chứa đựng sức mạnh của Kỳ Lân",
+    "SKILL": [],
+    "ICON": 34261,
+    "STAR": 6
+  },
+  "34381": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34382,
+      "EXP": 5760
+    },
+    "NAME": "神农鼎",
+    "NAME_VN": "Thần Nông Đỉnh",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Cổ đỉnh do Thần Nông chế tạo",
+    "SKILL": [
+      49009
+    ],
+    "ICON": 34381,
+    "STAR": 1
+  },
+  "34241": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34242,
+      "EXP": 2880
+    },
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 1
+  },
+  "34195": {
+    "QUALITY": 4,
+    "EXP": 6410,
+    "NAME": "和氏壁",
+    "NAME_VN": "Hòa Thị Bích",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 900
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 250
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Châu báu hiếm có!",
+    "SKILL": [],
+    "ICON": 34191,
+    "STAR": 5
+  },
+  "34416": {
+    "QUALITY": 5,
+    "EXP": 16800,
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 150
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 6
+  },
+  "34291": {
+    "QUALITY": 6,
+    "EXP": 3600,
+    "NEXT": {
+      "ID": 34292,
+      "EXP": 5760
+    },
+    "NAME": "青龙鳞",
+    "NAME_VN": "Thanh Long Lân",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Nghịch lân của Thanh Long, báu vật vô giá trên thế gian",
+    "SKILL": [],
+    "ICON": 34291,
+    "STAR": 1
+  },
+  "34022": {
+    "QUALITY": 1,
+    "EXP": 60,
+    "NEXT": {
+      "ID": 34023,
+      "EXP": 40
+    },
+    "NAME": "御风斗篷",
+    "NAME_VN": "Ngự Phong Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Áo choàng bay theo gió",
+    "SKILL": [],
+    "ICON": 34021,
+    "STAR": 2
+  },
+  "34463": {
+    "QUALITY": 6,
+    "EXP": 16520,
+    "NEXT": {
+      "ID": 34464,
+      "EXP": 5760
+    },
+    "NAME": "阴阳镜",
+    "NAME_VN": "Âm Dương Kính",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 70
+      },
+      {
+        "KEY": "PCRID",
+        "VAL": 180
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Có thể hỗn loạn âm dương, huyền bí vô cùng",
+    "SKILL": [],
+    "ICON": 34461,
+    "STAR": 3
+  },
+  "34182": {
+    "QUALITY": 4,
+    "EXP": 2090,
+    "NEXT": {
+      "ID": 34183,
+      "EXP": 1440
+    },
+    "NAME": "落日神弓",
+    "NAME_VN": "Lạc Nhật Thần Cung",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Cung thần của Hậu Nghệ",
+    "SKILL": [],
+    "ICON": 34181,
+    "STAR": 2
+  },
+  "34183": {
+    "QUALITY": 4,
+    "EXP": 3530,
+    "NEXT": {
+      "ID": 34184,
+      "EXP": 1440
+    },
+    "NAME": "落日神弓",
+    "NAME_VN": "Lạc Nhật Thần Cung",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 700
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Cung thần của Hậu Nghệ",
+    "SKILL": [],
+    "ICON": 34181,
+    "STAR": 3
+  },
+  "34546": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 200
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 6
+  },
+  "34476": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "风火轮",
+    "NAME_VN": "Phong Hỏa Luân",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Được tạo thành từ Thanh Loan  có thể truy phong trục hỏa",
+    "SKILL": [],
+    "ICON": 34471,
+    "STAR": 6
+  },
+  "34305": {
+    "QUALITY": 5,
+    "EXP": 13920,
+    "NEXT": {
+      "ID": 34306,
+      "EXP": 2880
+    },
+    "NAME": "青龙胆",
+    "NAME_VN": "Thanh Long Đảm",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 90
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh hủy diệt thiên địa của Thanh Long",
+    "SKILL": [
+      49001
+    ],
+    "ICON": 34301,
+    "STAR": 5
+  },
+  "34486": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "太极图",
+    "NAME_VN": "Thái Cực Đồ",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 200
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 200
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thái Cực Đồ làm thiên địa động dung nhật nguyệt biến sắc",
+    "SKILL": [],
+    "ICON": 34481,
+    "STAR": 6
+  },
+  "34243": {
+    "QUALITY": 5,
+    "EXP": 8160,
+    "NEXT": {
+      "ID": 34244,
+      "EXP": 2880
+    },
+    "NAME": "八卦镜",
+    "NAME_VN": "Bát Quái Kính",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1050
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 280
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Chứa đựng sự biến hóa của Bát Quái và Ngũ Hành",
+    "SKILL": [],
+    "ICON": 34241,
+    "STAR": 3
+  },
+  "34373": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34374,
+      "EXP": 5760
+    },
+    "NAME": "虎魄刀",
+    "NAME_VN": "Hổ Phách Đao",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2300
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Đao của Xi Vưu chứa đựng vô số oan hồn",
+    "SKILL": [
+      49008
+    ],
+    "ICON": 34371,
+    "STAR": 3
+  },
+  "34083": {
+    "QUALITY": 2,
+    "EXP": 420,
+    "NEXT": {
+      "ID": 34084,
+      "EXP": 190
+    },
+    "NAME": "流星镖",
+    "NAME_VN": "Lưu Tinh Phiêu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 360
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Khi ra tay như sao băng bay vút",
+    "SKILL": [],
+    "ICON": 34081,
+    "STAR": 3
+  },
+  "34082": {
+    "QUALITY": 2,
+    "EXP": 230,
+    "NEXT": {
+      "ID": 34083,
+      "EXP": 190
+    },
+    "NAME": "流星镖",
+    "NAME_VN": "Lưu Tinh Phiêu",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 300
+      },
+      {
+        "KEY": "PJSATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Khi ra tay như sao băng bay vút",
+    "SKILL": [],
+    "ICON": 34081,
+    "STAR": 2
+  },
+  "34426": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "妖刀村正",
+    "NAME_VN": "Yêu Đao Thôn Chính",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 300
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 300
+      },
+      {
+        "KEY": "PCD",
+        "VAL": 200
+      },
+      {
+        "KEY": "MP",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Thị Huyết Ma Đao biến người sở hữu thành ác quỷ giết chóc",
+    "SKILL": [
+      49011
+    ],
+    "ICON": 34421,
+    "STAR": 6
+  },
+  "34152": {
+    "QUALITY": 4,
+    "EXP": 2090,
+    "NEXT": {
+      "ID": 34153,
+      "EXP": 1440
+    },
+    "NAME": "兵法二十四篇",
+    "NAME_VN": "Binh Pháp Nhị Thập Tứ Thiên",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 600
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Binh thư truyền thế của Ngọa Long",
+    "SKILL": [],
+    "ICON": 34151,
+    "STAR": 2
+  },
+  "34112": {
+    "QUALITY": 3,
+    "EXP": 730,
+    "NEXT": {
+      "ID": 34113,
+      "EXP": 580
+    },
+    "NAME": "霸王战盾",
+    "NAME_VN": "Bá Vương Chiến Thuẫn",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 450
+      },
+      {
+        "KEY": "PCKATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Khiên chiến tinh xảo, khí thế bừng bừng",
+    "SKILL": [],
+    "ICON": 34111,
+    "STAR": 2
+  },
+  "34341": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34342,
+      "EXP": 2880
+    },
+    "NAME": "白虎爪",
+    "NAME_VN": "Bạch Hổ Trảo",
+    "PROP": [
+      {
+        "KEY": "PPTHR",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh không thể phá vỡ của Bạch Hổ",
+    "SKILL": [
+      49005
+    ],
+    "ICON": 34341,
+    "STAR": 1
+  },
+  "34501": {
+    "QUALITY": 6,
+    "EXP": 5000,
+    "NEXT": {
+      "ID": 34502,
+      "EXP": 5760
+    },
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 100
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 80
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 1
+  },
+  "34542": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34543,
+      "EXP": 5760
+    },
+    "NAME": "昆仑镜",
+    "NAME_VN": "Côn Luân Kính",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 120
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 60
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Kết nối hai giới Thiên-Nhân, phá vỡ không gian và thời gian",
+    "SKILL": [
+      49016
+    ],
+    "QLEVEL": 8,
+    "ICON": 34541,
+    "STAR": 2
+  },
+  "34142": {
+    "QUALITY": 3,
+    "EXP": 730,
+    "NEXT": {
+      "ID": 34143,
+      "EXP": 580
+    },
+    "NAME": "虎符",
+    "NAME_VN": "Hổ Phù",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 450
+      },
+      {
+        "KEY": "PMSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Tín vật của chỉ huy ba quân",
+    "SKILL": [],
+    "ICON": 34141,
+    "STAR": 2
+  },
+  "34414": {
+    "QUALITY": 5,
+    "EXP": 11040,
+    "NEXT": {
+      "ID": 34415,
+      "EXP": 2880
+    },
+    "NAME": "锦毛鼠",
+    "NAME_VN": "Cẩm Mao Thử",
+    "PROP": [
+      {
+        "KEY": "PATK",
+        "VAL": 80
+      },
+      {
+        "KEY": "PHP",
+        "VAL": 160
+      },
+      {
+        "KEY": "PPTHR",
+        "VAL": 110
+      },
+      {
+        "KEY": "PMTHR",
+        "VAL": 110
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chuột lông vàng bay trên không, thiên hạ tự do!",
+    "SKILL": [],
+    "ICON": 34411,
+    "STAR": 4
+  },
+  "34023": {
+    "QUALITY": 1,
+    "EXP": 100,
+    "NEXT": {
+      "ID": 34024,
+      "EXP": 40
+    },
+    "NAME": "御风斗篷",
+    "NAME_VN": "Ngự Phong Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 250
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Áo choàng bay theo gió",
+    "SKILL": [],
+    "ICON": 34021,
+    "STAR": 3
+  },
+  "34502": {
+    "QUALITY": 6,
+    "EXP": 10760,
+    "NEXT": {
+      "ID": 34503,
+      "EXP": 5760
+    },
+    "NAME": "落日弓",
+    "NAME_VN": "Lạc Nhật Cung",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 120
+      },
+      {
+        "KEY": "PASP",
+        "VAL": 95
+      },
+      {
+        "KEY": "PCRI",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Theo truyền thuyết là bảo vật của Hậu Nghệ",
+    "SKILL": [
+      49013
+    ],
+    "ICON": 34501,
+    "STAR": 2
+  },
+  "34393": {
+    "QUALITY": 6,
+    "EXP": 15120,
+    "NEXT": {
+      "ID": 34394,
+      "EXP": 5760
+    },
+    "NAME": "女娲石",
+    "NAME_VN": "Nữ Oa Thạch",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 140
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Chứa đựng sức mạnh vô thượng của thiên địa",
+    "SKILL": [
+      49010
+    ],
+    "ICON": 34391,
+    "STAR": 3
+  },
+  "34174": {
+    "QUALITY": 4,
+    "EXP": 4970,
+    "NEXT": {
+      "ID": 34175,
+      "EXP": 1440
+    },
+    "NAME": "武圣披风",
+    "NAME_VN": "Võ Thánh Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 800
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Hạo nhiên đại khí",
+    "SKILL": [],
+    "ICON": 34171,
+    "STAR": 4
+  },
+  "34102": {
+    "QUALITY": 3,
+    "EXP": 730,
+    "NEXT": {
+      "ID": 34103,
+      "EXP": 580
+    },
+    "NAME": "太平要术",
+    "NAME_VN": "Thái Bình Yếu Thuật",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 450
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Trời đã chết, hoàng thiên sẽ lập",
+    "SKILL": [],
+    "ICON": 34101,
+    "STAR": 2
+  },
+  "34073": {
+    "QUALITY": 2,
+    "EXP": 420,
+    "NEXT": {
+      "ID": 34074,
+      "EXP": 190
+    },
+    "NAME": "望月斗篷",
+    "NAME_VN": "Vọng Nguyệt Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 360
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Trên áo choàng có họa tiết hình trăng lưỡi liềm",
+    "SKILL": [],
+    "ICON": 34071,
+    "STAR": 3
+  },
+  "34074": {
+    "QUALITY": 2,
+    "EXP": 610,
+    "NAME": "望月斗篷",
+    "NAME_VN": "Vọng Nguyệt Đẩu Bào",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 420
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Trên áo choàng có họa tiết hình trăng lưỡi liềm",
+    "SKILL": [],
+    "ICON": 34071,
+    "STAR": 4
+  },
+  "34101": {
+    "QUALITY": 3,
+    "EXP": 150,
+    "NEXT": {
+      "ID": 34102,
+      "EXP": 580
+    },
+    "NAME": "太平要术",
+    "NAME_VN": "Thái Bình Yếu Thuật",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 400
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Trời đã chết, hoàng thiên sẽ lập",
+    "SKILL": [],
+    "ICON": 34101,
+    "STAR": 1
+  },
+  "34491": {
+    "QUALITY": 5,
+    "EXP": 2400,
+    "NEXT": {
+      "ID": 34492,
+      "EXP": 2880
+    },
+    "NAME": "幽冥烛",
+    "NAME_VN": "U Minh Chúc",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 80
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 40
+      },
+      {
+        "KEY": "PMDEF",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Ngọn nến trong Tết Thanh Minh",
+    "SKILL": [],
+    "ICON": 34491,
+    "STAR": 1
+  },
+  "34446": {
+    "QUALITY": 6,
+    "EXP": 33800,
+    "NAME": "乾坤尺",
+    "NAME_VN": "Càn Khôn Xích",
+    "PROP": [
+      {
+        "KEY": "PHP",
+        "VAL": 200
+      },
+      {
+        "KEY": "PATK",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMPS",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 250000,
+    "INTRO": "Hợp nhất âm dương càn khôn, uy lực vô cùng",
+    "SKILL": [],
+    "ICON": 34441,
+    "STAR": 6
+  },
+  "34154": {
+    "QUALITY": 4,
+    "EXP": 4970,
+    "NEXT": {
+      "ID": 34155,
+      "EXP": 1440
+    },
+    "NAME": "兵法二十四篇",
+    "NAME_VN": "Binh Pháp Nhị Thập Tứ Thiên",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 800
+      },
+      {
+        "KEY": "PXFATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Binh thư truyền thế của Ngọa Long",
+    "SKILL": [],
+    "ICON": 34151,
+    "STAR": 4
+  },
+  "34122": {
+    "QUALITY": 3,
+    "EXP": 730,
+    "NEXT": {
+      "ID": 34123,
+      "EXP": 580
+    },
+    "NAME": "金丝披风",
+    "NAME_VN": "Kim Ty Phi Phong",
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 450
+      },
+      {
+        "KEY": "PSSATK",
+        "VAL": 140
+      }
+    ],
+    "PRICE": 25000,
+    "INTRO": "Áo choàng làm từ chỉ vàng, giá trị vô giá",
+    "SKILL": [],
+    "ICON": 34121,
+    "STAR": 2
+  }
+}

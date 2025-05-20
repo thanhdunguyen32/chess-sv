@@ -1,0 +1,9770 @@
+{
+  "huangyueying_1": {
+    "ssound": {
+      "path": "skillsound_12241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huangyueying01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12241_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunquan_1": {
+    "ssound": {
+      "path": "skillsound_14181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunquan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caiwenji_1": {
+    "ssound": {
+      "path": "skillsound_16121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caiwenji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "mingzhiguangxiu_2": {
+    "ssound": {
+      "path": "skillsound_18061_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_mingzhiguangxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_10341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhugeliang_2": {
+    "ssound": {
+      "path": "skillsound_12141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhugeliang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.8,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.8,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lingtong_2": {
+    "ssound": {
+      "path": "skillsound_14221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lingtong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "daqiao_1": {
+    "ssound": {
+      "path": "skillsound_14281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_daqiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14281_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caozhi_1": {
+    "ssound": {
+      "path": "skillsound_10341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caozhi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "fububanzang_1": {
+    "ssound": {
+      "path": "skillsound_18041_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fububanzang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhangxingcai_2": {
+    "ssound": {
+      "path": "skillsound_12221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangxingcai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12221_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "chengpu_2": {
+    "ssound": {
+      "path": "skillsound_14421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_chengpu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_10101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "gaoshun_1": {
+    "ssound": {
+      "path": "skillsound_16241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_gaoshun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiaoqiao_2": {
+    "ssound": {
+      "path": "skillsound_14261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiaoqiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14261_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lvmeng_1": {
+    "ssound": {
+      "path": "skillsound_14041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvmeng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "gongsunzan_2": {
+    "ssound": {
+      "path": "skillsound_16261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_gongsunzan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "fazheng_1": {
+    "ssound": {
+      "path": "skillsound_12381_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fazheng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_12381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhoutai_1": {
+    "ssound": {
+      "path": "skillsound_14301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhoutai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 22,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "ganning_1": {
+    "ssound": {
+      "path": "skillsound_14021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_ganning01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "simayan_1": {
+    "ssound": {
+      "path": "skillsound_17081_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_simayan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_17081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "mingzhiguangxiu_1": {
+    "ssound": {
+      "path": "skillsound_18061_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_mingzhiguangxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_10341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhouyu_1": {
+    "ssound": {
+      "path": "skillsound_14101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhouyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.9,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "langren_1": {
+    "ssound": {
+      "path": "skillsound_18101_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_langren01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhanghe_2": {
+    "ssound": {
+      "path": "skillsound_10421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zhanghe01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_17081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "liru_2": {
+    "ssound": {
+      "path": "skillsound_16421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liru01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_16421_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "huangzhong_2": {
+    "ssound": {
+      "path": "skillsound_12101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huangzhong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "madai_1": {
+    "ssound": {
+      "path": "skillsound_12121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_madai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhaoyun_2": {
+    "ssound": {
+      "path": "skillsound_12061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhaoyun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 5,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.95,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.95,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caocao_1": {
+    "ssound": {
+      "path": "skillsound_10081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caocao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 22,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lvmeng_2": {
+    "ssound": {
+      "path": "skillsound_14041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvmeng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangliao_2": {
+    "ssound": {
+      "path": "skillsound_10041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangliao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "mateng_1": {
+    "ssound": {
+      "path": "skillsound_16361_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_mateng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "tiangongzhangjiao_1": {
+    "ssound": {
+      "path": "skillsound_16161_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_tiangongzhangjiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_16161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zuoci_1": {
+    "ssound": {
+      "path": "skillsound_10361_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zuoci01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_16161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "weiyan_2": {
+    "ssound": {
+      "path": "skillsound_12201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_weiyan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "benduozhongsheng_1": {
+    "ssound": {
+      "path": "skillsound_18081_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_benduozhongsheng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "sunce_2": {
+    "ssound": {
+      "path": "skillsound_14001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunce01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "maliang_1": {
+    "ssound": {
+      "path": "skillsound_12401_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_maliang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_10341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "huangyueying_2": {
+    "ssound": {
+      "path": "skillsound_12241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huangyueying01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12241_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huatuo_2": {
+    "ssound": {
+      "path": "skillsound_16201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huatuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16201_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yujin_2": {
+    "ssound": {
+      "path": "skillsound_10261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yujin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10261_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangliao_1": {
+    "ssound": {
+      "path": "skillsound_10041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangliao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "fububanzang_separa": {
+    "ssound": {},
+    "xposfix": 0,
+    "mpath": "fububanzang_zhaohuan",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "menghuo_1": {
+    "ssound": {
+      "path": "skillsound_16021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_menghuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhouyu_2": {
+    "ssound": {
+      "path": "skillsound_14101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhouyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.9,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liubang_1": {
+    "ssound": {
+      "path": "skillsound_17001_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liubang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_12161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "xuchu_1": {
+    "ssound": {
+      "path": "skillsound_10021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xuchu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 30,
+      "path": "battlesound_chui_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuanshao_1": {
+    "ssound": {
+      "path": "skillsound_16281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuanshao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16281_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lejin_1": {
+    "ssound": {
+      "path": "skillsound_10361_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lejin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "shangshanqianxin_1": {
+    "ssound": {
+      "path": "skillsound_18021_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_shangshanqianxin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "jianyong_1": {
+    "ssound": {
+      "path": "skillsound_12341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jianyong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "jiaxu_2": {
+    "ssound": {
+      "path": "skillsound_10161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jiaxu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liufeng_1": {
+    "ssound": {
+      "path": "skillsound_12281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liufeng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huatuo_1": {
+    "ssound": {
+      "path": "skillsound_16201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huatuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16201_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lvlingqi_2": {
+    "ssound": {
+      "path": "skillsound_16041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvlingqi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "jinjun_1": {
+    "ssound": {
+      "path": "skillsound_17101_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_jinjun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "lusu_1": {
+    "ssound": {
+      "path": "skillsound_14141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lusu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhaoyun_1": {
+    "ssound": {
+      "path": "skillsound_12061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhaoyun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 5,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.95,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.95,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "machao_1": {
+    "ssound": {
+      "path": "skillsound_12081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_machao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liuxiu_1": {
+    "ssound": {
+      "path": "skillsound_17121_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liuxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "taishici_1": {
+    "ssound": {
+      "path": "skillsound_14061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_taishici01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14061_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liuxiu_2": {
+    "ssound": {
+      "path": "skillsound_17121_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liuxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "liubei_1": {
+    "ssound": {
+      "path": "skillsound_12021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liubei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "luxun_2": {
+    "ssound": {
+      "path": "skillsound_14121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_luxun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhenji_2": {
+    "ssound": {
+      "path": "skillsound_10301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhenji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10301_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.2,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.2,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -15,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "chengong_2": {
+    "ssound": {
+      "path": "skillsound_16141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_chengong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liuye_1": {
+    "ssound": {
+      "path": "skillsound_10381_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liuye01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caoren_2": {
+    "ssound": {
+      "path": "skillsound_10001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caoren01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangjiao_2": {
+    "ssound": {
+      "path": "skillsound_16161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangjiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caiwenji_2": {
+    "ssound": {
+      "path": "skillsound_16121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caiwenji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "guanyu_2": {
+    "ssound": {
+      "path": "skillsound_12041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guanyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.95,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.95,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "jiangwei_2": {
+    "ssound": {
+      "path": "skillsound_12261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jiangwei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liubang_2": {
+    "ssound": {
+      "path": "skillsound_17001_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liubang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_12161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhurong_2": {
+    "ssound": {
+      "path": "skillsound_16081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhurong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_bianzi_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "hanxin_1": {
+    "ssound": {
+      "path": "skillsound_17041_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_hanxin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "gongsunzan_1": {
+    "ssound": {
+      "path": "skillsound_16261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_gongsunzan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xvhuang_2": {
+    "ssound": {
+      "path": "skillsound_10361_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_xuhuang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "fazheng_2": {
+    "ssound": {
+      "path": "skillsound_12381_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fazheng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_12381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "lingtong_1": {
+    "ssound": {
+      "path": "skillsound_14221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lingtong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "bulianshi_2": {
+    "ssound": {
+      "path": "skillsound_14161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_bulianshi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lvbu_1": {
+    "ssound": {
+      "path": "skillsound_16001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvbu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhitianxinchang_2": {
+    "ssound": {
+      "path": "skillsound_18001_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zhitianxinchang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "liuzhang_1": {
+    "ssound": {
+      "path": "skillsound_16381_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liuzhang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "shangshanqianxin_2": {
+    "ssound": {
+      "path": "skillsound_18021_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_shangshanqianxin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "lukang_1": {
+    "ssound": {
+      "path": "skillsound_14241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lukang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 23,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunjian_2": {
+    "ssound": {
+      "path": "skillsound_14401_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_sunjian01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "lvlingqi_1": {
+    "ssound": {
+      "path": "skillsound_16041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvlingqi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "madai_2": {
+    "ssound": {
+      "path": "skillsound_12121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_madai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "pangde_1": {
+    "ssound": {
+      "path": "skillsound_10221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_pangde01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_liandao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "maliang_2": {
+    "ssound": {
+      "path": "skillsound_12401_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_maliang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_10341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "dongzhuo_1": {
+    "ssound": {
+      "path": "skillsound_16221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_dongzhuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhanghe_1": {
+    "ssound": {
+      "path": "skillsound_10421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zhanghe01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_17081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "huangzhong_1": {
+    "ssound": {
+      "path": "skillsound_12101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huangzhong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liubiao_2": {
+    "ssound": {
+      "path": "skillsound_16301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liubiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16301_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "gaoshun_2": {
+    "ssound": {
+      "path": "skillsound_16241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_gaoshun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuji_2": {
+    "ssound": {
+      "path": "skillsound_16101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_16101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huangjinjun_1": {
+    "ssound": {
+      "path": "skillsound_16401_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huangjinjun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 5,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huaxiong_1": {
+    "ssound": {
+      "path": "skillsound_16061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huaxiong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 18,
+      "path": "battlesound_liandao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhitianxinchang_1": {
+    "ssound": {
+      "path": "skillsound_18001_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zhitianxinchang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "handang_1": {
+    "ssound": {
+      "path": "skillsound_14341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_handang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 23,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.2,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.2,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "bulianshi_1": {
+    "ssound": {
+      "path": "skillsound_14161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_bulianshi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangfei_1": {
+    "ssound": {
+      "path": "skillsound_12001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangfei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiahouyuan_2": {
+    "ssound": {
+      "path": "skillsound_10101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiahouyuan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -12,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lvbu_2": {
+    "ssound": {
+      "path": "skillsound_16001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lvbu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunshangxiang_2": {
+    "ssound": {
+      "path": "skillsound_14081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunshangxiang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "wangping_1": {
+    "ssound": {
+      "path": "skillsound_12321_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_wangping01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12321_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caocao_2": {
+    "ssound": {
+      "path": "skillsound_10081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caocao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 22,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "chengyu_1": {
+    "ssound": {
+      "path": "skillsound_10281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_chengyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10281_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "wenpin_2": {
+    "ssound": {
+      "path": "skillsound_16321_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_wenpin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "dianwei_1": {
+    "ssound": {
+      "path": "skillsound_10201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_dianwei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunce_1": {
+    "ssound": {
+      "path": "skillsound_14001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunce01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "lusu_2": {
+    "ssound": {
+      "path": "skillsound_14141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_lusu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiangyu_2": {
+    "ssound": {
+      "path": "skillsound_17021_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_xiangyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "simayan_2": {
+    "ssound": {
+      "path": "skillsound_17081_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_simayan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_17081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "xushu_1": {
+    "ssound": {
+      "path": "skillsound_12301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xushu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12301_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "jiangwei_1": {
+    "ssound": {
+      "path": "skillsound_12261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jiangwei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "weiyan_1": {
+    "ssound": {
+      "path": "skillsound_12201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_weiyan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "pangtong_2": {
+    "ssound": {
+      "path": "skillsound_12161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_pangtong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "path": "battlesound_12161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiahoudun_2": {
+    "ssound": {
+      "path": "skillsound_10061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiahoudun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xuezhe_1": {
+    "ssound": {
+      "path": "skillsound_14381_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xuezhe01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xvhuang_1": {
+    "ssound": {
+      "path": "skillsound_10361_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_xuhuang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "xiahouyuan_1": {
+    "ssound": {
+      "path": "skillsound_10101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiahouyuan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -12,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "hanxiandi_2": {
+    "ssound": {
+      "path": "skillsound_17061_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_hanxiandi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_10381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "chengpu_1": {
+    "ssound": {
+      "path": "skillsound_14421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_chengpu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_10101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "guojia_1": {
+    "ssound": {
+      "path": "skillsound_10121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guojia01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.9,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "hanxin_2": {
+    "ssound": {
+      "path": "skillsound_17041_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_hanxin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "jiaxu_1": {
+    "ssound": {
+      "path": "skillsound_10161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jiaxu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huanggai_1": {
+    "ssound": {
+      "path": "skillsound_14201_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huanggai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_chui_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liru_1": {
+    "ssound": {
+      "path": "skillsound_16421_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_liru01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_16421_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhugejin_1": {
+    "ssound": {
+      "path": "skillsound_14361_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhugejin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14361_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.2,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.2,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "diaochan_1": {
+    "ssound": {
+      "path": "skillsound_16181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_diaochan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunquan_2": {
+    "ssound": {
+      "path": "skillsound_14181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunquan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "guanxing_2": {
+    "ssound": {
+      "path": "skillsound_12181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guanxing01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "pangtong_1": {
+    "ssound": {
+      "path": "skillsound_12161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_pangtong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "fengchenxiuji_2": {
+    "ssound": {
+      "path": "skillsound_18121_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fengchenxiuji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "hanxiandi_1": {
+    "ssound": {
+      "path": "skillsound_17061_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_hanxiandi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "path": "battlesound_10381_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "fububanzang_2": {
+    "ssound": {
+      "path": "skillsound_18041_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fububanzang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "simayi_1": {
+    "ssound": {
+      "path": "skillsound_10141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_simayi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xunyu_2": {
+    "ssound": {
+      "path": "skillsound_10181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xunyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunxiu_1": {
+    "ssound": {
+      "path": "skillsound_14321_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14321_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "luxun_1": {
+    "ssound": {
+      "path": "skillsound_14121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_luxun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "taishici_2": {
+    "ssound": {
+      "path": "skillsound_14061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_taishici01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14061_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "pangde_2": {
+    "ssound": {
+      "path": "skillsound_10221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_pangde01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_liandao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "qiangnubing_1": {
+    "ssound": {
+      "path": "skillsound_10401_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_qiangnubing01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10401_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhitianxinchang_zhaohuan": {
+    "ssound": {},
+    "xposfix": 0,
+    "mpath": "zhitianxinchang_sheshou",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhugeliang_1": {
+    "ssound": {
+      "path": "skillsound_12141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhugeliang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.8,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.8,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liubei_2": {
+    "ssound": {
+      "path": "skillsound_12021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liubei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_jian_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "machao_2": {
+    "ssound": {
+      "path": "skillsound_12081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_machao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "benduozhongsheng_2": {
+    "ssound": {
+      "path": "skillsound_18081_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_benduozhongsheng01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhenji_1": {
+    "ssound": {
+      "path": "skillsound_10301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhenji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10301_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.2,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.2,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -15,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhurong_1": {
+    "ssound": {
+      "path": "skillsound_16081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhurong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_bianzi_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "dengai_1": {
+    "ssound": {
+      "path": "skillsound_10241_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_dengai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 23,
+      "path": "battlesound_liandao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiaoqiao_1": {
+    "ssound": {
+      "path": "skillsound_14261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiaoqiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14261_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "wenpin_1": {
+    "ssound": {
+      "path": "skillsound_16321_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_wenpin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuji_1": {
+    "ssound": {
+      "path": "skillsound_16101_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16101_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "simayi_2": {
+    "ssound": {
+      "path": "skillsound_10141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_simayi01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "diaochan_2": {
+    "ssound": {
+      "path": "skillsound_16181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_diaochan01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caoxiu_1": {
+    "ssound": {
+      "path": "skillsound_10321_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caoxiu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10321_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuanshao_2": {
+    "ssound": {
+      "path": "skillsound_16281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuanshao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16281_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "jianyong_2": {
+    "ssound": {
+      "path": "skillsound_12341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_jianyong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "sunshangxiang_1": {
+    "ssound": {
+      "path": "skillsound_14081_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_sunshangxiang01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14081_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "guojia_2": {
+    "ssound": {
+      "path": "skillsound_10121_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guojia01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10121_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.9,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "guanxing_1": {
+    "ssound": {
+      "path": "skillsound_12181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guanxing01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangfei_2": {
+    "ssound": {
+      "path": "skillsound_12001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangfei01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "caoren_1": {
+    "ssound": {
+      "path": "skillsound_10001_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_caoren01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xiangyu_1": {
+    "ssound": {
+      "path": "skillsound_17021_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_xiangyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_changqqiang_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "sunjian_1": {
+    "ssound": {
+      "path": "skillsound_14401_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_sunjian01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "dongzhuo_2": {
+    "ssound": {
+      "path": "skillsound_16221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_dongzhuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 12,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "daqiao_2": {
+    "ssound": {
+      "path": "skillsound_14281_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_daqiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_14281_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "huaxiong_2": {
+    "ssound": {
+      "path": "skillsound_16061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_huaxiong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 18,
+      "path": "battlesound_liandao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "ganning_2": {
+    "ssound": {
+      "path": "skillsound_14021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_ganning01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "daofushou_1": {
+    "ssound": {
+      "path": "skillsound_12361_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_daofushou01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_futou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "guanyu_1": {
+    "ssound": {
+      "path": "skillsound_12041_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_guanyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 25,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 0.95,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 0.95,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yujin_1": {
+    "ssound": {
+      "path": "skillsound_10261_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yujin01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10261_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "menghuo_2": {
+    "ssound": {
+      "path": "skillsound_16021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_menghuo01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "blend": 1,
+    "bsound": {
+      "later": 15,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "fengchenxiuji_1": {
+    "ssound": {
+      "path": "skillsound_18121_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_fengchenxiuji01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 8,
+      "path": "battlesound_quantou_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "xiahoudun_1": {
+    "ssound": {
+      "path": "skillsound_10061_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xiahoudun01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 20,
+      "path": "battlesound_dao_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xunyu_1": {
+    "ssound": {
+      "path": "skillsound_10181_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xunyu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_10181_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "liubiao_1": {
+    "ssound": {
+      "path": "skillsound_16301_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_liubiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16301_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuanshu_2": {
+    "ssound": {
+      "path": "skillsound_16341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuanshu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zhangxingcai_1": {
+    "ssound": {
+      "path": "skillsound_12221_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangxingcai01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_12221_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "xuchu_2": {
+    "ssound": {
+      "path": "skillsound_10021_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_xuchu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "later": 30,
+      "path": "battlesound_chui_1",
+      "voice": 0.3
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1.1,
+    "bfumo": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1.1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "yuanshu_1": {
+    "ssound": {
+      "path": "skillsound_16341_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_yuanshu01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16341_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "chengong_1": {
+    "ssound": {
+      "path": "skillsound_16141_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_chengong01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16141_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  },
+  "zuoci_2": {
+    "ssound": {
+      "path": "skillsound_10361_1"
+    },
+    "f_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "xposfix": 0,
+    "mpath": "g_zuoci01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "r_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "bsound": {
+      "later": 10,
+      "path": "battlesound_16161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "b_skill": {
+      "base_speed": 1,
+      "wrap": 2
+    }
+  },
+  "zhangjiao_1": {
+    "ssound": {
+      "path": "skillsound_16161_1"
+    },
+    "xposfix": 0,
+    "mpath": "g_zhangjiao01",
+    "b_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "bsound": {
+      "path": "battlesound_16161_1"
+    },
+    "r_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "scaley": 1,
+    "b_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "f_stand": {
+      "base_speed": 1,
+      "wrap": 2
+    },
+    "r_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "scalex": 1,
+    "b_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    },
+    "f_walk": {
+      "base_speed": 1.5,
+      "wrap": 2
+    },
+    "yposfix": -10,
+    "f_attack": {
+      "base_speed": 1,
+      "wrap": 1
+    }
+  }
+}

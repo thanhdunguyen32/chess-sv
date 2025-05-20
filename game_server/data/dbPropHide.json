@@ -1,0 +1,80 @@
+{
+  "38000": {
+    "NAME": "主公等级",
+    "NAME_VN": "Cấp Chúa Công"
+  },
+  "38010": {
+    "INTRO": "Dùng để xây dựng và nâng cấp các công trình trong Phong Địa",
+    "ICON": 38010,
+    "QUALITY": 4,
+    "NAME": "木材",
+    "NAME_VN": "Gỗ"
+  },
+  "38006": {
+    "INTRO": "Loại tiền tệ được sử dụng rộng rãi nhất thời nhà Hán, dùng để giao dịch hàng ngày",
+    "ICON": 38006,
+    "QUALITY": 4,
+    "NAME": "铜钱",
+    "NAME_VN": "Đồng Tiền"
+  },
+  "38011": {
+    "INTRO": "Dùng để càn quét thử thách chức nghiệp",
+    "ICON": 38011,
+    "QUALITY": 4,
+    "NAME": "扫荡令",
+    "NAME_VN": "Càn Quét Lệnh"
+  },
+  "38009": {
+    "INTRO": "Sử dụng chức năng Chúc Phúc tại Tế Đàn Viễn Chinh",
+    "ICON": 38009,
+    "NAME": "祭坛币",
+    "NAME_VN": "Tế Đàn Tệ"
+  },
+  "38008": {
+    "ICON": 38008,
+    "NAME": "友情体力",
+    "NAME_VN": "Thể Lực Tình Bạn"
+  },
+  "38007": {
+    "INTRO": "Dùng để chinh phạt trong khu vực hoang dã của Phong Địa",
+    "ICON": 38007,
+    "QUALITY": 4,
+    "NAME": "粮草",
+    "NAME_VN": "Lương Thảo"
+  },
+  "38013": {
+    "INTRO": "Dùng để nhận nhiệm vụ tại Thưởng Kim Các",
+    "NAME": "武将功勋",
+    "NAME_VN": "Công Huân Võ Tướng"
+  },
+  "38001": {
+    "ICON": 38001,
+    "QUALITY": 1,
+    "NAME": "主公等级经验",
+    "NAME_VN": "Kinh Nghiệm Chúa Công"
+  },
+  "38004": {
+    "NAME": "官职等级",
+    "NAME_VN": "Chức Quan"
+  },
+  "38003": {
+    "QUALITY": 5,
+    "NAME": "VIP经验",
+    "NAME_VN": "Kinh Nghiệm Vip"
+  },
+  "38012": {
+    "NAME": "悬赏等级",
+    "NAME_VN": "Cấp Treo Thưởng"
+  },
+  "38002": {
+    "NAME": "VIP等级",
+    "NAME_VN": "Cấp VIP"
+  },
+  "38005": {
+    "INTRO": "Nguyên bảo chế tác từ vàng nguyên chất, dùng để mua các vật phẩm hiếm",
+    "ICON": 38005,
+    "QUALITY": 5,
+    "NAME": "元宝",
+    "NAME_VN": "Nguyên Bảo"
+  }
+}

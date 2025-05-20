@@ -1,0 +1,84 @@
+[
+  [
+    {
+      "ITEMS": [
+        {
+          "COUNT": 200000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 100,
+          "GSID": 30015
+        }
+      ],
+      "EXID": "firstcharge_6_1"
+    },
+    {
+      "ITEMS": [
+        {
+          "COUNT": 500000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 10,
+          "GSID": 30024
+        }
+      ],
+      "EXID": "firstcharge_6_2"
+    },
+    {
+      "ITEMS": [
+        {
+          "COUNT": 500000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 1000,
+          "GSID": 30026
+        }
+      ],
+      "EXID": "firstcharge_6_3"
+    }
+  ],
+  [
+    {
+      "ITEMS": [
+        {
+          "COUNT": 1,
+          "GSID": 33014
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33114
+        }
+      ],
+      "EXID": "firstcharge_100_1"
+    },
+    {
+      "ITEMS": [
+        {
+          "COUNT": 1,
+          "GSID": 33214
+        },
+        {
+          "COUNT": 1,
+          "GSID": 30011
+        }
+      ],
+      "EXID": "firstcharge_100_2"
+    },
+    {
+      "ITEMS": [
+        {
+          "COUNT": 1,
+          "GSID": 33314
+        },
+        {
+          "COUNT": 2,
+          "GSID": 30011
+        }
+      ],
+      "EXID": "firstcharge_100_3"
+    }
+  ]
+]

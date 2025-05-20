@@ -1,0 +1,328 @@
+{
+  "noneInitSet": [
+    "pvpdef",
+    "teampvp",
+    "lineup",
+    "kingpvpsave",
+    "multipvpsave"
+  ],
+  "CLOSESEASON": 4,
+  "KPLINEUP": [
+    "kingpvp1",
+    "kingpvp2",
+    "kingpvp3"
+  ],
+  "battleForm": {
+    "manor": "normal",
+    "kingpvp3": "kingpvp3",
+    "multipvp1": "multipvp1",
+    "tnqwboss": "normal",
+    "monthboss": "normal",
+    "kingpvp2": "kingpvp2",
+    "multipvp2": "multipvp2",
+    "normal": "normal",
+    "pre1": "pre1",
+    "multipvpsave": "multipvp1",
+    "pvpdef": "pvpdef",
+    "legionwboss": "normal",
+    "dramaboss": "normal",
+    "expedition": "expedition",
+    "tgslboss": "normal",
+    "teampvp": "teampvp",
+    "kingpvpsave": "kingpvp1",
+    "tower": "tower",
+    "pre2": "pre2",
+    "springboss": "normal",
+    "friend": "normal",
+    "dungeon": "dungeon",
+    "bigbattle": "normal",
+    "legionboss": "normal",
+    "friendboss": "normal",
+    "kingpvp1": "kingpvp1",
+    "lineup": "pre1",
+    "pvpatt": "pvpatt"
+  },
+  "pvpSysBattleForm": {
+    "pvp": "pvpdef",
+    "king": [
+      "kingpvp1",
+      "kingpvp2",
+      "kingpvp3"
+    ],
+    "pvpmulti": [
+      "multipvp1",
+      "multipvp2"
+    ],
+    "pvpteam": "teampvp"
+  },
+  "LINEUPNAME": [
+    "前军",
+    "中军",
+    "后军"
+  ],
+  "PVPSYSTEM": [
+    "pvp",
+    "pvpteam",
+    "king",
+    "pvpmulti"
+  ],
+  "player": {
+    "vip": "38002",
+    "gold": "38006",
+    "exp": "38001",
+    "vipexp": "38003",
+    "yb": "38005",
+    "yanwu": "30002"
+  },
+  "soundUrls": {
+    "cancel": "ui_common_error",
+    "battleready": "ui_arena_open",
+    "reward": "ui_common_reward",
+    "campaigncollect": "ui_campaign_collect",
+    "plevelup": "ui_level_up",
+    "click": "ui_common_click",
+    "interfaceopen02": "ui_interface_open_02",
+    "battlestart": "ui_battle_start",
+    "glevelup": "ui_generals_level_up",
+    "entergame": "ui_sign_join",
+    "interfaceopen01": "ui_interface_open_01",
+    "synthesis": "ui_common_synthesis"
+  },
+  "defaultSet": {
+    "gHeadIcon": "default_head",
+    "skillIcon": "skill_hunyuanyiqi",
+    "gCHeadIcon": "bulianshi_1",
+    "treasureIcon": "default_treas",
+    "normalpropIcon": "default",
+    "gSpine": "caocao",
+    "mythicalSImage": "godbeast_image_portrait_01",
+    "fexIcon": "50101",
+    "bg": "bg_single",
+    "equipIcon": "xuhuangzhuanwu",
+    "exclusIcon": "xuhuangzhuanwu",
+    "boxIcon": "default_box"
+  },
+  "FetterF": {
+    "1": [
+      {
+        "need": 2,
+        "sid": 10015
+      },
+      {
+        "need": 4,
+        "sid": 10016
+      },
+      {
+        "need": 6,
+        "sid": 10017
+      }
+    ],
+    "3": [
+      {
+        "need": 2,
+        "sid": 10021
+      },
+      {
+        "need": 4,
+        "sid": 10022
+      },
+      {
+        "need": 6,
+        "sid": 10023
+      }
+    ],
+    "5": [
+      {
+        "need": 2,
+        "sid": 10027
+      },
+      {
+        "need": 4,
+        "sid": 10028
+      }
+    ],
+    "2": [
+      {
+        "need": 2,
+        "sid": 10018
+      },
+      {
+        "need": 4,
+        "sid": 10019
+      },
+      {
+        "need": 6,
+        "sid": 10020
+      }
+    ],
+    "6": [
+      {
+        "need": 2,
+        "sid": 10029
+      },
+      {
+        "need": 4,
+        "sid": 10030
+      }
+    ],
+    "4": [
+      {
+        "need": 2,
+        "sid": 10024
+      },
+      {
+        "need": 4,
+        "sid": 10025
+      },
+      {
+        "need": 6,
+        "sid": 10026
+      }
+    ]
+  },
+  "oneDaySec": 86400,
+  "FetterO": {
+    "1": [
+      {
+        "need": 3,
+        "sid": 10000
+      },
+      {
+        "need": 5,
+        "sid": 10001
+      },
+      {
+        "need": 7,
+        "sid": 10002
+      }
+    ],
+    "3": [
+      {
+        "need": 3,
+        "sid": 10006
+      },
+      {
+        "need": 5,
+        "sid": 10007
+      },
+      {
+        "need": 7,
+        "sid": 10008
+      }
+    ],
+    "5": [
+      {
+        "need": 3,
+        "sid": 10012
+      },
+      {
+        "need": 5,
+        "sid": 10013
+      },
+      {
+        "need": 7,
+        "sid": 10014
+      }
+    ],
+    "2": [
+      {
+        "need": 3,
+        "sid": 10003
+      },
+      {
+        "need": 5,
+        "sid": 10004
+      },
+      {
+        "need": 7,
+        "sid": 10005
+      }
+    ],
+    "4": [
+      {
+        "need": 3,
+        "sid": 10009
+      },
+      {
+        "need": 5,
+        "sid": 10010
+      },
+      {
+        "need": 7,
+        "sid": 10011
+      }
+    ]
+  },
+  "rootPath": {
+    "uiname": "game_icon/icon_name/",
+    "uiiconskill": "game_icon/icon_skill/",
+    "uiimage": "game_image/",
+    "uiimagevideo": "game_image/image_video/",
+    "uispinekpstage": "game_kpstage_spine/",
+    "uiicontx": "game_icon/icon_ui_tx/",
+    "uiprefab": "game_prefabs_page/",
+    "uispine": "game_ui_spine/",
+    "uimapexped": "game_map/map_exped/",
+    "uieff": "game_ui_eff/",
+    "uiiconprop": "game_icon/icon_prop/",
+    "uiimagebigbattle": "game_image/image_bigbattle/",
+    "uiiconbattlemenu": "game_icon/icon_battle_menu/",
+    "uimanor": "game_image/image_manor/",
+    "uifexplore": "game_icon/icon_fexplore/",
+    "uiocctask": "game_icon/icon_occtask/",
+    "uidisicon": "game_icon/icon_dis/",
+    "gsound": "game_hero_sound/",
+    "cityname": "game_map/map_worldmap/worldmap_tx/tx_city/",
+    "uimapworld": "game_map/map_worldmap/",
+    "uilegionPractice": "game_image/image_practice/",
+    "uiwuhun": "game_icon/icon_wuhun/",
+    "uiiconheadcircular": "game_icon/icon_head_circular/",
+    "uiiconportrait": "game_icon/icon_portrait/",
+    "uiiconseason": "game_icon/icon_season/",
+    "uispinegeneral": "game_hero_model/",
+    "uiimageactive": "game_image/image_active/",
+    "uiimageguide": "game_image/image_guide/",
+    "uidungeon": "game_icon/icon_dungeon/",
+    "uinewspinegeneral": "game_hero_spine/",
+    "bmusic": "game_eff_sound/",
+    "uiicon": "game_icon/icon_ui/",
+    "uiimageesign": "game_image/image_esign",
+    "uiiconheadframe": "game_icon/icon_head_frame/",
+    "music": "game_sound/",
+    "uiimagecbox": "game_image/image_cbox/",
+    "uiiconequip": "game_icon/icon_equip/",
+    "uiiconhead": "game_icon/icon_head/",
+    "uiimagegeneral": "game_image/image_general/",
+    "uimapbattle": "game_map/map_battle/",
+    "uimaphang": "game_map/map_hang/",
+    "uianimgeneral": "game_hero_model/model_png_hero/",
+    "uivideo": "game_icon/icon_video/",
+    "uiimagegodbeast": "game_image/image_godbeast/",
+    "uibbattle": "game_icon/icon_bigbattle/",
+    "uikpstage": "game_icon/icon_kpstage/",
+    "uiiconfunc": "game_icon/icon_func/",
+    "uimapevent": "game_icon/icon_zz/",
+    "uiguanzhi": "game_icon/icon_guanzhi/"
+  },
+  "saveHp": 10000,
+  "MPLINEUP": [
+    "multipvp1",
+    "multipvp2"
+  ],
+  "PVPTYPE": [
+    "pvp",
+    "pvpteam",
+    "pvpmulti"
+  ],
+  "musicUrls": {
+    "autobattle": "msc_campaign_bgm",
+    "battlelose": "ui_battle_lose",
+    "main": "msc_imperialcity",
+    "worldmap": "msc_worldmap",
+    "normalbattle": "msc_battle",
+    "login": "msc_sign",
+    "battlebgm": "msc_battleready",
+    "battlewin": "ui_battle_win"
+  },
+  "RANK_REFRESH_TIME": 120000
+}

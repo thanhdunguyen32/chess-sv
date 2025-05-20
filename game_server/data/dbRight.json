@@ -1,0 +1,86 @@
+{
+  "speciallm": {
+    "PID": "speciallm",
+    "COIN": "YB",
+    "DAY": 30,
+    "NUM": 2888,
+    "INTRO": "Cống hiến quân đoàn tăng 20%, hiệu quả trong 30 ngày.",
+    "REWARD": [
+      {
+        "COUNT": 10000,
+        "GSID": 30020
+      },
+      {
+        "COUNT": 1000000,
+        "GSID": 38006
+      }
+    ],
+    "NAME": "联盟特权特权",
+    "NAME_VN": "Đặc Quyền Quân Đoàn"
+  },
+  "specialbw": {
+    "PID": "specialbw",
+    "COIN": "RMB",
+    "DAY": 30,
+    "NUM": 30,
+    "INTRO": "Mở được 3 phần thưởng lật bài, hiệu quả trong 30 ngày.",
+    "REWARD": [
+      {
+        "COUNT": 200000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 1000,
+        "GSID": 30015
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30009
+      }
+    ],
+    "NAME": "霸王特权",
+    "NAME_VN": "Đặc Quyền Bá Vương"
+  },
+  "specialqz": {
+    "PID": "specialqz",
+    "COIN": "RMB",
+    "DAY": 30,
+    "NUM": 68,
+    "INTRO": "Mỗi ngày thêm 1 nhiệm vụ nội chính, có cơ hội nhận sự vụ 5 sao, hiệu quả trong 30 ngày.",
+    "REWARD": [
+      {
+        "COUNT": 5,
+        "GSID": 30011
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30029
+      }
+    ],
+    "NAME": "勤政爱民特权",
+    "NAME_VN": "Đặc Quyền Cần Chính Yêu Dân"
+  },
+  "specialzx": {
+    "PID": "specialzx",
+    "COIN": "YB",
+    "DAY": -1,
+    "NUM": 1288,
+    "INTRO": "Mở thêm 25 ô tướng",
+    "REWARD": [
+      {
+        "COUNT": 8,
+        "GSID": 30006
+      },
+      {
+        "COUNT": 200000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 100000,
+        "GSID": 30001
+      }
+    ],
+    "NAME": "招贤纳士特权",
+    "NAME_VN": "Đặc Quyền Chiêu Hiền"
+  }
+}

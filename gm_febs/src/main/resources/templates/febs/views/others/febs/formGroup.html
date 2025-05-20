@@ -1,0 +1,286 @@
+<div class="layui-fluid layui-anim febs-anim" lay-title="Nhóm biểu mẫu">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <form class="layui-form" action="" lay-filter="febs-form-group">
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Ô nhập một dòng</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="title" lay-verify="title" autocomplete="off" placeholder="Vui lòng nhập tiêu đề"
+                                   class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Trường bắt buộc</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="username" lay-verify="required" placeholder="Vui lòng nhập"
+                                   autocomplete="off" class="layui-input">
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Kiểm tra SĐT</label>
+                            <div class="layui-input-inline">
+                                <input type="tel" name="phone" lay-verify="required|phone" autocomplete="off"
+                                       class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Kiểm tra Email</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="email" lay-verify="email" autocomplete="off"
+                                       class="layui-input">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Nhiều quy tắc</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="number" lay-verify="required|number" autocomplete="off"
+                                       class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Kiểm tra ngày</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="date" id="febs-form-group-date" lay-verify="date"
+                                       placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Kiểm tra URL</label>
+                            <div class="layui-input-inline">
+                                <input type="tel" name="url" lay-verify="url" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Kiểm tra CMND</label>
+                        <div class="layui-input-block">
+                            <input type="text" name="identity" lay-verify="identity" placeholder="" autocomplete="off"
+                                   class="layui-input">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Tùy chỉnh kiểm tra</label>
+                        <div class="layui-input-inline">
+                            <input type="password" name="password" lay-verify="pass" placeholder="Vui lòng nhập mật khẩu"
+                                   autocomplete="off" class="layui-input">
+                        </div>
+                        <div class="layui-form-mid layui-word-aux">Vui lòng nhập mật khẩu từ 6-12 ký tự</div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Phạm vi</label>
+                            <div class="layui-input-inline" style="width: 100px;">
+                                <input type="text" name="price_min" placeholder="₫" autocomplete="off"
+                                       class="layui-input">
+                            </div>
+                            <div class="layui-form-mid">-</div>
+                            <div class="layui-input-inline" style="width: 100px;">
+                                <input type="text" name="price_max" placeholder="₫" autocomplete="off"
+                                       class="layui-input">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Hộp chọn đơn</label>
+                        <div class="layui-input-block">
+                            <select name="interest" lay-filter="aihao">
+                                <option value=""></option>
+                                <option value="0">Viết</option>
+                                <option value="1" selected="">Đọc</option>
+                                <option value="2">Chơi game</option>
+                                <option value="3">Âm nhạc</option>
+                                <option value="4">Du lịch</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Hộp chọn nhóm</label>
+                            <div class="layui-input-inline">
+                                <select name="quiz">
+                                    <option value="">Vui lòng chọn câu hỏi</option>
+                                    <optgroup label="Ký ức thành phố">
+                                        <option value="你工作的第一个城市">Thành phố đầu tiên bạn làm việc</option>
+                                    </optgroup>
+                                    <optgroup label="Thời học sinh">
+                                        <option value="你的工号">Mã số của bạn</option>
+                                        <option value="你最喜欢的老师">Giáo viên bạn yêu thích nhất</option>
+                                    </optgroup>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label">Hộp tìm kiếm</label>
+                            <div class="layui-input-inline">
+                                <select name="modules" lay-verify="required" lay-search="">
+                                    <option value="">Chọn trực tiếp hoặc tìm kiếm</option>
+                                    <option value="1">layer</option>
+                                    <option value="2">form</option>
+                                    <option value="3">layim</option>
+                                    <option value="4">element</option>
+                                    <option value="5">laytpl</option>
+                                    <option value="6">upload</option>
+                                    <option value="7">laydate</option>
+                                    <option value="8">laypage</option>
+                                    <option value="9">flow</option>
+                                    <option value="10">util</option>
+                                    <option value="11">code</option>
+                                    <option value="12">tree</option>
+                                    <option value="13">layedit</option>
+                                    <option value="14">nav</option>
+                                    <option value="15">tab</option>
+                                    <option value="16">table</option>
+                                    <option value="17">select</option>
+                                    <option value="18">checkbox</option>
+                                    <option value="19">switch</option>
+                                    <option value="20">radio</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Hộp chọn liên kết</label>
+                        <div class="layui-input-block">
+                            <div class="layui-inline">
+                                <select name="quiz1">
+                                    <option value="">Chọn tỉnh</option>
+                                    <option value="浙江" selected="">Chiết Giang</option>
+                                    <option value="你的工号">Giang Tây</option>
+                                    <option value="你最喜欢的老师">Phúc Kiến</option>
+                                </select>
+                            </div>
+                            <div class="layui-inline">
+                                <select name="quiz2">
+                                    <option value="">Chọn thành phố</option>
+                                    <option value="杭州">Hàng Châu</option>
+                                    <option value="宁波" disabled="">Ninh Ba (Vô hiệu)</option>
+                                    <option value="温州">Ôn Châu</option>
+                                    <option value="温州">Đài Châu</option>
+                                    <option value="温州">Thiệu Hưng</option>
+                                </select>
+                            </div>
+                            <div class="layui-inline">
+                                <select name="quiz3">
+                                    <option value="">Chọn quận/huyện</option>
+                                    <option value="西湖区">Quận Tây Hồ</option>
+                                    <option value="余杭区">Quận Dư Hàng</option>
+                                    <option value="拱墅区">Thành phố Lâm An</option>
+                                </select>
+                            </div>
+                            <div class="layui-inline">
+                                <div class="layui-form-mid layui-word-aux">Đây chỉ là demo bố cục liên kết, chưa có tương tác thực</div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Hộp kiểm</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" name="like[write]" title="Viết">
+                            <input type="checkbox" name="like[read]" title="Đọc" checked="">
+                            <input type="checkbox" name="like[game]" title="Chơi game">
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item" pane="">
+                        <label class="layui-form-label">Hộp kiểm gốc</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" name="like1[write]" lay-skin="primary" title="Viết" checked="">
+                            <input type="checkbox" name="like1[read]" lay-skin="primary" title="Đọc">
+                            <input type="checkbox" name="like1[game]" lay-skin="primary" title="Chơi game" disabled="">
+                        </div>
+                    </div>
+
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Công tắc-Mặc định tắt</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" name="close" lay-skin="switch" lay-text="BẬT|TẮT">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Công tắc-Mặc định bật</label>
+                        <div class="layui-input-block">
+                            <input type="checkbox" checked="" name="open" lay-skin="switch"
+                                   lay-filter="febs-form-group-switch" lay-text="BẬT|TẮT">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label">Nút radio</label>
+                        <div class="layui-input-block">
+                            <input type="radio" name="sex" value="男" title="Nam" checked="">
+                            <input type="radio" name="sex" value="女" title="Nữ">
+                            <input type="radio" name="sex" value="禁" title="Vô hiệu" disabled="">
+                        </div>
+                    </div>
+                    <div class="layui-form-item layui-form-text">
+                        <label class="layui-form-label">Vùng văn bản</label>
+                        <div class="layui-input-block">
+                            <textarea name="text" placeholder="Vui lòng nhập nội dung" class="layui-textarea"></textarea>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-input-block">
+                            <button class="layui-btn" lay-submit="" lay-filter="febs-form-group-submit">Gửi ngay</button>
+                            <button type="reset" class="layui-btn layui-btn-primary">Đặt lại</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    layui.use(['febs', 'form', 'laydate'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            element = layui.element,
+            layer = layui.layer,
+            laydate = layui.laydate,
+            form = layui.form;
+
+        form.render(null, 'febs-form-group');
+
+        laydate.render({
+            elem: '#febs-form-group-date'
+        });
+
+        /* Quy tắc kiểm tra tùy chỉnh */
+        form.verify({
+            title: function (value) {
+                if (value.length < 5) {
+                    return 'Tiêu đề phải có ít nhất 5 ký tự';
+                }
+            },
+            pass: [/(.+){6,12}$/, 'Mật khẩu phải từ 6-12 ký tự'],
+            content: function (value) {
+                layedit.sync(editIndex);
+            }
+        });
+
+        /* Theo dõi công tắc chỉ định */
+        form.on('switch(febs-form-group-switch)', function (data) {
+            febs.alert.info('Trạng thái công tắc：' + (this.checked ? 'true' : 'false'));
+            layer.tips('Gợi ý: Văn bản trạng thái công tắc có thể tùy chỉnh, không chỉ là BẬT|TẮT', data.othis)
+        });
+
+        /* Theo dõi gửi */
+        form.on('submit(febs-form-group-submit)', function (data) {
+            layer.alert(JSON.stringify(data.field), {
+                title: 'Thông tin gửi cuối cùng'
+            });
+            return false;
+        });
+    });
+</script>

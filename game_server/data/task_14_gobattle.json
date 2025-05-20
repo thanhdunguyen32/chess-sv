@@ -1,0 +1,59 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Nhấn vào Trường An",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "cityfinger",
+        "cityid": "101",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 67,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chủ Công, trận chiến vừa rồi quả thật quá dễ dàng, có vẻ như chúng ta đã hơi đánh giá cao thực lực của tướng giữ thành!"
+      }
+    },
+    {
+      "numstep": 68,
+      "desc": "Lựa chọn 3",
+      "command": {
+        "cmd": "choose",
+        "num": 2,
+        "text": "Thỉnh chúa công định kế hoạch tác chiến tiếp theo!"
+      }
+    },
+    {
+      "numstep": 69,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Chủ Công anh minh! Tiểu Tước được theo phò tá chủ công, người tài trí như vậy, ắt hẳn sẽ đánh bại Đổng Trác, trừ hại cho thiên hạ!"
+      }
+    },
+    {
+      "numstep": 70,
+      "desc": "Nhấn vào Công Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > windows_page_siege > btn_right",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới chiến đấu"
+}

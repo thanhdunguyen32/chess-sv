@@ -1,0 +1,362 @@
+[
+  {
+    "chapter": 0,
+    "node": 11,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30015,
+        "COUNT": 200
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 480000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 0,
+    "node": 12,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30001,
+        "COUNT": 100000
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 160000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 0,
+    "node": 13,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30028,
+        "COUNT": 5
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 240000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 0,
+    "node": 14,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 30008,
+        "COUNT": 10
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 750000
+      }
+    ],
+    "quality": 3
+  },
+  {
+    "chapter": 1,
+    "node": 11,
+    "disc": 7,
+    "item": [
+      {
+        "GSID": 30024,
+        "COUNT": 5
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 175
+      }
+    ],
+    "quality": 2
+  },
+  {
+    "chapter": 1,
+    "node": 12,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30005,
+        "COUNT": 1
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 48000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 1,
+    "node": 13,
+    "disc": 7,
+    "item": [
+      {
+        "GSID": 30015,
+        "COUNT": 300
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 630000
+      }
+    ],
+    "quality": 2
+  },
+  {
+    "chapter": 1,
+    "node": 14,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30005,
+        "COUNT": 1
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 48000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 2,
+    "node": 11,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30016,
+        "COUNT": 30
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 288000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 2,
+    "node": 12,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30028,
+        "COUNT": 2
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 96000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 2,
+    "node": 13,
+    "disc": 7,
+    "item": [
+      {
+        "GSID": 36025,
+        "COUNT": 30
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 420
+      }
+    ],
+    "quality": 2
+  },
+  {
+    "chapter": 2,
+    "node": 14,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30001,
+        "COUNT": 100000
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 160000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 3,
+    "node": 11,
+    "disc": 7,
+    "item": [
+      {
+        "GSID": 30015,
+        "COUNT": 300
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 630000
+      }
+    ],
+    "quality": 2
+  },
+  {
+    "chapter": 3,
+    "node": 12,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 36003,
+        "COUNT": 50
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 3000
+      }
+    ],
+    "quality": 3
+  },
+  {
+    "chapter": 3,
+    "node": 13,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 36002,
+        "COUNT": 50
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 3000
+      }
+    ],
+    "quality": 3
+  },
+  {
+    "chapter": 3,
+    "node": 14,
+    "disc": 7,
+    "item": [
+      {
+        "GSID": 30028,
+        "COUNT": 2
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 28
+      }
+    ],
+    "quality": 2
+  },
+  {
+    "chapter": 4,
+    "node": 11,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 30009,
+        "COUNT": 2
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 500
+      }
+    ],
+    "quality": 3
+  },
+  {
+    "chapter": 4,
+    "node": 12,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 30024,
+        "COUNT": 10
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 250
+      }
+    ],
+    "quality": 3
+  },
+  {
+    "chapter": 4,
+    "node": 13,
+    "disc": 8,
+    "item": [
+      {
+        "GSID": 30008,
+        "COUNT": 2
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38006,
+        "COUNT": 240000
+      }
+    ],
+    "quality": 1
+  },
+  {
+    "chapter": 4,
+    "node": 14,
+    "disc": 5,
+    "item": [
+      {
+        "GSID": 36002,
+        "COUNT": 50
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 3000
+      }
+    ],
+    "quality": 3
+  }
+]

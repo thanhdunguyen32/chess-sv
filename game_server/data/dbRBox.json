@@ -1,0 +1,1172 @@
+{
+  "32011": {
+    "QUALITY": 2,
+    "INTRO": "Sẽ nhận được 2 vật phẩm. Bao gồm trang bị, tướng, tài nguyên",
+    "EXID": "rbox_32011",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33115,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33215,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33315,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 100000,
+        "GSID": 38006,
+        "CHANCE": 500
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10101,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32011,
+    "NAME": "测试2个掉落",
+    "NAME_VN": "Kiểm Tra 2 Cái Rơi Xuống"
+  },
+  "32112": {
+    "QUALITY": 5,
+    "INTRO": "Hòm kho báu cao cấp có thể sử dụng trong sự kiện quà tặng may mắn",
+    "EXID": "rbox_32112",
+    "ITEMS": [
+      {
+        "COUNT": 900000,
+        "GSID": 38006,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 600000,
+        "GSID": 30001,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30015,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30026,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30009,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30011,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30016,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 40,
+        "GSID": 30017,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36001,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 37002,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32101,
+        "CHANCE": 16
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32104,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32105,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30043,
+        "CHANCE": 200
+      }
+    ],
+    "ICON": 32112,
+    "NAME": "高级宝箱",
+    "NAME_VN": "Cao Cấp Bảo Rương"
+  },
+  "32111": {
+    "QUALITY": 5,
+    "INTRO": "Hòm kho báu may mắn có thể sử dụng trong sự kiện quà tặng may mắn",
+    "EXID": "rbox_32111",
+    "ITEMS": [
+      {
+        "COUNT": 120000,
+        "GSID": 38006,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 60000,
+        "GSID": 30001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30026,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36021,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36042,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36043,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36044,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36045,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36046,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36047,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30024,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30043,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32111,
+    "NAME": "幸运宝箱",
+    "NAME_VN": "May Mắn Bảo Rương"
+  },
+  "32106": {
+    "QUALITY": 4,
+    "INTRO": "Chúc mừng năm mới, mở ra sẽ nhận được phần thưởng",
+    "EXID": "rbox_32106",
+    "ITEMS": [
+      {
+        "COUNT": 120000,
+        "GSID": 38006,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 60000,
+        "GSID": 30001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30026,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36021,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36042,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36043,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36044,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36045,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36046,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36047,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30024,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30034,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32106,
+    "NAME": "鼠鼠",
+    "NAME_VN": "Chuột Chuột"
+  },
+  "32002": {
+    "QUALITY": 4,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Sử Thi Thất Tinh",
+    "EXID": "rbox_32002",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33009,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33109,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33209,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33309,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32002,
+    "NAME": "七星装备宝箱",
+    "NAME_VN": "Bảo Rương Thất Tinh"
+  },
+  "32005": {
+    "QUALITY": 5,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Truyền Thuyết Bách Thú",
+    "EXID": "rbox_32005",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33012,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33112,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33212,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33312,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32005,
+    "NAME": "百兽装备宝箱",
+    "NAME_VN": "Bảo Rương Bách Thú"
+  },
+  "32105": {
+    "QUALITY": 6,
+    "INTRO": "Sử dụng nhận ngẫu nhiên một trong các tướng sau: Hàn Tín, Oda Nobunaga",
+    "EXID": "rbox_32105",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 17041,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18001,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32105,
+    "NAME": "神话帝魔征召令征召令",
+    "NAME_VN": "Thần Thoại Đế Ma Mộ Binh Lệnh"
+  },
+  "32109": {
+    "QUALITY": 5,
+    "INTRO": "Diều tinh xảo có thể sử dụng trong hoạt động thả diều",
+    "EXID": "rbox_32109",
+    "ITEMS": [
+      {
+        "COUNT": 900000,
+        "GSID": 38006,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 600000,
+        "GSID": 30001,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30015,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30026,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30009,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30011,
+        "CHANCE": 200
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30016,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 40,
+        "GSID": 30017,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36001,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 37002,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32101,
+        "CHANCE": 16
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32104,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32105,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30038,
+        "CHANCE": 200
+      }
+    ],
+    "ICON": 32109,
+    "NAME": "彩鸢",
+    "NAME_VN": "Màu Diên"
+  },
+  "32008": {
+    "QUALITY": 5,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Truyền Thuyết Bàn Cổ",
+    "EXID": "rbox_32008",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33115,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33215,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33315,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32008,
+    "NAME": "盘古装备宝箱",
+    "NAME_VN": "Bảo Rương Bàn Cổ"
+  },
+  "32101": {
+    "QUALITY": 5,
+    "INTRO": "Sử dụng nhận ngẫu nhiên 1 tướng 5 sao tinh anh",
+    "EXID": "rbox_32101",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10021,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10041,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10081,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10141,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12021,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12141,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14081,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14121,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14181,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16061,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16161,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16201,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17021,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18021,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18041,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32101,
+    "NAME": "精英征召令",
+    "NAME_VN": "Tinh Anh Mộ Binh Lệnh"
+  },
+  "32104": {
+    "QUALITY": 6,
+    "INTRO": "Sử dụng nhận ngẫu nhiên một trong các tướng sau: Giả Hữu, Triệu Vân, Tôn Sách, U Diệp",
+    "EXID": "rbox_32104",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10161,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12061,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16101,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32104,
+    "NAME": "神话三国征召令",
+    "NAME_VN": "Thần Thoại Tam Quốc Mộ Binh Lệnh"
+  },
+  "32004": {
+    "QUALITY": 4,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Sử Thi Kỳ Lân",
+    "EXID": "rbox_32004",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33011,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33111,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33211,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33311,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32004,
+    "NAME": "麒麟装备宝箱",
+    "NAME_VN": "Bảo Rương Kỳ Lân"
+  },
+  "32007": {
+    "QUALITY": 5,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Truyền Thuyết Lục Đạo",
+    "EXID": "rbox_32007",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33014,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33114,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33214,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33314,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32007,
+    "NAME": "六道装备宝箱",
+    "NAME_VN": "Bảo Rương Lục Đạo"
+  },
+  "32003": {
+    "QUALITY": 4,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Sử Thi Cửu Long",
+    "EXID": "rbox_32003",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33010,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33110,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33210,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33310,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32003,
+    "NAME": "九龙装备宝箱",
+    "NAME_VN": "Bảo Rương Cửu Long"
+  },
+  "32110": {
+    "QUALITY": 6,
+    "INTRO": "Sử dụng nhận ngẫu nhiên 1 tướng 5 sao thần thoại",
+    "EXID": "rbox_32110",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10161,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10421,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10441,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12061,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12381,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12401,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14001,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14401,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14421,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16101,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16421,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16441,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18021,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18121,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17121,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17021,
+        "CHANCE": 1
+      }
+    ],
+    "ICON": 32110,
+    "NAME": "神话征召令",
+    "NAME_VN": "Thần Thoại Mộ Binh Lệnh"
+  },
+  "32108": {
+    "QUALITY": 5,
+    "INTRO": "Diều xinh đẹp, có thể sử dụng trong hoạt động thả diều",
+    "EXID": "rbox_32108",
+    "ITEMS": [
+      {
+        "COUNT": 120000,
+        "GSID": 38006,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 60000,
+        "GSID": 30001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 30,
+        "GSID": 30026,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36021,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36042,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36043,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36044,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36045,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36046,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36047,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30024,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30038,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32108,
+    "NAME": "纸鸢",
+    "NAME_VN": "Con Diều"
+  },
+  "32102": {
+    "QUALITY": 5,
+    "INTRO": "Sử dụng nhận ngẫu nhiên 1 tướng 5 sao tinh anh ngoại trừ Đế Vương hoặc Ma Vương",
+    "EXID": "rbox_32102",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10021,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10041,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10081,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10141,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12021,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12141,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14081,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14101,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14121,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14181,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16061,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16161,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16201,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32102,
+    "NAME": "精英三国征召令",
+    "NAME_VN": "Tinh Anh Tam Quốc Mộ Binh Lệnh"
+  },
+  "32103": {
+    "QUALITY": 5,
+    "INTRO": "Sử dụng nhận ngẫu nhiên 1 tướng 5 sao tinh anh Đế Vương hoặc Ma Vương",
+    "EXID": "rbox_32103",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 17001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17021,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18021,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18041,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32103,
+    "NAME": "精英帝魔征召令",
+    "NAME_VN": "Tinh Anh Đế Ma Mộ Binh Lệnh"
+  },
+  "32001": {
+    "QUALITY": 4,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Sử Thi Long Lân",
+    "EXID": "rbox_32001",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33008,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33108,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33208,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33308,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32001,
+    "NAME": "龙鳞装备宝箱",
+    "NAME_VN": "Bảo Rương Long Lân"
+  },
+  "32006": {
+    "QUALITY": 5,
+    "INTRO": "Nhận được ngẫu nhiên 1 trang bị Truyền Thuyết Phạn Thiên",
+    "EXID": "rbox_32006",
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 33013,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33113,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33213,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33313,
+        "CHANCE": 50
+      }
+    ],
+    "ICON": 32006,
+    "NAME": "梵天装备宝箱",
+    "NAME_VN": "Bảo Rương Phạn Thiên"
+  },
+  "32107": {
+    "QUALITY": 5,
+    "INTRO": "Ngũ Phúc đến cửa, mở ra sẽ nhận được phần thưởng phong phú",
+    "EXID": "rbox_32107",
+    "ITEMS": [
+      {
+        "COUNT": 900000,
+        "GSID": 38006,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 600000,
+        "GSID": 30001,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30015,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30026,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30006,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30009,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30011,
+        "CHANCE": 100
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30016,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 40,
+        "GSID": 30017,
+        "CHANCE": 50
+      },
+      {
+        "COUNT": 10,
+        "GSID": 36001,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 10,
+        "GSID": 37002,
+        "CHANCE": 25
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32101,
+        "CHANCE": 8
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32104,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32105,
+        "CHANCE": 1
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30034,
+        "CHANCE": 100
+      }
+    ],
+    "ICON": 32107,
+    "NAME": "福福",
+    "NAME_VN": "Phúc Phúc"
+  }
+}

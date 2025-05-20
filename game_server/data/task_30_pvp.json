@@ -1,0 +1,70 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 163,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Diễn võ trường đã mở ra! Chúa công có thể tại diễn võ trường cùng người chơi khác tiến hành đối chiến, nhìn xem ai mới có tư cách trở thành thiên hạ bá chủ!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Di chuyển đến bối cảnh thành thị",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodePvp"
+      }
+    },
+    {
+      "numstep": 164,
+      "desc": "Nhấn vào Diễn Võ Trường",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / yanwuchang",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 165,
+      "desc": "Nhấn vào thi đấu Diễn Võ Trường",
+      "command": {
+        "cmd": "finger",
+        "args": "pvp_entrance_page > pvp_entrance_bg > spr_pvp",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 167,
+      "desc": "Nhấn vào đội hình phòng thủ",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "pvp_page > pvp_qualifying_page > pvp_btn_def",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 166,
+      "desc": "Nhấn vào Xác Nhận",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_tips_msg > bg_node > layout_btn > global_btn_confirm_01",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn đấu trường"
+}

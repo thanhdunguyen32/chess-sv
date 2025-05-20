@@ -1,0 +1,176 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-user" lay-title="Danh sách hoạt động">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md8">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" lay-filter="user-table-form">
+                        <div class="layui-form-item">
+                            <fieldset class="layui-elem-field layui-field-title">
+                                <legend>
+                                    <small style="color:black;">Cấu hình hoạt động</small>
+                                </legend>
+                            </fieldset>
+                        </div>
+                        <div class="layui-row">
+                            <div class="layui-col-md2 layui-col-sm12 layui-col-xs12 table-action-area">
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="reset">
+                                    <i class="layui-icon">&#xe79b;</i>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <table lay-filter="userTable" lay-data="{id: 'userTable'}"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/html" id="user-status">
+    {{#
+    var status = {
+    1: {title: 'Có hiệu lực', color: 'green'},
+    0: {title: 'Vô hiệu', color: 'volcano'}
+    }[d.status];
+    }}
+    <span class="layui-badge febs-tag-{{status.color}}">{{ status.title }}</span>
+</script>
+<script type="text/html" id="user-sex">
+    {{#
+    var sex = {
+    2: {title: 'Bí mật'},
+    1: {title: 'Nữ'},
+    0: {title: 'Nam'}
+    }[d.sex];
+    }}
+    <span>{{ sex.title }}</span>
+</script>
+<script type="text/html" id="format-percent">
+    {{#
+    var yes_retain = d.yesterdayRetain.toFixed(2);
+    }}
+    <span>{{ yes_retain+"%" }}</span>
+</script>
+<script type="text/html" id="stat-time-date">
+    {{#
+    var stat_date = d.statTime.substring(0,10);
+    }}
+    <span>{{ stat_date }}</span>
+</script>
+<script type="text/html" id="user-option">
+    {{#  if(d.config == true){ }}
+    <span shiro:lacksPermission="activity:view,activity:update,activity:reset">
+        <span class="layui-badge-dot febs-bg-orange"></span> Không có quyền
+    </span>
+    <a lay-event="edit" shiro:hasPermission="activity:update"><i
+            class="layui-icon febs-edit-area febs-blue">&#xe7a4;</i></a>
+    <a lay-event="del" shiro:hasPermission="activity:reset"><i class="layui-icon febs-edit-area febs-red">&#xe7f9;</i></a>
+    {{#  } }}
+</script>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['dropdown', 'jquery', 'form', 'table', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            form = layui.form,
+            table = layui.table,
+            dropdown = layui.dropdown,
+            $view = $('#febs-user'),
+            $query = $view.find('#query'),
+            $reset = $view.find('#reset'),
+            $searchForm = $view.find('form'),
+            sortObject = {field: 'createTime', type: null},
+            tableIns;
+        form.render();
+
+        initTable();
+
+        table.on('tool(userTable)', function (obj) {
+            var data = obj.data,
+                layEvent = obj.event;
+            if (layEvent === 'del') {
+                febs.modal.confirm('Xóa dữ liệu hoạt động người chơi', 'Sau khi xóa, thông tin tham gia hoạt động của người chơi sẽ bị xóa vĩnh viễn và không thể khôi phục. Bạn có chắc chắn không?', function () {
+                    clearPlayerData(data.id);
+                });
+            }
+            if (layEvent === 'edit') {
+                febs.modal.open('Chỉnh sửa hoạt động', 'op/activity/update/' + data.id, {
+                    area: $(window).width() <= 750 ? '90%' : '50%',
+                    btn: ['Gửi', 'Hủy'],
+                    yes: function (index, layero) {
+                        $('#user-update').find('#submit').trigger('click');
+                    },
+                    btn2: function () {
+                        layer.closeAll();
+                    }
+                });
+            }
+        });
+
+        table.on('sort(userTable)', function (obj) {
+            sortObject = obj;
+            tableIns.reload({
+                initSort: obj,
+                where: $.extend(getQueryParams(), {
+                    field: obj.field,
+                    order: obj.type
+                })
+            });
+        });
+
+        $query.on('click', function () {
+            var params = $.extend(getQueryParams(), {field: sortObject.field, order: sortObject.type});
+            tableIns.reload({where: params, page: {curr: 1}});
+        });
+
+        $reset.on('click', function () {
+            //$searchForm[0].reset();
+            sortObject.type = 'null';
+            tableIns.reload({where: getQueryParams()});
+        });
+
+        function initTable() {
+          tableIns = table.render({
+            elem: $view.find('table')
+            ,url:ctx + 'op/activityList'
+            ,cellMinWidth: 80 //全局定义常规单元格的最小宽度，layui 2.2.1 新增
+            ,cols: [[
+                {field: 'id', title: 'ID',width:80},
+                {field: 'name', title: 'Tên',width: 130},
+                {title: 'Thời gian bắt đầu',field:'startTime',width: 180},
+                {title: 'Thời gian kết thúc',field:'endTime',width: 180},
+                {title: 'Có mở không',field:'isOpen',width: 100,templet:function(d){
+                    if(d.config == true){
+                        if(d.isOpen == true){
+                            return "<span style='color: green;'>Mở</span>";
+                        }else{
+                            return "<span style='color: red;'>Đóng</span>";
+                        }
+                    }else{
+                        return "";
+                    }
+                }},
+                {toolbar: '#user-option', title: 'Thao tác'}
+            ]],
+            parseData: function(res){ //res 即为原始返回的数据
+                return {
+                  "code": res.code == 200? 0 : res.code, //解析接口状态
+                  "msg": res.message, //解析提示文本
+                  "count": res.data ? res.data.total : 0, //解析数据长度
+                  "data": res.data ? res.data.rows : [] //解析数据列表
+                };
+          }
+          });
+
+        }
+
+        function getQueryParams() {
+            return {};
+        }
+
+        function clearPlayerData(activityId) {
+            console.log("activityId:"+activityId);
+            febs.get(ctx + 'op/activity_reset/' + activityId, null, function () {
+                febs.alert.success('Xóa dữ liệu thành công!');
+            });
+        }
+    })
+</script>

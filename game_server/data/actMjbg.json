@@ -1,0 +1,286 @@
+{
+    "djgsid": 30041,
+    "djcount": 5,
+    "items": [
+        {
+            "gsid": 38006,
+            "count": 600000,
+            "rate": 4
+        },
+        {
+            "gsid": 38006,
+            "count": 600000,
+            "rate": 4
+        },
+        {
+            "gsid": 38006,
+            "count": 600000,
+            "rate": 4
+        },
+        {
+            "gsid": 38006,
+            "count": 600000,
+            "rate": 4
+        },
+        {
+            "gsid": 38006,
+            "count": 600000,
+            "rate": 4
+        },
+        {
+            "gsid": 30001,
+            "count": 450000,
+            "rate": 4
+        },
+        {
+            "gsid": 30001,
+            "count": 450000,
+            "rate": 4
+        },
+        {
+            "gsid": 30001,
+            "count": 450000,
+            "rate": 4
+        },
+        {
+            "gsid": 30001,
+            "count": 450000,
+            "rate": 4
+        },
+        {
+            "gsid": 30001,
+            "count": 450000,
+            "rate": 4
+        },
+        {
+            "gsid": 30015,
+            "count": 500,
+            "rate": 2
+        },
+        {
+            "gsid": 30015,
+            "count": 500,
+            "rate": 2
+        },
+        {
+            "gsid": 30015,
+            "count": 500,
+            "rate": 2
+        },
+        {
+            "gsid": 30015,
+            "count": 500,
+            "rate": 2
+        },
+        {
+            "gsid": 30015,
+            "count": 500,
+            "rate": 2
+        },
+        {
+            "gsid": 30005,
+            "count": 5,
+            "rate": 4
+        },
+        {
+            "gsid": 30005,
+            "count": 5,
+            "rate": 4
+        },
+        {
+            "gsid": 30005,
+            "count": 5,
+            "rate": 4
+        },
+        {
+            "gsid": 30006,
+            "count": 1,
+            "rate": 2
+        },
+        {
+            "gsid": 30008,
+            "count": 2,
+            "rate": 3
+        },
+        {
+            "gsid": 30008,
+            "count": 2,
+            "rate": 3
+        },
+        {
+            "gsid": 30008,
+            "count": 2,
+            "rate": 3
+        },
+        {
+            "gsid": 30009,
+            "count": 1,
+            "rate": 1
+        },
+        {
+            "gsid": 30011,
+            "count": 1,
+            "rate": 2
+        },
+        {
+            "gsid": 30016,
+            "count": 25,
+            "rate": 3
+        },
+        {
+            "gsid": 30016,
+            "count": 25,
+            "rate": 3
+        },
+        {
+            "gsid": 30016,
+            "count": 25,
+            "rate": 3
+        },
+        {
+            "gsid": 30017,
+            "count": 5,
+            "rate": 3
+        },
+        {
+            "gsid": 30017,
+            "count": 5,
+            "rate": 3
+        },
+        {
+            "gsid": 30017,
+            "count": 5,
+            "rate": 3
+        },
+        {
+            "gsid": 30026,
+            "count": 500,
+            "rate": 3
+        },
+        {
+            "gsid": 30026,
+            "count": 500,
+            "rate": 3
+        },
+        {
+            "gsid": 30026,
+            "count": 500,
+            "rate": 3
+        },
+        {
+            "gsid": 30026,
+            "count": 500,
+            "rate": 3
+        }
+    ],
+    "finallist": [
+        [
+            {
+                "gsid": 26101,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 22001,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 26201,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 24421,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 24141,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 26441,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 24401,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 22401,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 26421,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 28121,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 22061,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 27021,
+                "count": 50,
+                "maxnum": 1
+            },
+            {
+                "gsid": 27121,
+                "count": 50,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 32568,
+                "count": 1,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 31006,
+                "count": 1,
+                "maxnum": 1
+            }
+        ],
+        [
+            {
+                "gsid": 34501,
+                "count": 1,
+                "maxnum": 1
+            }
+        ]
+    ],
+    "list": [
+        {
+            "intro": "Thí Luyện Thiên Công",
+            "page": "activityzhdpagetgsl"
+        },
+        {
+            "intro": "Treo Máy Rớt Đồ",
+            "page": "windowspageautobattleinfo"
+        }
+    ]
+}

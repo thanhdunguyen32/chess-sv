@@ -1,0 +1,662 @@
+[
+  [
+    {
+      "GETMARK": 92000,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 25,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 10105,
+      "PMARK": "maxmapid",
+      "NAME": "攻破长安",
+      "NAME_VN": "Công phá Trường An",
+      "EXID": "official_1_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92001,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 25,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 2,
+      "PMARK": 90176,
+      "NAME": "高级招募2次",
+      "NAME_VN": "Chiêu mộ cao cấp 2 lần",
+      "EXID": "official_1_1",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92002,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 25,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 4,
+      "PMARK": 90187,
+      "NAME": "获得4名武将",
+      "NAME_VN": "Nhận được 4 võ tướng",
+      "EXID": "official_1_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92003,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 25,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 5,
+      "PMARK": 90186,
+      "NAME": "任意武将升到5级",
+      "NAME_VN": "Tướng bất kỳ lên cấp 5",
+      "EXID": "official_1_3",
+      "PAGE": "generalbaghandbookpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92004,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 10410,
+      "PMARK": "maxmapid",
+      "NAME": "攻破洛阳",
+      "NAME_VN": "Công phá Lạc Dương",
+      "EXID": "official_2_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92005,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 5,
+      "PMARK": 90179,
+      "NAME": "日常战役挑战5次",
+      "NAME_VN": "Chiến dịch ngày 5 lần",
+      "EXID": "official_2_1",
+      "PAGE": "bigbattlepage"
+    },
+    {
+      "GETMARK": 92006,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 10,
+      "PMARK": 90187,
+      "NAME": "获得10名武将",
+      "NAME_VN": "Nhận được 10 võ tướng",
+      "EXID": "official_2_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92007,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 60,
+      "PMARK": 90186,
+      "NAME": "任意武将升到60级",
+      "NAME_VN": "Tướng bất kỳ lên cấp 60",
+      "EXID": "official_2_3",
+      "PAGE": "generalbaghandbookpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92008,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 75,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 10610,
+      "PMARK": "maxmapid",
+      "NAME": "攻破虎牢关",
+      "NAME_VN": "Công phá Hổ Lao quan",
+      "EXID": "official_3_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92009,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 75,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 20,
+      "PMARK": 90181,
+      "NAME": "演武场挑战20次",
+      "NAME_VN": "Đấu trường 20 lần",
+      "EXID": "official_3_1",
+      "PAGE": "pvpentrancepage"
+    },
+    {
+      "GETMARK": 92010,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 75,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 20,
+      "PMARK": 90187,
+      "NAME": "获得20名武将",
+      "NAME_VN": "Nhận được 20 võ tướng",
+      "EXID": "official_3_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92011,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 75,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 100,
+      "PMARK": 90186,
+      "NAME": "任意武将升到100级",
+      "NAME_VN": "Tướng bất kỳ lên cấp 100",
+      "EXID": "official_3_3",
+      "PAGE": "generalbaghandbookpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92012,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 11310,
+      "PMARK": "maxmapid",
+      "NAME": "攻破汝南",
+      "NAME_VN": "Công phá Nhữ Nam",
+      "EXID": "official_4_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92013,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 50,
+      "PMARK": 90176,
+      "NAME": "酒馆高级招募50次",
+      "NAME_VN": "Chiêu mộ cao 50 lần",
+      "EXID": "official_4_1",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92014,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 50,
+      "PMARK": 90187,
+      "NAME": "获得50个武将",
+      "NAME_VN": "Nhận được 50 võ tướng",
+      "EXID": "official_4_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92015,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 100,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关100层",
+      "NAME_VN": "Tháp Thí Luyện tầng 100",
+      "EXID": "official_4_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92016,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 125,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 11610,
+      "PMARK": "maxmapid",
+      "NAME": "攻破濮阳",
+      "NAME_VN": "Công phá Bộc Dương",
+      "EXID": "official_5_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92017,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 125,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 1,
+      "PMARK": 90190,
+      "NAME": "任意武将达到6星",
+      "NAME_VN": "Tướng bất kỳ 6 sao",
+      "EXID": "official_5_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92018,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 125,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 100,
+      "PMARK": 90187,
+      "NAME": "获得100个武将",
+      "NAME_VN": "Nhận được 100 võ tướng",
+      "EXID": "official_5_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92019,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 125,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 150,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关150层",
+      "NAME_VN": "Tháp Thí Luyện tầng 150",
+      "EXID": "official_5_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92020,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 150,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 12310,
+      "PMARK": "maxmapid",
+      "NAME": "攻破小沛",
+      "NAME_VN": "Công phá Tiểu Bái",
+      "EXID": "official_6_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92021,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 150,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 1,
+      "PMARK": 90191,
+      "NAME": "任意武将达到7星",
+      "NAME_VN": "Tướng bất kỳ 7 sao",
+      "EXID": "official_6_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92022,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 150,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 200,
+      "PMARK": 90187,
+      "NAME": "获得200个武将",
+      "NAME_VN": "Nhận được 200 võ tướng",
+      "EXID": "official_6_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92023,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 150,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 200,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关200层",
+      "NAME_VN": "Tháp Thí Luyện tầng 200",
+      "EXID": "official_6_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92024,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 175,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 12610,
+      "PMARK": "maxmapid",
+      "NAME": "攻破广陵",
+      "NAME_VN": "Công phá Quảng Lăng",
+      "EXID": "official_7_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92025,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 175,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 1,
+      "PMARK": 90192,
+      "NAME": "任意武将达到8星",
+      "NAME_VN": "Tướng bất kỳ 8 sao",
+      "EXID": "official_7_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92026,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 175,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 400,
+      "PMARK": 90187,
+      "NAME": "获得400个武将",
+      "NAME_VN": "Nhận được 400 võ tướng",
+      "EXID": "official_7_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92027,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 175,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 250,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关250层",
+      "NAME_VN": "Tháp Thí Luyện tầng 250",
+      "EXID": "official_7_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92028,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 13310,
+      "PMARK": "maxmapid",
+      "NAME": "攻破会稽",
+      "NAME_VN": "Công phá Hội Kê",
+      "EXID": "official_8_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92029,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 1,
+      "PMARK": 90193,
+      "NAME": "任意武将达到9星",
+      "NAME_VN": "Tướng bất kỳ 9 sao",
+      "EXID": "official_8_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92030,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 600,
+      "PMARK": 90187,
+      "NAME": "获得600个武将",
+      "NAME_VN": "Nhận được 600 võ tướng",
+      "EXID": "official_8_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92031,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 300,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关300层",
+      "NAME_VN": "Tháp Thí Luyện tầng 300",
+      "EXID": "official_8_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92032,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 225,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 13610,
+      "PMARK": "maxmapid",
+      "NAME": "攻破赤壁",
+      "NAME_VN": "Công phá Xích Bích",
+      "EXID": "official_9_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92033,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 225,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 1,
+      "PMARK": 90194,
+      "NAME": "任意武将达到10星",
+      "NAME_VN": "Tướng bất kỳ 10 sao",
+      "EXID": "official_9_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92034,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 225,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 800,
+      "PMARK": 90187,
+      "NAME": "获得800个武将",
+      "NAME_VN": "Nhận được 800 võ tướng",
+      "EXID": "official_9_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92035,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 225,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 350,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关350层",
+      "NAME_VN": "Tháp Thí Luyện tầng 350",
+      "EXID": "official_9_3",
+      "PAGE": "practicetowerpage"
+    }
+  ],
+  [
+    {
+      "GETMARK": 92036,
+      "ID": 0,
+      "REWARD": [
+        {
+          "COUNT": 250,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 14610,
+      "PMARK": "maxmapid",
+      "NAME": "攻破武陵",
+      "NAME_VN": "Công phá Vũ Lăng",
+      "EXID": "official_10_0",
+      "PAGE": "autobattlepage"
+    },
+    {
+      "GETMARK": 92037,
+      "ID": 1,
+      "REWARD": [
+        {
+          "COUNT": 250,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 5,
+      "PMARK": 90194,
+      "NAME": "拥有5个10星武将",
+      "NAME_VN": "Sở hữu 5 võ tướng 10 sao",
+      "EXID": "official_10_1",
+      "PAGE": "generalbaghandbookpage"
+    },
+    {
+      "GETMARK": 92038,
+      "ID": 2,
+      "REWARD": [
+        {
+          "COUNT": 250,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 100,
+      "PMARK": 90187,
+      "NAME": "获得1000个武将",
+      "NAME_VN": "Nhận được 1000 võ tướng",
+      "EXID": "official_10_2",
+      "PAGE": "cardpubpage"
+    },
+    {
+      "GETMARK": 92039,
+      "ID": 3,
+      "REWARD": [
+        {
+          "COUNT": 250,
+          "GSID": 38005
+        }
+      ],
+      "CNUM": 400,
+      "PMARK": "tower",
+      "NAME": "试炼塔通关400层",
+      "NAME_VN": "Tháp Thí Luyện tầng 400",
+      "EXID": "official_10_3",
+      "PAGE": "practicetowerpage"
+    }
+  ]
+]

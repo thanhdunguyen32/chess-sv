@@ -1,0 +1,76 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 50,
+      "desc": "Nhấn vào võ tướng",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_02",
+        "location": "up",
+        "text": "Chúc mừng chiêu mộ đến võ tướng mới, chúng ta cần phải tăng lên sức chiến đấu của võ tướng"
+      }
+    },
+    {
+      "numstep": 51,
+      "desc": "Nhấn vào võ tướng đầu tiên Hoàng Nguyệt Anh",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "generalbag_handbook_page > generalbag_handbook_page_generalbag > generalbag_tableview > content % 2",
+        "textdirection": "right",
+        "text": "Nhấn vào đây để thông tin chi tiết võ tướng!"
+      }
+    },
+    {
+      "numstep": 52,
+      "desc": "Nhấn vào ô vũ khí",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "general_page_info > equip_01",
+        "text": "Nhấn vào đây để mặc trang bị!"
+      }
+    },
+    {
+      "numstep": 53,
+      "desc": "Chọn vũ khí",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_list_equip > topic > content % 1",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 54,
+      "desc": "Mặc trang bị",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_tips_equip > layout_btn > btn_on",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 55,
+      "desc": "Nhấn vào tăng cấp 5 lần",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "morefinger",
+        "nomask": true,
+        "textdirection": "left",
+        "times": 5,
+        "args": "general_page_info / general_bag_upgrade_level / btn_upgarde_level",
+        "mark": 9,
+        "text": "Đã hoàn thành mặc trang bị, giờ tăng cường năng lực của võ tướng thôi!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn bồi dưỡng võ tướng"
+}

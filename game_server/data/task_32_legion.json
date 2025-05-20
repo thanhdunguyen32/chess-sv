@@ -1,0 +1,33 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 177,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, một mình chinh chiến rất là vất vả .Thành lập / gia nhập một quân đoàn, tìm kiếm càng nhiều người cùng chung chí hướng cùng một chỗ chinh chiến thiên hạ!"
+      }
+    },
+    {
+      "numstep": 178,
+      "desc": "Nhấn vào Quân Đoàn",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_06",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Hình ảnh giới thiệu",
+      "command": {
+        "cmd": "intro",
+        "funname": "legion"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Quân Đoàn"
+}

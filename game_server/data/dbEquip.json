@@ -1,0 +1,1318 @@
+{
+  "33315": {
+    "SETID": 108,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "盘古战靴",
+    "NAME_VN": "Bàn Cổ Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1166
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 80000,
+    "INTRO": "Thần giày mang sức mạnh khai thiên lập địa của Bàn Cổ.",
+    "ICON": 33315,
+    "STAR": 4
+  },
+  "33114": {
+    "SETID": 107,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "六道战甲",
+    "NAME_VN": "Lục Đạo Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 17500
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 70000,
+    "INTRO": "Lục Đạo Luân Hồi sinh sinh bất diệt",
+    "ICON": 33114,
+    "STAR": 3
+  },
+  "33309": {
+    "SETID": 102,
+    "QUALITY": 4,
+    "POS": 4,
+    "NAME": "七星靴",
+    "NAME_VN": "Thất Tinh Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 366
+      }
+    ],
+    "PRICE": 20000,
+    "INTRO": "Giày được chế tác theo vị trí Bắc Đẩu Thất Tinh",
+    "ICON": 33309,
+    "STAR": 2
+  },
+  "33106": {
+    "QUALITY": 3,
+    "POS": 2,
+    "NAME": "金丝甲",
+    "NAME_VN": "Kim Ti Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 1650
+      }
+    ],
+    "PRICE": 5000,
+    "INTRO": "Giáp mềm được khảm chỉ vàng",
+    "ICON": 33106,
+    "STAR": 2
+  },
+  "33301": {
+    "QUALITY": 1,
+    "POS": 4,
+    "NAME": "皮靴",
+    "NAME_VN": "Ủng Da",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 23
+      }
+    ],
+    "PRICE": 100,
+    "INTRO": "Đôi giày đơn giản làm từ da",
+    "ICON": 33301,
+    "STAR": 1
+  },
+  "33003": {
+    "QUALITY": 2,
+    "POS": 1,
+    "NAME": "青铜剑",
+    "NAME_VN": "Thanh Đồng Kiếm",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 75
+      }
+    ],
+    "PRICE": 500,
+    "INTRO": "Thanh trường kiếm được chế tác từ đồng xanh",
+    "ICON": 33003,
+    "STAR": 1
+  },
+  "33202": {
+    "QUALITY": 1,
+    "POS": 3,
+    "NAME": "铁盔",
+    "NAME_VN": "Thiết Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 200,
+    "INTRO": "Mũ sắt bình thường, khả năng phòng thủ trung bình",
+    "ICON": 33202,
+    "STAR": 2
+  },
+  "33102": {
+    "QUALITY": 1,
+    "POS": 2,
+    "NAME": "黑铁甲",
+    "NAME_VN": "Hắc Thiết Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 300
+      }
+    ],
+    "PRICE": 200,
+    "INTRO": "Giáp sắt bình thường, khả năng phòng thủ trung bình",
+    "ICON": 33102,
+    "STAR": 2
+  },
+  "33304": {
+    "QUALITY": 2,
+    "POS": 4,
+    "NAME": "精钢靴",
+    "NAME_VN": "Tinh Cương Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 66
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Giày được chế tác từ tinh thép",
+    "ICON": 33304,
+    "STAR": 2
+  },
+  "33016": {
+    "SETID": 109,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "灭世魔枪",
+    "NAME_VN": "Diệt Thế Ma Thương",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 3000
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 90000,
+    "INTRO": "Dưới sức mạnh tối thượng, vạn vật hóa tro bụi.",
+    "ICON": 33016,
+    "STAR": 5
+  },
+  "33207": {
+    "QUALITY": 3,
+    "POS": 3,
+    "NAME": "明光盔",
+    "NAME_VN": "Minh Quang Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 1500
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Phát sáng rực rỡ khi có ánh mặt trời chiếu vào",
+    "ICON": 33207,
+    "STAR": 3
+  },
+  "33314": {
+    "SETID": 107,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "六道战靴",
+    "NAME_VN": "Lục Đạo Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1000
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 70000,
+    "INTRO": "Lục Đạo Luân Hồi sinh sinh bất diệt",
+    "ICON": 33314,
+    "STAR": 3
+  },
+  "33215": {
+    "SETID": 108,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "盘古战盔",
+    "NAME_VN": "Bàn Cổ Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 15000
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 70
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 80000,
+    "INTRO": "Thần mũ mang sức mạnh khai thiên lập địa của Bàn Cổ",
+    "ICON": 33215,
+    "STAR": 4
+  },
+  "33203": {
+    "QUALITY": 2,
+    "POS": 3,
+    "NAME": "青铜盔",
+    "NAME_VN": "Thanh Đồng Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 333
+      }
+    ],
+    "PRICE": 500,
+    "INTRO": "Mũ được chế tác từ đồng xanh",
+    "ICON": 33203,
+    "STAR": 1
+  },
+  "33204": {
+    "QUALITY": 2,
+    "POS": 3,
+    "NAME": "精钢盔",
+    "NAME_VN": "Tinh Cương Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mũ được chế tác từ tinh thép",
+    "ICON": 33204,
+    "STAR": 2
+  },
+  "33013": {
+    "SETID": 106,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "梵天神弓",
+    "NAME_VN": "Phạn Thiên Thần Cung",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1250
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 60000,
+    "INTRO": "Sở hữu sức mạnh như muốn xé rách trời đất",
+    "ICON": 33013,
+    "STAR": 2
+  },
+  "33101": {
+    "QUALITY": 1,
+    "POS": 2,
+    "NAME": "皮衣",
+    "NAME_VN": "Bì Y",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 200
+      }
+    ],
+    "PRICE": 100,
+    "INTRO": "Giáp đơn giản làm từ da",
+    "ICON": 33101,
+    "STAR": 1
+  },
+  "33104": {
+    "QUALITY": 2,
+    "POS": 2,
+    "NAME": "精钢甲",
+    "NAME_VN": "Tinh Cương Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 750
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Giáp ngực làm từ tinh thép",
+    "ICON": 33104,
+    "STAR": 2
+  },
+  "33110": {
+    "SETID": 103,
+    "QUALITY": 4,
+    "POS": 2,
+    "NAME": "九龙甲",
+    "NAME_VN": "Cửu Long Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 6000
+      }
+    ],
+    "PRICE": 30000,
+    "INTRO": "Chín con rồng vàng đua nhau tranh ngôi trên giáp",
+    "ICON": 33110,
+    "STAR": 3
+  },
+  "33108": {
+    "SETID": 101,
+    "QUALITY": 4,
+    "POS": 2,
+    "NAME": "龙鳞甲",
+    "NAME_VN": "Long Lân Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 3750
+      }
+    ],
+    "PRICE": 15000,
+    "INTRO": "Bề mặt giáp được bao phủ bởi các mảnh vảy rồng",
+    "ICON": 33108,
+    "STAR": 1
+  },
+  "33001": {
+    "QUALITY": 1,
+    "POS": 1,
+    "NAME": "朴刀",
+    "NAME_VN": "Phác Đao",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 35
+      }
+    ],
+    "PRICE": 100,
+    "INTRO": "Một con dao ngắn bình thường",
+    "ICON": 33001,
+    "STAR": 1
+  },
+  "33310": {
+    "SETID": 103,
+    "QUALITY": 4,
+    "POS": 4,
+    "NAME": "九龙靴",
+    "NAME_VN": "Cửu Long Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 433
+      }
+    ],
+    "PRICE": 30000,
+    "INTRO": "Trên giày khắc hình chín con rồng vàng",
+    "ICON": 33310,
+    "STAR": 3
+  },
+  "33317": {
+    "SETID": 110,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "混沌战靴",
+    "NAME_VN": "Hỗn Độn Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2666
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Vạn vật chi thủy, thiên địa quy nhất",
+    "ICON": 33317,
+    "STAR": 6
+  },
+  "33217": {
+    "SETID": 110,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "混沌战盔",
+    "NAME_VN": "Hỗn Độn Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 32367
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 120
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Vạn vật chi thủy, thiên địa quy nhất",
+    "ICON": 33217,
+    "STAR": 6
+  },
+  "33213": {
+    "SETID": 106,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "梵天战盔",
+    "NAME_VN": "Phạn Thiên Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 8333
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 40
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 60000,
+    "INTRO": "Sở hữu sức mạnh như muốn xé rách trời đất",
+    "ICON": 33213,
+    "STAR": 2
+  },
+  "33011": {
+    "SETID": 104,
+    "QUALITY": 4,
+    "POS": 1,
+    "NAME": "麒麟枪",
+    "NAME_VN": "Kỳ Lân Thương",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 750
+      }
+    ],
+    "PRICE": 40000,
+    "INTRO": "Thương dài được thần thú Kỳ Lân ban phước",
+    "ICON": 33011,
+    "STAR": 4
+  },
+  "33115": {
+    "SETID": 108,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "盘古战甲",
+    "NAME_VN": "Bàn Cổ Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 22500
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 80000,
+    "INTRO": "Thần giáp mang sức mạnh khai thiên lập địa của Bàn Cổ",
+    "ICON": 33115,
+    "STAR": 4
+  },
+  "33303": {
+    "QUALITY": 2,
+    "POS": 4,
+    "NAME": "青铜靴",
+    "NAME_VN": "Đồng Thau Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 500,
+    "INTRO": "Giày được khảm các mảnh giáp đồng xanh",
+    "ICON": 33303,
+    "STAR": 1
+  },
+  "33311": {
+    "SETID": 104,
+    "QUALITY": 4,
+    "POS": 4,
+    "NAME": "麒麟靴",
+    "NAME_VN": "Kỳ Lân Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 40000,
+    "INTRO": "Giày được thần thú Kỳ Lân ban phước",
+    "ICON": 33311,
+    "STAR": 4
+  },
+  "33116": {
+    "SETID": 109,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "灭世战甲",
+    "NAME_VN": "Diệt Thế Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 50000
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 90000,
+    "INTRO": "Dưới sức mạnh tối thượng, vạn vật hóa tro bụi",
+    "ICON": 33116,
+    "STAR": 5
+  },
+  "33307": {
+    "QUALITY": 3,
+    "POS": 4,
+    "NAME": "明光靴",
+    "NAME_VN": "Minh Quang Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 183
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Giày mềm thuộc bộ giáp sáng chói",
+    "ICON": 33307,
+    "STAR": 3
+  },
+  "33216": {
+    "SETID": 109,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "灭世战盔",
+    "NAME_VN": "Diệt Thế Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 20146
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 100
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 90000,
+    "INTRO": "Dưới sức mạnh tối thượng, vạn vật hóa tro bụi",
+    "ICON": 33216,
+    "STAR": 5
+  },
+  "33206": {
+    "QUALITY": 3,
+    "POS": 3,
+    "NAME": "金丝盔",
+    "NAME_VN": "Kim Ti Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 1100
+      }
+    ],
+    "PRICE": 5000,
+    "INTRO": "Mũ mềm được khảm chỉ vàng",
+    "ICON": 33206,
+    "STAR": 2
+  },
+  "33308": {
+    "SETID": 101,
+    "QUALITY": 4,
+    "POS": 4,
+    "NAME": "龙鳞靴",
+    "NAME_VN": "Long Lân Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 283
+      }
+    ],
+    "PRICE": 15000,
+    "INTRO": "Giày nặng được bao phủ bởi các mảnh vảy rồng",
+    "ICON": 33308,
+    "STAR": 1
+  },
+  "33312": {
+    "SETID": 105,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "百兽战靴",
+    "NAME_VN": "Bách Thú Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 666
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Chiến giày chứa linh hồn của bách thú",
+    "ICON": 33312,
+    "STAR": 1
+  },
+  "33109": {
+    "SETID": 102,
+    "QUALITY": 4,
+    "POS": 2,
+    "NAME": "七星甲",
+    "NAME_VN": "Thất Tinh Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 5000
+      }
+    ],
+    "PRICE": 20000,
+    "INTRO": "Trên giáp có bảy viên ngọc sắp xếp theo Bắc Đẩu Thất Tinh",
+    "ICON": 33109,
+    "STAR": 2
+  },
+  "33012": {
+    "SETID": 105,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "百兽战刀",
+    "NAME_VN": "Bách Thú Chiến Đao",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1000
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Thanh đao dài chứa linh hồn bách thú",
+    "ICON": 33012,
+    "STAR": 1
+  },
+  "33117": {
+    "SETID": 110,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "混沌战甲",
+    "NAME_VN": "Hỗn Độn Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 75000
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Vạn vật chi thủy, thiên địa quy nhất",
+    "ICON": 33117,
+    "STAR": 6
+  },
+  "33113": {
+    "SETID": 106,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "梵天战甲",
+    "NAME_VN": "Phạn Thiên Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 12500
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 60000,
+    "INTRO": "Sở hữu sức mạnh như muốn xé rách trời đất",
+    "ICON": 33113,
+    "STAR": 2
+  },
+  "33015": {
+    "SETID": 108,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "盘古神斧",
+    "NAME_VN": "Bàn Cổ Thần Phủ",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1750
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 70
+      }
+    ],
+    "PRICE": 80000,
+    "INTRO": "Thần phủ mang sức mạnh khai thiên lập địa của Bàn Cổ",
+    "ICON": 33015,
+    "STAR": 4
+  },
+  "33107": {
+    "QUALITY": 3,
+    "POS": 2,
+    "NAME": "明光甲",
+    "NAME_VN": "Minh Quang Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 2250
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Phát sáng rực rỡ khi có ánh mặt trời chiếu vào",
+    "ICON": 33107,
+    "STAR": 3
+  },
+  "33209": {
+    "SETID": 102,
+    "QUALITY": 4,
+    "POS": 3,
+    "NAME": "七星盔",
+    "NAME_VN": "Thất Tinh Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 3333
+      }
+    ],
+    "PRICE": 20000,
+    "INTRO": "Mũ được chế tác theo vị trí Bắc Đẩu Thất Tinh",
+    "ICON": 33209,
+    "STAR": 2
+  },
+  "33005": {
+    "QUALITY": 3,
+    "POS": 1,
+    "NAME": "墨玉戟",
+    "NAME_VN": "Mặc Ngọc Kích",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 175
+      }
+    ],
+    "PRICE": 2500,
+    "INTRO": "Thân kích ánh lên sắc đen như ngọc thạch",
+    "ICON": 33005,
+    "STAR": 1
+  },
+  "33313": {
+    "SETID": 106,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "梵天战靴",
+    "NAME_VN": "Phạn Thiên Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 833
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 40
+      }
+    ],
+    "PRICE": 60000,
+    "INTRO": "Sở hữu sức mạnh như muốn xé rách trời đất",
+    "ICON": 33313,
+    "STAR": 2
+  },
+  "33305": {
+    "QUALITY": 3,
+    "POS": 4,
+    "NAME": "墨玉靴",
+    "NAME_VN": "Mặc Ngọc Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 116
+      }
+    ],
+    "PRICE": 2500,
+    "INTRO": "Giày ánh lên sắc đen như ngọc thạch",
+    "ICON": 33305,
+    "STAR": 1
+  },
+  "33214": {
+    "SETID": 107,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "六道战盔",
+    "NAME_VN": "Lục Đạo Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 11666
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 60
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 70000,
+    "INTRO": "Lục Đạo Luân Hồi sinh sinh bất diệt",
+    "ICON": 33214,
+    "STAR": 3
+  },
+  "33007": {
+    "QUALITY": 3,
+    "POS": 1,
+    "NAME": "明光戟",
+    "NAME_VN": "Minh Quang Kích",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 275
+      }
+    ],
+    "PRICE": 10000,
+    "INTRO": "Lưỡi kích sáng bóng như gương",
+    "ICON": 33007,
+    "STAR": 3
+  },
+  "33111": {
+    "SETID": 104,
+    "QUALITY": 4,
+    "POS": 2,
+    "NAME": "麒麟甲",
+    "NAME_VN": "Kỳ Lân Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 7500
+      }
+    ],
+    "PRICE": 40000,
+    "INTRO": "Giáp được thần thú Kỳ Lân ban phước",
+    "ICON": 33111,
+    "STAR": 4
+  },
+  "33112": {
+    "SETID": 105,
+    "QUALITY": 5,
+    "POS": 2,
+    "NAME": "百兽战甲",
+    "NAME_VN": "Bách Thú Chiến Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 10000
+      },
+      {
+        "KEY": "PEFC",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Chiến giáp chứa linh hồn của bách thú",
+    "ICON": 33112,
+    "STAR": 1
+  },
+  "33008": {
+    "SETID": 101,
+    "QUALITY": 4,
+    "POS": 1,
+    "NAME": "龙鳞剑",
+    "NAME_VN": "Long Lân Kiếm",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 425
+      }
+    ],
+    "PRICE": 15000,
+    "INTRO": "Thanh Long Lân Kiếm vô song trên thế gian",
+    "ICON": 33008,
+    "STAR": 1
+  },
+  "33205": {
+    "QUALITY": 3,
+    "POS": 3,
+    "NAME": "墨玉盔",
+    "NAME_VN": "Mặc Ngọc Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 833
+      }
+    ],
+    "PRICE": 2500,
+    "INTRO": "Mũ ánh lên sắc đen như ngọc thạch",
+    "ICON": 33205,
+    "STAR": 1
+  },
+  "33316": {
+    "SETID": 109,
+    "QUALITY": 5,
+    "POS": 4,
+    "NAME": "灭世战靴",
+    "NAME_VN": "Diệt Thế Giày Chiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 2000
+      },
+      {
+        "KEY": "PATKDAM",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 90000,
+    "INTRO": "Dưới sức mạnh tối thượng, vạn vật hóa tro bụi",
+    "ICON": 33316,
+    "STAR": 5
+  },
+  "33010": {
+    "SETID": 103,
+    "QUALITY": 4,
+    "POS": 1,
+    "NAME": "九龙矛",
+    "NAME_VN": "Cửu Long Mâu",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 650
+      }
+    ],
+    "PRICE": 30000,
+    "INTRO": "Thân kích được bao quanh bởi Cửu Long",
+    "ICON": 33010,
+    "STAR": 3
+  },
+  "33006": {
+    "QUALITY": 3,
+    "POS": 1,
+    "NAME": "青龙戟",
+    "NAME_VN": "Thanh Long Kích",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 225
+      }
+    ],
+    "PRICE": 5000,
+    "INTRO": "Thân kích được khảm hình rồng vàng",
+    "ICON": 33006,
+    "STAR": 2
+  },
+  "33302": {
+    "QUALITY": 1,
+    "POS": 4,
+    "NAME": "铁靴",
+    "NAME_VN": "Thiết Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 33
+      }
+    ],
+    "PRICE": 200,
+    "INTRO": "Giày được bọc bằng các mảnh sắt",
+    "ICON": 33302,
+    "STAR": 2
+  },
+  "33014": {
+    "SETID": 107,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "六道之剑",
+    "NAME_VN": "Lục Đạo Chi Kiếm",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 1500
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 60
+      }
+    ],
+    "PRICE": 70000,
+    "INTRO": "Lục Đạo Luân Hồi sinh sinh bất diệt",
+    "ICON": 33014,
+    "STAR": 3
+  },
+  "33306": {
+    "QUALITY": 3,
+    "POS": 4,
+    "NAME": "金丝靴",
+    "NAME_VN": "Tơ Vàng Giày",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 150
+      }
+    ],
+    "PRICE": 5000,
+    "INTRO": "Giày mềm được khảm chỉ vàng",
+    "ICON": 33306,
+    "STAR": 2
+  },
+  "33208": {
+    "SETID": 101,
+    "QUALITY": 4,
+    "POS": 3,
+    "NAME": "龙鳞盔",
+    "NAME_VN": "Long Lân Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 2500
+      }
+    ],
+    "PRICE": 15000,
+    "INTRO": "Mũ được bao phủ bởi các mảnh vảy rồng",
+    "ICON": 33208,
+    "STAR": 1
+  },
+  "33212": {
+    "SETID": 105,
+    "QUALITY": 5,
+    "POS": 3,
+    "NAME": "百兽战盔",
+    "NAME_VN": "Bách Thú Chiến Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 6666
+      },
+      {
+        "KEY": "PPBS",
+        "VAL": 20
+      },
+      {
+        "KEY": "PMBS",
+        "VAL": 20
+      }
+    ],
+    "PRICE": 50000,
+    "INTRO": "Mũ giáp chứa linh hồn của bách thú",
+    "ICON": 33212,
+    "STAR": 1
+  },
+  "33211": {
+    "SETID": 104,
+    "QUALITY": 4,
+    "POS": 3,
+    "NAME": "麒麟盔",
+    "NAME_VN": "Kỳ Lân Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 5000
+      }
+    ],
+    "PRICE": 40000,
+    "INTRO": "Mũ được thần thú Kỳ Lân ban phước",
+    "ICON": 33211,
+    "STAR": 4
+  },
+  "33105": {
+    "QUALITY": 3,
+    "POS": 2,
+    "NAME": "墨玉甲",
+    "NAME_VN": "Mặc Ngọc Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 1250
+      }
+    ],
+    "PRICE": 2500,
+    "INTRO": "Giáp ánh lên sắc đen như ngọc thạch",
+    "ICON": 33105,
+    "STAR": 1
+  },
+  "33002": {
+    "QUALITY": 1,
+    "POS": 1,
+    "NAME": "铁剑",
+    "NAME_VN": "Thiết Kiếm",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 50
+      }
+    ],
+    "PRICE": 200,
+    "INTRO": "Một thanh kiếm sắt sắc bén",
+    "ICON": 33002,
+    "STAR": 2
+  },
+  "33210": {
+    "SETID": 103,
+    "QUALITY": 4,
+    "POS": 3,
+    "NAME": "九龙盔",
+    "NAME_VN": "Cửu Long Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 4000
+      }
+    ],
+    "PRICE": 30000,
+    "INTRO": "Trên mũ khắc hình chín con rồng vàng",
+    "ICON": 33210,
+    "STAR": 3
+  },
+  "33201": {
+    "QUALITY": 1,
+    "POS": 3,
+    "NAME": "皮盔",
+    "NAME_VN": "Bì Khôi",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 133
+      }
+    ],
+    "PRICE": 100,
+    "INTRO": "Mũ đơn giản làm từ da",
+    "ICON": 33201,
+    "STAR": 1
+  },
+  "33103": {
+    "QUALITY": 2,
+    "POS": 2,
+    "NAME": "青铜甲",
+    "NAME_VN": "Thanh Đồng Giáp",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "HP",
+        "VAL": 500
+      }
+    ],
+    "PRICE": 500,
+    "INTRO": "Giáp ngực làm từ đồng xanh",
+    "ICON": 33103,
+    "STAR": 1
+  },
+  "33009": {
+    "SETID": 102,
+    "QUALITY": 4,
+    "POS": 1,
+    "NAME": "七星扇",
+    "NAME_VN": "Thất Tinh Quạt",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 550
+      }
+    ],
+    "PRICE": 20000,
+    "INTRO": "Thân kiếm sắp xếp theo hình Bắc Đẩu Thất Tinh",
+    "ICON": 33009,
+    "STAR": 2
+  },
+  "33017": {
+    "SETID": 110,
+    "QUALITY": 5,
+    "POS": 1,
+    "NAME": "混沌羽扇",
+    "NAME_VN": "Hỗn Độn Vũ Phiến",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 4000
+      },
+      {
+        "KEY": "PSKIDAM",
+        "VAL": 120
+      }
+    ],
+    "PRICE": 100000,
+    "INTRO": "Vạn vật chi thủy, thiên địa quy nhất",
+    "ICON": 33017,
+    "STAR": 6
+  },
+  "33004": {
+    "QUALITY": 2,
+    "POS": 1,
+    "NAME": "精钢枪",
+    "NAME_VN": "Tinh Cương Thương",
+    "SP": [],
+    "PROP": [
+      {
+        "KEY": "ATK",
+        "VAL": 100
+      }
+    ],
+    "PRICE": 1000,
+    "INTRO": "Mũi giáo được rèn từ tinh thép",
+    "ICON": 33004,
+    "STAR": 2
+  }
+}

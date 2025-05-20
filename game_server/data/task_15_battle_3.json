@@ -1,0 +1,58 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 70,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Bẩm Chủ Công, quan sát trận hình của địch, dường như chúng cố ý bỏ trống hàng trước để tập trung tấn công hậu quân của ta!"
+      }
+    },
+    {
+      "numstep": 71,
+      "desc": "Giới thiệu thích khách địch",
+      "command": {
+        "cmd": "locator",
+        "textdirection": "left",
+        "args": "battle_page > battle_btn_start_01",
+        "battlemap": {
+          "num": 24,
+          "type": "right"
+        },
+        "text": "Thích khách sẽ tấn công các đơn vị ở hàng sau ngay khi trận chiến bắt đầu, xin hãy chú ý!"
+      }
+    },
+    {
+      "numstep": 72,
+      "desc": "Hướng dẫn bố trí",
+      "command": {
+        "cmd": "drag",
+        "nomask": true,
+        "end": 28,
+        "start": 12
+      }
+    },
+    {
+      "numstep": 73,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công anh minh, một lần bài binh bố trận đơn giản lại có thể nghịch chuyển chiến trường tình thế trong nháy mắt! Thật sự là quá lợi hại!"
+      }
+    },
+    {
+      "numstep": 74,
+      "desc": "Nhấn để bắt đầu chiến đấu",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > battle_btn_start_01",
+        "text": "Hoàn thành bày trận, thỉnh chúa công hạ lệnh toàn quân xuất kích!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn chiến đấu"
+}

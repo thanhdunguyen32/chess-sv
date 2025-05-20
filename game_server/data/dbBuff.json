@@ -1,0 +1,1577 @@
+{
+  "10016": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_ready_self",
+        "speed": 0.7,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhaoyun/skill_ready_self_pic"
+      }
+    }
+  ],
+  "atkdown": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_down_pic"
+      }
+    }
+  ],
+  "46436": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liru/skill_zhongshang_buff",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liru/skill_zhongshang_buff_pic"
+      }
+    }
+  ],
+  "80001": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 1,
+        "posy": 3,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "10038": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_lvmeng/buff_buxingyun",
+        "speed": 1,
+        "posy": -5,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_lvmeng/buff_buxingyun_pic"
+      }
+    }
+  ],
+  "10079": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_xuezhe/shouji",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_xuezhe/shouji_pic"
+      }
+    }
+  ],
+  "10032": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_pangde/buff_01",
+        "speed": 1,
+        "posy": 0,
+        "scale": 0.7,
+        "wrap": 2,
+        "pic": "skill_pangde/buff_01_pic"
+      }
+    }
+  ],
+  "40431": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhanghe/skill_lingzhu",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_zhanghe/skill_lingzhu_pic"
+      }
+    }
+  ],
+  "10056": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "18036": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_shangshanqianxin/buff_01",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_shangshanqianxin/buff_01_pic"
+      }
+    }
+  ],
+  "47001": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_dongzhuo/skill_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 0.5,
+        "wrap": 2,
+        "pic": "skill_dongzhuo/skill_up_pic"
+      }
+    }
+  ],
+  "10064": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_handang/buff_zhongdu",
+        "speed": 1,
+        "posy": 20,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_handang/buff_zhongdu_pic"
+      }
+    }
+  ],
+  "10090": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_chengyu/buff_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_chengyu/buff_down_pic"
+      }
+    }
+  ],
+  "470211": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhugeliang/buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhugeliang/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10050": [
+    {
+      "up": {
+        "json": "skill_menghuo/buff_xunhuan",
+        "speed": 1,
+        "opacity": 0.8,
+        "wrap": 2,
+        "pic": "skill_menghuo/buff_xunhuan_pic",
+        "posx": 0,
+        "posy": 10,
+        "scale": 1
+      }
+    }
+  ],
+  "18121d": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_01_purple_red_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_fengchenxiuji/skill_01_purple_red_up_pic"
+      }
+    }
+  ],
+  "10017": [
+    {
+      "up": {
+        "json": "skill_dianwei/shouji_buff",
+        "speed": 1,
+        "opacity": 0.9,
+        "wrap": 2,
+        "pic": "skill_dianwei/shouji_buff_pic",
+        "posx": 0,
+        "posy": -7,
+        "scale": 1
+      }
+    }
+  ],
+  "healdis": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/tongyong_buff_zhisi",
+        "speed": 1,
+        "posy": 90,
+        "scale": 0.6,
+        "wrap": 2,
+        "pic": "buff_public/tongyong_buff_zhisi_pic"
+      }
+    }
+  ],
+  "10087": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_down_pic"
+      }
+    }
+  ],
+  "pcriup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_baoji_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_baoji_up_pic"
+      }
+    }
+  ],
+  "10067": [
+    {
+      "up": {
+        "json": "skill_caoren/shouji_buff",
+        "speed": 1,
+        "opacity": 0.5,
+        "wrap": 2,
+        "pic": "skill_caoren/shouji_buff_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "pmthrup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "ppbsup": [
+    {
+      "up": {
+        "json": "skill_xiahouyuan/buff_xunhuan",
+        "speed": 1,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_xiahouyuan/buff_xunhuan_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "80002": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_battle_season/buff_fengzhikuangyong",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_battle_season/buff_fengzhikuangyong_pic"
+      }
+    }
+  ],
+  "10028": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "18056": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_ready_self",
+        "speed": 0.7,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhaoyun/skill_ready_self_pic"
+      }
+    }
+  ],
+  "10019": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "10044": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_xuezhe/shouji",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_xuezhe/shouji_pic"
+      }
+    }
+  ],
+  "10027": [
+    {
+      "up": {
+        "json": "skill_caoren/buff_02",
+        "speed": 1,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_caoren/buff_02_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "40441": [
+    {
+      "up": {
+        "json": "skill_xuhuang/skill_xvhuang_01buff",
+        "speed": 1,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_xuhuang/skill_xvhuang_01buff_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "20009": [
+    {
+      "up": {
+        "json": "skill_lvbu/buff_xunhuan_01",
+        "speed": 1,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_lvbu/buff_xunhuan_01_pic",
+        "posx": 0,
+        "posy": 20,
+        "scale": 1.5
+      }
+    }
+  ],
+  "10024": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_down_pic"
+      }
+    }
+  ],
+  "46431": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liru/skill_gudong_shouji_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liru/skill_gudong_shouji_xunhuan_pic"
+      }
+    }
+  ],
+  "10037": [
+    {
+      "up": {
+        "json": "skill_caocao/shouji_up",
+        "speed": 1,
+        "opacity": 0.6,
+        "wrap": 2,
+        "pic": "skill_caocao/shouji_up_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "18061": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_mingzhiguangxiu/shouji_01",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_mingzhiguangxiu/shouji_01_pic"
+      }
+    },
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_mingzhiguangxiu/shouji_buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_mingzhiguangxiu/shouji_buff_xunhuan_pic"
+      }
+    }
+  ],
+  "49012": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_hundun",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_hundun_pic"
+      }
+    }
+  ],
+  "10003": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_guanyu/buff_shifa",
+        "speed": 1,
+        "posy": 150,
+        "scale": 1.3,
+        "wrap": 1,
+        "pic": "skill_guanyu/buff_shifa_pic"
+      }
+    },
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_guanyu/buff_xunhuan",
+        "speed": 1,
+        "posy": 150,
+        "scale": 1.3,
+        "wrap": 2,
+        "pic": "skill_guanyu/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10000": [
+    {
+      "up": {
+        "posx": 5,
+        "json": "skill_zhangfei/buff_xunhuan",
+        "speed": 1,
+        "posy": -20,
+        "scale": 1.2,
+        "wrap": 2,
+        "pic": "skill_zhangfei/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10059": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_down_pic"
+      }
+    }
+  ],
+  "44411": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_sunjian/skill_ying_buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_sunjian/skill_ying_buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10063": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liuzhang/shouji_up",
+        "speed": 0.8,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liuzhang/shouji_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_liuzhang/shouji_down",
+        "speed": 0.8,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liuzhang/shouji_down_pic"
+      }
+    }
+  ],
+  "18031": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_shangshanqianxin/buff_02",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_shangshanqianxin/buff_02_pic"
+      }
+    }
+  ],
+  "10046": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "18016": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhitianxinchang/buff_zhongdu_shifa",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_zhitianxinchang/buff_zhongdu_shifa_pic"
+      }
+    },
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhitianxinchang/buff_zhongdu_xunhuan",
+        "speed": 1,
+        "posy": 70,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhitianxinchang/buff_zhongdu_xunhuan_pic"
+      }
+    }
+  ],
+  "10077": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhangjiao/buff_miss",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhangjiao/buff_miss_pic"
+      }
+    }
+  ],
+  "10091": [
+    {
+      "up": {
+        "json": "skill_zhoutai/buff_fire",
+        "speed": 1,
+        "opacity": 0.8,
+        "wrap": 2,
+        "pic": "skill_zhoutai/buff_fire_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 0.65
+      }
+    }
+  ],
+  "10055": [
+    {
+      "up": {
+        "json": "skill_caocao/shouji_up",
+        "speed": 1,
+        "opacity": 0.5,
+        "wrap": 2,
+        "pic": "skill_caocao/shouji_up_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "10081": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_sunce/buff_02_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_sunce/buff_02_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_sunce/buff_02_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_sunce/buff_02_down_pic"
+      }
+    }
+  ],
+  "10048": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_lvbu/buff_xunhuan_01",
+        "speed": 1,
+        "posy": 20,
+        "scale": 1.5,
+        "wrap": 2,
+        "pic": "skill_lvbu/buff_xunhuan_01_pic"
+      }
+    }
+  ],
+  "10062": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_down_pic"
+      }
+    }
+  ],
+  "10042": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_bulianshi/buff_bulianshi",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_bulianshi/buff_bulianshi_pic"
+      }
+    }
+  ],
+  "defup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "10021": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "17001": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_liubang/shifa_buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liubang/shifa_buff_xunhuan_pic"
+      }
+    }
+  ],
+  "46431b": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liru/skill_xuruo_buff_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liru/skill_xuruo_buff_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_liru/skill_xuruo_buff_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liru/skill_xuruo_buff_down_pic"
+      }
+    }
+  ],
+  "10011": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhangxingcai/buff_xunhuan_02",
+        "speed": 1,
+        "posy": 40,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhangxingcai/buff_xunhuan_02_pic"
+      }
+    }
+  ],
+  "46421": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liru/skill_eyun_buff",
+        "speed": 1,
+        "posy": 85,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liru/skill_eyun_buff_pic"
+      }
+    }
+  ],
+  "44401": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_xuezhe/shouji",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_xuezhe/shouji_pic"
+      }
+    }
+  ],
+  "10006": [
+    {
+      "up": {
+        "json": "skill_pangtong/shifa_02",
+        "speed": 1,
+        "opacity": 0.8,
+        "wrap": 2,
+        "pic": "skill_pangtong/shifa_02_pic",
+        "posx": -5,
+        "posy": 70,
+        "scale": 0.9
+      }
+    }
+  ],
+  "atkup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "10083": [
+    {
+      "up": {
+        "posx": -4,
+        "json": "skill_yuji/shifa_02",
+        "speed": 0.7,
+        "posy": 40,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_yuji/shifa_02_pic"
+      }
+    }
+  ],
+  "10072": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_lvmeng/buff_xingyun",
+        "speed": 1,
+        "posy": -5,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_lvmeng/buff_xingyun_pic"
+      }
+    }
+  ],
+  "10001": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_down_pic"
+      }
+    }
+  ],
+  "10012": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_jiangwei/shifa_02",
+        "speed": 1,
+        "posy": 35,
+        "scale": 1.2,
+        "wrap": 2,
+        "pic": "skill_jiangwei/shifa_02_pic"
+      }
+    }
+  ],
+  "10093": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "10039": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhugeliang/buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhugeliang/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "49015": [
+    {
+      "up": {
+        "json": "skill_caoren/buff_02",
+        "speed": 1,
+        "opacity": 0.6,
+        "wrap": 2,
+        "pic": "skill_caoren/buff_02_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "10004": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_xuanyun",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_xuanyun_pic"
+      }
+    }
+  ],
+  "18021": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_shangshanqianxin/buff_xuanyun_yellow",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_shangshanqianxin/buff_xuanyun_yellow_pic"
+      }
+    }
+  ],
+  "10002": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liubei/buff_shifa",
+        "speed": 1,
+        "posy": 42,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_liubei/buff_shifa_pic"
+      }
+    },
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liubei/buff_xunhuan",
+        "speed": 1,
+        "posy": 42,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liubei/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10045": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_huanggai/buff_fire",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_huanggai/buff_fire_pic"
+      }
+    }
+  ],
+  "fubu": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_fububanzang/skill_fenshen",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_fububanzang/skill_fenshen_pic"
+      }
+    }
+  ],
+  "10043": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_lvmeng/buff_xingyun",
+        "speed": 1,
+        "posy": -5,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_lvmeng/buff_xingyun_pic"
+      }
+    }
+  ],
+  "10049": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_down_pic"
+      }
+    }
+  ],
+  "18096": [
+    {
+      "up": {
+        "json": "skill_benduozhongsheng/shouji_chaofeng_xunhuan",
+        "pic": "skill_benduozhongsheng/shouji_chaofeng_xunhuan_pic"
+      }
+    }
+  ],
+  "42411": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_maliang/skill_maliang01buff",
+        "speed": 1,
+        "posy": 100,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_maliang/skill_maliang01buff_pic"
+      }
+    }
+  ],
+  "80000": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_battle_season/buff_huozhililiang",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_battle_season/buff_huozhililiang_pic"
+      }
+    }
+  ],
+  "10047": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_handang/buff_zhongdu",
+        "speed": 1,
+        "posy": 20,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_handang/buff_zhongdu_pic"
+      }
+    }
+  ],
+  "10053": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhangjiao/buff_miss",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhangjiao/buff_miss_pic"
+      }
+    }
+  ],
+  "10073": [
+    {
+      "up": {
+        "json": "skill_caocao/shouji_up",
+        "speed": 0.7,
+        "opacity": 0.5,
+        "wrap": 2,
+        "pic": "skill_caocao/shouji_up_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "20012": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "yanwu": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhitianxinchang/shifa_yanwu",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 1,
+        "pic": "skill_zhitianxinchang/shifa_yanwu_pic"
+      }
+    }
+  ],
+  "470311": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 1,
+        "posy": 3,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "17101": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_jinjun/skill_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_jinjun/skill_xunhuan_pic"
+      }
+    }
+  ],
+  "ppthrup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "10033": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_down_pic"
+      }
+    }
+  ],
+  "10076": [
+    {
+      "up": {
+        "json": "skill_luxun/buff_hudun",
+        "speed": 0.7,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_luxun/buff_hudun_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 0.9
+      }
+    }
+  ],
+  "17091": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_simayan/buff_01_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_simayan/buff_01_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_simayan/buff_01_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_simayan/buff_01_down_pic"
+      }
+    }
+  ],
+  "10078": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhoutai/buff_fire",
+        "speed": 1,
+        "posy": 0,
+        "scale": 0.65,
+        "wrap": 2,
+        "pic": "skill_zhoutai/buff_fire_pic"
+      }
+    }
+  ],
+  "46456": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zuoci/skill_zuoci_04buff",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zuoci/skill_zuoci_04buff_pic"
+      }
+    }
+  ],
+  "18121f": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_03_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_fengchenxiuji/skill_03_up_pic"
+      }
+    }
+  ],
+  "17071": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_hanxiandi/buff_xunhuan_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_hanxiandi/buff_xunhuan_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_hanxiandi/buff_xunhuan_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_hanxiandi/buff_xunhuan_down_pic"
+      }
+    }
+  ],
+  "470111": [
+    {
+      "up": {
+        "json": "skill_caoren/shouji_buff",
+        "speed": 1,
+        "opacity": 0.5,
+        "wrap": 2,
+        "pic": "skill_caoren/shouji_buff_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "prdcup": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_pangde/buff_02",
+        "speed": 1,
+        "posy": 0,
+        "scale": 0.7,
+        "wrap": 2,
+        "pic": "skill_pangde/buff_02_pic"
+      }
+    }
+  ],
+  "10029": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "10080": [
+    {
+      "up": {
+        "json": "skill_huanggai/shouji_up",
+        "speed": 1,
+        "opacity": 0.8,
+        "wrap": 2,
+        "pic": "skill_huanggai/shouji_up_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "healeff": [
+    {
+      "up": {
+        "json": "skill_caocao/shouji_up",
+        "speed": 1,
+        "opacity": 0.7,
+        "wrap": 2,
+        "pic": "skill_caocao/shouji_up_pic",
+        "posx": 0,
+        "posy": 0,
+        "scale": 1
+      }
+    }
+  ],
+  "10005": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_chenmo",
+        "speed": 1,
+        "posy": 10,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_chenmo_pic"
+      }
+    }
+  ],
+  "10023": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 1,
+        "posy": 3,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "18121e": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_01_purple_fire_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_fengchenxiuji/skill_01_purple_fire_up_pic"
+      }
+    }
+  ],
+  "10031": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhaoyun/skill_ready_self",
+        "speed": 0.8,
+        "posy": 10,
+        "scale": 1.3,
+        "wrap": 2,
+        "pic": "skill_zhaoyun/skill_ready_self_pic"
+      }
+    }
+  ],
+  "10082": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_down",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_down_pic"
+      }
+    }
+  ],
+  "hurmadd": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_attack_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_attack_up_pic"
+      }
+    }
+  ],
+  "10051": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_special_wudi",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_special_wudi_pic"
+      }
+    }
+  ],
+  "40421": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhanghe/skill_huli_xunhuan_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhanghe/skill_huli_xunhuan_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_zhanghe/skill_huli_xunhuan_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhanghe/skill_huli_xunhuan_down_pic"
+      }
+    }
+  ],
+  "xuezhou": [
+    {
+      "down": {
+        "posx": 0,
+        "json": "skill_fengchenxiuji/skill_02_down",
+        "speed": 1,
+        "posy": 0,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_fengchenxiuji/skill_02_down_pic"
+      }
+    }
+  ],
+  "17121": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_liuxiu/skill_01_longzhua_yellow_buff_up",
+        "speed": 1,
+        "posy": 95,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_liuxiu/skill_01_longzhua_yellow_buff_up_pic"
+      }
+    }
+  ],
+  "10036": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "buff_public/buff_def_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "buff_public/buff_def_up_pic"
+      }
+    }
+  ],
+  "10070": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_lejin/shouji_up",
+        "speed": 0.5,
+        "posy": 0,
+        "scale": 0.8,
+        "wrap": 2,
+        "pic": "skill_lejin/shouji_up_pic"
+      }
+    }
+  ],
+  "10035": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_sunce/buff_01_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1.4,
+        "wrap": 2,
+        "pic": "skill_sunce/buff_01_up_pic"
+      },
+      "down": {
+        "posx": 0,
+        "json": "skill_sunce/buff_01_down",
+        "speed": 1.4,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_sunce/buff_01_down_pic"
+      }
+    }
+  ],
+  "10054": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_zhugeliang/buff_xunhuan",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_zhugeliang/buff_xunhuan_pic"
+      }
+    }
+  ],
+  "10034": [
+    {
+      "up": {
+        "posx": 0,
+        "json": "skill_chengyu/buff_up",
+        "speed": 1,
+        "posy": 0,
+        "scale": 1,
+        "wrap": 2,
+        "pic": "skill_chengyu/buff_up_pic"
+      }
+    }
+  ]
+}

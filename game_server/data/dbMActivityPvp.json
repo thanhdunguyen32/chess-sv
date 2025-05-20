@@ -1,0 +1,138 @@
+[
+  {
+    "NUM": 30,
+    "RMARK": 90255,
+    "ITEMS": [
+      {
+        "COUNT": 200,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90254,
+    "NAME": "竞技演武获得30积分",
+    "NAME_VN": "Nhận được 30 điểm Diễn Võ"
+  },
+  {
+    "NUM": 60,
+    "RMARK": 90256,
+    "ITEMS": [
+      {
+        "COUNT": 300,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90254,
+    "NAME": "竞技演武获得60积分",
+    "NAME_VN": "Nhận được 60 điểm Diễn Võ"
+  },
+  {
+    "NUM": 100,
+    "RMARK": 90257,
+    "ITEMS": [
+      {
+        "COUNT": 400,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90254,
+    "NAME": "竞技演武获得100积分",
+    "NAME_VN": "Nhận được 100 điểm Diễn Võ"
+  },
+  {
+    "NUM": 150,
+    "RMARK": 90258,
+    "ITEMS": [
+      {
+        "COUNT": 500,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30009
+      }
+    ],
+    "PROCESS": 90254,
+    "NAME": "竞技演武获得150积分",
+    "NAME_VN": "Nhận được 150 điểm Diễn Võ"
+  },
+  {
+    "NUM": 30,
+    "RMARK": 90337,
+    "ITEMS": [
+      {
+        "COUNT": 300,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30011
+      }
+    ],
+    "PROCESS": 90336,
+    "NAME": "王者试炼获得30积分",
+    "NAME_VN": "Nhận được 30 điểm Vương Giả Thí Luyện"
+  },
+  {
+    "NUM": 60,
+    "RMARK": 90338,
+    "ITEMS": [
+      {
+        "COUNT": 500,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30011
+      }
+    ],
+    "PROCESS": 90336,
+    "NAME": "王者试炼获得60积分",
+    "NAME_VN": "Nhận được 60 điểm Vương Giả Thí Luyện"
+  },
+  {
+    "NUM": 100,
+    "RMARK": 90339,
+    "ITEMS": [
+      {
+        "COUNT": 500,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30011
+      }
+    ],
+    "PROCESS": 90336,
+    "NAME": "王者试炼获得100积分",
+    "NAME_VN": "Nhận được 100 điểm Vương Giả Thí Luyện"
+  },
+  {
+    "NUM": 150,
+    "RMARK": 90340,
+    "ITEMS": [
+      {
+        "COUNT": 700,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1,
+        "GSID": 32101
+      }
+    ],
+    "PROCESS": 90336,
+    "NAME": "王者试炼获得150积分",
+    "NAME_VN": "Nhận được 150 điểm Vương Giả Thí Luyện"
+  }
+]

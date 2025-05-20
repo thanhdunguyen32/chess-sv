@@ -1,0 +1,107 @@
+<style>
+    #febs-tomcat-info table th, #febs-tomcat-info table td {
+        height: 28px;
+        line-height: 28px;
+        padding: 9px 15px;
+        position: relative;
+        box-sizing: border-box;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-tomcat-info" lay-title="Thông tin Tomcat">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <span class="febs-alert-base febs-alert-success">
+                        Thời gian lấy dữ liệu <strong id="time"></strong>
+                        &nbsp;&nbsp;
+                        <a id="refresh">Nhấn để làm mới</a>
+                    </span>
+                    <div class="layui-form layui-border-box layui-table-view" lay-id="tomcat-infoTable">
+                        <div class="layui-table-box">
+                            <table cellspacing="0" cellpadding="0" border="0" class="layui-table" lay-skin="line">
+                                <tr>
+                                    <th>Tham số</th>
+                                    <th>Mô tả</th>
+                                    <th>Giá trị hiện tại</th>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        tomcat.global.sent
+                                    </span>
+                                    </td>
+                                    <td>Số byte đã gửi</td>
+                                    <td data-th-text="${tomcat.tomcatGlobalSent} + ' bytes'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        tomcat.global.request.max
+                                    </span>
+                                    </td>
+                                    <td>Thời gian xử lý request lâu nhất</td>
+                                    <td data-th-text="${tomcat.tomcatGlobalRequestMax} + ' 秒'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-purple">
+                                        tomcat.global.error
+                                    </span>
+                                    </td>
+                                    <td>Số lỗi toàn cục của Tomcat</td>
+                                    <td data-th-text="${#numbers.formatInteger(tomcat.tomcatGlobalError, 0)} + ' 个'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        tomcat.threads.current
+                                    </span>
+                                    </td>
+                                    <td>Số luồng hiện tại của Tomcat (bao gồm luồng daemon)</td>
+                                    <td data-th-text="${#numbers.formatInteger(tomcat.tomcatThreadsCurrent, 0)} + ' 个'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        tomcat.threads.config.max
+                                    </span>
+                                    </td>
+                                    <td>Số luồng tối đa được cấu hình cho Tomcat</td>
+                                    <td data-th-text="${#numbers.formatInteger(tomcat.tomcatThreadsConfigMax, 0)} + ' 个'"></td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                    <span class="layui-badge febs-tag-cyan">
+                                        tomcat.threads.busy
+                                    </span>
+                                    </td>
+                                    <td>Số luồng đang bận của Tomcat</td>
+                                    <td data-th-text="${#numbers.formatInteger(tomcat.tomcatThreadsBusy, 0)} + ' 个'"></td>
+                                </tr>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['jquery', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            util = layui.util,
+            $view = $('#febs-tomcat-info');
+        $view.find('#time').text(util.toDateString(new Date().getTime(), 'yyyy năm MM tháng dd ngày HH giờ mm phút ss giây'));
+
+        $view.find('a#refresh').on('click', function () {
+            var isTab = currentUser.isTab;
+            if (isTab === '1') {
+                febs.view.tab.refresh();
+            } else {
+                window.location.reload();
+            }
+        });
+    });
+</script>

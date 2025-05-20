@@ -1,0 +1,110 @@
+[
+  {
+    "price": 30,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 300
+      },
+      {
+        "GSID": 30006,
+        "COUNT": 5
+      },
+      {
+        "GSID": 30026,
+        "COUNT": 5000
+      }
+    ]
+  },
+  {
+    "price": 68,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 680
+      },
+      {
+        "GSID": 30006,
+        "COUNT": 10
+      },
+      {
+        "GSID": 38006,
+        "COUNT": 20000000
+      }
+    ]
+  },
+  {
+    "price": 198,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 1980
+      },
+      {
+        "GSID": 30006,
+        "COUNT": 15
+      },
+      {
+        "GSID": 30001,
+        "COUNT": 50000000
+      }
+    ]
+  },
+  {
+    "price": 328,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 3280
+      },
+      {
+        "GSID": 30006,
+        "COUNT": 20
+      },
+      {
+        "GSID": 38006,
+        "COUNT": 80000000
+      }
+    ]
+  },
+  {
+    "price": 448,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 4480
+      },
+      {
+        "GSID": 30006,
+        "COUNT": 30
+      },
+      {
+        "GSID": 30026,
+        "COUNT": 20000
+      }
+    ]
+  },
+  {
+    "price": 648,
+    "buytime": 1,
+    "items": [
+      {
+        "GSID": 38005,
+        "COUNT": 6480
+      },
+      {
+        "GSID": 30011,
+        "COUNT": 20
+      },
+      {
+        "GSID": 30031,
+        "COUNT": 1
+      }
+    ]
+  }
+]

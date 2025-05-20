@@ -1,0 +1,97 @@
+{
+  "MAILSINGLE": {
+    "NAME_VN": "Thư Mật",
+    "OPENLV": 30,
+    "NAME": "私聊邮件"
+  },
+  "TOWER": {
+    "NAME_VN": "Tháp Thí Luyện",
+    "OPENLV": 24,
+    "NAME": "试练塔"
+  },
+  "DRAW": {
+    "NAME_VN": "Điểm Tướng Đài",
+    "OPENLV": 25,
+    "NAME": "点将台"
+  },
+  "BIGBATTLE": {
+    "NAME_VN": "Chiến Dịch",
+    "OPENLV": 20,
+    "NAME": "战役"
+  },
+  "GUOZHAN": {
+    "OPENLV": 30,
+    "NAME": "Quốc Chiến",
+    "NAME_VN": "Quốc Chiến"
+  },
+  "ITNMISSION": {
+    "NAME_VN": "Nhiệm Vụ Nội Chính",
+    "OPENLV": 28,
+    "NAME": "内政任务"
+  },
+  "LEGION": {
+    "NAME_VN": "Quân Đoàn",
+    "OPENLV": 18,
+    "NAME": "军团"
+  },
+  "PVP": {
+    "NAME_VN": "Diễn Võ Trường",
+    "OPENLV": 18,
+    "NAME": "演武场"
+  },
+  "LOOKSTAR": {
+    "NAME_VN": "Quan Tinh Thường",
+    "OPENLV": 14,
+    "NAME": "普通观星"
+  },
+  "MINE": {
+    "OPENLV": 20,
+    "NAME": "Quáng Trường",
+    "NAME_VN": "Quáng Trường"
+  },
+  "TEAMPVP": {
+    "NAME_VN": "Đấu Trường Tổ Đội",
+    "OPENLV": 55,
+    "NAME": "组队竞技场"
+  },
+  "KINGPVP": {
+    "NAME_VN": "Vương giả Thí Luyện",
+    "OPENLV": 55,
+    "NAME": "王者试炼"
+  },
+  "CROSSSERVICE": {
+    "NAME_VN": "Liên Máy Chủ",
+    "OPENLV": 18,
+    "NAME": "跨服"
+  },
+  "DUNGEON": {
+    "NAME_VN": "Nhất Kỵ Đương Thiên",
+    "OPENLV": 72,
+    "NAME": "一骑当千"
+  },
+  "EXPEDITION": {
+    "NAME_VN": "Viễn Chinh",
+    "OPENLV": 40,
+    "NAME": "远征"
+  },
+  "FRIENDEXPLORE": {
+    "NAME_VN": "Bạn Bè Thăm Dò",
+    "OPENLV": 36,
+    "NAME": "好友探索"
+  },
+  "LOOKSTARPREMIUM": {
+    "NAME_VN": "Quan Tinh Cao Cấp",
+    "OPENLV": 50,
+    "NAME": "高级观星"
+  },
+  "MULTIPVP": {
+    "NAME_VN": "Đa Đội Diễn Võ",
+    "OPENLV": 60,
+    "NAME": "多队演武"
+  },
+  "MYTHICAL": {
+    "NAME_VN": "Thần Thú",
+    "OPENLV": 70,
+    "NAME": "神兽"
+  }
+}

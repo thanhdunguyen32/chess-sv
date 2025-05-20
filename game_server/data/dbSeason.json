@@ -1,0 +1,58 @@
+[
+  {
+    "ADDNUM2": 40,
+    "ADDSTR1": "Gia tăng sản lượng vàng quân đoàn và cống hiến +n% (không ảnh hưởng đến phần thưởng tiêu diệt của quân đoàn)",
+    "ADDNUM1": 50,
+    "DESCRIBLE": "Vạn Vật Sinh Trưởng",
+    "BF2": 80,
+    "NAME": "春之滋养",
+    "NAME_VN": "Xuân-Tư Dưỡng",
+    "BF1": 40,
+    "BFICON": 1001,
+    "ADDSTR2": "Võ tướng đứng ở vị trí chỉ định khi bắt đầu trận chiến sẽ nhận được 40 điểm năng lượng ban đầu.",
+    "BFNAME": "Thủy-Tư Dưỡng",
+    "ICON": 101
+  },
+  {
+    "ADDNUM2": 30,
+    "ADDSTR1": "Gia tăng phần thưởng nhiệm vụ hàng ngày n%",
+    "ADDNUM1": 50,
+    "DESCRIBLE": "Sức Sống Tràn Đày",
+    "BF2": 80,
+    "NAME": "夏之炎热",
+    "NAME_VN": "Hạ-Viêm Nhiệt",
+    "BF1": 40,
+    "BFICON": 1002,
+    "ADDSTR2": "Võ tướng đứng ở vị trí chỉ định khi bắt đầu trận chiến sẽ được tăng Tốc Đánh 30% trong suốt trận đấu",
+    "BFNAME": "Hỏa-Lực Lượng",
+    "ICON": 102
+  },
+  {
+    "ADDNUM2": 30,
+    "ADDSTR1": "Gia tăng sản lượng vàng treo máy và kinh nghiệm võ tướng n%",
+    "ADDNUM1": 50,
+    "DESCRIBLE": "Vụ mùa vàng óng, tràn đầy",
+    "BF2": 80,
+    "NAME": "秋之萧瑟",
+    "NAME_VN": "Thu-Hiu Quạnh",
+    "BF1": 40,
+    "BFICON": 1003,
+    "ADDSTR2": "Võ tướng đứng ở vị trí chỉ định khi bắt đầu trận chiến sẽ nhận được một lá chắn tương đương 30% HP, kéo dài trong 15 giây",
+    "BFNAME": "Địa-Hơi Thở",
+    "ICON": 103
+  },
+  {
+    "ADDNUM2": "15|15",
+    "ADDSTR1": "Gia tăng lượng vàng nhận được từ Điểm Kim n%",
+    "ADDNUM1": 50,
+    "DESCRIBLE": "Đông giá đã đến, tuyết trắng phủ đầy",
+    "BF2": 80,
+    "NAME": "冬之寒霜",
+    "NAME_VN": "Đông-Hàn Sương",
+    "BF1": 40,
+    "BFICON": 1004,
+    "ADDSTR2": "Võ tướng đứng ở vị trí chỉ định khi bắt đầu trận chiến sẽ nhận được thêm 15% né tránh và 15% kháng trạng thái trong suốt trận đấu",
+    "BFNAME": "Phong-Cuồng Dũng",
+    "ICON": 104
+  }
+]

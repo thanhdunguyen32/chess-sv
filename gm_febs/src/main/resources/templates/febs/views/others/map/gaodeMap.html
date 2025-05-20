@@ -1,0 +1,36 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-map-demo" lay-title="Bản đồ Gaode">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div style="padding: .1rem;">
+                <div id="container" class="map"></div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="javascript" type="text/javascript">
+    layui.use(['jquery', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            $view = $('#febs-map-demo');
+
+        $view.find('#container').css({"height": document.documentElement.clientHeight - 97 + 'px'});
+
+        var map = new AMap.Map("container", {
+            resizeEnable: true,
+            zoom: 14 //Mức độ zoom ban đầu của bản đồ
+        });
+
+        function currentLocationInfo() {
+            map.getCity(function (info) {
+                febs.alert.success('Vị trí hiện tại: ' + info.province + ', ' + info.city + ', ' + info.district + ', Mã vùng: ' + info.citycode);
+            });
+        }
+
+        currentLocationInfo();
+
+        //Đăng ký sự kiện click cho bản đồ để lấy tọa độ kinh độ và vĩ độ tại điểm click chuột
+        map.on('click', function (e) {
+            febs.alert.success('Kinh độ: ' + e.lnglat.getLng() + ', Vĩ độ: ' + e.lnglat.getLat());
+        });
+    });
+</script>

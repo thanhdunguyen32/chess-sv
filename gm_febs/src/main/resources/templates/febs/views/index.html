@@ -1,0 +1,224 @@
+<style>
+
+    .label-info,
+    .badge-info {
+        background-color: #ff4200;
+        color: #fff;
+        border: 1px solid #ff4200;
+        padding: 3px;
+        text-shadow: none;
+        border-radius: .25em;
+    }
+    #febs-index .welcome-info {
+        border: 1px solid #f1f1f1;
+        margin-bottom: .5rem;
+        padding: .2rem;
+    }
+
+    #febs-index .welcome-info-wrapper {
+        display: inline-block
+    }
+
+    #febs-index .welcome-info-wrapper .user-header {
+        display: inline-block;
+        vertical-align: middle
+    }
+
+    #febs-index .welcome-info-wrapper .user-header img {
+        width: 5rem;
+        margin: .5rem 1rem;
+        border-radius: 50%
+    }
+
+    #febs-index .welcome-info-wrapper .user-info {
+        display: inline-block;
+        vertical-align: middle
+    }
+
+    #febs-index .welcome-info-wrapper .user-info .random-message {
+        font-size: 1rem;
+        margin-bottom: .2rem;
+        max-width: 21rem
+    }
+
+    #febs-index .welcome-info-wrapper .user-info .user-dept, #febs-index .welcome-info-wrapper .user-info .user-login-info {
+        color: rgba(0, 0, 0, 0.45);
+    }
+
+    #febs-index .login-count-table {
+        width: 96%;
+        margin: .5rem;
+    }
+
+    .td-center{
+        text-align:center;
+        vertical-align:middle;
+    }
+
+    #febs-index .login-count-table .count {
+        padding-top: .4rem;
+        padding-bottom: .4rem;
+        font-size: 1rem;
+        font-weight: 600;
+        color: #1890ff;
+    }
+
+    .login-count-table td{
+        border:1px solid #f1f1f1;
+        display:table-cell;
+        vertical-align:middle
+    }
+
+    table{
+        border-collapse:collapse;
+    }
+
+    #febs-index .project-table {
+        padding: .5rem;
+        border: 1px solid #f1f1f1;
+        width: 100%
+    }
+
+    #febs-index .project-table-td {
+        padding: .5rem 0.7rem;
+        border: 1px solid #f1f1f1;
+    }
+
+    #febs-index .project-table-td a {
+        color: #42b983;
+        font-size: .9rem;
+        font-weight: 600;
+    }
+
+    #febs-index .project-desc {
+        color: rgba(0, 0, 0, 0.45);
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim-up" id="febs-index" lay-title="Trang chủ hệ thống">
+    <div class="layui-row layui-col-space8 febs-container">
+        <div class="layui-col-md12 layui-col-sm12 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-body layui-anim layui-anim-fadein">
+                    <div class="layui-row welcome-info">
+                        <div class="layui-col-md3 layui-col-sm12 layui-col-xs12">
+                            <div class="layui-row welcome-info-wrapper">
+                                <div class="user-header">
+                                    <img alt="Hình đại diện" id="user-avatar" data-th-src="@{febs/images/avatar/empty.jpg}">
+                                </div>
+                                <div class="user-info">
+                                    <div class="layui-row">
+                                        <div class="random-message">
+                                            <span id="welcome-message"></span>
+                                        </div>
+                                        <div class="user-dept">
+                                            <span id="user-dept"></span> | <span id="user-role"></span>
+                                        </div>
+                                        <div class="user-login-info">
+                                            Thời gian làm mới lần cuối:<br/><span id="last-login-time">2019-05-23 18:45:12</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div  class="user-info">
+                                    <button type="button" class="layui-btn" id="refresh_page">Làm mới lại</button>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="layui-col-md4 layui-col-sm12 layui-col-xs12">
+                            <div>
+                                <table class="login-count-table">
+                                    <tr>
+                                        <td style="font-weight:bold;" class="td-center">Trực tuyến cùng một lúc</td>
+                                        <td style="font-weight:bold;" class="td-center">Mới</td>
+                                        <td style="font-weight:bold;" class="td-center">Tích cực</td>
+                                        <td style="font-weight:bold;" class="td-center">Đã lưu từ hôm qua</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="count td-center" id="online_count">
+
+                                        </td>
+                                        <td class="count td-center" id="new_player">
+
+                                        </td>
+                                        <td class="count td-center" id="active_player">
+                                            
+                                        </td>
+                                        <td class="count td-center" id="yesterday_retain">
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                            <div>
+                                <table class="login-count-table">
+                                    <tr>
+                                        <td style="font-weight:bold;" class="td-center">Số tiền thanh toán</td>
+                                        <td style="font-weight:bold;" class="td-center">Số người trả tiền</td>
+                                        <td style="font-weight:bold;" class="td-center">Thêm người trả tiền mới</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="count td-center">
+                                            <span class="label-info" id="pay_val"></span>
+                                        </td>
+                                        <td class="count td-center" id="pay_count">
+
+                                        </td>
+                                        <td class="count td-center" id="today_new_payers">
+
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="javascript" type="text/javascript">
+    layui.use(['apexcharts', 'febs', 'jquery', 'util', 'form'], function () {
+        var $ = layui.jquery,
+            util = layui.util,
+            $view = $('#febs-index'),
+            febs = layui.febs,
+            form = layui.form;
+
+         form.render(null, 'febs-form-elements');
+
+        febs.get(ctx + 'index/' + currentUser.username, null, function (r) {
+            handleSuccess(r.data);
+        });
+
+        function handleSuccess(data) {
+            var hour = new Date().getHours();
+            var time = hour < 6 ? 'Chào buổi sáng' : (hour <= 11 ? '上午好' : (hour <= 13 ? 'Chào buổi chiều' : (hour <= 18 ? 'Chào buổi chiều' : 'Buổi tối vui vẻ')));
+            var welcomeMessage = time + '，<a id="febs-index-user">' + currentUser.username + '</a>';
+            $view.find('#online_count').text(data.online_count).end()
+                .find('#new_player').text(data.new_player).end()
+                .find('#active_player').text(data.active_player).end()
+                .find('#today_new_payers').text(data.today_new_payers).end()
+                .find('#pay_count').text(data.pay_count).end()
+                .find('#pay_val').text(data.pay_val).end()
+                .find('#yesterday_retain').text(data.yesterday_retain.toFixed(2)+"%").end()
+                .find('#user-dept').text(currentUser.deptName ? currentUser.deptName : 'Chưa có khoa nào').end()
+                .find('#user-role').text(currentUser.roleName ? currentUser.roleName : 'Chưa có vai trò nào').end()
+                .find('#last-login-time').text(data.last_refresh_time).end()
+                .find('#welcome-message').html(welcomeMessage).end()
+                .find('#user-avatar').attr('src', ctx + "febs/images/avatar/" + currentUser.avatar);
+        }
+
+        $view.on('click', '#febs-index-user',function () {
+            febs.navigate("/user/profile");
+        });
+
+        $view.on('click', '#refresh_page',function () {
+            //febs.navigate("/index?time="+(new Date().getTime()));
+            //console.log("refresh_page");
+            febs.get(ctx + 'index/' + currentUser.username, {}, function (r) {
+                febs.alert.success('Làm mới thành công!');
+                handleSuccess(r.data);
+            });
+        });
+
+    });
+</script>

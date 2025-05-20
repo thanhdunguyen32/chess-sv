@@ -1,0 +1,1631 @@
+file {
+  name: "Http.proto"
+  dependency: "Base.proto"
+  dependency: "Common.proto"
+  dependency: "Serialize.proto"
+  message_type {
+    name: "RegisterRq"
+    field {
+      name: "serverId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "serverName"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 101
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RegisterRq"
+    }
+  }
+  message_type {
+    name: "RegisterRs"
+    field {
+      name: "state"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 102
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RegisterRs"
+    }
+  }
+  message_type {
+    name: "DoLoginRq"
+    field {
+      name: "sid"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "baseVersion"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "version"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "deviceNo"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "plat"
+      number: 5
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 103
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoLoginRq"
+    }
+  }
+  message_type {
+    name: "DoLoginRs"
+    field {
+      name: "keyId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "token"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "active"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "recent"
+      number: 4
+      label: LABEL_REPEATED
+      type: TYPE_INT32
+    }
+    field {
+      name: "sis"
+      number: 5
+      label: LABEL_REPEATED
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfo"
+    }
+    field {
+      name: "white"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "phone"
+      number: 7
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 104
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoLoginRs"
+    }
+  }
+  message_type {
+    name: "VerifyRq"
+    field {
+      name: "keyId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "serverId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "token"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "curVersion"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "deviceNo"
+      number: 5
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "channelId"
+      number: 6
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 105
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".VerifyRq"
+    }
+  }
+  message_type {
+    name: "VerifyRs"
+    field {
+      name: "keyId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "platId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "platNo"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "childNo"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "curVersion"
+      number: 5
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "deviceNo"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "serverId"
+      number: 7
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "channelId"
+      number: 8
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 106
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".VerifyRs"
+    }
+  }
+  message_type {
+    name: "DoRegisterRq"
+    field {
+      name: "accountId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "passwd"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "version"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "deviceNo"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "baseVersion"
+      number: 5
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "plat"
+      number: 6
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 107
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoRegisterRq"
+    }
+  }
+  message_type {
+    name: "DoRegisterRs"
+    field {
+      name: "keyId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "token"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "active"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "sis"
+      number: 4
+      label: LABEL_REPEATED
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfo"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 108
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoRegisterRs"
+    }
+  }
+  message_type {
+    name: "DoActiveRq"
+    field {
+      name: "keyId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "activeCode"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 109
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoActiveRq"
+    }
+  }
+  message_type {
+    name: "DoActiveRs"
+    field {
+      name: "state"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 110
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".DoActiveRs"
+    }
+  }
+  message_type {
+    name: "UseGiftCodeRq"
+    field {
+      name: "code"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "serverId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "lordId"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "platNo"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 111
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".UseGiftCodeRq"
+    }
+  }
+  message_type {
+    name: "UseGiftCodeRs"
+    field {
+      name: "award"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "serverId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "lordId"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "state"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 112
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".UseGiftCodeRs"
+    }
+  }
+  message_type {
+    name: "PayApplyRq"
+    field {
+      name: "serverId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "roleId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "amount"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "payType"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "platName"
+      number: 5
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "accountKey"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 113
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayApplyRq"
+    }
+  }
+  message_type {
+    name: "PayApplyRs"
+    field {
+      name: "serialId"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "roleId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "payType"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "platName"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 114
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayApplyRs"
+    }
+  }
+  message_type {
+    name: "PayBackRq"
+    field {
+      name: "platNo"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "platId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "orderId"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "serialId"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "serverId"
+      number: 5
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "roleId"
+      number: 6
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "amount"
+      number: 7
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "packId"
+      number: 8
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "payType"
+      number: 9
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 115
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayBackRq"
+    }
+  }
+  message_type {
+    name: "PayBackRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 116
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayBackRs"
+    }
+  }
+  message_type {
+    name: "PayConfirmRq"
+    field {
+      name: "platNo"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "orderId"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "addGold"
+      number: 3
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "accountKey"
+      number: 4
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 117
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayConfirmRq"
+    }
+  }
+  message_type {
+    name: "PayConfirmRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 118
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PayConfirmRs"
+    }
+  }
+  message_type {
+    name: "SendToMailRq"
+    field {
+      name: "type"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "channelNo"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "online"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "to"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "sendName"
+      number: 5
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "moldId"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "title"
+      number: 7
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "contont"
+      number: 8
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "award"
+      number: 9
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "marking"
+      number: 10
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "alv"
+      number: 11
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "blv"
+      number: 12
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "avip"
+      number: 13
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "bvip"
+      number: 14
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "partys"
+      number: 15
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 119
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendToMailRq"
+    }
+  }
+  message_type {
+    name: "SendToMailRs"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "code"
+      number: 2
+      label: LABEL_REPEATED
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 120
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendToMailRs"
+    }
+  }
+  message_type {
+    name: "ForbiddenRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "forbiddenId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "nick"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "time"
+      number: 5
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 121
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ForbiddenRq"
+    }
+  }
+  message_type {
+    name: "ForbiddenRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 122
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ForbiddenRs"
+    }
+  }
+  message_type {
+    name: "NoticeRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "content"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 123
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".NoticeRq"
+    }
+  }
+  message_type {
+    name: "NoticeRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 124
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".NoticeRs"
+    }
+  }
+  message_type {
+    name: "GmRq"
+    field {
+      name: "type"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "channelNo"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "online"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "msg"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 125
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".GmRq"
+    }
+  }
+  message_type {
+    name: "GmRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 126
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".GmRs"
+    }
+  }
+  message_type {
+    name: "ReloadParamRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "type"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 127
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ReloadParamRq"
+    }
+  }
+  message_type {
+    name: "ReloadParamRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 128
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ReloadParamRs"
+    }
+  }
+  message_type {
+    name: "SendRoleInfosRq"
+    field {
+      name: "accountKey"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "roleId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "serverId"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "level"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "role_name"
+      number: 5
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "server_name"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 129
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendRoleInfosRq"
+    }
+  }
+  message_type {
+    name: "SendRoleInfosRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 130
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendRoleInfosRs"
+    }
+  }
+  message_type {
+    name: "SendAccountRoleRq"
+    field {
+      name: "ars"
+      number: 1
+      label: LABEL_REPEATED
+      type: TYPE_MESSAGE
+      type_name: ".AccountRoleInfo"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 131
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendAccountRoleRq"
+    }
+  }
+  message_type {
+    name: "SendAccountRoleRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 132
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".SendAccountRoleRs"
+    }
+  }
+  message_type {
+    name: "ServerInfoRq"
+    field {
+      name: "server_id"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT32
+    }
+    field {
+      name: "accountKey"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "plat"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 133
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfoRq"
+    }
+  }
+  message_type {
+    name: "ServerInfoRs"
+    field {
+      name: "sis"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfo"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 134
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfoRs"
+    }
+  }
+  message_type {
+    name: "ServerListRq"
+    field {
+      name: "accountKey"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_INT64
+    }
+    field {
+      name: "plat"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 135
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ServerListRq"
+    }
+  }
+  message_type {
+    name: "ServerListRs"
+    field {
+      name: "sis"
+      number: 1
+      label: LABEL_REPEATED
+      type: TYPE_MESSAGE
+      type_name: ".ServerInfo"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 136
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ServerListRs"
+    }
+  }
+  message_type {
+    name: "CheckVersionRq"
+    field {
+      name: "name"
+      number: 1
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    field {
+      name: "version"
+      number: 2
+      label: LABEL_REQUIRED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 137
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".CheckVersionRq"
+    }
+  }
+  message_type {
+    name: "CheckVersionRs"
+    field {
+      name: "exist"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_BOOL
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 138
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".CheckVersionRs"
+    }
+  }
+  message_type {
+    name: "GetLordBaseRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "param"
+      number: 4
+      label: LABEL_REPEATED
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1017
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".GetLordBaseRq"
+    }
+  }
+  message_type {
+    name: "GetLordBaseRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1018
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".GetLordBaseRs"
+    }
+  }
+  message_type {
+    name: "BackLordBaseRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "code"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "playInfo"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".PlayerInfo"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1019
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".BackLordBaseRq"
+    }
+  }
+  message_type {
+    name: "BackLordBaseRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1020
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".BackLordBaseRs"
+    }
+  }
+  message_type {
+    name: "ModVipRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "value"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1025
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModVipRq"
+    }
+  }
+  message_type {
+    name: "ModVipRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1026
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModVipRs"
+    }
+  }
+  message_type {
+    name: "RecalcResourceRq"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1027
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RecalcResourceRq"
+    }
+  }
+  message_type {
+    name: "RecalcResourceRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1028
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RecalcResourceRs"
+    }
+  }
+  message_type {
+    name: "ModLordRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "keyId"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "value"
+      number: 5
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "value2"
+      number: 6
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1033
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModLordRq"
+    }
+  }
+  message_type {
+    name: "ModLordRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1034
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModLordRs"
+    }
+  }
+  message_type {
+    name: "ModPropRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "props"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1065
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModPropRq"
+    }
+  }
+  message_type {
+    name: "ModPropRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1066
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModPropRs"
+    }
+  }
+  message_type {
+    name: "ModNameRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "lordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "content"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "type"
+      number: 4
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1067
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModNameRq"
+    }
+  }
+  message_type {
+    name: "ModNameRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1068
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ModNameRs"
+    }
+  }
+  message_type {
+    name: "ChangePlatNoRq"
+    field {
+      name: "srcLordId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    field {
+      name: "destLordId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT64
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1071
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ChangePlatNoRq"
+    }
+  }
+  message_type {
+    name: "ChangePlatNoRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1072
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".ChangePlatNoRs"
+    }
+  }
+  message_type {
+    name: "RobotsExternalBehaviorRq"
+    field {
+      name: "serverId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "robotCount"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    field {
+      name: "type"
+      number: 3
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1073
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RobotsExternalBehaviorRq"
+    }
+  }
+  message_type {
+    name: "RobotsExternalBehaviorRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1074
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RobotsExternalBehaviorRs"
+    }
+  }
+  message_type {
+    name: "RobotsCountByAreaRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "areaId"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1075
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RobotsCountByAreaRq"
+    }
+  }
+  message_type {
+    name: "BackRobotsDataRq"
+    field {
+      name: "marking"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_STRING
+    }
+    field {
+      name: "robotData"
+      number: 2
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".RobotDataRs"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1076
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".BackRobotsDataRq"
+    }
+  }
+  message_type {
+    name: "BackRobotsDataRs"
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1077
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".BackRobotsDataRs"
+    }
+  }
+  message_type {
+    name: "HorseRaceLampRq"
+    field {
+      name: "serverId"
+      number: 1
+      label: LABEL_OPTIONAL
+      type: TYPE_INT32
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1078
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".HorseRaceLampRq"
+    }
+  }
+  message_type {
+    name: "HorseRaceLampRs"
+    field {
+      name: "infos"
+      number: 1
+      label: LABEL_REPEATED
+      type: TYPE_MESSAGE
+      type_name: ".HorseRaceLampMsg"
+    }
+    extension {
+      name: "ext"
+      extendee: ".Base"
+      number: 1079
+      label: LABEL_OPTIONAL
+      type: TYPE_MESSAGE
+      type_name: ".HorseRaceLampRs"
+    }
+  }
+  options {
+    java_package: "com.hundredcent.game.mw.pb"
+    java_outer_classname: "HttpPb"
+  }
+}

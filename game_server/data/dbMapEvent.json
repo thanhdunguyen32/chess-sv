@@ -1,0 +1,3596 @@
+{
+  "EVENT": {
+    "1": {
+      "122012": {
+        "items": [
+          {
+            "gsid": 22201,
+            "count": 4
+          },
+          {
+            "gsid": 36023,
+            "count": 4
+          }
+        ],
+        "id": 122012,
+        "intro": "Ngụy Diên đang biểu diễn võ nghệ gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngụy Diên nhận được phần thưởng của ngươi, biểu diễn càng thêm hăng hái.",
+            "Ngụy Diên tức giận, giết chết hai vệ sĩ của ngươi rồi trốn chạy."
+          ],
+          "opt": [
+            "Thưởng bạc mười lượng.",
+            "Xua đuổi Ngụy Diên."
+          ],
+          "text": "Tại hạ đi qua quý địa, do thiếu lộ phí nên đành mãi võ. Mong chư vị có tiền thì giúp đỡ, không tiền thì cổ vũ tinh thần!"
+        },
+        "lv": 2,
+        "icon": 12201
+      },
+      "142012": {
+        "items": [
+          {
+            "gsid": 24201,
+            "count": 4
+          },
+          {
+            "gsid": 36024,
+            "count": 4
+          }
+        ],
+        "id": 142012,
+        "intro": "Hoàng Cái đến đầu quân, chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Ngươi chiêu mộ được một vị đại tướng.",
+            "Ngươi ra lệnh đuổi Hoàng Cái đi."
+          ],
+          "opt": [
+            "Thu nhận Hoàng Cái.",
+            "Xua đuổi Hoàng Cái."
+          ],
+          "text": "Ta họ Hoàng, tên Cái, tự Công Phụ, người Quế Lăng, Linh Lăng. Nghe danh tướng quân đã lâu, hôm nay nghe nói tướng quân ở đây nên đến đầu quân!"
+        },
+        "lv": 2,
+        "icon": 14201
+      },
+      "170411": {
+        "items": [
+          {
+            "gsid": 27041,
+            "count": 2
+          },
+          {
+            "gsid": 36006,
+            "count": 2
+          }
+        ],
+        "id": 170411,
+        "intro": "Hàn Tín đã sai người mời chủ công. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi tặng ngựa của mình cho Hàn Tín, khiến ông vô cùng vui sướng.",
+            "Hàn Tín mua ngựa của ngươi với giá ngàn vàng."
+          ],
+          "opt": [
+            "Ngựa quý tặng anh hùng.",
+            "Con ngựa này đáng giá ngàn vàng."
+          ],
+          "text": "Nghe nói tiên sinh sở hữu một con ngựa Huyết Hãn, có thể mỗi ngày đi ngàn dặm. Không biết có thể nhường lại cho ta không?"
+        },
+        "lv": 3,
+        "icon": 17041
+      },
+      "170812": {
+        "items": [
+          {
+            "gsid": 27081,
+            "count": 4
+          },
+          {
+            "gsid": 36026,
+            "count": 4
+          }
+        ],
+        "id": 170812,
+        "intro": "Nghe đồn Tư Mã Viêm vừa nhận được thanh danh kiếm Thanh Công, đang mời bạn bè đến thưởng kiếm. Chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Tư Mã Viêm rất yêu thích thanh kiếm, không muốn bán nhưng thay vào đó đã tặng ngươi một số lễ vật.",
+            "Ngươi nhân lúc không ai chú ý, cướp thanh kiếm Thanh Ngang và bỏ trốn."
+          ],
+          "opt": [
+            "Trọng thưởng để mua kiếm.",
+            "Cướp lấy bảo kiếm."
+          ],
+          "text": "Ta tình cờ có được bảo kiếm này, vui mừng khôn xiết nên đặc biệt mời chư vị đến cùng chia vui!"
+        },
+        "lv": 2,
+        "icon": 17081
+      },
+      "140611": {
+        "items": [
+          {
+            "gsid": 24061,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 140611,
+        "intro": "Thái Sử Từ đang luyện bắn cung gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Thái Sử Từ nghiêm túc truyền thụ cho ngươi một số kinh nghiệm.",
+            "Ngươi nhấc cung bắn nhưng không trúng đích."
+          ],
+          "opt": [
+            "Không thể sánh với tướng quân, ta muốn được học hỏi thêm.",
+            "Đang muốn cùng tướng quân tỉ thí một phen."
+          ],
+          "text": "Nghe danh tiên sinh đã lâu, không biết tài cưỡi ngựa bắn cung của tiên sinh ra sao?"
+        },
+        "lv": 3,
+        "icon": 14061
+      },
+      "102012": {
+        "items": [
+          {
+            "gsid": 20201,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 102012,
+        "intro": "Nghe nói Điển Vi, người được mệnh danh là Cổ chi Ác Lai, đã xuất hiện gần %s, chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Ngươi và Điển Vi không đánh không quen, cuối cùng trở thành bạn thân.",
+            "Điển Vi nổi giận, vung lá cờ lớn đánh ngươi trọng thương."
+          ],
+          "opt": [
+            "Nghe danh Ác Lai đã lâu, muốn cùng ngươi luận bàn một trận.",
+            "Nghe nói ngươi có thể nâng cờ bằng một tay, ta muốn xem có phải khoác lác không."
+          ],
+          "text": "Vị tráng sĩ này tìm ta có việc gì?"
+        },
+        "lv": 2,
+        "icon": 10201
+      },
+      "160611": {
+        "items": [
+          {
+            "gsid": 26061,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 160611,
+        "intro": "Bẩm chủ công, đô đốc dưới trướng Đổng Trác cầu kiến. Chủ công có muốn tiếp?",
+        "talk": {
+          "to": [
+            "Ngươi nhiệt tình tiếp đãi Hoa Hùng một cách trọng thị.",
+            "Ngươi đuổi Hoa Hùng ra ngoài."
+          ],
+          "opt": [
+            "Ta cũng ngưỡng mộ Thái Sư từ lâu.",
+            "Ta sao có thể liên minh với tên giặc Đổng Trác!"
+          ],
+          "text": "Mạt tướng tham kiến Đại Vương! Thái sư nhà ta ngưỡng mộ Đại Vương đã lâu. Lần này đặc biệt phái ta đến đây để nghị hòa và cùng liên thủ!"
+        },
+        "lv": 3,
+        "icon": 16061
+      },
+      "141011": {
+        "items": [
+          {
+            "gsid": 24101,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 141011,
+        "intro": "Bẩm chủ công, Chu Công Cẩn đến cầu kiến. Chủ công có muốn tiếp?",
+        "talk": {
+          "to": [
+            "Ngươi và Chu Du cùng ngắm xuân và bàn luận, vô cùng thanh nhã.",
+            "Chu Du thất vọng và quay về."
+          ],
+          "opt": [
+            "Nhận lời mời, lên đường ngay.",
+            "Từ chối lời mời."
+          ],
+          "text": "Dạo này trời ấm áp, xuân sắc dạt dào, Công Cẩn biết một nơi cảnh sắc tuyệt đẹp, đặc biệt đến mời tiên sinh cùng thưởng ngoạn."
+        },
+        "lv": 3,
+        "icon": 14101
+      },
+      "141211": {
+        "items": [
+          {
+            "gsid": 24121,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 141211,
+        "intro": "Đại đô đốc Lục Bá Ngôn đang câu cá bên sông. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Lục Tốn đặt cần câu xuống và trò chuyện vui vẻ với ngươi.",
+            "Lục Tốn không hài lòng vì bị làm phiền khi đang câu cá, từ chối trò chuyện với ngươi."
+          ],
+          "opt": [
+            "Ta đã ngưỡng mộ Đô Đốc từ lâu, đặc biệt đến để bái kiến.",
+            "Nhàn rỗi không việc, biết Đô Đốc ở đây nên đến đàm đạo."
+          ],
+          "text": "Tiên sinh tìm ta có việc gì?"
+        },
+        "lv": 3,
+        "icon": 14121
+      },
+      "100611": {
+        "items": [
+          {
+            "gsid": 20061,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 100611,
+        "intro": "Bẩm chủ công, thám báo phát hiện một người trọng thương, dường như là Đại tướng quân Hạ Hầu Đôn. Liệu có nên cứu giúp?",
+        "talk": {
+          "to": [
+            "Hạ Hầu Đôn cảm động bởi tấm lòng của ngươi, tự nguyện đi theo ngươi.",
+            "Hạ Hầu Đôn đồng ý giúp đỡ, sau đó rời đi."
+          ],
+          "opt": [
+            "Chuyện nhỏ, không cần để tâm.",
+            "Ta đúng lúc có việc cần ngươi giúp."
+          ],
+          "text": "Đa tạ tiên sinh đã cứu mạng. Nếu tiên sinh có việc cần sai bảo, Nguyên Nhượng nguyện chết vạn lần cũng không từ!"
+        },
+        "lv": 3,
+        "icon": 10061
+      },
+      "102212": {
+        "items": [
+          {
+            "gsid": 20221,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 102212,
+        "intro": "Nghe nói Bàng Đức đang tìm mua một thanh đao hợp tay, mà chủ công lại có một thanh bảo đao. Có muốn đến gặp không?",
+        "talk": {
+          "to": [
+            "Ngươi tặng bảo đao cho Bàng Đức và trở thành bạn tốt của ông.",
+            "Ngươi bán thanh đao cho Bàng Đức với giá cao và kiếm được một khoản lớn."
+          ],
+          "opt": [
+            "Bảo đao tặng anh hùng.",
+            "Bán với giá cao."
+          ],
+          "text": "Thanh đao của tiên sinh thật hợp ý ta. Không biết có thể nhường lại cho ta không? Bạc không thành vấn đề!"
+        },
+        "lv": 2,
+        "icon": 10221
+      },
+      "120411": {
+        "items": [
+          {
+            "gsid": 22041,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 120411,
+        "intro": "Nghe nói Quan Vũ bị trúng tên độc gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi đã thành công trừ độc trong cơ thể Quan Vũ.",
+            "Thuốc phát huy tác dụng quá chậm, Quan Vũ không may trúng độc mà mất mạng."
+          ],
+          "opt": [
+            "Cạo xương trị độc.",
+            "Sắc thuốc giải độc."
+          ],
+          "text": "Ta không may trúng tên độc của kẻ thù, không biết tiên sinh có cách nào cứu giúp?"
+        },
+        "lv": 3,
+        "icon": 12041
+      },
+      "161411": {
+        "items": [
+          {
+            "gsid": 26141,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 161411,
+        "intro": "Gần %s có một thư sinh đang tìm chủ công. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi nhận được sự trung thành của Trần Cung.",
+            "Ngươi đặt ra hàng trăm câu hỏi, Trần Cung chỉ giải được một nửa, đành cáo từ."
+          ],
+          "opt": [
+            "Hoan hỉ tiếp nhận.",
+            "Thử tài học vấn của hắn."
+          ],
+          "text": "Học trò họ Trần, tên Cung, tự Công Đài. Hâm mộ Đại Vương đã lâu, nay đến đầu quân, nguyện hiến kế vì Đại Vương!"
+        },
+        "lv": 3,
+        "icon": 16141
+      },
+      "103012": {
+        "items": [
+          {
+            "gsid": 20301,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 103012,
+        "intro": "Nghe đồn Chân Mật nhan sắc phi phàm, cao quý không ai sánh bằng. Nếu có thể cưới nàng làm vợ, tất sẽ thành giai thoại! Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi theo đuổi Chân Mật nhiệt tình và cuối cùng cưới được mỹ nhân.",
+            "Chân Mật hoảng sợ, gọi gia đinh đến đánh ngươi một trận tơi tả."
+          ],
+          "opt": [
+            "Theo đuổi Chân Mật.",
+            "Trêu ghẹo Chân Mật."
+          ],
+          "text": "Tiểu nữ và công tử vốn không quen biết, không biết công tử vượt ngàn dặm đến gặp là vì chuyện gì?"
+        },
+        "lv": 2,
+        "icon": 10301
+      },
+      "120611": {
+        "items": [
+          {
+            "gsid": 22061,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 120611,
+        "intro": "Trường Sơn Triệu Tử Long đang truy đuổi kẻ cướp, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi và Triệu Vân hợp sức tiêu diệt toàn bộ bọn cướp.",
+            "Triệu Vân ra tay tấn công và đánh ngươi trọng thương."
+          ],
+          "opt": [
+            "Hỗ trợ giết giặc.",
+            "Khuyên hắn dừng tay."
+          ],
+          "text": "Tiên sinh chặn đường ta có ý gì?"
+        },
+        "lv": 3,
+        "icon": 12061
+      },
+      "121011": {
+        "items": [
+          {
+            "gsid": 22101,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 121011,
+        "intro": "Nghe nói Hoàng Trung đại tướng quân thiện xạ vô song, nếu được chỉ dạy sẽ thu được nhiều lợi ích! Chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Ngươi kéo cung đến mức căng tròn như trăng rằm, được Hoàng Trung công nhận.",
+            "Ngươi không kéo nổi cây cung, bị Hoàng Trung châm chọc và đuổi đi."
+          ],
+          "opt": [
+            "Chọn một cung đá.",
+            "Chọn cung ba tảng đá."
+          ],
+          "text": "Ta có thể chỉ điểm cho ngươi về cung thuật, nhưng trước tiên phải qua được bài kiểm tra của ta. Kia có vài cây cung, hãy chọn một cây và kéo thử xem."
+        },
+        "lv": 3,
+        "icon": 12101
+      },
+      "180011": {
+        "items": [
+          {
+            "gsid": 28001,
+            "count": 2
+          },
+          {
+            "gsid": 36007,
+            "count": 2
+          }
+        ],
+        "id": 180011,
+        "intro": "Phía trước có người ngoại quốc gây rối. Chủ công có muốn đến kiểm tra?",
+        "talk": {
+          "to": [
+            "Hóa ra hiểu lầm do bất đồng ngôn ngữ, sau khi giải thích, Oda Nobunaga cảm tạ ngươi và rời đi.",
+            "Ngươi bắt giữ hắn nhưng không thể hỏi được gì do bất đồng ngôn ngữ, đành nhốt vào ngục."
+          ],
+          "opt": [
+            "Tìm phiên dịch để giao tiếp.",
+            "Bắt hắn lại, hỏi cung kỹ càng."
+          ],
+          "text": "Ta là Oda Nobunaga, không biết các ngài đến từ đâu ở Nhật Bản?"
+        },
+        "lv": 3,
+        "icon": 18001
+      },
+      "142612": {
+        "items": [
+          {
+            "gsid": 24261,
+            "count": 4
+          },
+          {
+            "gsid": 36024,
+            "count": 4
+          }
+        ],
+        "id": 142612,
+        "intro": "Tiểu Kiều đang vui chơi gần %s, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi cùng Tiểu Kiều du ngoạn vui vẻ.",
+            "Ngươi xoay người rời đi."
+          ],
+          "opt": [
+            "Ta cũng có ý đó.",
+            "Ta chỉ tiện đường ghé qua."
+          ],
+          "text": "Công tử đến đây, phải chăng muốn cùng tiểu nữ du ngoạn?"
+        },
+        "lv": 2,
+        "icon": 14261
+      },
+      "102612": {
+        "items": [
+          {
+            "gsid": 20261,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 102612,
+        "intro": "Vu Cấm đang tiêu diệt giặc Hoàng Cân, chủ công có muốn đến hỗ trợ?",
+        "talk": {
+          "to": [
+            "Ngươi phối hợp với Vu Cấm, thành công tiêu diệt toàn bộ quân Hoàng Cân.",
+            "Ngươi và Vu Cấm mỗi người tự chiến, quân Hoàng Cân nhân cơ hội bỏ chạy."
+          ],
+          "opt": [
+            "Hợp lực tác chiến.",
+            "Tự lực tác chiến."
+          ],
+          "text": "Tướng quân đến thật đúng lúc! Nếu được tướng quân trợ chiến, chúng ta nhất định tiêu diệt sạch quân Hoàng Cân!"
+        },
+        "lv": 2,
+        "icon": 10261
+      },
+      "141411": {
+        "items": [
+          {
+            "gsid": 24141,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 141411,
+        "intro": "Có người bị đuối nước xa xa. Chủ công có muốn đến cứu giúp?",
+        "talk": {
+          "to": [
+            "Lỗ Túc thấy ngươi định rời đi không để lại tên, vội giữ lại và tặng ngươi một món bảo vật.",
+            "Vài ngày sau, ngươi nhận được món quà cảm tạ từ Lỗ Túc."
+          ],
+          "opt": [
+            "Làm việc thiện không để lại tên.",
+            "Nói ra danh tính."
+          ],
+          "text": "Đa tạ tiên sinh đã cứu mạng. Ta là Lỗ Túc, tự Tử Kính, Thái thú Hán Xương. Mong tiên sinh lưu danh, ngày sau Tử Kính tất sẽ hậu báo!"
+        },
+        "lv": 3,
+        "icon": 14141
+      },
+      "101211": {
+        "items": [
+          {
+            "gsid": 20121,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 101211,
+        "intro": "Nghe đồn Quách Gia trí tuệ hơn người, liệu việc như thần, mưu lược vô song là nhân tài có thể định thiên hạ. Có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Ngươi dùng tài ăn nói, thành công chiêu mộ Quách Gia về dưới trướng.",
+            "Ngươi thấy thái độ của Quách Gia kiên quyết, đành từ bỏ việc chiêu mộ."
+          ],
+          "opt": [
+            "Kiên trì chiêu mộ.",
+            "Từ bỏ ý định chiêu mộ."
+          ],
+          "text": "Ý của tiên sinh ta đã rõ, nhưng một thần không thờ hai chủ. Tiên sinh xin hãy quay về."
+        },
+        "lv": 3,
+        "icon": 10121
+      },
+      "140811": {
+        "items": [
+          {
+            "gsid": 24081,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 140811,
+        "intro": "Có người đang tổ chức tỷ võ kén rể gần %s. Chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi lên đài đấu với Tôn Thượng Hương suốt tám mươi hiệp nhưng không may thất bại.",
+            "Chỉ trong chốc lát, Tôn Thượng Hương đã đánh bại năm, sáu người trên đài, ngươi đứng dưới xem mà khen ngợi không ngớt."
+          ],
+          "opt": [
+            "Lên đài tỷ võ.",
+            "Xem náo nhiệt."
+          ],
+          "text": "Bổn tiểu thư là Tôn Thượng Hương, muội muội Tôn Quyền. Ai có thể đánh bại ta trên đài tỷ võ này, sẽ trở thành phu quân của ta!"
+        },
+        "lv": 3,
+        "icon": 14081
+      },
+      "180612": {
+        "items": [
+          {
+            "gsid": 28061,
+            "count": 4
+          },
+          {
+            "gsid": 36027,
+            "count": 4
+          }
+        ],
+        "id": 180612,
+        "intro": "Có một võ sĩ tên là Akechi Mitsuhide đến đầu quân. Chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Ngươi nhận lời đầu quân của Akechi Mitsuhide và thưởng cho ông nhiều vàng bạc.",
+            "Ngươi từ chối Akechi Mitsuhide, ông ta buồn bã rời đi."
+          ],
+          "opt": [
+            "Rộng lượng tiếp nhận.",
+            "Không cùng tộc, không thể tin tưởng."
+          ],
+          "text": "Tại Trung Nguyên, ta đã nghe danh Đại Vương và hết sức ngưỡng mộ. Vì vậy, hôm nay ta đến đây xin đầu quân, nguyện dốc sức vì Đại Vương!"
+        },
+        "lv": 2,
+        "icon": 18061
+      },
+      "161611": {
+        "items": [
+          {
+            "gsid": 26161,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 161611,
+        "intro": "Chủ công, gần %s có người phát hiện một di tích, nghi là nơi Tần Thủy Hoàng để lại. Chủ công có muốn đến kiểm tra?",
+        "talk": {
+          "to": [
+            "Ngươi hợp tác cùng Trương Giác và quả thật tìm thấy kho báu của Tần Thủy Hoàng.",
+            "Ngươi muốn độc chiếm kho báu nên tấn công Trương Giác. Trương Giác không địch lại, ra lệnh phá hủy lối vào di tích."
+          ],
+          "opt": [
+            "Cùng hợp tác lấy báu vật.",
+            "Tấn công Trương Giác."
+          ],
+          "text": "Ta là Trương Giác, Thiên Công Tướng Quân. Các ngươi đến đây, chẳng lẽ cũng vì di tích của Tần Thủy Hoàng?"
+        },
+        "lv": 3,
+        "icon": 16161
+      },
+      "162011": {
+        "items": [
+          {
+            "gsid": 26201,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 162011,
+        "intro": "Nghe nói thần y Hoa Đà đang hái thuốc gần %s. Chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Hoa Đà tặng ngươi một cuốn ghi chép y thuật.",
+            "Hoa Đà từ chối lời chiêu mộ của ngươi và rời đi."
+          ],
+          "opt": [
+            "Học hỏi y thuật.",
+            "Chiêu mộ Hoa Đà."
+          ],
+          "text": "Không biết tiên sinh tìm lão hủ có việc gì?"
+        },
+        "lv": 3,
+        "icon": 16201
+      },
+      "170612": {
+        "items": [
+          {
+            "gsid": 27061,
+            "count": 4
+          },
+          {
+            "gsid": 36026,
+            "count": 4
+          }
+        ],
+        "id": 170612,
+        "intro": "Hán Hiến Đế đang bị truy sát. Chủ công có muốn đến giúp đỡ?",
+        "talk": {
+          "to": [
+            "Ngươi dẫn quân dưới trướng, giúp Hán Hiến Đế bình định loạn quân.",
+            "Ngươi đưa Hán Hiến Đế đến nơi an toàn rồi rời đi cùng quân đội."
+          ],
+          "opt": [
+            "Giúp hắn dẹp loạn.",
+            "Từ chối khéo léo."
+          ],
+          "text": "Đa tạ tướng quân cứu giúp. Không biết tướng quân có nguyện ý giúp ta dẹp loạn hay không? Ngày sau, khi ta trở lại ngôi vị, tướng quân sẽ được phong công đầu!"
+        },
+        "lv": 2,
+        "icon": 17061
+      },
+      "170011": {
+        "items": [
+          {
+            "gsid": 27001,
+            "count": 2
+          },
+          {
+            "gsid": 36006,
+            "count": 2
+          }
+        ],
+        "id": 170011,
+        "intro": "Lưu Bang đang uống rượu gần %s. Chủ công có muốn đến một lần?",
+        "talk": {
+          "to": [
+            "Ngươi cùng Lưu Bang uống rượu trò chuyện, vô cùng vui vẻ.",
+            "Lưu Bang mất hứng, đứng dậy bỏ đi."
+          ],
+          "opt": [
+            "Cùng uống rượu với hắn.",
+            "Từ chối uống rượu."
+          ],
+          "text": "Một mình uống rượu thật vô vị. Nếu tiên sinh không có việc gì gấp, sao không cùng ta cạn một chén?"
+        },
+        "lv": 3,
+        "icon": 17001
+      },
+      "160211": {
+        "items": [
+          {
+            "gsid": 26021,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 160211,
+        "intro": "Gần %s có người đang tranh đấu. Chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi ra tay trấn áp Mạnh Hoạch, giải quyết mọi tranh chấp.",
+            "Mạnh Hoạch cảm thấy ngươi phiền phức và tấn công ngươi."
+          ],
+          "opt": [
+            "Trấn áp Mạnh Hoạch.",
+            "Khuyên nhủ nhẹ nhàng."
+          ],
+          "text": "Ta là Mạnh Hoạch, Nam Trung Đại Vương. Ai to gan dám xen vào chuyện của ta?"
+        },
+        "lv": 3,
+        "icon": 16021
+      },
+      "121812": {
+        "items": [
+          {
+            "gsid": 22181,
+            "count": 4
+          },
+          {
+            "gsid": 36023,
+            "count": 4
+          }
+        ],
+        "id": 121812,
+        "intro": "Nhặt được một túi tiền, không biết của ai đánh rơi. Chủ công có muốn tìm chủ nhân?",
+        "talk": {
+          "to": [
+            "Quan Hưng rất cảm kích ngươi.",
+            "Ngươi cầm túi tiền rồi rời đi."
+          ],
+          "opt": [
+            "Trả lại túi tiền.",
+            "Giả vờ không biết."
+          ],
+          "text": "Ta là Quan Hưng, con trai Quan Vũ. Hôm nay đi ngang đây không may làm mất túi tiền màu đen. Không biết tiên sinh có thấy qua?"
+        },
+        "lv": 2,
+        "icon": 12181
+      },
+      "101811": {
+        "items": [
+          {
+            "gsid": 20181,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 101811,
+        "intro": "Nghe đồn Tuân Úc đang du lịch gần %s, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi tìm được thầy thuốc giỏi nhất khu vực để chữa trị cho Tuân Úc. Tuân Úc vô cùng cảm kích.",
+            "Ngươi dẫn binh truy đuổi sơn tặc nhưng để Tuân Úc bị bỏ lại bên đường."
+          ],
+          "opt": [
+            "Tìm thầy thuốc để chữa trị.",
+            "Hỏi thăm tung tích sơn tặc."
+          ],
+          "text": "Ta vừa bị sơn tặc cướp bóc và bị thương, may gặp được tiên sinh. Mong tiên sinh ra tay cứu giúp!"
+        },
+        "lv": 3,
+        "icon": 10181
+      },
+      "142212": {
+        "items": [
+          {
+            "gsid": 24221,
+            "count": 4
+          },
+          {
+            "gsid": 36024,
+            "count": 4
+          }
+        ],
+        "id": 142212,
+        "intro": "Bẩm chủ công, ở xa có một người đang bị truy sát. Chúng ta có nên đi cứu giúp không?",
+        "talk": {
+          "to": [
+            "Ngươi cử binh hộ tống Lăng Thống rời đi an toàn.",
+            "Ngươi giữ Lăng Thống lại và tò mò hỏi về câu chuyện của hắn."
+          ],
+          "opt": [
+            "Tiễn hắn rời đi.",
+            "Hỏi rõ chi tiết."
+          ],
+          "text": "Ta họ Lăng, tên Thống, tự Công Tích, người Ngô Quận, Dư Hàng. Hôm nay bị kẻ thù truy sát, may nhờ ân công cứu giúp!"
+        },
+        "lv": 2,
+        "icon": 14221
+      },
+      "163012": {
+        "items": [
+          {
+            "gsid": 26301,
+            "count": 4
+          },
+          {
+            "gsid": 36025,
+            "count": 4
+          }
+        ],
+        "id": 163012,
+        "intro": "Bẩm chủ công, gần %s đang có chiến sự xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Ngươi đẩy lui Tào Tháo và cứu được Lưu Biểu.",
+            "Ngươi bắt được Lưu Biểu và giao nộp cho Tào Tháo."
+          ],
+          "opt": [
+            "Cứu Lưu Biểu.",
+            "Bắt giữ Lưu Biểu."
+          ],
+          "text": "Ta là Lưu Cảnh Thăng, Kinh Châu Mục. Hiện đang bị quân Tào truy sát. Mong tướng quân cứu giúp. Ngày sau tất sẽ báo đáp hậu hĩnh!"
+        },
+        "lv": 2,
+        "icon": 16301
+      },
+      "100811": {
+        "items": [
+          {
+            "gsid": 20081,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 100811,
+        "intro": "Nghe nói Tào Tháo đang chiêu mộ anh tài thiên hạ gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi giới thiệu cho Tào Tháo vài viên quan tài giỏi, Tào Tháo hết sức vui mừng.",
+            "Tào Tháo lắc đầu thất vọng rồi bỏ đi."
+          ],
+          "opt": [
+            "Giới thiệu nhân tài.",
+            "Ta cũng không có ai để dùng."
+          ],
+          "text": "Hiện nay ta thiếu người tài, tiên sinh có thể giới thiệu nhân tài cho ta được chăng? Chỉ cần có tài thực sự, ta tất sẽ giúp họ vinh hoa phú quý!"
+        },
+        "lv": 3,
+        "icon": 10081
+      },
+      "122612": {
+        "items": [
+          {
+            "gsid": 22261,
+            "count": 4
+          },
+          {
+            "gsid": 36023,
+            "count": 4
+          }
+        ],
+        "id": 122612,
+        "intro": "Có người ở xa gặp khó khăn. Chủ công có muốn đến giúp?",
+        "talk": {
+          "to": [
+            "Ngươi tặng ngựa của mình cho Khương Duy, khiến hắn vô cùng cảm động.",
+            "Ngươi thể hiện chút cảm thông rồi quay người rời đi."
+          ],
+          "opt": [
+            "Giúp Khương Duy.",
+            "Không thể giúp đỡ."
+          ],
+          "text": "Học trò họ Khương tên Duy, tự Bá Ước. Trên đường về thăm quê không may gặp lở đá, xe ngựa hư hại, ngựa cũng hoảng loạn bỏ chạy. Nay ta không biết phải làm sao!"
+        },
+        "lv": 2,
+        "icon": 12261
+      },
+      "170211": {
+        "items": [
+          {
+            "gsid": 27021,
+            "count": 2
+          },
+          {
+            "gsid": 36006,
+            "count": 2
+          }
+        ],
+        "id": 170211,
+        "intro": "Sở Bá Vương Hạng Vũ đang săn hổ gần %s. Chủ công có muốn đến một lần?",
+        "talk": {
+          "to": [
+            "Ngươi thành công chặn được hổ dữ và cùng Hạng Vũ hợp sức bắt sống nó.",
+            "Do ngươi tránh né, con hổ đã chạy thoát, khiến Hạng Vũ nổi giận."
+          ],
+          "opt": [
+            "Chặn con hổ lại.",
+            "Tránh xa hổ dữ."
+          ],
+          "text": "Anh hùng, mau giúp ta chặn con hổ kia lại, đừng để nó chạy thoát!"
+        },
+        "lv": 3,
+        "icon": 17021
+      },
+      "121211": {
+        "items": [
+          {
+            "gsid": 22121,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 121211,
+        "intro": "Gần đây phát hiện hành tung của Mã Đại, em trai Tây Lương Mã Siêu, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi dễ dàng đánh bại Mã Đại, khiến hắn vô cùng sùng bái.",
+            "Mã Đại quay lưng bỏ chạy, ngươi lại không đuổi kịp."
+          ],
+          "opt": [
+            "Nghe nói ngươi là em trai của Mã Siêu, ta muốn thử tài của ngươi.",
+            "Ta có hiềm khích với huynh trưởng Mã Siêu, hôm nay lấy ngươi làm nơi trút giận."
+          ],
+          "text": "Tiên sinh vì sao chặn ta lại?"
+        },
+        "lv": 3,
+        "icon": 12121
+      },
+      "171015": {
+        "items": [
+          {
+            "gsid": 27101,
+            "count": 10
+          },
+          {
+            "gsid": 36046,
+            "count": 10
+          }
+        ],
+        "id": 171015,
+        "intro": "Gần %s phát hiện một cấm quân, bước chân vội vã, thần sắc lo lắng. Chủ công có muốn hỏi thăm sự tình?",
+        "talk": {
+          "to": [
+            "Ngươi dẫn theo cấm quân, tiến đến giải cứu hoàng đế.",
+            "Ngươi ra lệnh xử tử hắn ngay tại chỗ."
+          ],
+          "opt": [
+            "Bình tĩnh ứng phó, trung dũng đáng khen.",
+            "Bỏ chạy, chém đầu hắn."
+          ],
+          "text": "Chúng ta hộ tống Hoàng Thượng đi tuần, chẳng may bị quân phản loạn phục kích. Hiện đã bị bao vây, chỉ còn mình ta thoát được để cầu viện."
+        },
+        "lv": 1,
+        "icon": 17101
+      },
+      "141611": {
+        "items": [
+          {
+            "gsid": 24161,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 141611,
+        "intro": "Có tiếng khóc của một nữ nhân vọng đến. Chủ công có muốn đi kiểm tra?",
+        "talk": {
+          "to": [
+            "Ngươi đưa Bộ Luyện Sư về nhà an toàn.",
+            "Ngươi vừa rời đi không xa đã nghe tiếng khóc của Bộ Luyện Sư vang lên phía sau."
+          ],
+          "opt": [
+            "Giúp đỡ người yếu thế, không thể từ chối.",
+            "Còn việc quan trọng, tự mình rời đi."
+          ],
+          "text": "Gặp qua công tử, tiểu nữ tên Bộ Luyện Sư, do lạc đường mà lỡ tới đây. Không biết công tử có thể đưa tiểu nữ về nhà không?"
+        },
+        "lv": 3,
+        "icon": 14161
+      },
+      "180211": {
+        "items": [
+          {
+            "gsid": 28021,
+            "count": 2
+          },
+          {
+            "gsid": 36007,
+            "count": 2
+          }
+        ],
+        "id": 180211,
+        "intro": "Nghe đồn viên Hòa Thị Bích xuất hiện gần %s, đang trong tay một nữ nhân Đông Doanh tên là Uesugi Kenshin. Chủ công có muốn đến tìm?",
+        "talk": {
+          "to": [
+            "Ngươi chiêu mộ Uesugi Kenshin vào dưới trướng và nhận được Hòa Thị Bích từ tay nàng.",
+            "Ngươi cưỡng đoạt Hòa Thị Bích từ Uesugi Kenshin nhưng phát hiện đó là đồ giả."
+          ],
+          "opt": [
+            "Thu nhận Uesugi Kenshin.",
+            "Cưỡng đoạt bằng sức mạnh."
+          ],
+          "text": "Ta tuy vừa đặt chân đến Trung Nguyên nhưng đã nghe danh tướng quân từ lâu. Nếu tướng quân có thể thu nhận, ta sẽ dâng vật này để bày tỏ lòng thành!"
+        },
+        "lv": 3,
+        "icon": 18021
+      },
+      "140211": {
+        "items": [
+          {
+            "gsid": 24021,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 140211,
+        "intro": "Có một con thuyền xa xa đang gặp nạn. Chủ công có muốn đến cứu giúp?",
+        "talk": {
+          "to": [
+            "Ngươi và Cam Ninh đồng lòng dập tắt ngọn lửa trên thuyền.",
+            "Lửa ngày càng lớn, Cam Ninh phải nhảy khỏi thuyền để thoát thân, và con thuyền bị lửa thiêu rụi hoàn toàn."
+          ],
+          "opt": [
+            "Cử người lên thuyền, giúp họ dập lửa.",
+            "Lửa quá lớn, không nên mạo hiểm."
+          ],
+          "text": "Ta là Cam Ninh xứ Ba Quận. Trên thuyền lửa cháy lớn, người của ta không đủ để dập tắt. Mong các hảo hán nghĩa hiệp cứu giúp!"
+        },
+        "lv": 3,
+        "icon": 14021
+      },
+      "141811": {
+        "items": [
+          {
+            "gsid": 24181,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 141811,
+        "intro": "Nghe đồn Ngô Đại Đế Tôn Trọng Mưu gặp tiên nhân gần %s và được truyền dạy thuật trường sinh. Chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Tôn Quyền nghe lời khuyên của ngươi, liền bừng tỉnh ngộ.",
+            "Tôn Quyền tức giận khi thấy ngươi ham muốn tiên thuật, ra lệnh tấn công ngươi. Vì binh lực yếu, ngươi đành bỏ chạy."
+          ],
+          "opt": [
+            "Khuyên Tôn Quyền, tiên đạo mơ hồ không thể tin hết.",
+            "Cầu xin Hoàng Thượng truyền thụ tiên pháp."
+          ],
+          "text": "Các ngươi tìm cô vương có việc gì?"
+        },
+        "lv": 3,
+        "icon": 14181
+      },
+      "161011": {
+        "items": [
+          {
+            "gsid": 26101,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 161011,
+        "intro": "Tương truyền gần %s có một đạo sĩ tên là Vu Cát, người sở hữu cuốn Thái Bình Kinh do thần nhân truyền lại. Chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Vu Cát vui vẻ cho ngươi mượn 'Thái Bình Kinh' và còn tặng ngươi một cuốn dịch bản.",
+            "Ngươi cướp được 'Thái Bình Kinh' nhưng không hiểu nổi nội dung bên trong."
+          ],
+          "opt": [
+            "Mượn 'Thái Bình Kinh'.",
+            "Cướp lấy 'Thái Bình Kinh'."
+          ],
+          "text": "Lão đạo hôm qua bỗng cảm thấy điềm lành, tính toán ra hôm nay có quý nhân ghé thăm, nên đã sớm chuẩn bị nghênh đón!"
+        },
+        "lv": 3,
+        "icon": 16101
+      },
+      "160811": {
+        "items": [
+          {
+            "gsid": 26081,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 160811,
+        "intro": "Nghe nói phu nhân Chúc Dung đang tìm chủ công gần %s. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi dùng tài ăn nói, khiến Chúc Dung từ bỏ ý định báo thù.",
+            "Ngươi ra lệnh cho binh lính trừng phạt Chúc Dung thật nặng."
+          ],
+          "opt": [
+            "Thuyết phục Chúc Dung.",
+            "Trừng trị Chúc Dung."
+          ],
+          "text": "Tên giặc kia! Ngày xưa ngươi từng sỉ nhục Đại Vương nhà ta. Hôm nay, ta sẽ lấy đầu ngươi để báo thù cho Đại Vương!"
+        },
+        "lv": 3,
+        "icon": 16081
+      },
+      "102812": {
+        "items": [
+          {
+            "gsid": 20281,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 102812,
+        "intro": "Nghe nói Vương Lãng lão tiên sinh đang trọng bệnh, chủ công có muốn đến thăm?",
+        "talk": {
+          "to": [
+            "Vương Lãng rất hài lòng với ngươi, khen ngợi ngươi hết lời.",
+            "Vương Lãng sau khi uống thuốc của ngươi thì qua đời ngay tại chỗ."
+          ],
+          "opt": [
+            "Tiên sinh đức cao vọng trọng, hậu bối đương nhiên phải đến thăm.",
+            "Ta có một phương thuốc trị phong hàn rất hiệu nghiệm."
+          ],
+          "text": "Lão phu không có chuyện lớn gì, chỉ là cảm mạo phong hàn thôi. Đa tạ chư vị đã bận tâm."
+        },
+        "lv": 2,
+        "icon": 10281
+      },
+      "140011": {
+        "items": [
+          {
+            "gsid": 24001,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 140011,
+        "intro": "Nghe nói Tiểu Bá Vương Tôn Sách đang đi khắp nơi thách đấu cao thủ. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi và Tôn Sách đại chiến ba trăm hiệp, đôi bên kiệt sức mà vẫn bất phân thắng bại.",
+            "Ngươi khéo léo kích động Tôn Sách, khiến hắn tấn công dồn dập dẫn đến kiệt sức mà bại trong tay ngươi"
+          ],
+          "opt": [
+            "Bớt nói nhảm, lên chiến đấu!",
+            "Lấy lời lẽ công kích, chọc giận đối phương trước."
+          ],
+          "text": "Ta đã thách đấu khắp nơi, đến giờ vẫn chưa bại trận. Không biết ngươi có thể cầm cự được bao lâu?"
+        },
+        "lv": 3,
+        "icon": 14001
+      },
+      "180411": {
+        "items": [
+          {
+            "gsid": 28041,
+            "count": 2
+          },
+          {
+            "gsid": 36007,
+            "count": 2
+          }
+        ],
+        "id": 180411,
+        "intro": "Chủ công, có một võ sĩ Đông Doanh tên là Hattori Masanari cầu kiến. Chủ công có muốn tiếp?",
+        "talk": {
+          "to": [
+            "Ngươi nhận lễ vật từ Hattori Hanzo và nhiệt tình tiếp đãi.",
+            "Ngươi ra lệnh ném món quà ra ngoài và đóng cửa phủ."
+          ],
+          "opt": [
+            "Nhận quà.",
+            "Từ chối món quà."
+          ],
+          "text": "Nghe danh Đại Vương đã lâu, hôm nay được gặp thật là vinh hạnh! Ta đặc biệt chuẩn bị một món quà lớn, mong Đại Vương nhận lấy!"
+        },
+        "lv": 3,
+        "icon": 18041
+      },
+      "181015": {
+        "items": [
+          {
+            "gsid": 28101,
+            "count": 10
+          },
+          {
+            "gsid": 36047,
+            "count": 10
+          }
+        ],
+        "id": 181015,
+        "intro": "Gần %s có một lãng nhân Đông Doanh, phong thái tự tin, có vẻ là người luyện võ lâu năm. Chủ công có muốn chiêu mộ?",
+        "talk": {
+          "to": [
+            "Trước đãi ngộ ưu ái của ngươi, Lãng Nhân xiêu lòng và chấp nhận đầu quân.",
+            "Lãng Nhân nhìn ngươi rời đi với ánh mắt phức tạp, dường như muốn nói gì đó."
+          ],
+          "opt": [
+            "Nâng cao đãi ngộ, tiếp tục chiêu mộ.",
+            "Người có chí riêng, từ bỏ chiêu mộ."
+          ],
+          "text": "Ta có tài nghệ đầy mình, đi khắp thiên hạ cũng không nơi nào không đến được. Hà tất phải hạ mình làm thuộc hạ của kẻ khác?"
+        },
+        "lv": 1,
+        "icon": 18101
+      },
+      "100011": {
+        "items": [
+          {
+            "gsid": 20001,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 100011,
+        "intro": "Có người đang săn bắn gần %s, chủ công có muốn đến xem thử không?",
+        "talk": {
+          "to": [
+            "Ngươi và Tào Nhân trò chuyện vui vẻ.",
+            "Tào Nhân tức giận đuổi ngươi đi."
+          ],
+          "opt": [
+            "Nghe danh tướng quân đã lâu, đặc biệt đến bái kiến.",
+            "Ta chỉ đi dạo quanh đây."
+          ],
+          "text": "Ta là Tào Nhân, các ngươi sao lại quấy rầy ta săn bắn?"
+        },
+        "lv": 3,
+        "icon": 10001
+      },
+      "120011": {
+        "items": [
+          {
+            "gsid": 22001,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 120011,
+        "intro": "Chủ công, Trương Dực Đức mời người đến đàm đạo, có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi một hơi uống cạn ba chén rượu mạnh, khiến Trương Phi lớn tiếng khen ngợi.",
+            "Trương Phi thấy ngươi không uống rượu thì không ép, nhưng sắc mặt hơi khó chịu."
+          ],
+          "opt": [
+            "Cạn ba chén.",
+            "Lấy cớ từ chối."
+          ],
+          "text": "Ngươi sao giờ mới đến? Ta đã đợi ngươi lâu lắm rồi! Phạt rượu! Phạt rượu!"
+        },
+        "lv": 3,
+        "icon": 12001
+      },
+      "100411": {
+        "items": [
+          {
+            "gsid": 20041,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 100411,
+        "intro": "Trương Liêu đang luyện binh gần %s, chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Ngươi và Trương Liêu cùng thảo luận, đôi bên đều thu được nhiều điều bổ ích.",
+            "Trương Liêu võ nghệ cao cường, chỉ ba chiêu đã đánh bại ngươi."
+          ],
+          "opt": [
+            "Muốn cùng tướng quân bàn luận binh pháp.",
+            "Muốn cùng tướng quân luận bàn võ nghệ."
+          ],
+          "text": "Các ngươi đến đây là có ý gì?"
+        },
+        "lv": 3,
+        "icon": 10041
+      },
+      "162612": {
+        "items": [
+          {
+            "gsid": 26261,
+            "count": 4
+          },
+          {
+            "gsid": 36025,
+            "count": 4
+          }
+        ],
+        "id": 162612,
+        "intro": "Chủ công, gần %s phát hiện một đội vận lương, không rõ thuộc thế lực nào. Chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Công Tôn Toản thấy ngươi không có ý định cướp lương, liền yên tâm trò chuyện với ngươi.",
+            "Ngươi cướp lương thực của Công Tôn Toản."
+          ],
+          "opt": [
+            "Ta chỉ tiện đường ghé xem.",
+            "Cướp lương thực."
+          ],
+          "text": "Ta là Công Tôn Toản, Trung Lang Tướng dưới trướng Trương Phong, Thái Thú quận Trác. Các ngươi cớ gì lại chặn đường ta?"
+        },
+        "lv": 2,
+        "icon": 16261
+      },
+      "101011": {
+        "items": [
+          {
+            "gsid": 20101,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 101011,
+        "intro": "Tướng quân Bạch Địa Hạ Hầu Uyên đang tiêu diệt giặc cướp gần %s, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi và Hạ Hầu Uyên đồng tâm hiệp lực, cùng tiêu diệt sơn tặc.",
+            "Ngươi bất ngờ tấn công khiến Hạ Hầu Uyên hoảng loạn và bỏ chạy."
+          ],
+          "opt": [
+            "Giúp tướng quân một tay.",
+            "Đánh úp Hạ Hầu Uyên."
+          ],
+          "text": "Các ngươi cớ gì lại cản đường ta?"
+        },
+        "lv": 3,
+        "icon": 10101
+      },
+      "161211": {
+        "items": [
+          {
+            "gsid": 26121,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 161211,
+        "intro": "Chủ công, tiểu thư Thái Văn Cơ, con gái Thái Ung, có việc muốn gặp. Chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Thái Văn Cơ cảm tạ ngươi và tặng cho ngươi hơn bốn trăm quyển cổ thư quý giá.",
+            "Thái Văn Cơ thất vọng và rời đi."
+          ],
+          "opt": [
+            "Chuyện nhỏ, không thành vấn đề.",
+            "Cổ thư quý giá, không thể tùy tiện cho mượn."
+          ],
+          "text": "Thiếp thân bái kiến Đại Vương. Nghe nói Đại Vương sở hữu rất nhiều cổ thư quý hiếm. Có thể cho thiếp thân mượn xem không?"
+        },
+        "lv": 3,
+        "icon": 16121
+      },
+      "180812": {
+        "items": [
+          {
+            "gsid": 28081,
+            "count": 4
+          },
+          {
+            "gsid": 36027,
+            "count": 4
+          }
+        ],
+        "id": 180812,
+        "intro": "Nghe nói có một võ sĩ Đông Doanh tên là Honda Tadakatsu, đang thách đấu các lộ cao thủ Trung Nguyên. Chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi đấu ba trận với Honda Tadakatsu và toàn thắng, khiến ông vô cùng kính phục.",
+            "Hắn thấy tình thế bất lợi liền nhanh chóng trốn thoát."
+          ],
+          "opt": [
+            "Thách đấu một trận.",
+            "Phái binh bao vây tiêu diệt."
+          ],
+          "text": "Ta đến đây chỉ để cầu một bại, nhưng đến giờ vẫn chưa được nếm mùi thất bại!"
+        },
+        "lv": 2,
+        "icon": 18081
+      },
+      "162812": {
+        "items": [
+          {
+            "gsid": 26281,
+            "count": 4
+          },
+          {
+            "gsid": 36025,
+            "count": 4
+          }
+        ],
+        "id": 162812,
+        "intro": "Nghe đồn Viên Thiệu vừa nhận được Ngọc Tỷ Truyền Quốc và đang gần %s. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Viên Thiệu cảm động khi ngươi là người đầu tiên tin tưởng ông, liền xem ngươi như tri kỷ.",
+            "Ngươi đánh bại đại quân Viên Thiệu nhưng để ông ta trốn thoát."
+          ],
+          "opt": [
+            "Đã là lời đồn thì bỏ qua thôi.",
+            "Có hay không, tìm kiếm sẽ rõ."
+          ],
+          "text": "Ngọc Tỷ không ở trong tay ta, đó chỉ là lời đồn thất thiệt mà thôi."
+        },
+        "lv": 2,
+        "icon": 16281
+      },
+      "142812": {
+        "items": [
+          {
+            "gsid": 24281,
+            "count": 4
+          },
+          {
+            "gsid": 36024,
+            "count": 4
+          }
+        ],
+        "id": 142812,
+        "intro": "Có tiếng kêu cứu của một nữ nhân từ xa vọng tới. Chủ công có muốn đi kiểm tra?",
+        "talk": {
+          "to": [
+            "Ngươi tự mình đưa Đại Kiều về phủ Kiều Công.",
+            "Ngươi đưa Đại Kiều đến y quán và cử người đến phủ Kiều Công báo tin."
+          ],
+          "opt": [
+            "Đưa nàng về phủ.",
+            "Đưa đến y quán."
+          ],
+          "text": "Tiểu nữ là Đại Kiều, trưởng nữ của Kiều Công. Vì sơ ý bị trẹo chân không đi được, mong công tử cứu giúp!"
+        },
+        "lv": 2,
+        "icon": 14281
+      },
+      "102412": {
+        "items": [
+          {
+            "gsid": 20241,
+            "count": 4
+          },
+          {
+            "gsid": 36022,
+            "count": 4
+          }
+        ],
+        "id": 102412,
+        "intro": "Đồn rằng Đặng Ngải đã tìm thấy viên Hòa Thị Bích gần %s, chủ công có muốn đến xem thử?",
+        "talk": {
+          "to": [
+            "Ngươi dùng số tiền lớn để mua Hòa Thị Bích từ tay Đặng Ngải, nhưng tiếc rằng đó chỉ là đồ giả.",
+            "Đặng Ngải võ lực cao cường, phá vòng vây mà đi."
+          ],
+          "opt": [
+            "Nghe nói tướng quân có được Hòa Thị Bích, ta nguyện trọng kim mua lại.",
+            "Vây bắt Đặng Ngải, cướp Ngọc Tỷ."
+          ],
+          "text": "Các ngươi cớ gì lại cản đường ta?"
+        },
+        "lv": 2,
+        "icon": 10241
+      },
+      "140411": {
+        "items": [
+          {
+            "gsid": 24041,
+            "count": 2
+          },
+          {
+            "gsid": 36004,
+            "count": 2
+          }
+        ],
+        "id": 140411,
+        "intro": "Nghe nói Lữ Mông vừa nhận được một mẻ rượu ngon, chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Ngươi và Lữ Mông mỗi người ôm một vò rượu, vừa uống vừa ăn thịt, cực kỳ vui vẻ.",
+            "Lữ Mông thấy ngươi tay không đến thì đóng cửa không tiếp."
+          ],
+          "opt": [
+            "Lấy ra đồ nhắm rượu.",
+            "Không mang theo thứ gì cả."
+          ],
+          "text": "Ta vừa nhận được một mẻ nữ nhi hồng thượng hạng hôm qua, nay ngươi đã đến xin rượu! Đến thì cũng được, ngươi có mang gì để nhắm không?"
+        },
+        "lv": 3,
+        "icon": 14041
+      },
+      "120811": {
+        "items": [
+          {
+            "gsid": 22081,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 120811,
+        "intro": "Chủ công, nghe đồn Mã Siêu Tây Lương đang thi đấu cưỡi ngựa gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi thắng Mã Siêu trong cuộc thi cưỡi ngựa, nhận được sự kính trọng của Mã Siêu.",
+            "Ngươi đứng ngoài quan sát kỹ thuật cưỡi ngựa của Mã Siêu và thấy cũng chẳng có gì đặc biệt."
+          ],
+          "opt": [
+            "Lên ngựa tỉ thí.",
+            "Quan sát từ xa."
+          ],
+          "text": "Ta tự nhận mình là thiên hạ vô song về thuật cưỡi ngựa. Các ngươi nếu không phục, có thể lên ngựa tỉ thí với ta!"
+        },
+        "lv": 3,
+        "icon": 12081
+      },
+      "122212": {
+        "items": [
+          {
+            "gsid": 22221,
+            "count": 4
+          },
+          {
+            "gsid": 36023,
+            "count": 4
+          }
+        ],
+        "id": 122212,
+        "intro": "Chủ công, tiểu thư Trương Tinh Thái, con gái Trương Dực Đức, có việc muốn gặp. Chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Ngươi cử người tìm được Trương Phi, giúp cha con Trương Tinh Thái đoàn tụ.",
+            "Ngươi viện cớ rồi để Trương Tinh Thái tự đi."
+          ],
+          "opt": [
+            "Con gái cố nhân, đương nhiên phải giúp.",
+            "Bận việc không thể giúp."
+          ],
+          "text": "Tiểu nữ trước đây cùng phụ thân bị mai phục, chẳng may thất lạc. Nghe nói đại vương từng quen biết phụ thân ta, nên đến đây xin người giúp đỡ."
+        },
+        "lv": 2,
+        "icon": 12221
+      },
+      "121611": {
+        "items": [
+          {
+            "gsid": 22161,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 121611,
+        "intro": "Nghe đồn Phượng Sồ tiên sinh đang ẩn cư gần đây, chủ công có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Câu trả lời của ngươi khiến Bàng Thống vô cùng hài lòng.",
+            "Ngươi bị Bàng Thống đuổi thẳng ra ngoài."
+          ],
+          "opt": [
+            "Tài năng quan trọng.",
+            "Tướng mạo quan trọng."
+          ],
+          "text": "Ta có một câu hỏi. Nếu câu trả lời của ngươi khiến ta hài lòng, chúng ta sẽ nói chuyện tiếp. Hỏi: Tướng mạo và tài năng, điều nào quan trọng hơn?"
+        },
+        "lv": 3,
+        "icon": 12161
+      },
+      "100211": {
+        "items": [
+          {
+            "gsid": 20021,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 100211,
+        "intro": "Nghe đồn Hổ Si Tào Tháo trời sinh thần lực, dũng mãnh thiện chiến, chủ công có muốn đến gặp không?",
+        "talk": {
+          "to": [
+            "Ngươi và Hứa Chử đại chiến ba trăm hiệp, bất phân thắng bại. Hứa Chử vô cùng ngưỡng mộ ngươi.",
+            "Hứa Chử chê ngươi nhát gan và đuổi ngươi đi."
+          ],
+          "opt": [
+            "Vui vẻ nhận chiến.",
+            "Quả quyết từ chối."
+          ],
+          "text": "Ta đang buồn chán vì chẳng có gì làm, vị tráng sĩ này đến thật đúng lúc! Mau đấu với ta ba trăm hiệp, để ta vận động gân cốt!"
+        },
+        "lv": 3,
+        "icon": 10021
+      },
+      "101411": {
+        "items": [
+          {
+            "gsid": 20141,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 101411,
+        "intro": "Nghe nói Tư Mã Ý đang giảng dạy gần %s, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi và Tư Mã Ý luận đạo suốt ba ngày, cuối cùng đã thuyết phục được ông.",
+            "Ngươi chạy đến phá phách một hồi rồi rời đi."
+          ],
+          "opt": [
+            "Đến đây luận đạo.",
+            "Đến đây để khiêu chiến."
+          ],
+          "text": "Vị tiên sinh này trông thật lạ mặt, không biết đến đây có việc gì quan trọng?"
+        },
+        "lv": 3,
+        "icon": 10141
+      },
+      "161811": {
+        "items": [
+          {
+            "gsid": 26181,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 161811,
+        "intro": "Mỹ nhân đẹp nhất thiên hạ Điêu Thuyền vừa xuất hiện gần %s. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi giúp Điêu Thuyền tìm được Lữ Bố, giúp họ đoàn tụ.",
+            "Ngươi vừa đưa Điêu Thuyền về phủ thì Lữ Bố đã tìm đến, đánh ngươi bị thương rồi đưa Điêu Thuyền đi."
+          ],
+          "opt": [
+            "Tìm Lữ Bố.",
+            "Đưa về phủ."
+          ],
+          "text": "Thiếp thân cùng Ôn Hầu đi ngắm cảnh xuân thì bị sơn tặc tấn công, không may thất lạc. Không biết tiên sinh có thể giúp thiếp thân tìm Ôn Hầu không?"
+        },
+        "lv": 3,
+        "icon": 16181
+      },
+      "121411": {
+        "items": [
+          {
+            "gsid": 22141,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 121411,
+        "intro": "Tương truyền có một ẩn sĩ, họ Gia Cát tên Lượng, tự Khổng Minh, hiệu Ngọa Long. Lưu Bị từng ba lần đến thăm mà không gặp được. Nay nghe nói ông đã trở về nhà. Chủ công nên thử đến gặp!",
+        "talk": {
+          "to": [
+            "Ngươi trò chuyện thân thiết với Khổng Minh và được mời ở lại nghỉ tại Thảo Lư.",
+            "Khổng Minh thất vọng và lắc đầu rời đi."
+          ],
+          "opt": [
+            "Ta cũng ngưỡng mộ tiên sinh từ lâu.",
+            "Ta chỉ tiện đường ghé qua."
+          ],
+          "text": "Ta nhiều lần tránh mặt Lưu Huyền Đức chỉ để được gặp tiên sinh. Hôm nay cuối cùng cũng được như ý nguyện!"
+        },
+        "lv": 3,
+        "icon": 12141
+      },
+      "142412": {
+        "items": [
+          {
+            "gsid": 24241,
+            "count": 4
+          },
+          {
+            "gsid": 36024,
+            "count": 4
+          }
+        ],
+        "id": 142412,
+        "intro": "Giang Lăng Hầu Lục Kháng đang kêu cứu gần %s, chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi phái binh giúp Lục Kháng, cuối cùng bắt được kẻ cướp.",
+            "Lục Kháng không hài lòng nhưng cũng không làm được gì."
+          ],
+          "opt": [
+            "Cử binh hỗ trợ.",
+            "Từ chối giúp đỡ."
+          ],
+          "text": "Ta truy đuổi bọn cướp đến đây, nhưng do thiếu người nên chúng liên tiếp chạy thoát. Tướng quân có thể điều binh giúp ta không?"
+        },
+        "lv": 2,
+        "icon": 14241
+      },
+      "160411": {
+        "items": [
+          {
+            "gsid": 26041,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 160411,
+        "intro": "Lữ Linh Khởi đang du ngoạn gần %s. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi và Lữ Linh Khởi trò chuyện vô cùng hòa hợp.",
+            "Ngươi và Lữ Linh Khởi đấu với nhau một trận."
+          ],
+          "opt": [
+            "Nghe danh con gái của Ôn Hầu đã lâu, đặc biệt đến gặp.",
+            "Nghe nói ngươi học võ nghệ từ Ôn Hầu, đặc biệt đến lãnh giáo."
+          ],
+          "text": "Không biết công tử có chuyện gì muốn nói?"
+        },
+        "lv": 3,
+        "icon": 16041
+      },
+      "122412": {
+        "items": [
+          {
+            "gsid": 22241,
+            "count": 4
+          },
+          {
+            "gsid": 36023,
+            "count": 4
+          }
+        ],
+        "id": 122412,
+        "intro": "Chủ công, phu nhân Hoàng Nguyệt Anh của Ngọa Long có việc muốn gặp. Chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Nhờ chữa trị kịp thời, Gia Cát Lượng nhanh chóng hồi phục.",
+            "Gia Cát Lượng qua đời vì không được chữa trị kịp thời, Hoàng Nguyệt Anh coi ngươi là kẻ thù."
+          ],
+          "opt": [
+            "Cử Hoa Đà đến chữa trị Gia Cát Lượng.",
+            "Thấy chết không cứu."
+          ],
+          "text": "Phu quân bệnh tình nguy kịch. Nghe nói Hoa Đà hiện đang ở dưới trướng đại vương, xin người giúp ta"
+        },
+        "lv": 2,
+        "icon": 12241
+      },
+      "120211": {
+        "items": [
+          {
+            "gsid": 22021,
+            "count": 2
+          },
+          {
+            "gsid": 36003,
+            "count": 2
+          }
+        ],
+        "id": 120211,
+        "intro": "Lưu Bị đang chiêu binh mãi mã gần %s, chủ công có muốn đến xem?",
+        "talk": {
+          "to": [
+            "Ngươi và Lưu Bị hợp lực, cùng bàn về đại kế thống nhất thiên hạ.",
+            "Lưu Bị tiếc nuối rời đi."
+          ],
+          "opt": [
+            "Đây là điều ta mong muốn, không dám từ chối.",
+            "Ta chỉ đến góp vui."
+          ],
+          "text": "Vị anh hùng này không biết từ đâu tới? Ta thấy khí độ của ngươi không tầm thường, hẳn là người có tài. Có muốn cùng ta mưu đồ thiên hạ?"
+        },
+        "lv": 3,
+        "icon": 12021
+      },
+      "101611": {
+        "items": [
+          {
+            "gsid": 20161,
+            "count": 2
+          },
+          {
+            "gsid": 36002,
+            "count": 2
+          }
+        ],
+        "id": 101611,
+        "intro": "Nghe đồn Giả Hủ tinh thông binh pháp, mưu trí khó lường được xưng là Độc sĩ. Nếu chiêu mộ sẽ giúp chủ công thống nhất thiên hạ! Có muốn đến bái kiến?",
+        "talk": {
+          "to": [
+            "Giả Hủ bị ngươi thuyết phục, nguyện ý vì ngươi mà cống hiến.",
+            "Giả Hủ thà chết chứ không khuất phục, ngươi đành quay về tay không."
+          ],
+          "opt": [
+            "Trọng thưởng chiêu mộ.",
+            "Lấy tính mạng uy hiếp."
+          ],
+          "text": "Nghe danh tiên sinh đã lâu. Ta biết tiên sinh cầu hiền như khát, nhưng e rằng phải thất vọng rồi."
+        },
+        "lv": 3,
+        "icon": 10161
+      },
+      "160011": {
+        "items": [
+          {
+            "gsid": 26001,
+            "count": 2
+          },
+          {
+            "gsid": 36005,
+            "count": 2
+          }
+        ],
+        "id": 160011,
+        "intro": "Gần %s có người muốn gặp chủ công. Chủ công có muốn tiếp kiến?",
+        "talk": {
+          "to": [
+            "Lữ Bố cảm tạ ngươi xong, liền vội vàng rời đi.",
+            "Lữ Bố đánh ngươi bị thương rồi cướp mất ngựa của ngươi."
+          ],
+          "opt": [
+            "Cho hắn mượn ngựa.",
+            "Từ chối hắn."
+          ],
+          "text": "Ta là Lữ Phụng Tiên xứ Tịnh Châu. Do có việc gấp cần đi, muốn mượn các ngươi một con ngựa. Mong chư vị giúp đỡ!"
+        },
+        "lv": 3,
+        "icon": 16001
+      },
+      "162412": {
+        "items": [
+          {
+            "gsid": 26241,
+            "count": 4
+          },
+          {
+            "gsid": 36025,
+            "count": 4
+          }
+        ],
+        "id": 162412,
+        "intro": "Nghe nói Cao Thuận vừa bị Lữ Bố đuổi đi và xuất hiện gần %s. Chủ công có muốn nhân cơ hội này chiêu mộ?",
+        "talk": {
+          "to": [
+            "Ngươi trò chuyện suốt đêm với Cao Thuận, cuối cùng chiêu mộ được ông.",
+            "Cao Thuận suy nghĩ rất lâu nhưng cuối cùng từ chối lời chiêu mộ của ngươi."
+          ],
+          "opt": [
+            "Mời hắn tâm sự.",
+            "Nhân cơ hội chiêu mộ."
+          ],
+          "text": "Danh tiếng của tướng quân, ta đã nghe từ lâu. Không ngờ hôm nay lại có cơ hội gặp mặt người thật!"
+        },
+        "lv": 2,
+        "icon": 16241
+      },
+      "162212": {
+        "items": [
+          {
+            "gsid": 26221,
+            "count": 4
+          },
+          {
+            "gsid": 36025,
+            "count": 4
+          }
+        ],
+        "id": 162212,
+        "intro": "Phát hiện Đổng Trác đang trêu chọc lương dân. Chủ công có muốn đến gặp?",
+        "talk": {
+          "to": [
+            "Ngươi phẫn nộ ra tay, đánh Đổng Trác quỳ xuống cầu xin tha mạng.",
+            "Thấy binh lực của Đổng Trác quá mạnh, ngươi đành lủi đi."
+          ],
+          "opt": [
+            "Trừng trị Đổng Trác.",
+            "Nhanh chóng rời đi."
+          ],
+          "text": "Từ đâu ra cái tên dân đen cản đường thế này? Không muốn chết thì cút ngay!"
+        },
+        "lv": 2,
+        "icon": 16221
+      }
+    },
+    "3": {
+      "305": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 175
+            },
+            "get": {
+              "gsid": 30006,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 525
+            },
+            "get": {
+              "gsid": 30008,
+              "count": 15
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4200
+            },
+            "get": {
+              "gsid": 36001,
+              "count": 50
+            }
+          }
+        ],
+        "id": 305,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "307": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 700
+            },
+            "get": {
+              "gsid": 30011,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 700
+            },
+            "get": {
+              "gsid": 30009,
+              "count": 2
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4200
+            },
+            "get": {
+              "gsid": 36003,
+              "count": 50
+            }
+          }
+        ],
+        "id": 307,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "310": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 560
+            },
+            "get": {
+              "gsid": 30016,
+              "count": 200
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4200
+            },
+            "get": {
+              "gsid": 36005,
+              "count": 50
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 6300
+            },
+            "get": {
+              "gsid": 36007,
+              "count": 50
+            }
+          }
+        ],
+        "id": 310,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "301": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 320000
+            },
+            "get": {
+              "gsid": 30001,
+              "count": 200000
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 240000
+            },
+            "get": {
+              "gsid": 30026,
+              "count": 100
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 480000
+            },
+            "get": {
+              "gsid": 30017,
+              "count": 10
+            }
+          }
+        ],
+        "id": 301,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội. Chủ công có muốn đến gặp?",
+        "dis": 8,
+        "lv": 1,
+        "icon": "city_story_07"
+      },
+      "306": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 875
+            },
+            "get": {
+              "gsid": 30006,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 350
+            },
+            "get": {
+              "gsid": 30009,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4200
+            },
+            "get": {
+              "gsid": 36002,
+              "count": 50
+            }
+          }
+        ],
+        "id": 306,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "302": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 240000
+            },
+            "get": {
+              "gsid": 30015,
+              "count": 100
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 480000
+            },
+            "get": {
+              "gsid": 30016,
+              "count": 50
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 240000
+            },
+            "get": {
+              "gsid": 30005,
+              "count": 5
+            }
+          }
+        ],
+        "id": 302,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội. Chủ công có muốn đến gặp?",
+        "dis": 8,
+        "lv": 1,
+        "icon": "city_story_07"
+      },
+      "314": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 2500
+            },
+            "get": {
+              "gsid": 30011,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 500
+            },
+            "get": {
+              "gsid": 30026,
+              "count": 1000
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3000
+            },
+            "get": {
+              "gsid": 36004,
+              "count": 50
+            }
+          }
+        ],
+        "id": 314,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "312": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 625
+            },
+            "get": {
+              "gsid": 30006,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 250
+            },
+            "get": {
+              "gsid": 30009,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3000
+            },
+            "get": {
+              "gsid": 36002,
+              "count": 50
+            }
+          }
+        ],
+        "id": 312,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "303": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 240000
+            },
+            "get": {
+              "gsid": 30028,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 432000
+            },
+            "get": {
+              "gsid": 36046,
+              "count": 20
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 320000
+            },
+            "get": {
+              "gsid": 30001,
+              "count": 200000
+            }
+          }
+        ],
+        "id": 303,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội. Chủ công có muốn đến gặp?",
+        "dis": 8,
+        "lv": 1,
+        "icon": "city_story_07"
+      },
+      "315": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 500
+            },
+            "get": {
+              "gsid": 30015,
+              "count": 1000
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 500
+            },
+            "get": {
+              "gsid": 30017,
+              "count": 50
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4500
+            },
+            "get": {
+              "gsid": 36006,
+              "count": 50
+            }
+          }
+        ],
+        "id": 315,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "311": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 125
+            },
+            "get": {
+              "gsid": 30006,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 375
+            },
+            "get": {
+              "gsid": 30008,
+              "count": 15
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3000
+            },
+            "get": {
+              "gsid": 36001,
+              "count": 50
+            }
+          }
+        ],
+        "id": 311,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "313": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 500
+            },
+            "get": {
+              "gsid": 30011,
+              "count": 1
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 500
+            },
+            "get": {
+              "gsid": 30009,
+              "count": 2
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3000
+            },
+            "get": {
+              "gsid": 36003,
+              "count": 50
+            }
+          }
+        ],
+        "id": 313,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "304": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 600000
+            },
+            "get": {
+              "gsid": 30008,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 432000
+            },
+            "get": {
+              "gsid": 36047,
+              "count": 20
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38006,
+              "count": 240000
+            },
+            "get": {
+              "gsid": 30015,
+              "count": 100
+            }
+          }
+        ],
+        "id": 304,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội. Chủ công có muốn đến gặp?",
+        "dis": 8,
+        "lv": 1,
+        "icon": "city_story_07"
+      },
+      "316": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 400
+            },
+            "get": {
+              "gsid": 30016,
+              "count": 200
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3000
+            },
+            "get": {
+              "gsid": 36005,
+              "count": 50
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4500
+            },
+            "get": {
+              "gsid": 36007,
+              "count": 50
+            }
+          }
+        ],
+        "id": 316,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 5,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "308": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 3500
+            },
+            "get": {
+              "gsid": 30011,
+              "count": 5
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 700
+            },
+            "get": {
+              "gsid": 30026,
+              "count": 1000
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 4200
+            },
+            "get": {
+              "gsid": 36004,
+              "count": 50
+            }
+          }
+        ],
+        "id": 308,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      },
+      "309": {
+        "items": [
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 700
+            },
+            "get": {
+              "gsid": 30015,
+              "count": 1000
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 700
+            },
+            "get": {
+              "gsid": 30017,
+              "count": 50
+            }
+          },
+          {
+            "pay": {
+              "gsid": 38005,
+              "count": 6300
+            },
+            "get": {
+              "gsid": 36006,
+              "count": 50
+            }
+          }
+        ],
+        "id": 309,
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một đoàn thương đội Tây Vực. Chủ công có muốn đến gặp?",
+        "dis": 7,
+        "lv": 2,
+        "icon": "city_story_08"
+      }
+    },
+    "5": {
+      "pay": {
+        "501": {
+          "pay": {
+            "gsid": 38006,
+            "count": 100000
+          },
+          "rid": 1,
+          "id": 501,
+          "intro": "Nghe đồn tại một hang động bí ẩn gần %s có bảo vật xuất hiện, liệu chủ công có muốn đến xem thử?",
+          "lv": 1,
+          "icon": "event_icon_01"
+        },
+        "502": {
+          "pay": {
+            "gsid": 38005,
+            "count": 100
+          },
+          "rid": 2,
+          "id": 502,
+          "intro": "Nghe đồn tại một hang động bí mật gần %s có kỳ trân bảo vật hiện thế, chủ công có muốn đến xem không?",
+          "lv": 2,
+          "icon": "event_icon_02"
+        }
+      },
+      "reward": {
+        "1": [
+          {
+            "gsid": 38006,
+            "count": [
+              200000,
+              200000
+            ]
+          },
+          {
+            "gsid": 30001,
+            "count": [
+              100000,
+              100000
+            ]
+          },
+          {
+            "gsid": 30026,
+            "count": [
+              100,
+              100
+            ]
+          },
+          {
+            "gsid": 30015,
+            "count": [
+              100,
+              100
+            ]
+          },
+          {
+            "gsid": 36046,
+            "count": [
+              20,
+              20
+            ]
+          },
+          {
+            "gsid": 36047,
+            "count": [
+              20,
+              20
+            ]
+          },
+          {
+            "gsid": 36022,
+            "count": [
+              30,
+              30
+            ]
+          },
+          {
+            "gsid": 36023,
+            "count": [
+              30,
+              30
+            ]
+          },
+          {
+            "gsid": 36024,
+            "count": [
+              30,
+              30
+            ]
+          },
+          {
+            "gsid": 36025,
+            "count": [
+              30,
+              30
+            ]
+          }
+        ],
+        "2": [
+          {
+            "gsid": 30009,
+            "count": [
+              1,
+              1
+            ]
+          },
+          {
+            "gsid": 30011,
+            "count": [
+              1,
+              1
+            ]
+          },
+          {
+            "gsid": 30012,
+            "count": [
+              50,
+              50
+            ]
+          },
+          {
+            "gsid": 30006,
+            "count": [
+              1,
+              1
+            ]
+          },
+          {
+            "gsid": 38006,
+            "count": [
+              1000000,
+              1000000
+            ]
+          },
+          {
+            "gsid": 30001,
+            "count": [
+              500000,
+              500000
+            ]
+          },
+          {
+            "gsid": 36006,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 36007,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 36002,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 36003,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 36004,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 36005,
+            "count": [
+              5,
+              5
+            ]
+          },
+          {
+            "gsid": 37002,
+            "count": [
+              3,
+              3
+            ]
+          }
+        ]
+      }
+    },
+    "2": {
+      "209": {
+        "items": [
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              40,
+              60
+            ]
+          },
+          {
+            "gsid": 30001,
+            "rate": 750,
+            "count": [
+              21600,
+              32400
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Ngươi uống rượu vui chơi, tiêu xài không tiếc tiền.",
+            "Ngươi tiêu ngàn vàng để cưới được mỹ nhân về làm thê tử."
+          ],
+          "opt": [
+            "Làm thơ, vẽ tranh, tận hưởng cảnh đẹp.",
+            "Trời sinh một cặp, mời họ về nhà."
+          ],
+          "text": "Tại Lầu Bồng Nguyệt vừa xuất hiện một kỹ nữ tài sắc vẹn toàn, nhan sắc tuyệt trần, cầm kỳ thi họa đều tinh thông."
+        },
+        "lv": 3,
+        "id": 209
+      },
+      "206": {
+        "items": [
+          {
+            "gsid": 30001,
+            "rate": 750,
+            "count": [
+              21600,
+              32400
+            ]
+          },
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              40,
+              60
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Một lòng tìm tiên học đạo, bỏ bê chính sự.",
+            "Ngươi vạch trần lời nói dối của đạo sĩ, dân chúng tỉnh ngộ."
+          ],
+          "opt": [
+            "Mời vào phủ, tiếp đãi nồng hậu.",
+            "Thẩm vấn ngay trên phố, mắng chửi lời mê tín."
+          ],
+          "text": "Bẩm chủ công, phía trước có một đạo sĩ tự xưng tiên nhân hạ phàm lịch luyện, muốn tìm người có căn cơ truyền dạy trường sinh tiên pháp!"
+        },
+        "lv": 3,
+        "id": 206
+      },
+      "207": {
+        "items": [
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              8,
+              12
+            ]
+          },
+          {
+            "gsid": 30001,
+            "rate": 150,
+            "count": [
+              3200,
+              4800
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Thư sinh chết đói nơi phố chợ.",
+            "Thư sinh xúc động nhận lấy số bạc từ tay ngươi."
+          ],
+          "opt": [
+            "Mặc kệ, để hắn lang thang.",
+            "Rộng rãi giúp đỡ, hỗ trợ kinh phí về quê."
+          ],
+          "text": "Một thư sinh bị rớt kỳ thi, trên đường về quê lại mất tiền đi đường, lang thang đến đây, đã nhiều ngày chưa được ăn cơm."
+        },
+        "lv": 1,
+        "id": 207
+      },
+      "208": {
+        "items": [
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              24,
+              36
+            ]
+          },
+          {
+            "gsid": 30001,
+            "rate": 300,
+            "count": [
+              7200,
+              10800
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Dân làng cảm kích ngươi vô cùng.",
+            "Lòng nhân nghĩa của chủ công vang xa khắp nơi, muôn dân trong thiên hạ quy tâm."
+          ],
+          "opt": [
+            "Xây nhà, gia cố nơi ở cho dân.",
+            "Tự tay dọn đất, chất đất làm tường."
+          ],
+          "text": "Ngày trước, một trận động đất đã khiến nhà cửa trong thôn đổ nát. Dân làng mất nhà cửa, lang thang khắp nơi, kêu khóc thảm thiết!"
+        },
+        "lv": 2,
+        "id": 208
+      },
+      "204": {
+        "items": [
+          {
+            "gsid": 30001,
+            "rate": 150,
+            "count": [
+              3200,
+              4800
+            ]
+          },
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              8,
+              12
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Tiên duyên hư ảo, không thể biết trước được thành bại.",
+            "Tả Từ rời đi, ngươi lỡ mất tiên duyên."
+          ],
+          "opt": [
+            "Xuống ngựa hành lễ, tận tâm thỉnh giáo.",
+            "Tiên thuật hư vô, không cần để ý."
+          ],
+          "text": "Nghe đồn tiên nhân Tả Từ đang hành y cứu người gần đây. Chủ công có muốn đến gặp không?"
+        },
+        "lv": 1,
+        "id": 204
+      },
+      "202": {
+        "items": [
+          {
+            "gsid": 38006,
+            "rate": 600,
+            "count": [
+              14400,
+              21600
+            ]
+          },
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              24,
+              36
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Hai người trở thành đôi uyên ương xứng đôi vừa lứa.",
+            "Ngươi chia cắt đôi uyên ương và nhận về ánh mắt oán trách."
+          ],
+          "opt": [
+            "Ngầm hỗ trợ, thành toàn mỹ ý.",
+            "Nể tình họ hàng, phái người khuyên can"
+          ],
+          "text": "Có một thư sinh nghèo yêu một tiểu thư trong gia tộc quyền quý. Hai người quyết định bỏ trốn để đến với nhau."
+        },
+        "lv": 2,
+        "id": 202
+      },
+      "210": {
+        "items": [
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              8,
+              12
+            ]
+          },
+          {
+            "gsid": 38006,
+            "rate": 300,
+            "count": [
+              6400,
+              9600
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Công nhân lười biếng, đường vẫn chưa được sửa chữa xong.",
+            "Đường sá trở nên bằng phẳng và kiên cố, thương đội qua lại ngày càng đông, khiến thành trì ngày càng phồn thịnh."
+          ],
+          "opt": [
+            "Huy động dân sửa đường, lát lại lối đi.",
+            "Phái quân lấy đá, xây dựng lại đường."
+          ],
+          "text": "Do mưa lớn liên tục nhiều ngày, đường quan bị bùn lầy ngập lối, lại thêm xe ngựa và vó ngựa chà đạp, nay đã đầyhố sâu!"
+        },
+        "lv": 1,
+        "id": 210
+      },
+      "201": {
+        "items": [
+          {
+            "gsid": 38006,
+            "rate": 300,
+            "count": [
+              6400,
+              9600
+            ]
+          },
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              8,
+              12
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Dân chúng tản đi, trật tự được khôi phục.",
+            "Ngươi trở về tay không."
+          ],
+          "opt": [
+            "Tập hợp dân chúng, làm rõ sự thật.",
+            "Gạt bỏ ý kiến phản đối, lên đường tìm báu vật."
+          ],
+          "text": "Dân gian truyền rằng Tần Thủy Hoàng vì muốn giữ cơ nghiệp ngàn năm đã xây dựng một bảo khố bí mật trên núi. Chủ công có hứng thú với điều này không?"
+        },
+        "lv": 1,
+        "id": 201
+      },
+      "205": {
+        "items": [
+          {
+            "gsid": 30001,
+            "rate": 300,
+            "count": [
+              7200,
+              10800
+            ]
+          },
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              16,
+              24
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Lỡ mất báu vật, tiếc nuối không nguôi.",
+            "Ngươi may mắn có được một bức danh họa, trị giá ngàn vàng."
+          ],
+          "opt": [
+            "Vô lý hết sức, thúc ngựa rời đi.",
+            "Tin vào lời hắn nói, phái người kiểm chứng."
+          ],
+          "text": "Bẩm chủ công, phía trước có một người ăn mày chặn đường, nói rằng mình có bảo vật từ triều trước muốn dâng tặng chủ công."
+        },
+        "lv": 2,
+        "id": 205
+      },
+      "211": {
+        "items": [
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              16,
+              24
+            ]
+          },
+          {
+            "gsid": 38006,
+            "rate": 600,
+            "count": [
+              14400,
+              21600
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Lòng dân an định, kinh tế hưng thịnh.",
+            "Lòng dân hoang mang, hỗn loạn khắp nơi."
+          ],
+          "opt": [
+            "Ra mặt bác bỏ tin đồn, trấn an lòng dân.",
+            "Mặc kệ tin đồn, không quan tâm."
+          ],
+          "text": "Bẩm chủ công, gần đây không biết ai tung tin đồn chủ công là hóa thân của sát thần Bạch Khởi. Hiện tại mười tám lộ chư hầu đã chuẩn bị chinh phạt!"
+        },
+        "lv": 2,
+        "id": 211
+      },
+      "203": {
+        "items": [
+          {
+            "gsid": 38006,
+            "rate": 1500,
+            "count": [
+              43200,
+              64800
+            ]
+          },
+          {
+            "gsid": 30015,
+            "rate": 0,
+            "count": [
+              40,
+              60
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Dân chúng reo mừng, không còn ý định rời bỏ quê hương.",
+            "Hạn hán được giải quyết, dân chúng tràn đầy hy vọng."
+          ],
+          "opt": [
+            "Mở kho phát lương, cứu trợ dân nghèo.",
+            "Xây dựng thủy lợi, khôi phục sản xuất."
+          ],
+          "text": "Bẩm chủ công, mấy ngày gần đây trời không mưa, hạn hán ngày càng nghiêm trọng. Xin hỏi chủ công muốn xử lý thế nào?"
+        },
+        "lv": 3,
+        "id": 203
+      },
+      "212": {
+        "items": [
+          {
+            "gsid": 30026,
+            "rate": 0,
+            "count": [
+              40,
+              60
+            ]
+          },
+          {
+            "gsid": 38006,
+            "rate": 1500,
+            "count": [
+              43200,
+              64800
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, gần %s dường như có chuyện xảy ra. Chủ công có muốn đến điều tra?",
+        "talk": {
+          "to": [
+            "Ngươi thành công chiêu mộ tàn quân, quân lực tăng mạnh.",
+            "Không hiểu sao tin tức bị lộ, bọn lưu manh đã trốn thoát trong đêm."
+          ],
+          "opt": [
+            "Dùng chính sách mềm mỏng, chiêu hàng quy thuận.",
+            "Quốc uy là trên hết, dẫn quân tiêu diệt."
+          ],
+          "text": "Có một nhóm tàn quân vừa tràn đến khu vực gần đây. Hiện chúng đang chiếm núi Hắc Phong làm sơn tặc, gây họa cho dân lành!"
+        },
+        "lv": 3,
+        "id": 212
+      }
+    },
+    "6": {
+      "602": {
+        "items": [
+          {
+            "gsid": 38005,
+            "count": [
+              40,
+              60
+            ]
+          },
+          {
+            "gsid": 38005,
+            "count": [
+              34,
+              39
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, %s đang bị mã tặc bao vây. Xin chủ công phát binh giải vây!",
+        "talk": {
+          "to": [
+            "Mã tặc bị tiêu diệt hoàn toàn trong thành.",
+            "Bộ phận mã tặc chạy ra thành trì bị kỵ binh toàn diệt"
+          ],
+          "opt": [
+            "Kỵ binh vào thành, bộ binh chặn cổng.",
+            "Bộ binh vào thành, kỵ binh cơ động."
+          ],
+          "text": "Khởi bẩm chúa công, mã tặc đã tấn công vào trong thành. Xin chúa công định đoạt?"
+        },
+        "lv": 2,
+        "id": 602
+      },
+      "601": {
+        "items": [
+          {
+            "gsid": 38005,
+            "count": [
+              20,
+              30
+            ]
+          },
+          {
+            "gsid": 38005,
+            "count": [
+              14,
+              19
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, %s đang bị tàn quân Hoàng Cân bao vây. Xin chủ công phát binh giải vây!",
+        "talk": {
+          "to": [
+            "Quân Khăn Vàng hai mặt thụ địch, quân lính tan rã",
+            "Quân Khăn Vàng bị chặn ngang cắt đứt, đầu đuôi không thể thấy nhau"
+          ],
+          "opt": [
+            "Tấn công trực diện, đánh tan quân địch.",
+            "Phân cách bao vây, tiêu diệt toàn bộ địch quân."
+          ],
+          "text": "Bẩm chủ công, tàn quân Hoàng Cân đã bao vây thành nhiều ngày, tình hình nguy cấp. Có nên lập tức phát binh tấn công Hoàng Cân?"
+        },
+        "lv": 1,
+        "id": 601
+      },
+      "603": {
+        "items": [
+          {
+            "gsid": 38005,
+            "count": [
+              75,
+              125
+            ]
+          },
+          {
+            "gsid": 38005,
+            "count": [
+              69,
+              74
+            ]
+          }
+        ],
+        "intro": "Bẩm chủ công, %s đang bị mã tặc bao vây. Xin chủ công phát binh giải vây!",
+        "talk": {
+          "to": [
+            "Mã tặc bị tiêu diệt hoàn toàn trong thành.",
+            "Bộ phận mã tặc chạy ra thành trì bị kỵ binh toàn diệt"
+          ],
+          "opt": [
+            "Kỵ binh vào thành, bộ binh chặn cổng.",
+            "Bộ binh vào thành, kỵ binh cơ động."
+          ],
+          "text": "Khởi bẩm chúa công, mã tặc đã tấn công vào trong thành. Xin chúa công định đoạt?"
+        },
+        "lv": 3,
+        "id": 603
+      }
+    },
+    "4": {
+      "404": {
+        "pay": {
+          "gsid": 30006,
+          "count": 1
+        },
+        "rate": [
+          2,
+          2,
+          2
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 2,
+        "id": 404
+      },
+      "402": {
+        "pay": {
+          "gsid": 38006,
+          "count": 100000
+        },
+        "rate": [
+          2,
+          4,
+          10
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 1,
+        "id": 402
+      },
+      "401": {
+        "pay": {
+          "gsid": 38006,
+          "count": 10000
+        },
+        "rate": [
+          2,
+          4,
+          10
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 1,
+        "id": 401
+      },
+      "403": {
+        "pay": {
+          "gsid": 38005,
+          "count": 50
+        },
+        "rate": [
+          2,
+          2,
+          2
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 1,
+        "id": 403
+      },
+      "405": {
+        "pay": {
+          "gsid": 30011,
+          "count": 1
+        },
+        "rate": [
+          2,
+          2,
+          2
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 3,
+        "id": 405
+      },
+      "406": {
+        "pay": {
+          "gsid": 30009,
+          "count": 1
+        },
+        "rate": [
+          2,
+          2,
+          2
+        ],
+        "intro": "Dân gian đồn rằng gần %s xuất hiện một người thần bí. Chủ công có muốn đến gặp?",
+        "lv": 3,
+        "id": 406
+      }
+    }
+  },
+  "INFO": {
+    "111": {
+      "eid": 111
+    },
+    "1113": {
+      "eid": 1113
+    },
+    "161": {
+      "eid": 161
+    },
+    "172": {
+      "eid": 172
+    },
+    "104": {
+      "eid": 104
+    },
+    "143": {
+      "eid": 143
+    },
+    "1116": {
+      "eid": 1116
+    },
+    "153": {
+      "eid": 153
+    },
+    "105": {
+      "eid": 105
+    },
+    "133": {
+      "eid": 133
+    },
+    "131": {
+      "eid": 131
+    },
+    "1102": {
+      "eid": 1102
+    },
+    "1120": {
+      "eid": 1120
+    },
+    "1110": {
+      "eid": 1110
+    },
+    "151": {
+      "eid": 151
+    },
+    "146": {
+      "eid": 146
+    },
+    "1118": {
+      "eid": 1118
+    },
+    "1115": {
+      "eid": 1115
+    },
+    "166": {
+      "eid": 166
+    },
+    "114": {
+      "eid": 114
+    },
+    "101": {
+      "eid": 101
+    },
+    "113": {
+      "eid": 113
+    },
+    "116": {
+      "eid": 116
+    },
+    "142": {
+      "eid": 142
+    },
+    "1104": {
+      "eid": 1104
+    },
+    "145": {
+      "eid": 145
+    },
+    "1105": {
+      "eid": 1105
+    },
+    "165": {
+      "eid": 165
+    },
+    "1117": {
+      "eid": 1117
+    },
+    "126": {
+      "eid": 126
+    },
+    "152": {
+      "eid": 152
+    },
+    "112": {
+      "eid": 112
+    },
+    "173": {
+      "eid": 173
+    },
+    "1119": {
+      "eid": 1119
+    },
+    "163": {
+      "eid": 163
+    },
+    "115": {
+      "eid": 115
+    },
+    "134": {
+      "eid": 134
+    },
+    "1111": {
+      "eid": 1111
+    },
+    "106": {
+      "eid": 106
+    },
+    "156": {
+      "eid": 156
+    },
+    "175": {
+      "eid": 175
+    },
+    "141": {
+      "eid": 141
+    },
+    "124": {
+      "eid": 124
+    },
+    "132": {
+      "eid": 132
+    },
+    "135": {
+      "eid": 135
+    },
+    "123": {
+      "eid": 123
+    },
+    "1107": {
+      "eid": 1107
+    },
+    "164": {
+      "eid": 164
+    },
+    "176": {
+      "eid": 176
+    },
+    "102": {
+      "eid": 102
+    },
+    "144": {
+      "eid": 144
+    },
+    "1114": {
+      "eid": 1114
+    },
+    "1108": {
+      "eid": 1108
+    },
+    "155": {
+      "eid": 155
+    },
+    "171": {
+      "eid": 171
+    },
+    "103": {
+      "eid": 103
+    },
+    "154": {
+      "eid": 154
+    },
+    "1109": {
+      "eid": 1109
+    },
+    "125": {
+      "eid": 125
+    },
+    "1103": {
+      "eid": 1103
+    },
+    "136": {
+      "eid": 136
+    },
+    "174": {
+      "eid": 174
+    },
+    "1101": {
+      "eid": 1101
+    },
+    "1112": {
+      "eid": 1112
+    },
+    "162": {
+      "eid": 162
+    },
+    "1106": {
+      "eid": 1106
+    },
+    "122": {
+      "eid": 122
+    },
+    "121": {
+      "eid": 121
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "至尊月卡": {
+    "FIRST": 60,
+    "ARRREW": [
+      {
+        "REWCOUNT": 375,
+        "REWGSID": 38005
+      }
+    ],
+    "VALUE": 98,
+    "ARRACT": [
+      {
+        "ACTGSID": 38005,
+        "ACTCOUNT": 980
+      }
+    ],
+    "ETIME": 30,
+    "TYPR": 1,
+    "NAME": "至尊月卡",
+    "NAME_VN": "Thẻ Tháng Chí Tôn"
+  },
+  "贵族月卡": {
+    "FIRST": 12,
+    "ARRREW": [
+      {
+        "REWCOUNT": 85,
+        "REWGSID": 38005
+      }
+    ],
+    "VALUE": 30,
+    "ARRACT": [
+      {
+        "ACTGSID": 38005,
+        "ACTCOUNT": 300
+      }
+    ],
+    "ETIME": 30,
+    "TYPR": 1,
+    "NAME": "贵族月卡",
+    "NAME_VN": "Thẻ Tháng VIP"
+  }
+}

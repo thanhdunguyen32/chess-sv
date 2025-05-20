@@ -1,0 +1,59 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 172,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, hệ thống đã mở Đại chiến dịch, trong chiến dịch có thể lấy được đại lượng tài nguyên, cùng đi xem!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Di chuyển đến bối cảnh thành thị",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodeBbattle"
+      }
+    },
+    {
+      "numstep": 173,
+      "desc": "Nhấn vào Đại Chiến Dịch",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / dazhanyi",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 174,
+      "desc": "Nhấn vào khiêu chiến phụ bản",
+      "command": {
+        "cmd": "finger",
+        "args": "bigbattle_page > ui_battle_richang",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 175,
+      "desc": "Nhấn vào miễn phí khiêu chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "bigbattle_chapter_page > bg_node > box_bg > box_di > chapter_view > content > big_chapter_item > btn_fight",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Đại Chiến Dịch"
+}

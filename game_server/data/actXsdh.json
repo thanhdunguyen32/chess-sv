@@ -1,0 +1,34 @@
+[
+  {
+    "grid": 16161,
+    "grch": [
+      {
+        "GSID": 26161,
+        "COUNT": 50
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 30014,
+        "COUNT": 4000
+      }
+    ],
+    "buytime": 2
+  },
+  {
+    "grid": 10041,
+    "grch": [
+      {
+        "GSID": 20041,
+        "COUNT": 50
+      }
+    ],
+    "consume": [
+      {
+        "GSID": 30014,
+        "COUNT": 4000
+      }
+    ],
+    "buytime": 2
+  }
+]

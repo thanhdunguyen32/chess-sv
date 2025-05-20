@@ -1,0 +1,1102 @@
+{
+	"C2SGmCmd":{
+		"is_req":true,
+		"id":101,
+		"fields":[{"cmd":"string"}]
+	},
+	"S2CGmCmd":{
+		"is_resp":true,
+		"id":102,
+		"fields":[
+			{"ret_code":"int"}
+		]
+	},
+	"S2CErrorCode":{
+		"is_resp":true,
+		"id":100,
+		"fields":[
+			{"msg_num":"int","desc":"ID thông báo"},
+			{"ret_code":"int"}
+		]
+	},
+	"C2SQueryHasRole":{
+		"is_req":true,
+		"id":103,
+		"fields":[
+			{"session_id":"long"},
+			{"qq_open_data":"WanbaLoginGift"}
+		]
+	},
+	"S2CQueryHasRole":{
+		"is_resp":true,
+		"id":104,
+		"fields":[
+			{"has_role":"bool"},
+			{"qq_nickname":"string"}
+		]
+	},
+	"C2SCreateCharacter":{
+		"is_req":true,
+		"id":105,
+		"fields":[
+			{"session_id":"long"},
+			{"name":"string"}
+		]
+	},
+	"S2CCreateCharacter":{
+		"is_resp":true,
+		"id":106,
+		"fields":[
+			{"ret":"int"},
+			{"character_id":"int"}
+		]
+	},
+	"C2SEnterGame":{
+		"is_req":true,
+		"id":107,
+		"fields":[
+			{"session_id":"long"},
+			{"wanba_gift":"WanbaLoginGift"}
+		]
+	},
+	"WanbaLoginGift":{
+		"fields":[
+			{"wanba_gift_id":"int"},
+			{"appid":"string"},
+			{"openid":"string"},
+			{"openkey":"string"},
+			{"pf":"string"}
+		]
+	},
+	"S2CEnterGame":{
+		"is_resp":true,
+		"id":108,
+		"fields":[
+			{"current_time_seconds":"int"},
+			{"game_session_id":"long"}
+		]
+	},
+	"S2CUserInfoStruct":{
+		"is_resp":true,
+		"desc":"Thông tin người chơi.",
+		"id":110,
+		"fields":[
+			{"id":"int"},
+			{"uid":"string","desc":"ID tài khoản"},
+			{"servid":"int"},
+			{"rname":"string"},
+			{"sex":"int"},
+			{"iconid":"int","desc":""},
+			{"headid":"int","desc":"Hình đại diện"},
+			{"frameid":"int","desc":"Khung hình đại diện"},
+			{"imageid":"int","desc":"Hình tượng"},
+			{"gold":"int"},
+			{"yb":"int"},
+			{"level":"int"},
+			{"exp":"int"},
+			{"vip":"int"},
+			{"vipexp":"int"},
+			{"power":"int","desc":"Lực chiến"},
+			{"firstcharge":"long"},
+			{"create":"long","desc":"Thời gian tạo nhân vật"},
+			{"time":"long","desc":"Thời gian đăng nhập vào trò chơi."},
+			{"guideProgress":"int"},
+			{"maxmapid":"int"},
+			{"nowmapid":"int"},
+			{"tower":"int"},
+			{"bagspace":"int"},
+			{"online":"long"},
+			{"hides":"[]SimpleItemInfo"},
+			{"others":"[]SimpleItemInfo"},
+			{"recruitfree":"IORecruitFree"},
+			{"lastgain":"long"},
+			{"battlearr":"[]IOBattleFormation"},
+			{"pvpscore":"int"},
+			{"legion":"long"},
+			{"gnum":"int"},
+			{"fbossphys":"int","desc":"HP của boss bạn bè"},
+			{"tech":"{}int:int"},
+			{"dgtop":"IODungeonTop"},
+			{"occtaskend":"long"},
+			{"occtask":"IOOcctask"},
+			{"special":"IOSpecial"},
+			{"guozhan_pvp":"bool"},
+			{"ydend":"long","desc":"Thời gian kết thúc hoạt động hàng tháng"}
+		]
+	},
+	"IOSpecial":{
+		"fields":[
+			{"bw":"long"},
+			{"qz":"long"},
+			{"zx":"long"},
+			{"lm":"long"},
+			{"yd":"long"},
+			{"cz":"long","desc":"Quỹ tăng trưởng"},
+			{"gz":"long","desc":"Thẻ tháng quý tộc"},
+			{"zz":"long","desc":"Thẻ tháng tối thượng"}
+		]
+	},
+	"IOOcctask":{
+		"fields":[
+			{"index":"int"},
+			{"occtype":"int"},
+			{"rewards":"[]RewardInfo"},
+			{"list":"[]IOOccTask1"},
+			{"reward":"[]RewardInfo"},
+			{"refcost":"RewardInfo"},
+			{"packinfo":"IOOcctaskPackinfo"},
+			{"prewards":"[]int"}
+		]
+	},
+	"IOOccTask1":{
+		"fields":[
+			{"status":"int"},
+			{"rewards":"[]RewardInfo"},
+			{"intro":"string"},
+			{"mark":"int"},
+			{"limit":"int"},
+			{"page":"string"},
+			{"num":"int"}
+		]
+	},
+	"IOOcctaskPackinfo":{
+		"fields":[
+			{"ID":"int"},
+			{"ITEMS":"[]RewardInfo"},
+			{"TYPE":"int"},
+			{"VALUE":"int"},
+			{"WEIGHT":"int"}
+		]
+	},
+	"IODungeonTop":{
+		"fields":[
+			{"chapter":"int"},
+			{"node":"int"}
+		]
+	},
+	"IOBattleFormation":{
+		"fields":[
+			{"f_type":"string"},
+			{"mythic":"int"},
+			{"items":"[]IOFormationGeneralPos"}
+		]
+	},
+	"IOFormationGeneralPos":{
+		"fields":[
+			{"pos":"int"},
+			{"general_uuid":"long"}
+		]
+	},
+	"IORecruitFree":{
+		"fields":[
+			{"normal":"long","desc":"Sau thời gian này có thể rút thưởng miễn phí"},
+			{"premium":"long","desc":"Sau thời gian này có thể rút thưởng cao cấp miễn phí"}
+		]
+	},
+	"SimpleItemInfo":{
+		"fields":[
+			{"gsid":"int"},
+			{"count":"int","desc":"Số lượng vật phẩm"}
+		]
+	},
+	"S2CPlayerKickOff":{
+		"is_resp":true,
+		"id":112
+	},
+	"PushPropChange":{
+		"is_resp":true,
+		"id":114,
+		"fields":[
+			{"gsid":"int","desc":""},
+			{"count":"long"}
+		]
+	},
+	"PushGuideInfo":{
+		"is_resp":true,
+		"desc":"Thông tin hướng dẫn tân thủ",
+		"id":116,
+		"fields":[
+			{"guideInfo":"[]GuideStepInfo"}
+		]
+	},
+	"GuideStepInfo":{
+		"fields":[
+			{"module":"int","desc":"ID module."},
+			{"step":"int","desc":"Bước thứ mấy của module này"}
+		]
+	},
+	"C2SGuideStepSet":{
+		"is_req":true,
+		"id":117,
+		"fields":[
+			{"module":"int","desc":"ID module"},
+			{"step":"int","desc":"Bước thứ mấy của module này"}
+		]
+	},
+	"S2CGuideStepSet":{
+		"is_resp":true,
+		"id":118
+	},
+	"S2CChargeInfo":{
+		"is_resp":true,
+		"desc":"Thông tin thanh toán",
+		"id":120,
+		"fields":[
+			{"is_first_pay":"bool","desc":"Có phải là lần nạp đầu tiên hay không."},
+			{"first_award_get":"bool","desc":"Phần thưởng nạp lần đầu đã nhận hay chưa."},
+			{"payment_level":"[]int","desc":"Các mức thanh toán khác nhau đã từng mua"},
+			{"vip_gift_get":"[]int","desc":"Thông tin nhận gói VIP."},
+			{"is_long_yueka":"bool","desc":"Có phải là thẻ tháng vĩnh viễn hay không"},
+			{"long_yueka_get":"bool","desc":"Thẻ tháng vĩnh viễn đã nhận hôm nay hay chưa"},
+			{"yueka_left_day":"int","desc":"Số ngày còn lại của thẻ tháng"},
+			{"yueka_get":"bool","desc":"Thẻ tháng hôm nay đã nhận hay chưa"}
+		]
+	},
+	"C2SGetFirstPayAward":{
+		"is_req":true,
+		"id":121,
+		"desc":"Nhận phần thưởng nạp lần đầu",
+		"fields":[
+			{"extype":"int"},
+			{"markid":"int"}
+		]
+	},
+	"S2CGetFirstPayAward":{
+		"is_resp":true,
+		"id":122,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"C2SGetVipGift":{
+		"is_req":true,
+		"id":123,
+		"desc":"Nhận phần thưởng từ các cấp độ VIP khác nhau trong bảng VIP.",
+		"fields":[
+			{"vip_level":"int","desc":"Cấp độ VIP"}
+		]
+	},
+	"S2CGetVipGift":{
+		"is_resp":true,
+		"id":124,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"C2SDownlineReconnect":{
+		"is_req":true,
+		"id":125,
+		"desc":"Kết nối lại sau khi mất kết nối",
+		"fields":[
+			{"in_game_session_id":"long"}
+		]
+	},
+	"S2CDownlineReconnect":{
+		"is_resp":true,
+		"id":126,
+		"fields":[
+			{"ret":"int","desc":"Phản hồi thông tin, nếu là số khác không thì biểu thị có lỗi"}
+		]
+	},
+	"C2SListRedPoints":{
+		"is_req":true,
+		"id":127,
+		"desc":"游戏内红点提示"
+	},
+	"S2CListRedPoints":{
+		"is_resp":true,
+		"id":128,
+		"fields":[
+			{"has_redpoint":"[]int","desc":"Thông báo chấm đỏ, 1 là thư, 2 là quán rượu, 3 là kỹ năng quân đoàn, 4 là điểm danh, 5 là nhiệm vụ, 6 là hoạt động"},
+			{"activity_redpoints":"[]int","desc":"Thông báo chấm đỏ cho hoạt động"}
+		]
+	},
+	"C2SQunheiPayPre":{
+		"is_req":true,
+		"id":129,
+		"desc":"Xử lý trước thanh toán nhóm đen",
+		"fields":[
+			{"charge_index":"int","desc":"Chỉ số item nạp tiền"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"S2CQunheiPayPre":{
+		"is_resp":true,
+		"id":130,
+		"fields":[
+			{"charge_index":"int","desc":"Chỉ số item nạp tiền"},
+			{"ext":"string","desc":"Tham số truyền qua nạp tiền (chủ yếu dùng để truyền qua server của người chơi, có thể là mã đơn hàng, mã server hoặc các chỉ số nhận diện khác, trong giao diện gọi lại nạp tiền sẽ được trả về nguyên dạng. Nếu tham số này là giá trị duy nhất, cần cấu hình trong trò chơi tại phía server)"},
+			{"sign":"string","desc":"Xác nhận chữ ký"},
+			{"goodsName":"string","desc":""},
+			{"rmb":"int","desc":""}
+		]
+	},
+	"PushPaymentResult":{
+		"is_resp":true,
+		"id":132,
+		"fields":[
+			{"yb":"int","desc":"Số lượng Nguyên Bảo đã nhận được"},
+			{"pid":"string","desc":"Loại hình nạp tiền"},
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"PushFirstPay":{
+		"is_resp":true,
+		"id":134
+	},
+	"C2SGetYuekaAward":{
+		"is_req":true,
+		"id":135,
+		"desc":"Nhận thưởng thẻ tháng",
+		"fields":[
+			{"type":"int","desc":"1 là Quý Tộc, 2 là Tối Thượng"}
+		]
+	},
+	"S2CGetYuekaAward":{
+		"is_resp":true,
+		"id":136,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"C2SGetQunheiWxShareAward":{
+		"is_req":true,
+		"id":137,
+		"desc":"Phần thưởng chia sẻ qua WeChat"
+	},
+	"S2CGetQunheiWxShareAward":{
+		"is_resp":true,
+		"id":138,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"RewardInfo":{
+		"fields":[
+			{"GSID":"int"},
+			{"COUNT":"int"}
+		]
+	},
+	"PushMarquee":{
+		"is_resp":true,
+		"id":140,
+		"fields":[
+			{"template_id":"int","desc":"ID mẫu, -1 là tự định nghĩa, các giá trị khác để đọc bảng Marquee.json"},
+			{"order":"int","desc":"Thứ tự phát, số càng nhỏ thì càng được ưu tiên phát trước"},
+			{"parameters":"[]string","desc":"Danh sách tham số"},
+			{"content":"string","desc":"Nội dung"},
+			{"count":"int","desc":"Số lần phát"}
+		]
+	},
+	"C2STeamsInfoGet":{
+		"is_req":true,
+		"id":141,
+		"desc":"Xem thông tin đội hình xuất trận của tất cả các mô-đun"
+	},
+	"S2CTeamsInfoGet":{
+		"is_resp":true,
+		"id":142,
+		"fields":[
+			{"teams":"[]IOTeamInfo","desc":""}
+		]
+	},
+	"IOTeamInfo":{
+		"fields":[
+			{"type":"int","desc":"1 là treo máy, 2 là PVE, 3 là PVP, 4 là phòng thủ PVP, 5 là tháp, 6 là bạn bè"},
+			{"pos_card_uuid":"[]long"},
+			{"pet_id":"int"}
+		]
+	},
+	"C2SRankView":{
+		"is_req":true,
+		"id":143,
+		"desc":"Xem bảng xếp hạng",
+		"fields":[
+			{"rtype":"string","desc":"level: cấp độ người chơi, pvp: số lần thắng trong đấu trường PVP, tower: số tầng trong tháp thử thách, legion: lượng sát thương của quân đoàn"}
+		]
+	},
+	"S2CRankView":{
+		"is_resp":true,
+		"id":144,
+		"fields":[
+			{"rtype":"string","desc":""},
+			{"selfrank":"int","desc":""},
+			{"my_rank_change":"int","desc":""},
+			{"list":"[]IORankPlayer","desc":""}
+		]
+	},
+	"IORankPlayer":{
+		"fields":[
+			{"rid":"int","desc":"ID người chơi"},
+			{"rname":"string","desc":"Biệt danh người chơi"},
+			{"iconid":"int","desc":"icon"},
+			{"headid":"int","desc":"head"},
+			{"frameid":"int","desc":"Khung ảnh đại diện"},
+			{"level":"int","desc":"Cấp độ người chơi"},
+			{"power":"int","desc":"Lực chiến"},
+			{"vip":"int","desc":"Cấp độ VIP"},
+			{"rank_change":"int","desc":""},
+			{"hero_stars":"int","desc":""},
+			{"win_count":"int","desc":""},
+			{"score":"int","desc":"Điểm trong đấu trường luyện võ"},
+			{"damage":"int","desc":""},
+			{"tower":"int","desc":"Số tầng tháp thử thách"},
+			{"like_count":"int","desc":"Số lần được thích"},
+			{"chapter":"int","desc":"Một ngựa đánh bại ngàn quân"},
+			{"node":"int","desc":"Một ngựa đánh bại ngàn quân"},
+			{"stage":"int","desc":"Võ Đài Vương Giả"},
+			{"star":"int","desc":"Võ Đài Vương Giả"}
+		]
+	},
+	"C2SZMPayCheck":{
+		"is_req":true,
+		"id":147,
+		"desc":"Xử lý trước thanh toán Trưởng Minh",
+		"fields":[
+			{"fee_id":"int","desc":"Chỉ mục vật phẩm nạp tiền"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"S2CZMPayCheck":{
+		"is_resp":true,
+		"id":148,
+		"fields":[
+			{"fee_id":"string","desc":"Chỉ mục vật phẩm nạp tiền"},
+			{"check":"string","desc":""},
+			{"extradata":"string","desc":"Tham số truyền qua"},
+			{"goodsName":"string","desc":""},
+			{"rmb":"int"}
+		]
+	},
+	"C2SOfflineAwardDouble":{
+		"is_req":true,
+		"id":149,
+		"desc":"Nhận thưởng offline gấp đôi"
+	},
+	"S2COfflineAwardDouble":{
+		"is_resp":true,
+		"id":150,
+		"fields":[
+			{"add_level":"int","desc":"Cấp độ tăng khi offline"}
+		]
+	},
+	"C2S333PayPre":{
+		"is_req":true,
+		"id":151,
+		"desc":"Xử lý trước thanh toán 333",
+		"fields":[
+			{"gameId":"int","desc":"ID hợp tác sản phẩm"},
+			{"goodsName":"string","desc":"Tên sản phẩm, ví dụ: tiền trong game"},
+			{"goodsId":"int","desc":"Chỉ mục vật phẩm nạp tiền"}
+		]
+	},
+	"S2C333PayPre":{
+		"is_resp":true,
+		"id":152,
+		"fields":[
+			{"time":"int"},
+			{"server":"string","desc":"Máy chủ game khi thanh toán"},
+			{"role":"string","desc":"Thông tin nhân vật khi thanh toán, trả lại sau khi thanh toán xong"},
+			{"goodsId":"string","desc":"Chỉ mục vật phẩm nạp tiền"},
+			{"goodsName":"string","desc":"Tên sản phẩm, ví dụ: tiền trong game"},
+			{"money":"int","desc":"Giá sản phẩm (NDT), ví dụ: 1.00"},
+			{"cpOrderId":"string","desc":"Mã đơn hàng game (trả lại nguyên bản khi phản hồi)"},
+			{"sign":"string","desc":"Chuỗi mã hóa"}
+		]
+	},
+	"C2SChongChongPayPre":{
+		"is_req":true,
+		"id":153,
+		"desc":"虫虫支付预处理",
+		"fields":[
+			{"goodsId":"int","desc":"充值item下标"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"S2CChongChongPayPre":{
+		"is_resp":true,
+		"id":154,
+		"fields":[
+			{"goodsId":"int"},
+			{"egretOrderId":"string","desc":"订单Id"},
+			{"money":"int","desc":"人民币元"},
+			{"ext":"string","desc":"透传参数"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"C2S4399PayPre":{
+		"is_req":true,
+		"id":155,
+		"desc":"4399支付预处理",
+		"fields":[
+			{"goodsId":"int","desc":"充值item下标"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"S2C4399PayPre":{
+		"is_resp":true,
+		"id":156,
+		"fields":[
+			{"goodsId":"int"},
+			{"rmb":"int"},
+			{"cpOrderId":"string","desc":"游戏的充值订单编号 最多64位"},
+			{"extra":"string","desc":"透传参数"},
+			{"goodsName":"string","desc":""}
+		]
+	},
+	"C2SRankLike":{
+		"is_req":true,
+		"id":157,
+		"desc":"Được thích trên bảng xếp hạng",
+		"fields":[
+			{"targetPlayerId":"int","desc":""}
+		]
+	},
+	"S2CRankLike":{
+		"is_resp":true,
+		"id":158,
+		"fields":[
+			{"targetPlayerId":"int","desc":""},
+			{"likeCount":"int","desc":""},
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"PushSmallTips":{
+		"is_resp":true,
+		"id":160,
+		"fields":[
+			{"colorType":"int","desc":"1 màu xanh lá, 2 màu đỏ"},
+			{"content":"string","desc":""}
+		]
+	},
+	"C2SWanBaGetBalance":{
+		"is_req":true,
+		"id":161,
+		"desc":"Lấy số dư sao tiền trong Wanba",
+		"fields":[
+			{"appid":"string"},
+			{"openid":"string"},
+			{"openkey":"string"},
+			{"pf":"string"},
+			{"os_platfrom":"int","desc":"ID khu vực, dùng để phân biệt người dùng đang ở nền tảng nào (Android, iOS, v.v.), iOS điền 2, Android điền 1"},
+			{"goodsId":"int"},
+			{"goodsName":"string"}
+		]
+	},
+	"S2CWanBaGetBalance":{
+		"is_resp":true,
+		"id":162,
+		"fields":[
+			{"is_balance_enough":"bool"},
+			{"defaultScore":"int","desc":"Số tiền sao tiền đã thanh toán"},
+			{"itemid":"int"},
+			{"cpOrderId":"string"},
+			{"goodsName":"string"}
+		]
+	},
+	"C2SWanBaPay":{
+		"is_req":true,
+		"id":163,
+		"desc":"玩吧支付",
+		"fields":[
+			{"appid":"string"},
+			{"openid":"string"},
+			{"openkey":"string"},
+			{"pf":"string"},
+			{"os_platfrom":"int","desc":"ID khu vực, dùng để phân biệt người dùng đang ở nền tảng nào (Android, iOS, v.v.), iOS điền 2, Android điền 1"},
+			{"itemid":"int"}
+		]
+	},
+	"C2SAddDesktopShortcutAward":{
+		"is_req":true,
+		"id":165,
+		"desc":"Phần thưởng chia sẻ lên màn hình chính"
+	},
+	"S2CAddDesktopShortcutAward":{
+		"is_resp":true,
+		"id":166,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"Nội dung phần thưởng"}
+		]
+	},
+	"C2SChangeName":{
+		"is_req":true,
+		"id":167,
+		"desc":"Đổi tên",
+		"fields":[
+			{"name":"string"}
+		]
+	},
+	"S2CChangeName":{
+		"is_resp":true,
+		"id":168,
+		"fields":[
+			{"name":"string"}
+		]
+	},
+	"C2SHeadsFramesImagesList":{
+		"is_req":true,
+		"id":169,
+		"desc":"Ảnh đại diện, khung ảnh đại diện, danh sách hình ảnh anh hùng"
+	},
+	"S2CHeadsFramesImagesList":{
+		"is_resp":true,
+		"id":170,
+		"fields":[
+			{"_icons":"string"},
+			{"heads":"[]int"},
+			{"frames":"[]int"},
+			{"images":"[]int"}
+		]
+	},
+	"C2SChangeHeadIcon":{
+		"is_req":true,
+		"id":171,
+		"desc":"Đổi ảnh đại diện",
+		"fields":[
+			{"head_id":"int"}
+		]
+	},
+	"S2CChangeHeadIcon":{
+		"is_resp":true,
+		"id":172,
+		"fields":[
+			{"head_id":"int"}
+		]
+	},
+	"C2SChangeHeadFrame":{
+		"is_req":true,
+		"id":173,
+		"desc":"Đổi khung ảnh đại diện",
+		"fields":[
+			{"head_frame_id":"int"}
+		]
+	},
+	"S2CChangeHeadFrame":{
+		"is_resp":true,
+		"id":174,
+		"fields":[
+			{"head_frame_id":"int"}
+		]
+	},
+	"C2SChangeHeadImage":{
+		"is_req":true,
+		"id":175,
+		"desc":"Đổi khung ảnh đại diện",
+		"fields":[
+			{"image_id":"int"}
+		]
+	},
+	"S2CChangeHeadImage":{
+		"is_resp":true,
+		"id":176,
+		"fields":[
+			{"image_id":"int"}
+		]
+	},
+	"C2SIosIAPVerify":{
+		"is_req":true,
+		"id":177,
+		"desc":"IAP verify",
+		"fields":[
+			{"receipt":"string"}
+		]
+	},
+	"S2CIosIAPVerify":{
+		"is_resp":true,
+		"id":178
+	},
+	"PushIosIAPVerify":{
+		"is_resp":true,
+		"id":180,
+		"fields":[
+			{"ret":"int"}
+		]
+	},
+	"C2SQedjList":{
+		"is_req":true,
+		"id":181,
+		"desc":"Tra cứu thông tin Qiee Esports"
+	},
+	"S2CQedjList":{
+		"is_resp":true,
+		"id":182,
+		"fields":[
+			{"is_award_get":"bool"},
+			{"rewards":"[]RewardInfo","desc":"奖励内容"}
+		]
+	},
+	"C2SQedjAward":{
+		"is_req":true,
+		"id":183,
+		"desc":"企鹅电竞领取奖励"
+	},
+	"S2CQedjAward":{
+		"is_resp":true,
+		"id":184,
+		"fields":[
+			{"rewards":"[]RewardInfo","desc":"奖励内容"}
+		]
+	},
+	"C2STeamsInfoSet":{
+		"is_req":true,
+		"id":185,
+		"desc":"更新上阵队伍信息",
+		"fields":[
+			{"type":"int","desc":"1挂机，2PVE，3PVP，4PVP防守，5塔，6好友"},
+			{"pos_card_uuid":"[]long"},
+			{"pet_id":"int"}
+		]
+	},
+	"S2CTeamsInfoSet":{
+		"is_resp":true,
+		"id":186
+	},
+	"C2SGoldBuyList":{
+		"is_req":true,
+		"id":187
+	},
+	"S2CGoldBuyList":{
+		"is_resp":true,
+		"id":188,
+		"fields":[
+			{"buy_seconds":"[]int","desc":"已经购买的信息，当天经过的秒数"}
+		]
+	},
+	"C2SGoldBuy":{
+		"is_req":true,
+		"id":189,
+		"desc":"mua tiền vàng",
+		"fields":[
+			{"buy_type":"int"}
+		]
+	},
+	"S2CGoldBuy":{
+		"is_resp":true,
+		"id":190,
+		"fields":[
+			{"buy_type":"int"},
+			{"rewards":"[]RewardInfo"}
+		]
+	},
+	"C2SDrawList":{
+		"is_req":true,
+		"id":191,
+		"desc":"Trang quán rượu mở ra"
+	},
+	"S2CDrawList":{
+		"is_resp":true,
+		"id":192
+	},
+	"C2SDrawRecruit":{
+		"is_req":true,
+		"id":193,
+		"desc":"酒馆抽取英雄",
+		"fields":[
+			{"buy_type":"int"},
+			{"times":"int"}
+		]
+	},
+	"S2CDrawRecruit":{
+		"is_resp":true,
+		"id":194,
+		"fields":[
+			{"buy_type":"int"},
+			{"times":"int"},
+			{"rewards":"[]RewardInfo"}
+		]
+	},
+	"C2SScrollAnno":{
+		"is_req":true,
+		"id":195,
+		"desc":"主界面滚动公告"
+	},
+	"S2CScrollAnno":{
+		"is_resp":true,
+		"id":196,
+		"fields":[
+			{"annos":"[]string"}
+		]
+	},
+	"C2SBattleSeason":{
+		"is_req":true,
+		"id":197,
+		"desc":"战斗赛季信息"
+	},
+	"S2CBattleSeason":{
+		"is_resp":true,
+		"id":198,
+		"fields":[
+			{"vals":"[]int"},
+			{"info":"IOSeason"}
+		]
+	},
+	"IOSeason":{
+		"fields":[
+			{"etime":"long"},
+			{"year":"int"},
+			{"season":"int"},
+			{"pos":"[]int"}
+		]
+	},
+	"C2SGetOtherPlayerInfo":{
+		"is_req":true,
+		"id":199,
+		"desc":"获取玩家信息",
+		"fields":[
+			{"ids":"[]int"},
+			{"pvpdef":"bool"},
+			{"battleset":"string"}
+		]
+	},
+	"S2CGetOtherPlayerInfo":{
+		"is_resp":true,
+		"id":200,
+		"fields":[
+			{"items":"[]IOOtherPlayer"}
+		]
+	},
+	"IOOtherPlayer":{
+		"fields":[
+			{"rid":"int"},
+			{"rno":"int"},
+			{"rname":"string"},
+			{"sex":"int"},
+			{"power":"int"},
+			{"iconid":"int"},
+			{"headid":"int"},
+			{"frameid":"int"},
+			{"imageid":"int"},
+			{"level":"int"},
+			{"vip":"int"},
+			{"office_index":"int","desc":"官职,百位表示国家id，个十位表示官职index"},
+			{"bestgeneral":"[]IOGeneralBean"},
+			{"battleset":"IOBattleSet"},
+			{"points":"int"},
+			{"battlelines":"[]IOBattleLine"},
+			{"kpBattleset":"[]IOBattleSet"}
+		]
+	},
+	"IOBattleSet":{
+		"fields":[
+			{"mythic":"int"},
+			{"power":"int"},
+			{"team":"{}int:IOGeneralBean"}
+
+		]
+	},
+	"IOBattleLine":{
+		"fields":[
+			{"power":"int"}
+
+		]
+	},
+	"IOGeneralBean":{
+		"fields":[
+			{"guid":"long","desc":"UUID của tướng"},
+			{"gsid":"int","desc":"武将模板id"},
+			{"level":"int","desc":"等级"},
+			{"star":"int"},
+			{"camp":"int"},
+			{"occu":"int"},
+			{"class":"int"},
+			{"power":"int"},
+			{"talent":"[]int"},
+			{"affairs":"int"},
+			{"treasure":"int"},
+			{"property":"IOProperty"},
+			{"equip":"[]int","desc":""},
+			{"skill":"[]int","desc":""},
+			{"exclusive":"IOExclusive","desc":"坐骑"},
+			{"hppercent":"int"}
+		],
+		"from_module":"hero"
+	},
+	"IOProperty":{
+		"fields":[
+			{"hp":"int"},
+			{"atk":"int"},
+			{"def":"int"},
+			{"mdef":"int"},
+			{"atktime":"float"},
+			{"range":"int"},
+			{"msp":"int"},
+			{"pasp":"int"},
+			{"pcri":"int"},
+			{"pcrid":"int"},
+			{"pdam":"int"},
+			{"php":"int"},
+			{"patk":"int"},
+			{"pdef":"int"},
+			{"pmdef":"int"},
+			{"ppbs":"int"},
+			{"pmbs":"int"},
+			{"pefc":"int"},
+			{"ppthr":"int"},
+			{"patkdam":"int"},
+			{"pskidam":"int"},
+			{"pckatk":"int"},
+			{"pmthr":"int"},
+			{"pdex":"int"},
+			{"pmdex":"int"},
+			{"pmsatk":"int"},
+			{"pmps":"int"},
+			{"pcd":"int"}
+		],
+		"from_module":"hero"
+	},
+	"IOExclusive":{
+		"fields":[
+			{"level":"int"},
+			{"skill":"[]int"},
+			{"gsid":"int"},
+			{"property":"[]KvStringPair"}
+		],
+		"from_module":"hero"
+	},
+	"KvStringPair":{
+		"fields":[
+			{"key":"string"},
+			{"val":"int"}
+		],
+		"from_module":"hero"
+	},
+	"C2SPlayerBaseData":{
+		"is_req":true,
+		"id":1001,
+		"desc":"获取玩家基本信息"
+	},
+	"S2CPlayerBaseData":{
+		"is_resp":true,
+		"id":1002,
+		"fields":[
+			{"maxmapid":"int"},
+			{"tower":"int"},
+			{"pvpscore":"int"},
+			{"gnum":"int"},
+			{"bagspace":"int"},
+			{"hiddens":"[]SimpleItemInfo"},
+			{"special":"IOSpecial"}
+		]
+	},
+	"C2SGuideStep":{
+		"is_req":true,
+		"id":1003,
+		"desc":"引导进一步"
+	},
+	"S2CGuideStep":{
+		"is_resp":true,
+		"id":1004
+	},
+	"C2SGuideOne":{
+		"is_req":true,
+		"id":1005,
+		"desc":"",
+		"fields":[
+			{"akey":"int"}
+		]
+	},
+	"S2CGuideOne":{
+		"is_resp":true,
+		"id":1006,
+		"fields":[
+			{"isHas":"bool"}
+		]
+	},
+	"C2SGuideSave":{
+		"is_req":true,
+		"id":1007,
+		"desc":"",
+		"fields":[
+			{"step":"int"},
+			{"time":"long"},
+			{"mark":"string"}
+		]
+	},
+	"S2CGuideSave":{
+		"is_resp":true,
+		"id":1008
+	},
+	"C2SGuideChooseReward":{
+		"is_req":true,
+		"id":1009,
+		"desc":"",
+		"fields":[
+			{"choose_str":"string"}
+		]
+	},
+	"S2CGuideChooseReward":{
+		"is_resp":true,
+		"id":1010,
+		"fields":[
+			{"rewards":"[]SimpleItemInfo"}
+		]
+	},
+	"C2SGuideEnd":{
+		"is_req":true,
+		"id":1011,
+		"desc":"结束引导",
+		"fields":[
+			{"add_step":"int"}
+		]
+	},
+	"S2CGuideEnd":{
+		"is_resp":true,
+		"id":1012
+	},
+	"C2SHeroChoose1in3":{
+		"is_req":true,
+		"id":1013,
+		"desc":"3选1",
+		"fields":[
+			{"index":"int"}
+		]
+	},
+	"S2CHeroChoose1in3":{
+		"is_resp":true,
+		"id":1014,
+		"fields":[
+			{"rewards":"[]SimpleItemInfo"}
+		]
+	},
+	"C2SPlayerByParam":{
+		"is_req":true,
+		"id":1015,
+		"desc":"",
+		"fields":[
+			{"arr":"[]string"}
+		]
+	},
+	"S2CPlayerByParam":{
+		"is_resp":true,
+		"id":1016,
+		"fields":[
+			{"legion":"long"},
+			{"gnum":"int"},
+			{"bagspace":"int"},
+			{"tech":"{}int:int"},
+			{"dgtop":"IODungeonTop"},
+			{"frameid":"int"}
+		]
+	},
+	"PushScrollAnno":{
+		"is_resp":true,
+		"id":1018,
+		"fields":[
+			{"msg_id":"int"},
+			{"params":"[]string"}
+		]
+	},
+	"C2SBuyRight":{
+		"is_req":true,
+		"id":1019,
+		"desc":"",
+		"fields":[
+			{"pid":"string"}
+		]
+	},
+	"S2CBuyRight":{
+		"is_resp":true,
+		"id":1020
+	}
+}

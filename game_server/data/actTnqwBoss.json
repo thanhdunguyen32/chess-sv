@@ -1,0 +1,326 @@
+[
+    {
+        "name": "青龙",
+		"name_vn": "Thanh Long",
+        "gsid": 16101,
+        "level": 140,
+        "challrewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000
+            }
+        ],
+        "killrewards": [
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 30026,
+                "COUNT": 12500
+            }
+        ],
+        "nowhp": 0,
+        "maxhp": 330000000,
+        "lastdamge": 330000000,
+        "last": 0,
+        "bset": {
+            "9": {
+                "gsid": 16102,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "13": {
+                "gsid": 10102,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "18": {
+                "gsid": 12122,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "20": {
+                "gsid": 14422,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "27": {
+                "gsid": 14082,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            }
+        }
+    },
+    {
+        "name": "白虎",
+		"name_vn": "Bạch Hổ",
+        "gsid": 12061,
+        "level": 140,
+        "challrewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000
+            }
+        ],
+        "killrewards": [
+            {
+                "GSID": 36001,
+                "COUNT": 50
+            },
+            {
+                "GSID": 38006,
+                "COUNT": 40000000
+            },
+            {
+                "GSID": 30015,
+                "COUNT": 4000
+            }
+        ],
+        "nowhp": 330000000,
+        "maxhp": 330000000,
+        "lastdamge": 0,
+        "last": 0,
+        "bset": {
+            "4": {
+                "gsid": 12062,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "11": {
+                "gsid": 12082,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "13": {
+                "gsid": 16062,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "18": {
+                "gsid": 10042,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            },
+            "22": {
+                "gsid": 10082,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 66000000,
+                "exatk": 5.5
+            }
+        }
+    },
+    {
+        "name": "朱雀",
+		"name_vn": "Chu Tước",
+        "gsid": 12141,
+        "level": 140,
+        "challrewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000
+            }
+        ],
+        "killrewards": [
+            {
+                "GSID": 36001,
+                "COUNT": 75
+            },
+            {
+                "GSID": 31007,
+                "COUNT": 1
+            }
+        ],
+        "nowhp": 500000000,
+        "maxhp": 500000000,
+        "lastdamge": 0,
+        "last": 0,
+        "bset": {
+            "0": {
+                "gsid": 12146,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "7": {
+                "gsid": 14146,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "19": {
+                "gsid": 10146,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "24": {
+                "gsid": 12386,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "31": {
+                "gsid": 16166,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            }
+        }
+    },
+    {
+        "name": "玄武",
+		"name_vn": "Huyền Vũ",
+        "gsid": 18021,
+        "level": 140,
+        "challrewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000
+            }
+        ],
+        "killrewards": [
+            {
+                "GSID": 36001,
+                "COUNT": 75
+            },
+            {
+                "GSID": 30016,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30017,
+                "COUNT": 3000
+            }
+        ],
+        "nowhp": 500000000,
+        "maxhp": 500000000,
+        "lastdamge": 0,
+        "last": 0,
+        "bset": {
+            "18": {
+                "gsid": 18026,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "19": {
+                "gsid": 16006,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "20": {
+                "gsid": 14406,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "21": {
+                "gsid": 16026,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            },
+            "22": {
+                "gsid": 17026,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 3.5
+            }
+        }
+    },
+    {
+        "name": "麒麟",
+		"name_vn": "Kỳ Lân",
+        "gsid": 18006,
+        "level": 140,
+        "challrewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000
+            }
+        ],
+        "killrewards": [
+            {
+                "GSID": 32104,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30036,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30029,
+                "COUNT": 200
+            },
+            {
+                "GSID": 37001,
+                "COUNT": 50
+            }
+        ],
+        "nowhp": 1000000000,
+        "maxhp": 1000000000,
+        "lastdamge": 0,
+        "last": 0,
+        "bset": {
+            "31": {
+                "gsid": 18006,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1000000000,
+                "exatk": 3.5
+            }
+        }
+    }
+]

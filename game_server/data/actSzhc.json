@@ -1,0 +1,143 @@
+[
+  {
+    "consume": [
+      {
+        "GSID": 33015,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33115,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33215,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33315,
+        "COUNT": 1
+      }
+    ],
+    "demand": [
+      {
+        "GSID": 33014,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33114,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33214,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33314,
+        "COUNT": 1
+      },
+      {
+        "GSID": 38005,
+        "COUNT": 2000
+      },
+      {
+        "GSID": 38006,
+        "COUNT": 10000000
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 33016,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33116,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33216,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33316,
+        "COUNT": 1
+      }
+    ],
+    "demand": [
+      {
+        "GSID": 33015,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33115,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33215,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33315,
+        "COUNT": 1
+      },
+      {
+        "GSID": 38005,
+        "COUNT": 3000
+      },
+      {
+        "GSID": 38006,
+        "COUNT": 20000000
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 33017,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33117,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33217,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33317,
+        "COUNT": 1
+      }
+    ],
+    "demand": [
+      {
+        "GSID": 33016,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33116,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33216,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33316,
+        "COUNT": 1
+      },
+      {
+        "GSID": 38005,
+        "COUNT": 5000
+      },
+      {
+        "GSID": 38006,
+        "COUNT": 40000000
+      }
+    ],
+    "buytime": 1
+  }
+]

@@ -1,0 +1,56 @@
+package beans;
+
+option optimize_for = SPEED;
+option java_package = "game.module.db.bean";
+
+//好友互助频道
+message DBFriendHelpChannel{
+	repeated DBFriendHelpItem hero_item = 1;
+}
+
+message DBFriendHelpItem{
+	required int64 uuid = 1;
+	required int32 type = 2;//1赠送，2索取
+	required int32 player_id = 3;
+	required int32 material_id = 4;
+	required int32 sum_count = 5;//赠送总数
+	required int32 left_count = 6;//可以领取的数量,别人送给他的数量
+	required int64 timestamp =7;
+	optional int32 sender_id = 8;//赠送人id
+}
+
+message DBFriendBuilding{
+	repeated DBFriendBuildingItem building_item = 1;
+}
+
+message DBFriendBuildingItem{
+	required int32 building_type = 1;
+	required int32 building_level = 2;	
+	required int64 upgrade_time = 3;
+	required int64 build_time = 4;
+	required int64 reward_time = 5;
+}
+
+//奇珍异宝玩家参与信息
+message DBQiZhenYiBaoPlayers{
+	required int32 current_count = 1;
+	repeated DBQZYBPlayer1 player_join = 2;
+	repeated string kai_jiang_player = 3;
+}
+
+message DBQZYBPlayer1{
+	required int32 player_id = 1;
+	required string player_name = 2;
+	required int32 count = 3;
+	required int32 last_buy_time = 4;
+}
+
+//充值榜玩家参与信息
+message DbChongZhiBang{
+	repeated DbChongZhiBangPlayer player_info = 1;
+}
+
+message DbChongZhiBangPlayer{
+	required int32 player_id = 1;
+	required int32 val = 2;
+}

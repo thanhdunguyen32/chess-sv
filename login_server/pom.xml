@@ -1,0 +1,232 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  	<parent>
+		<groupId>hack.sango</groupId>
+		<artifactId>game-parent</artifactId>
+		<version>1.1</version>
+		<relativePath>../maven_base_pom/pom.xml</relativePath>
+	</parent>
+	<artifactId>login-server</artifactId>
+	<version>1.1</version>
+	<name>login-server</name>
+	<packaging>jar</packaging>
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	</properties>
+	<dependencies>
+		<!-- dependency>
+			<groupId>org.eclipse.jetty</groupId>
+			<artifactId>jetty-server</artifactId>
+		</dependency -->
+	    <!-- seed common lib -->
+	    <!-- dependency>
+	        <groupId>rpg.server</groupId>
+	        <artifactId>seed-server</artifactId>
+	    </dependency -->
+	    <dependency>
+	      <groupId>io.netty</groupId>
+	      <artifactId>netty-tcnative-boringssl-static</artifactId>
+	      <classifier>linux-x86_64</classifier>
+	    </dependency>
+	    <dependency>
+	        <groupId>hack.sango</groupId>
+	        <artifactId>seed-lion</artifactId>
+	    </dependency>
+	    <dependency>
+			<groupId>hack.sango</groupId>
+			<artifactId>open-sdk</artifactId>
+		</dependency>
+		<!-- logging -->
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>jcl-over-slf4j</artifactId>
+		</dependency>
+		<dependency> 
+		    <groupId>ch.qos.logback</groupId> 
+		    <artifactId>logback-core</artifactId> 
+		</dependency> 
+		<dependency> 
+		    <groupId>ch.qos.logback</groupId> 
+		    <artifactId>logback-classic</artifactId> 
+		</dependency>
+		<dependency>
+			<groupId>org.apache.commons</groupId>
+			<artifactId>commons-lang3</artifactId>
+		</dependency>
+		<!-- dependency>
+			<groupId>commons-beanutils</groupId>
+			<artifactId>commons-beanutils-core</artifactId>
+			<version>1.8.3</version>
+		</dependency -->
+		<!-- json -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-codec</groupId>
+			<artifactId>commons-codec</artifactId>
+		</dependency>
+		
+		<!-- netty -->	    
+		<dependency>
+			<groupId>io.netty</groupId>
+			<artifactId>netty-all</artifactId> <!-- Use 'netty-all' for 4.0 or above -->
+		</dependency>
+		<!-- db -->
+		<!-- dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>tomcat-jdbc</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>org.apache.tomcat</groupId>
+			<artifactId>tomcat-juli</artifactId>
+		</dependency -->
+		<dependency>
+		    <groupId>com.zaxxer</groupId>
+		    <artifactId>HikariCP</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>commons-dbutils</groupId>
+			<artifactId>commons-dbutils</artifactId>
+		</dependency>
+		<dependency>
+		    <groupId>io.github.lukehutch</groupId>
+		    <artifactId>fast-classpath-scanner</artifactId>
+		</dependency>
+		<!-- protobuf -->
+		<dependency>
+			<groupId>io.protostuff</groupId>
+			<artifactId>protostuff-api</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.protobuf</groupId>
+			<artifactId>protobuf-java</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>io.protostuff</groupId>
+			<artifactId>protostuff-core</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>io.protostuff</groupId>
+			<artifactId>protostuff-runtime</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.guava</groupId>
+			<artifactId>guava</artifactId>
+		</dependency>
+    </dependencies>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <resources>
+      <resource>
+        <directory>resources</directory>
+        <excludes>
+          <exclude>**/*.java</exclude>
+        </excludes>
+      </resource>
+    </resources>
+    <plugins>
+      <plugin>
+        <artifactId>maven-compiler-plugin</artifactId>
+        <version>3.7.0</version>
+        <configuration>
+          <source>1.8</source>
+          <target>1.8</target>
+        </configuration>
+      </plugin>
+      <plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-assembly-plugin</artifactId>
+				<version>3.1.0</version>
+				<!-- The configuration of the plugin -->
+				<configuration>
+					<!-- Specifies the configuration file of the assembly plugin -->
+					<descriptors>
+						<descriptor>resources/assembly.xml</descriptor>
+					</descriptors>
+				</configuration>
+				<executions>
+					<execution>
+						<id>make-assembly</id> <!-- this is used for inheritance merges -->
+						<phase>package</phase> <!-- bind to the packaging phase -->
+						<goals>
+							<goal>single</goal>
+						</goals>
+					</execution>
+				</executions>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-jar-plugin</artifactId>
+				<version>3.0.2</version>
+				<configuration>
+					<archive>
+						<manifest>
+							<addClasspath>true</addClasspath>
+							<classpathPrefix>libs/</classpathPrefix>
+							<mainClass>login.LoginServer</mainClass>
+						</manifest>
+						<manifestEntries>
+							<Class-Path>.</Class-Path>
+						</manifestEntries>
+					</archive>
+					<excludes>
+						<exclude>game/test</exclude>
+						<exclude>game/test/**/*</exclude>
+						<exclude>conf</exclude>
+						<exclude>conf/**/*</exclude>
+						<exclude>proto</exclude>
+						<exclude>proto/**/*</exclude>
+						<exclude>assembly</exclude>
+						<exclude>assembly/**/*</exclude>
+						<exclude>script</exclude>
+						<exclude>script/**/*</exclude>
+						<exclude>template</exclude>
+						<exclude>template/**/*</exclude>
+						<exclude>**/*.proto</exclude>
+						<exclude>**/*.xml</exclude>
+						<exclude>**/*.key</exclude>
+						<exclude>**/*.pem</exclude>
+					</excludes>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-shade-plugin</artifactId>
+				<version>3.2.4</version>
+				<executions>
+					<execution>
+						<phase>package</phase>
+						<goals>
+							<goal>shade</goal>
+						</goals>
+						<configuration>
+							<transformers>
+								<transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
+									<mainClass>login.LoginServer</mainClass>
+								</transformer>
+								<transformer implementation="org.apache.maven.plugins.shade.resource.AppendingTransformer">
+									<resource>login.properties</resource>
+								</transformer>
+							</transformers>
+						</configuration>
+					</execution>
+				</executions>
+			</plugin>
+    </plugins>
+  </build>
+</project>

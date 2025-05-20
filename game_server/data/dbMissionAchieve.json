@@ -1,0 +1,3583 @@
+[
+  {
+    "GETMARK": 93100,
+    "MISSION": [
+      {
+        "GETMARK": 93100,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": "level",
+        "NAME": "升到20级",
+        "NAME_VN": "Đạt cấp 20",
+        "EXID": "achieve_1_0",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 26302
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": "level",
+        "NAME": "升到30级",
+        "NAME_VN": "Đạt cấp 30",
+        "EXID": "achieve_1_1",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 2,
+        "CNUM": 40,
+        "PMARK": "level",
+        "NAME": "升到40级",
+        "NAME_VN": "Đạt cấp 40",
+        "EXID": "achieve_1_2",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 3,
+        "CNUM": 50,
+        "PMARK": "level",
+        "NAME": "升到50级",
+        "NAME_VN": "Đạt cấp 50",
+        "EXID": "achieve_1_3",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 4,
+        "CNUM": 60,
+        "PMARK": "level",
+        "NAME": "升到60级",
+        "NAME_VN": "Đạt cấp 60",
+        "EXID": "achieve_1_4",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 5,
+        "CNUM": 70,
+        "PMARK": "level",
+        "NAME": "升到70级",
+        "NAME_VN": "Đạt cấp 70",
+        "EXID": "achieve_1_5",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 6,
+        "CNUM": 80,
+        "PMARK": "level",
+        "NAME": "升到80级",
+        "NAME_VN": "Đạt cấp 80",
+        "EXID": "achieve_1_6",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 7,
+        "CNUM": 90,
+        "PMARK": "level",
+        "NAME": "升到90级",
+        "NAME_VN": "Đạt cấp 90",
+        "EXID": "achieve_1_7",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 8,
+        "CNUM": 100,
+        "PMARK": "level",
+        "NAME": "升到100级",
+        "NAME_VN": "Đạt cấp 100",
+        "EXID": "achieve_1_8",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 9,
+        "CNUM": 110,
+        "PMARK": "level",
+        "NAME": "升到110级",
+        "NAME_VN": "Đạt cấp 110",
+        "EXID": "achieve_1_9",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 9
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 10,
+        "CNUM": 120,
+        "PMARK": "level",
+        "NAME": "升到120级",
+        "NAME_VN": "Đạt cấp 120",
+        "EXID": "achieve_1_10",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 10
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 11,
+        "CNUM": 130,
+        "PMARK": "level",
+        "NAME": "升到130级",
+        "NAME_VN": "Đạt cấp 130",
+        "EXID": "achieve_1_11",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 11
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 12,
+        "CNUM": 140,
+        "PMARK": "level",
+        "NAME": "升到140级",
+        "NAME_VN": "Đạt cấp 140",
+        "EXID": "achieve_1_12",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 12
+      },
+      {
+        "GETMARK": 93100,
+        "ID": 13,
+        "CNUM": 150,
+        "PMARK": "level",
+        "NAME": "升到150级",
+        "NAME_VN": "Đạt cấp 150",
+        "EXID": "achieve_1_13",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 13
+      }
+    ]
+  },
+  {
+    "GETMARK": 93101,
+    "MISSION": [
+      {
+        "GETMARK": 93101,
+        "ID": 0,
+        "CNUM": 10000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到10000",
+        "NAME_VN": "Lực chiến đạt tới 10000",
+        "EXID": "achieve_2_0",
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 1,
+        "CNUM": 20000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到20000",
+        "NAME_VN": "Lực chiến đạt tới 20000",
+        "EXID": "achieve_2_1",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 2,
+        "CNUM": 50000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到50000",
+        "NAME_VN": "Lực chiến đạt tới 50000",
+        "EXID": "achieve_2_2",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 3,
+        "CNUM": 100000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到100000",
+        "NAME_VN": "Lực chiến đạt tới 100000",
+        "EXID": "achieve_2_3",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 4,
+        "CNUM": 150000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到150000",
+        "NAME_VN": "Lực chiến đạt tới 150000",
+        "EXID": "achieve_2_4",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 5,
+        "CNUM": 300000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到300000",
+        "NAME_VN": "Lực chiến đạt tới 300000",
+        "EXID": "achieve_2_5",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 6,
+        "CNUM": 500000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到500000",
+        "NAME_VN": "Lực chiến đạt tới 500000",
+        "EXID": "achieve_2_6",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 7,
+        "CNUM": 750000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到750000",
+        "NAME_VN": "Lực chiến đạt tới 750000",
+        "EXID": "achieve_2_7",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93101,
+        "ID": 8,
+        "CNUM": 1000000,
+        "PMARK": 90185,
+        "NAME": "战斗力达到1000000",
+        "NAME_VN": "Lực chiến đạt tới 1000000",
+        "EXID": "achieve_2_8",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 30011
+          }
+        ],
+        "GNUM": 8
+      }
+    ]
+  },
+  {
+    "GETMARK": 93102,
+    "MISSION": [
+      {
+        "GETMARK": 93102,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": "legion",
+        "NAME": "创建或者加入联盟",
+        "NAME_VN": "Thành lập hoặc là gia nhập quân đoàn",
+        "EXID": "achieve_3_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      }
+    ]
+  },
+  {
+    "GETMARK": 93103,
+    "MISSION": [
+      {
+        "GETMARK": 93103,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90186,
+        "NAME": "任意武将升到10级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 10",
+        "EXID": "achieve_4_0",
+        "REWARD": [
+          {
+            "COUNT": 5000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": 90186,
+        "NAME": "任意武将升到30级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 30",
+        "EXID": "achieve_4_1",
+        "REWARD": [
+          {
+            "COUNT": 10000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 2,
+        "CNUM": 40,
+        "PMARK": 90186,
+        "NAME": "任意武将升到40级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 40",
+        "EXID": "achieve_4_2",
+        "REWARD": [
+          {
+            "COUNT": 20000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 3,
+        "CNUM": 50,
+        "PMARK": 90186,
+        "NAME": "任意武将升到50级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 50",
+        "EXID": "achieve_4_3",
+        "REWARD": [
+          {
+            "COUNT": 30000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 4,
+        "CNUM": 60,
+        "PMARK": 90186,
+        "NAME": "任意武将升到60级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 60",
+        "EXID": "achieve_4_4",
+        "REWARD": [
+          {
+            "COUNT": 50000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 5,
+        "CNUM": 80,
+        "PMARK": 90186,
+        "NAME": "任意武将升到80级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 80",
+        "EXID": "achieve_4_5",
+        "REWARD": [
+          {
+            "COUNT": 100000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 6,
+        "CNUM": 100,
+        "PMARK": 90186,
+        "NAME": "任意武将升到100级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 100",
+        "EXID": "achieve_4_6",
+        "REWARD": [
+          {
+            "COUNT": 200000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 7,
+        "CNUM": 140,
+        "PMARK": 90186,
+        "NAME": "任意武将升到140级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 140",
+        "EXID": "achieve_4_7",
+        "REWARD": [
+          {
+            "COUNT": 400000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 8,
+        "CNUM": 200,
+        "PMARK": 90186,
+        "NAME": "任意武将升到200级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 200",
+        "EXID": "achieve_4_8",
+        "REWARD": [
+          {
+            "COUNT": 500000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 9,
+        "CNUM": 250,
+        "PMARK": 90186,
+        "NAME": "任意武将升到250级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 250",
+        "EXID": "achieve_4_9",
+        "REWARD": [
+          {
+            "COUNT": 1000000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 9
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 10,
+        "CNUM": 260,
+        "PMARK": 90186,
+        "NAME": "任意武将升到260级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 260",
+        "EXID": "achieve_4_10",
+        "REWARD": [
+          {
+            "COUNT": 2000000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 10
+      },
+      {
+        "GETMARK": 93103,
+        "ID": 11,
+        "CNUM": 280,
+        "PMARK": 90186,
+        "NAME": "任意武将升到280级",
+        "NAME_VN": "Tăng võ tướng bất kỳ lên cấp 280",
+        "EXID": "achieve_4_11",
+        "REWARD": [
+          {
+            "COUNT": 3000000,
+            "GSID": 30001
+          }
+        ],
+        "GNUM": 11
+      }
+    ]
+  },
+  {
+    "GETMARK": 93104,
+    "MISSION": [
+      {
+        "GETMARK": 93104,
+        "ID": 0,
+        "CNUM": 10610,
+        "PMARK": "maxmapid",
+        "NAME": "击败董卓势力",
+        "NAME_VN": "Đánh bại thế lực Đổng Trác",
+        "EXID": "achieve_5_0",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 1,
+        "CNUM": 11610,
+        "PMARK": "maxmapid",
+        "NAME": "击败曹操势力",
+        "NAME_VN": "Đánh bại thế lực Tào Tháo",
+        "EXID": "achieve_5_1",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 2,
+        "CNUM": 12610,
+        "PMARK": "maxmapid",
+        "NAME": "击败刘备势力",
+        "NAME_VN": "Đánh bại thế lực Lưu Bị",
+        "EXID": "achieve_5_2",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 3,
+        "CNUM": 13610,
+        "PMARK": "maxmapid",
+        "NAME": "击败孙权势力",
+        "NAME_VN": "Đánh bại thế lực Tôn Quyền",
+        "EXID": "achieve_5_3",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 4,
+        "CNUM": 14610,
+        "PMARK": "maxmapid",
+        "NAME": "击败刘表势力",
+        "NAME_VN": "Đánh bại thế lực Lưu Biểu",
+        "EXID": "achieve_5_4",
+        "REWARD": [
+          {
+            "COUNT": 600,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 5,
+        "CNUM": 15610,
+        "PMARK": "maxmapid",
+        "NAME": "击败刘璋势力",
+        "NAME_VN": "Đánh bại thế lực Lưu Chương",
+        "EXID": "achieve_5_5",
+        "REWARD": [
+          {
+            "COUNT": 700,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 6,
+        "CNUM": 16610,
+        "PMARK": "maxmapid",
+        "NAME": "击败马腾势力",
+        "NAME_VN": "Đánh bại thế lực Mã Đằng",
+        "EXID": "achieve_5_6",
+        "REWARD": [
+          {
+            "COUNT": 800,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93104,
+        "ID": 7,
+        "CNUM": 17610,
+        "PMARK": "maxmapid",
+        "NAME": "击败公孙瓒势力",
+        "NAME_VN": "Đánh bại thế lực Công Tôn Toản",
+        "EXID": "achieve_5_7",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 30029
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93105,
+    "MISSION": [
+      {
+        "GETMARK": 93105,
+        "ID": 0,
+        "CNUM": 5,
+        "PMARK": 90188,
+        "NAME": "累积获得5个4星武将",
+        "NAME_VN": "Tích lũy nhận được 5 võ tướng 4 sao",
+        "EXID": "achieve_6_0",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 1,
+        "CNUM": 10,
+        "PMARK": 90188,
+        "NAME": "累积获得10个4星武将",
+        "NAME_VN": "Tích lũy nhận được 10 võ tướng 4 sao",
+        "EXID": "achieve_6_1",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 2,
+        "CNUM": 30,
+        "PMARK": 90188,
+        "NAME": "累积获得30个4星武将",
+        "NAME_VN": "Tích lũy nhận được 30 võ tướng 4 sao",
+        "EXID": "achieve_6_2",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 3,
+        "CNUM": 50,
+        "PMARK": 90188,
+        "NAME": "累积获得50个4星武将",
+        "NAME_VN": "Tích lũy nhận được 50 võ tướng 4 sao",
+        "EXID": "achieve_6_3",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 4,
+        "CNUM": 100,
+        "PMARK": 90188,
+        "NAME": "累积获得100个4星武将",
+        "NAME_VN": "Tích lũy nhận được 100 võ tướng 4 sao",
+        "EXID": "achieve_6_4",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 5,
+        "CNUM": 200,
+        "PMARK": 90188,
+        "NAME": "累积获得200个4星武将",
+        "NAME_VN": "Tích lũy nhận được 200 võ tướng 4 sao",
+        "EXID": "achieve_6_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 6,
+        "CNUM": 300,
+        "PMARK": 90188,
+        "NAME": "累积获得300个4星武将",
+        "NAME_VN": "Tích lũy nhận được 300 võ tướng 4 sao",
+        "EXID": "achieve_6_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93105,
+        "ID": 7,
+        "CNUM": 500,
+        "PMARK": 90188,
+        "NAME": "累积获得500个4星武将",
+        "NAME_VN": "Tích lũy nhận được 500 võ tướng 4 sao",
+        "EXID": "achieve_6_7",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93106,
+    "MISSION": [
+      {
+        "GETMARK": 93106,
+        "ID": 0,
+        "CNUM": 5,
+        "PMARK": 90189,
+        "NAME": "累积获得5个5星武将",
+        "NAME_VN": "Tích lũy nhận được 5 võ tướng 5 sao",
+        "EXID": "achieve_7_0",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 1,
+        "CNUM": 10,
+        "PMARK": 90189,
+        "NAME": "累积获得10个5星武将",
+        "NAME_VN": "Tích lũy nhận được 10 võ tướng 5 sao",
+        "EXID": "achieve_7_1",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 2,
+        "CNUM": 30,
+        "PMARK": 90189,
+        "NAME": "累积获得30个5星武将",
+        "NAME_VN": "Tích lũy nhận được 30 võ tướng 5 sao",
+        "EXID": "achieve_7_2",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 3,
+        "CNUM": 50,
+        "PMARK": 90189,
+        "NAME": "累积获得50个5星武将",
+        "NAME_VN": "Tích lũy nhận được 50 võ tướng 5 sao",
+        "EXID": "achieve_7_3",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 4,
+        "CNUM": 100,
+        "PMARK": 90189,
+        "NAME": "累积获得100个5星武将",
+        "NAME_VN": "Tích lũy nhận được 100 võ tướng 5 sao",
+        "EXID": "achieve_7_4",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 5,
+        "CNUM": 200,
+        "PMARK": 90189,
+        "NAME": "累积获得200个5星武将",
+        "NAME_VN": "Tích lũy nhận được 200 võ tướng 5 sao",
+        "EXID": "achieve_7_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 6,
+        "CNUM": 300,
+        "PMARK": 90189,
+        "NAME": "累积获得300个5星武将",
+        "NAME_VN": "Tích lũy nhận được 300 võ tướng 5 sao",
+        "EXID": "achieve_7_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93106,
+        "ID": 7,
+        "CNUM": 500,
+        "PMARK": 90189,
+        "NAME": "累积获得500个5星武将",
+        "NAME_VN": "Tích lũy nhận được 500 võ tướng 5 sao",
+        "EXID": "achieve_7_7",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93107,
+    "MISSION": [
+      {
+        "GETMARK": 93107,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": 90190,
+        "NAME": "获得1个6星武将",
+        "NAME_VN": "Nhận được 6 sao võ tướng",
+        "EXID": "achieve_8_0",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 32004
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 1,
+        "CNUM": 1,
+        "PMARK": 90191,
+        "NAME": "获得1个7星武将",
+        "NAME_VN": "Nhận được 7 sao võ tướng",
+        "EXID": "achieve_8_1",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 32004
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 2,
+        "CNUM": 1,
+        "PMARK": 90192,
+        "NAME": "获得1个8星武将",
+        "NAME_VN": "Nhận được 8 sao võ tướng",
+        "EXID": "achieve_8_2",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 32005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 3,
+        "CNUM": 1,
+        "PMARK": 90193,
+        "NAME": "获得1个9星武将",
+        "NAME_VN": "Nhận được 9 sao võ tướng",
+        "EXID": "achieve_8_3",
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 32005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 4,
+        "CNUM": 1,
+        "PMARK": 90194,
+        "NAME": "获得1个10星武将",
+        "NAME_VN": "Nhận được 10 sao võ tướng",
+        "EXID": "achieve_8_4",
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 31008
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 5,
+        "CNUM": 1,
+        "PMARK": 90373,
+        "NAME": "获得1个11星武将",
+        "NAME_VN": "Nhận được 11 sao võ tướng",
+        "EXID": "achieve_8_5",
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 31008
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93107,
+        "ID": 6,
+        "CNUM": 1,
+        "PMARK": 90374,
+        "NAME": "获得1个12星武将",
+        "NAME_VN": "Nhận được 12 sao võ tướng",
+        "EXID": "achieve_8_6",
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 31008
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  },
+  {
+    "GETMARK": 93108,
+    "MISSION": [
+      {
+        "GETMARK": 93108,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": 90195,
+        "NAME": "下野20个武将",
+        "NAME_VN": "Giải giáp 20 võ tướng",
+        "EXID": "achieve_9_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90195,
+        "NAME": "下野50个武将",
+        "NAME_VN": "Giải giáp 50 võ tướng",
+        "EXID": "achieve_9_1",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90195,
+        "NAME": "下野100个武将",
+        "NAME_VN": "Giải giáp 100 võ tướng",
+        "EXID": "achieve_9_2",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90195,
+        "NAME": "下野200个武将",
+        "NAME_VN": "Giải giáp 200 võ tướng",
+        "EXID": "achieve_9_3",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 4,
+        "CNUM": 300,
+        "PMARK": 90195,
+        "NAME": "下野300个武将",
+        "NAME_VN": "Giải giáp 300 võ tướng",
+        "EXID": "achieve_9_4",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90195,
+        "NAME": "下野500个武将",
+        "NAME_VN": "Giải giáp 500 võ tướng",
+        "EXID": "achieve_9_5",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 6,
+        "CNUM": 800,
+        "PMARK": 90195,
+        "NAME": "下野800个武将",
+        "NAME_VN": "Giải giáp 800 võ tướng",
+        "EXID": "achieve_9_6",
+        "REWARD": [
+          {
+            "COUNT": 1500,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93108,
+        "ID": 7,
+        "CNUM": 1000,
+        "PMARK": 90195,
+        "NAME": "下野1000个武将",
+        "NAME_VN": "Giải giáp 1000 võ tướng",
+        "EXID": "achieve_9_7",
+        "REWARD": [
+          {
+            "COUNT": 2000,
+            "GSID": 30014
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93109,
+    "MISSION": [
+      {
+        "GETMARK": 93109,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": 90196,
+        "NAME": "累积获得蓝色稀有装备1个",
+        "NAME_VN": "Tích lũy nhận được 1 trang bị lam",
+        "EXID": "achieve_10_0",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 1,
+        "CNUM": 5,
+        "PMARK": 90196,
+        "NAME": "累积获得蓝色稀有装备5个",
+        "NAME_VN": "Tích lũy nhận được 5 trang bị lam",
+        "EXID": "achieve_10_1",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 2,
+        "CNUM": 10,
+        "PMARK": 90196,
+        "NAME": "累积获得蓝色稀有装备10个",
+        "NAME_VN": "Tích lũy nhận được 10 trang bị lam",
+        "EXID": "achieve_10_2",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 3,
+        "CNUM": 1,
+        "PMARK": 90197,
+        "NAME": "累积获得紫色史诗装备1个",
+        "NAME_VN": "Tích lũy nhận được 1 trang bị tím",
+        "EXID": "achieve_10_3",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 4,
+        "CNUM": 5,
+        "PMARK": 90197,
+        "NAME": "累积获得紫色史诗装备5个",
+        "NAME_VN": "Tích lũy nhận được 5 trang bị tím",
+        "EXID": "achieve_10_4",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 5,
+        "CNUM": 10,
+        "PMARK": 90197,
+        "NAME": "累积获得紫色史诗装备10个",
+        "NAME_VN": "Tích lũy nhận được 10 trang bị tím",
+        "EXID": "achieve_10_5",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 6,
+        "CNUM": 1,
+        "PMARK": 90198,
+        "NAME": "累积获得橙色传说装备1个",
+        "NAME_VN": "Tích lũy nhận được 1 trang bị cam",
+        "EXID": "achieve_10_6",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 7,
+        "CNUM": 5,
+        "PMARK": 90198,
+        "NAME": "累积获得橙色传说装备5个",
+        "NAME_VN": "Tích lũy nhận được 5 trang bị cam",
+        "EXID": "achieve_10_7",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 8,
+        "CNUM": 10,
+        "PMARK": 90198,
+        "NAME": "累积获得橙色传说装备10个",
+        "NAME_VN": "Tích lũy nhận được 10 trang bị cam",
+        "EXID": "achieve_10_8",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 9,
+        "CNUM": 1,
+        "PMARK": 90199,
+        "NAME": "累积获得红色神话装备1个",
+        "NAME_VN": "Tích lũy nhận được 1 trang bị đỏ",
+        "EXID": "achieve_10_9",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 9
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 10,
+        "CNUM": 5,
+        "PMARK": 90199,
+        "NAME": "累积获得红色神话装备5个",
+        "NAME_VN": "Tích lũy nhận được 5 trang bị đỏ",
+        "EXID": "achieve_10_10",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 10
+      },
+      {
+        "GETMARK": 93109,
+        "ID": 11,
+        "CNUM": 10,
+        "PMARK": 90199,
+        "NAME": "累积获得红色神话装备10个",
+        "NAME_VN": "Tích lũy nhận được 10 trang bị đỏ",
+        "EXID": "achieve_10_11",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 11
+      }
+    ]
+  },
+  {
+    "GETMARK": 93110,
+    "MISSION": [
+      {
+        "GETMARK": 93110,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": 90201,
+        "NAME": "累积获得紫色史诗宝物1个",
+        "NAME_VN": "Tích lũy nhận được 1 bảo vật tím",
+        "EXID": "achieve_11_0",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 37003
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 1,
+        "CNUM": 10,
+        "PMARK": 90201,
+        "NAME": "累积获得紫色史诗宝物10个",
+        "NAME_VN": "Tích lũy nhận được 10 bảo vật tím",
+        "EXID": "achieve_11_1",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 37003
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 2,
+        "CNUM": 20,
+        "PMARK": 90201,
+        "NAME": "累积获得紫色史诗宝物20个",
+        "NAME_VN": "Tích lũy nhận được 20 bảo vật tím",
+        "EXID": "achieve_11_2",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 37003
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 3,
+        "CNUM": 50,
+        "PMARK": 90201,
+        "NAME": "累积获得紫色史诗宝物50个",
+        "NAME_VN": "Tích lũy nhận được 50 bảo vật tím",
+        "EXID": "achieve_11_3",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 37003
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 4,
+        "CNUM": 1,
+        "PMARK": 90202,
+        "NAME": "累积获得橙色传说宝物1个",
+        "NAME_VN": "Tích lũy nhận được 1 bảo vật cam",
+        "EXID": "achieve_11_4",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 37002
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 5,
+        "CNUM": 10,
+        "PMARK": 90202,
+        "NAME": "累积获得橙色传说宝物10个",
+        "NAME_VN": "Tích lũy nhận được 10 bảo vật cam",
+        "EXID": "achieve_11_5",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 37002
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 6,
+        "CNUM": 20,
+        "PMARK": 90202,
+        "NAME": "累积获得橙色传说宝物20个",
+        "NAME_VN": "Tích lũy nhận được 20 bảo vật cam",
+        "EXID": "achieve_11_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 37002
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 7,
+        "CNUM": 50,
+        "PMARK": 90202,
+        "NAME": "累积获得橙色传说宝物50个",
+        "NAME_VN": "Tích lũy nhận được 50 bảo vật cam",
+        "EXID": "achieve_11_7",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 37002
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 8,
+        "CNUM": 1,
+        "PMARK": 90203,
+        "NAME": "累积获得红色神话宝物1个",
+        "NAME_VN": "Tích lũy nhận được 1 bảo vật đỏ",
+        "EXID": "achieve_11_8",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 37001
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 9,
+        "CNUM": 10,
+        "PMARK": 90203,
+        "NAME": "累积获得红色神话宝物10个",
+        "NAME_VN": "Tích lũy nhận được 10 bảo vật đỏ",
+        "EXID": "achieve_11_9",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 37001
+          }
+        ],
+        "GNUM": 9
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 10,
+        "CNUM": 20,
+        "PMARK": 90203,
+        "NAME": "累积获得红色神话宝物20个",
+        "NAME_VN": "Tích lũy nhận được 20 bảo vật đỏ",
+        "EXID": "achieve_11_10",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 37001
+          }
+        ],
+        "GNUM": 10
+      },
+      {
+        "GETMARK": 93110,
+        "ID": 11,
+        "CNUM": 50,
+        "PMARK": 90203,
+        "NAME": "累积获得红色神话宝物50个",
+        "NAME_VN": "Tích lũy nhận được 50 bảo vật đỏ",
+        "EXID": "achieve_11_11",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 37001
+          }
+        ],
+        "GNUM": 11
+      }
+    ]
+  },
+  {
+    "GETMARK": 93111,
+    "MISSION": [
+      {
+        "GETMARK": 93111,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": 90204,
+        "NAME": "任意宝物升到2星",
+        "NAME_VN": "Tăng bảo vật bất kỳ lên 2 sao",
+        "EXID": "achieve_12_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93111,
+        "ID": 1,
+        "CNUM": 1,
+        "PMARK": 90205,
+        "NAME": "任意宝物升到3星",
+        "NAME_VN": "Tăng bảo vật bất kỳ lên 3 sao",
+        "EXID": "achieve_12_1",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93111,
+        "ID": 2,
+        "CNUM": 1,
+        "PMARK": 90206,
+        "NAME": "任意宝物升到4星",
+        "NAME_VN": "Tăng bảo vật bất kỳ lên 4 sao",
+        "EXID": "achieve_12_2",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93111,
+        "ID": 3,
+        "CNUM": 1,
+        "PMARK": 90207,
+        "NAME": "任意宝物升到5星",
+        "NAME_VN": "Tăng bảo vật bất kỳ lên 5 sao",
+        "EXID": "achieve_12_3",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93111,
+        "ID": 4,
+        "CNUM": 1,
+        "PMARK": 90208,
+        "NAME": "任意宝物升到6星",
+        "NAME_VN": "Tăng bảo vật bất kỳ lên 6 sao",
+        "EXID": "achieve_12_4",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      }
+    ]
+  },
+  {
+    "GETMARK": 93112,
+    "MISSION": [
+      {
+        "GETMARK": 93112,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": 90172,
+        "NAME": "进行20次普通招募",
+        "NAME_VN": "Tiến hành 20 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_0",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90172,
+        "NAME": "进行50次普通招募",
+        "NAME_VN": "Tiến hành 50 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_1",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90172,
+        "NAME": "进行100次普通招募",
+        "NAME_VN": "Tiến hành 100 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_2",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90172,
+        "NAME": "进行200次普通招募",
+        "NAME_VN": "Tiến hành 200 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_3",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 4,
+        "CNUM": 300,
+        "PMARK": 90172,
+        "NAME": "进行300次普通招募",
+        "NAME_VN": "Tiến hành 300 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_4",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90172,
+        "NAME": "进行500次普通招募",
+        "NAME_VN": "Tiến hành 500 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93112,
+        "ID": 6,
+        "CNUM": 1000,
+        "PMARK": 90172,
+        "NAME": "进行1000次普通招募",
+        "NAME_VN": "Tiến hành 1000 lần Chiêu Mộ Thường",
+        "EXID": "achieve_13_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  },
+  {
+    "GETMARK": 93113,
+    "MISSION": [
+      {
+        "GETMARK": 93113,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": 90176,
+        "NAME": "进行20次高级招募",
+        "NAME_VN": "Tiến hành 20 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_0",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90176,
+        "NAME": "进行50次高级招募",
+        "NAME_VN": "Tiến hành 50 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_1",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90176,
+        "NAME": "进行100次高级招募",
+        "NAME_VN": "Tiến hành 100 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_2",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90176,
+        "NAME": "进行200次高级招募",
+        "NAME_VN": "Tiến hành 200 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_3",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 4,
+        "CNUM": 300,
+        "PMARK": 90176,
+        "NAME": "进行300次高级招募",
+        "NAME_VN": "Tiến hành 300 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_4",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90176,
+        "NAME": "进行500次高级招募",
+        "NAME_VN": "Tiến hành 500 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93113,
+        "ID": 6,
+        "CNUM": 1000,
+        "PMARK": 90176,
+        "NAME": "进行1000次高级招募",
+        "NAME_VN": "Tiến hành 1000 lần Chiêu Mộ Cao Cấp",
+        "EXID": "achieve_14_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  },
+  {
+    "GETMARK": 93114,
+    "MISSION": [
+      {
+        "GETMARK": 93114,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": 90174,
+        "NAME": "进行20次友情招募",
+        "NAME_VN": "Tiến hành 20 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_0",
+        "REWARD": [
+          {
+            "COUNT": 5,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90174,
+        "NAME": "进行50次友情招募",
+        "NAME_VN": "Tiến hành 50 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_1",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90174,
+        "NAME": "进行100次友情招募",
+        "NAME_VN": "Tiến hành 100 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_2",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90174,
+        "NAME": "进行200次友情招募",
+        "NAME_VN": "Tiến hành 200 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_3",
+        "REWARD": [
+          {
+            "COUNT": 25,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 4,
+        "CNUM": 300,
+        "PMARK": 90174,
+        "NAME": "进行300次友情招募",
+        "NAME_VN": "Tiến hành 300 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_4",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90174,
+        "NAME": "进行500次友情招募",
+        "NAME_VN": "Tiến hành 500 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93114,
+        "ID": 6,
+        "CNUM": 1000,
+        "PMARK": 90174,
+        "NAME": "进行1000次友情招募",
+        "NAME_VN": "Tiến hành 1000 lần Chiêu Mộ Bạn Bè",
+        "EXID": "achieve_15_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  },
+  {
+    "GETMARK": 93115,
+    "MISSION": [
+      {
+        "GETMARK": 93115,
+        "ID": 0,
+        "CNUM": 50,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第50层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 50",
+        "EXID": "achieve_16_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 1,
+        "CNUM": 100,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第100层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 100",
+        "EXID": "achieve_16_1",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 2,
+        "CNUM": 150,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第150层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 150",
+        "EXID": "achieve_16_2",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第200层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 200",
+        "EXID": "achieve_16_3",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 4,
+        "CNUM": 250,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第250层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 250",
+        "EXID": "achieve_16_4",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 5,
+        "CNUM": 300,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第300层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 300",
+        "EXID": "achieve_16_5",
+        "REWARD": [
+          {
+            "COUNT": 600,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 6,
+        "CNUM": 350,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第350层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 350",
+        "EXID": "achieve_16_6",
+        "REWARD": [
+          {
+            "COUNT": 700,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 7,
+        "CNUM": 400,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第400层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 400",
+        "EXID": "achieve_16_7",
+        "REWARD": [
+          {
+            "COUNT": 800,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 8,
+        "CNUM": 450,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第450层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 450",
+        "EXID": "achieve_16_8",
+        "REWARD": [
+          {
+            "COUNT": 900,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93115,
+        "ID": 9,
+        "CNUM": 500,
+        "PMARK": "tower",
+        "NAME": "通关试炼塔第500层",
+        "NAME_VN": "Vướt Tháp Thí Luyện đến tầng 500",
+        "EXID": "achieve_16_9",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 9
+      }
+    ]
+  },
+  {
+    "GETMARK": 93116,
+    "MISSION": [
+      {
+        "GETMARK": 93116,
+        "ID": 0,
+        "CNUM": 3,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第3关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 3",
+        "EXID": "achieve_17_0",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 1,
+        "CNUM": 6,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第6关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 6",
+        "EXID": "achieve_17_1",
+        "REWARD": [
+          {
+            "COUNT": 750,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 2,
+        "CNUM": 9,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第9关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 9",
+        "EXID": "achieve_17_2",
+        "REWARD": [
+          {
+            "COUNT": 1000,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 3,
+        "CNUM": 12,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第12关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 12",
+        "EXID": "achieve_17_3",
+        "REWARD": [
+          {
+            "COUNT": 1250,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 4,
+        "CNUM": 15,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第15关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 15",
+        "EXID": "achieve_17_4",
+        "REWARD": [
+          {
+            "COUNT": 2000,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 5,
+        "CNUM": 18,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第18关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 18",
+        "EXID": "achieve_17_5",
+        "REWARD": [
+          {
+            "COUNT": 2500,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 6,
+        "CNUM": 21,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第21关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 21",
+        "EXID": "achieve_17_6",
+        "REWARD": [
+          {
+            "COUNT": 3000,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 7,
+        "CNUM": 24,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第24关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 24",
+        "EXID": "achieve_17_7",
+        "REWARD": [
+          {
+            "COUNT": 3500,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 8,
+        "CNUM": 27,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第27关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 27",
+        "EXID": "achieve_17_8",
+        "REWARD": [
+          {
+            "COUNT": 4000,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93116,
+        "ID": 9,
+        "CNUM": 30,
+        "PMARK": 90182,
+        "NAME": "首次通关过关斩将第30关",
+        "NAME_VN": "Vượt quá trảm tướng - Ải 30",
+        "EXID": "achieve_17_9",
+        "REWARD": [
+          {
+            "COUNT": 5000,
+            "GSID": 30003
+          }
+        ],
+        "GNUM": 9
+      }
+    ]
+  },
+  {
+    "GETMARK": 93117,
+    "MISSION": [
+      {
+        "GETMARK": 93117,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90181,
+        "NAME": "演武挑战10次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 10 lần",
+        "EXID": "achieve_18_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": 90181,
+        "NAME": "演武挑战30次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 30 lần",
+        "EXID": "achieve_18_1",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 2,
+        "CNUM": 50,
+        "PMARK": 90181,
+        "NAME": "演武挑战50次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 50 lần",
+        "EXID": "achieve_18_2",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 3,
+        "CNUM": 100,
+        "PMARK": 90181,
+        "NAME": "演武挑战100次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 100 lần",
+        "EXID": "achieve_18_3",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 4,
+        "CNUM": 200,
+        "PMARK": 90181,
+        "NAME": "演武挑战200次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 200 lần",
+        "EXID": "achieve_18_4",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90181,
+        "NAME": "演武挑战500次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 500 lần",
+        "EXID": "achieve_18_5",
+        "REWARD": [
+          {
+            "COUNT": 350,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93117,
+        "ID": 6,
+        "CNUM": 1000,
+        "PMARK": 90181,
+        "NAME": "演武挑战1000次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Trường 1000 lần",
+        "EXID": "achieve_18_6",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  },
+  {
+    "GETMARK": 93118,
+    "MISSION": [
+      {
+        "GETMARK": 93118,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90179,
+        "NAME": "大战役挑战10次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 10 lần",
+        "EXID": "achieve_19_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": 90179,
+        "NAME": "大战役挑战30次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 30 lần",
+        "EXID": "achieve_19_1",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 2,
+        "CNUM": 50,
+        "PMARK": 90179,
+        "NAME": "大战役挑战50次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 50 lần",
+        "EXID": "achieve_19_2",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 3,
+        "CNUM": 100,
+        "PMARK": 90179,
+        "NAME": "大战役挑战100次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 100 lần",
+        "EXID": "achieve_19_3",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 4,
+        "CNUM": 200,
+        "PMARK": 90179,
+        "NAME": "大战役挑战200次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 200 lần",
+        "EXID": "achieve_19_4",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 5,
+        "CNUM": 300,
+        "PMARK": 90179,
+        "NAME": "大战役挑战300次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 300 lần",
+        "EXID": "achieve_19_5",
+        "REWARD": [
+          {
+            "COUNT": 350,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 6,
+        "CNUM": 500,
+        "PMARK": 90179,
+        "NAME": "大战役挑战500次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 500 lần",
+        "EXID": "achieve_19_6",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93118,
+        "ID": 7,
+        "CNUM": 1000,
+        "PMARK": 90179,
+        "NAME": "大战役挑战1000次",
+        "NAME_VN": "Khiêu chiến Đại Chiến Dịch 1000 lần",
+        "EXID": "achieve_19_7",
+        "REWARD": [
+          {
+            "COUNT": 450,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93119,
+    "MISSION": [
+      {
+        "GETMARK": 93119,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90184,
+        "NAME": "完成内政任务10个",
+        "NAME_VN": "Hoàn thành 10 nhiệm vụ nội chính",
+        "EXID": "achieve_20_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": 90184,
+        "NAME": "完成内政任务30个",
+        "NAME_VN": "Hoàn thành 30 nhiệm vụ nội chính",
+        "EXID": "achieve_20_1",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 2,
+        "CNUM": 50,
+        "PMARK": 90184,
+        "NAME": "完成内政任务50个",
+        "NAME_VN": "Hoàn thành 50 nhiệm vụ nội chính",
+        "EXID": "achieve_20_2",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 3,
+        "CNUM": 100,
+        "PMARK": 90184,
+        "NAME": "完成内政任务100个",
+        "NAME_VN": "Hoàn thành 100 nhiệm vụ nội chính",
+        "EXID": "achieve_20_3",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 4,
+        "CNUM": 200,
+        "PMARK": 90184,
+        "NAME": "完成内政任务200个",
+        "NAME_VN": "Hoàn thành 200 nhiệm vụ nội chính",
+        "EXID": "achieve_20_4",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 5,
+        "CNUM": 300,
+        "PMARK": 90184,
+        "NAME": "完成内政任务300个",
+        "NAME_VN": "Hoàn thành 300 nhiệm vụ nội chính",
+        "EXID": "achieve_20_5",
+        "REWARD": [
+          {
+            "COUNT": 350,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 6,
+        "CNUM": 400,
+        "PMARK": 90184,
+        "NAME": "完成内政任务400个",
+        "NAME_VN": "Hoàn thành 400 nhiệm vụ nội chính",
+        "EXID": "achieve_20_6",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 7,
+        "CNUM": 500,
+        "PMARK": 90184,
+        "NAME": "完成内政任务500个",
+        "NAME_VN": "Hoàn thành 500 nhiệm vụ nội chính",
+        "EXID": "achieve_20_7",
+        "REWARD": [
+          {
+            "COUNT": 450,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93119,
+        "ID": 8,
+        "CNUM": 1000,
+        "PMARK": 90184,
+        "NAME": "完成内政任务1000个",
+        "NAME_VN": "Hoàn thành 1000 nhiệm vụ nội chính",
+        "EXID": "achieve_20_8",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      }
+    ]
+  },
+  {
+    "GETMARK": 93120,
+    "MISSION": [
+      {
+        "GETMARK": 93120,
+        "ID": 0,
+        "CNUM": 20,
+        "PMARK": 90166,
+        "NAME": "点金20次",
+        "NAME_VN": "Điểm kim 20 lần",
+        "EXID": "achieve_21_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90166,
+        "NAME": "点金50次",
+        "NAME_VN": "Điểm kim 50 lần",
+        "EXID": "achieve_21_1",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90166,
+        "NAME": "点金100次",
+        "NAME_VN": "Điểm kim 100 lần",
+        "EXID": "achieve_21_2",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90166,
+        "NAME": "点金200次",
+        "NAME_VN": "Điểm kim 200 lần",
+        "EXID": "achieve_21_3",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 4,
+        "CNUM": 500,
+        "PMARK": 90166,
+        "NAME": "点金500次",
+        "NAME_VN": "Điểm kim 500 lần",
+        "EXID": "achieve_21_4",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 5,
+        "CNUM": 1000,
+        "PMARK": 90166,
+        "NAME": "点金1000次",
+        "NAME_VN": "Điểm kim 1000 lần",
+        "EXID": "achieve_21_5",
+        "REWARD": [
+          {
+            "COUNT": 350,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 6,
+        "CNUM": 200,
+        "PMARK": 90166,
+        "NAME": "点金200次",
+        "NAME_VN": "Điểm kim 200 lần",
+        "EXID": "achieve_21_6",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 7,
+        "CNUM": 500,
+        "PMARK": 90166,
+        "NAME": "点金500次",
+        "NAME_VN": "Điểm kim 500 lần",
+        "EXID": "achieve_21_7",
+        "REWARD": [
+          {
+            "COUNT": 450,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93120,
+        "ID": 8,
+        "CNUM": 1000,
+        "PMARK": 90166,
+        "NAME": "点金1000次",
+        "NAME_VN": "Điểm kim 1000 lần",
+        "EXID": "achieve_21_8",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      }
+    ]
+  },
+  {
+    "GETMARK": 93121,
+    "MISSION": [
+      {
+        "GETMARK": 93121,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90177,
+        "NAME": "点将10次",
+        "NAME_VN": "Điểm tướng 10 lần",
+        "EXID": "achieve_22_0",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 1,
+        "CNUM": 20,
+        "PMARK": 90177,
+        "NAME": "点将20次",
+        "NAME_VN": "Điểm tướng 20 lần",
+        "EXID": "achieve_22_1",
+        "REWARD": [
+          {
+            "COUNT": 20,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 2,
+        "CNUM": 50,
+        "PMARK": 90177,
+        "NAME": "点将50次",
+        "NAME_VN": "Điểm tướng 50 lần",
+        "EXID": "achieve_22_2",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 3,
+        "CNUM": 100,
+        "PMARK": 90177,
+        "NAME": "点将100次",
+        "NAME_VN": "Điểm tướng 100 lần",
+        "EXID": "achieve_22_3",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 4,
+        "CNUM": 200,
+        "PMARK": 90177,
+        "NAME": "点将200次",
+        "NAME_VN": "Điểm tướng 200 lần",
+        "EXID": "achieve_22_4",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90177,
+        "NAME": "点将500次",
+        "NAME_VN": "Điểm tướng 500 lần",
+        "EXID": "achieve_22_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 6,
+        "CNUM": 200,
+        "PMARK": 90177,
+        "NAME": "点将200次",
+        "NAME_VN": "Điểm tướng 200 lần",
+        "EXID": "achieve_22_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93121,
+        "ID": 7,
+        "CNUM": 500,
+        "PMARK": 90177,
+        "NAME": "点将500次",
+        "NAME_VN": "Điểm tướng 500 lần",
+        "EXID": "achieve_22_7",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93122,
+    "MISSION": [
+      {
+        "GETMARK": 93122,
+        "ID": 0,
+        "CNUM": 30,
+        "PMARK": 90168,
+        "NAME": "进行30次普通观星",
+        "NAME_VN": "Tiến hành 30 lần Quan Tinh Thường",
+        "EXID": "achieve_23_0",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 1,
+        "CNUM": 50,
+        "PMARK": 90168,
+        "NAME": "进行50次普通观星",
+        "NAME_VN": "Tiến hành 50 lần Quan Tinh Thường",
+        "EXID": "achieve_23_1",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 2,
+        "CNUM": 100,
+        "PMARK": 90168,
+        "NAME": "进行100次普通观星",
+        "NAME_VN": "Tiến hành 100 lần Quan Tinh Thường",
+        "EXID": "achieve_23_2",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 3,
+        "CNUM": 200,
+        "PMARK": 90168,
+        "NAME": "进行200次普通观星",
+        "NAME_VN": "Tiến hành 200 lần Quan Tinh Thường",
+        "EXID": "achieve_23_3",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 4,
+        "CNUM": 300,
+        "PMARK": 90168,
+        "NAME": "进行300次普通观星",
+        "NAME_VN": "Tiến hành 300 lần Quan Tinh Thường",
+        "EXID": "achieve_23_4",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 5,
+        "CNUM": 400,
+        "PMARK": 90168,
+        "NAME": "进行400次普通观星",
+        "NAME_VN": "Tiến hành 400 lần Quan Tinh Thường",
+        "EXID": "achieve_23_5",
+        "REWARD": [
+          {
+            "COUNT": 600,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 6,
+        "CNUM": 500,
+        "PMARK": 90168,
+        "NAME": "进行500次普通观星",
+        "NAME_VN": "Tiến hành 500 lần Quan Tinh Thường",
+        "EXID": "achieve_23_6",
+        "REWARD": [
+          {
+            "COUNT": 700,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93122,
+        "ID": 7,
+        "CNUM": 1000,
+        "PMARK": 90168,
+        "NAME": "进行1000次普通观星",
+        "NAME_VN": "Tiến hành 1000 lần Quan Tinh Thường",
+        "EXID": "achieve_23_7",
+        "REWARD": [
+          {
+            "COUNT": 800,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      }
+    ]
+  },
+  {
+    "GETMARK": 93123,
+    "MISSION": [
+      {
+        "GETMARK": 93123,
+        "ID": 0,
+        "CNUM": 1,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第1关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 1",
+        "EXID": "achieve_24_0",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 1,
+        "CNUM": 2,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第2关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 2",
+        "EXID": "achieve_24_1",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 2,
+        "CNUM": 3,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第3关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 3",
+        "EXID": "achieve_24_2",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 3,
+        "CNUM": 4,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第4关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 4",
+        "EXID": "achieve_24_3",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 4,
+        "CNUM": 5,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第5关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 5",
+        "EXID": "achieve_24_4",
+        "REWARD": [
+          {
+            "COUNT": 100,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 5,
+        "CNUM": 6,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第6关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 6",
+        "EXID": "achieve_24_5",
+        "REWARD": [
+          {
+            "COUNT": 150,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 6,
+        "CNUM": 7,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第7关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 7",
+        "EXID": "achieve_24_6",
+        "REWARD": [
+          {
+            "COUNT": 200,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 6
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 7,
+        "CNUM": 8,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第8关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 8",
+        "EXID": "achieve_24_7",
+        "REWARD": [
+          {
+            "COUNT": 250,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 7
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 8,
+        "CNUM": 9,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第9关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 9",
+        "EXID": "achieve_24_8",
+        "REWARD": [
+          {
+            "COUNT": 300,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 8
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 9,
+        "CNUM": 10,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第10关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 10",
+        "EXID": "achieve_24_9",
+        "REWARD": [
+          {
+            "COUNT": 350,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 9
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 10,
+        "CNUM": 11,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第11关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 11",
+        "EXID": "achieve_24_10",
+        "REWARD": [
+          {
+            "COUNT": 400,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 10
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 11,
+        "CNUM": 12,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第12关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 12",
+        "EXID": "achieve_24_11",
+        "REWARD": [
+          {
+            "COUNT": 500,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 11
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 12,
+        "CNUM": 13,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第13关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 13",
+        "EXID": "achieve_24_12",
+        "REWARD": [
+          {
+            "COUNT": 600,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 12
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 13,
+        "CNUM": 14,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第14关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 14",
+        "EXID": "achieve_24_13",
+        "REWARD": [
+          {
+            "COUNT": 700,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 13
+      },
+      {
+        "GETMARK": 93123,
+        "ID": 14,
+        "CNUM": 15,
+        "PMARK": "dgtopchapter",
+        "NAME": "通关一骑当千第15关",
+        "NAME_VN": "Vượt Nhất Kỵ Đương Thiên - Ải 15",
+        "EXID": "achieve_24_14",
+        "REWARD": [
+          {
+            "COUNT": 800,
+            "GSID": 38005
+          }
+        ],
+        "GNUM": 14
+      }
+    ]
+  },
+  {
+    "GETMARK": 93124,
+    "MISSION": [
+      {
+        "GETMARK": 93124,
+        "ID": 0,
+        "CNUM": 10,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战10次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 10 lần",
+        "EXID": "achieve_25_0",
+        "REWARD": [
+          {
+            "COUNT": 10,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 0
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 1,
+        "CNUM": 30,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战30次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 30 lần",
+        "EXID": "achieve_25_1",
+        "REWARD": [
+          {
+            "COUNT": 20,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 1
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 2,
+        "CNUM": 50,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战50次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 50 lần",
+        "EXID": "achieve_25_2",
+        "REWARD": [
+          {
+            "COUNT": 30,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 2
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 3,
+        "CNUM": 100,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战100次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 100 lần",
+        "EXID": "achieve_25_3",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 3
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 4,
+        "CNUM": 200,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战200次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 200 lần",
+        "EXID": "achieve_25_4",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 4
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 5,
+        "CNUM": 500,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战500次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 500 lần",
+        "EXID": "achieve_25_5",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 5
+      },
+      {
+        "GETMARK": 93124,
+        "ID": 6,
+        "CNUM": 1000,
+        "PMARK": 90372,
+        "NAME": "王者演武挑战1000次",
+        "NAME_VN": "Khiêu chiến Diễn Võ Vương Giả 1000 lần",
+        "EXID": "achieve_25_6",
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ],
+        "GNUM": 6
+      }
+    ]
+  }
+]

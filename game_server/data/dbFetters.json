@@ -1,0 +1,250 @@
+{
+  "10013": {
+    "IMAGE": "fetter_occu_05",
+    "LEVEL": "5",
+    "INTRO": "Phụ Trợ phe ta Hồi Năng Lượng +50%. Chức nghiệp khác Hồi Năng Lượng +20%",
+    "SPINE": "fuzhu",
+    "NAME": "辅助",
+    "NAME_VN": "Phụ Trợ"
+  },
+  "10016": {
+    "IMAGE": "fetter_country_01",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +20%, Tấn Công +10%.",
+    "SPINE": "weiguo",
+    "NAME": "魏国",
+    "NAME_VN": "Ngụy Quốc"
+  },
+  "10027": {
+    "IMAGE": "fetter_country_05",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%, Sát Thương +5%",
+    "SPINE": "dw",
+    "NAME": "帝",
+    "NAME_VN": "Đế"
+  },
+  "10011": {
+    "IMAGE": "fetter_occu_04",
+    "LEVEL": "7",
+    "INTRO": "Pháp Sư phe ta ST Kỹ Năng +60%",
+    "SPINE": "fash",
+    "NAME": "法师",
+    "NAME_VN": "Pháp Sư"
+  },
+  "10014": {
+    "IMAGE": "fetter_occu_05",
+    "LEVEL": "7",
+    "INTRO": "Phụ Trợ phe ta Hồi Năng Lượng +100%. Chức nghiệp khác Hồi Năng Lượng +50%",
+    "SPINE": "fuzhu",
+    "NAME": "辅助",
+    "NAME_VN": "Phụ Trợ"
+  },
+  "10025": {
+    "IMAGE": "fetter_country_04",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +20%, Tấn Công +10%.",
+    "SPINE": "qun",
+    "NAME": "群雄",
+    "NAME_VN": "Quần Hùng"
+  },
+  "10006": {
+    "IMAGE": "fetter_occu_03",
+    "LEVEL": "3",
+    "INTRO": "Xạ Thủ phe ta Tốc Đánh + 25%",
+    "SPINE": "shesho",
+    "NAME": "射手",
+    "NAME_VN": "Xạ Thủ"
+  },
+  "10022": {
+    "IMAGE": "fetter_country_03",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +20%, Tấn Công +10%.",
+    "SPINE": "wuguo",
+    "NAME": "吴国",
+    "NAME_VN": "Ngô Quốc"
+  },
+  "10024": {
+    "IMAGE": "fetter_country_04",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%.",
+    "SPINE": "qun",
+    "NAME": "群雄",
+    "NAME_VN": "Quần Hùng"
+  },
+  "10020": {
+    "IMAGE": "fetter_country_02",
+    "LEVEL": "6",
+    "INTRO": "Tướng phe ta HP +35%, Tấn Công +15%.",
+    "SPINE": "shushan",
+    "NAME": "蜀国",
+    "NAME_VN": "Thục Quốc"
+  },
+  "10005": {
+    "IMAGE": "fetter_occu_02",
+    "LEVEL": "7",
+    "INTRO": "Thích Khách phe ta Bạo Kích +20%, ST Bạo Kích +65%, ẩn thân đầu trận.",
+    "SPINE": "ck",
+    "NAME": "刺客",
+    "NAME_VN": "Thích Khách"
+  },
+  "10001": {
+    "IMAGE": "fetter_occu_01",
+    "LEVEL": "5",
+    "INTRO": "Chiến Binh phe ta HP +30%, khi bị tấn công có 60% xác suất chống đỡ (giảm sát thương 25%)",
+    "SPINE": "zhanguo",
+    "NAME": "战士",
+    "NAME_VN": "Chiến Binh"
+  },
+  "10012": {
+    "IMAGE": "fetter_occu_05",
+    "LEVEL": "3",
+    "INTRO": "Phụ Trợ phe ta Hồi Năng Lượng +25%.",
+    "SPINE": "fuzhu",
+    "NAME": "辅助",
+    "NAME_VN": "Phụ Trợ"
+  },
+  "10026": {
+    "IMAGE": "fetter_country_04",
+    "LEVEL": "6",
+    "INTRO": "Tướng phe ta HP +35%, Tấn Công +15%.",
+    "SPINE": "qun",
+    "NAME": "群雄",
+    "NAME_VN": "Quần Hùng"
+  },
+  "10004": {
+    "IMAGE": "fetter_occu_02",
+    "LEVEL": "5",
+    "INTRO": "Thích Khách phe ta Bạo Kích +15%, ST Bạo Kích +25%, ẩn thân đầu trận.",
+    "SPINE": "ck",
+    "NAME": "刺客",
+    "NAME_VN": "Thích Khách"
+  },
+  "10002": {
+    "IMAGE": "fetter_occu_01",
+    "LEVEL": "7",
+    "INTRO": "Chiến Binh phe ta HP +40%, khi bị tấn công có 100% xác suất chống đỡ (giảm sát thương 25%)",
+    "SPINE": "zhanguo",
+    "NAME": "战士",
+    "NAME_VN": "Chiến Binh"
+  },
+  "10007": {
+    "IMAGE": "fetter_occu_03",
+    "LEVEL": "5",
+    "INTRO": "Xạ Thủ phe ta Tốc Đánh + 50%",
+    "SPINE": "shesho",
+    "NAME": "射手",
+    "NAME_VN": "Xạ Thủ"
+  },
+  "10003": {
+    "IMAGE": "fetter_occu_02",
+    "LEVEL": "3",
+    "INTRO": "Thích Khách phe ta Bạo Kích +10%, ST Bạo Kích +15%, ẩn thân đầu trận.",
+    "SPINE": "ck",
+    "NAME": "刺客",
+    "NAME_VN": "Thích Khách"
+  },
+  "10017": {
+    "IMAGE": "fetter_country_01",
+    "LEVEL": "6",
+    "INTRO": "Tướng phe ta HP +35%, Tấn Công +15%.",
+    "SPINE": "weiguo",
+    "NAME": "魏国",
+    "NAME_VN": "Ngụy Quốc"
+  },
+  "10000": {
+    "IMAGE": "fetter_occu_01",
+    "LEVEL": "3",
+    "INTRO": "Chiến Binh phe ta HP +15%, khi bị tấn công có 30% xác suất chống đỡ (giảm sát thương 25%)",
+    "SPINE": "zhanguo",
+    "NAME": "战士",
+    "NAME_VN": "Chiến Binh"
+  },
+  "10015": {
+    "IMAGE": "fetter_country_01",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%.",
+    "SPINE": "weiguo",
+    "NAME": "魏国",
+    "NAME_VN": "Ngụy Quốc"
+  },
+  "10018": {
+    "IMAGE": "fetter_country_02",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%.",
+    "SPINE": "shushan",
+    "NAME": "蜀国",
+    "NAME_VN": "Thục Quốc"
+  },
+  "10008": {
+    "IMAGE": "fetter_occu_03",
+    "LEVEL": "7",
+    "INTRO": "Xạ Thủ phe ta Tốc Đánh + 25%",
+    "SPINE": "shesho",
+    "NAME": "射手",
+    "NAME_VN": "Xạ Thủ"
+  },
+  "10023": {
+    "IMAGE": "fetter_country_03",
+    "LEVEL": "6",
+    "INTRO": "Tướng phe ta HP +35%, Tấn Công +15%.",
+    "SPINE": "wuguo",
+    "NAME": "吴国",
+    "NAME_VN": "Ngô Quốc"
+  },
+  "10009": {
+    "IMAGE": "fetter_occu_04",
+    "LEVEL": "3",
+    "INTRO": "Pháp Sư phe ta ST Kỹ Năng +25%",
+    "SPINE": "fash",
+    "NAME": "法师",
+    "NAME_VN": "Pháp Sư"
+  },
+  "10030": {
+    "IMAGE": "fetter_country_06",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +25%, Tấn Công +12%, Hồi Chiêu -10%",
+    "SPINE": "mo",
+    "NAME": "魔",
+    "NAME_VN": "Ma"
+  },
+  "10010": {
+    "IMAGE": "fetter_occu_04",
+    "LEVEL": "5",
+    "INTRO": "Pháp Sư phe ta ST Kỹ Năng +40%",
+    "SPINE": "fash",
+    "NAME": "法师",
+    "NAME_VN": "Pháp Sư"
+  },
+  "10028": {
+    "IMAGE": "fetter_country_05",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +25%, Tấn Công +12%, Sát Thương +10%",
+    "SPINE": "dw",
+    "NAME": "帝",
+    "NAME_VN": "Đế"
+  },
+  "10021": {
+    "IMAGE": "fetter_country_03",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%.",
+    "SPINE": "wuguo",
+    "NAME": "吴国",
+    "NAME_VN": "Ngô Quốc"
+  },
+  "10029": {
+    "IMAGE": "fetter_country_06",
+    "LEVEL": "2",
+    "INTRO": "Tướng phe ta HP +10%, Tấn Công +5%, Hồi Chiêu -5%",
+    "SPINE": "mo",
+    "NAME": "魔",
+    "NAME_VN": "Ma"
+  },
+  "10019": {
+    "IMAGE": "fetter_country_02",
+    "LEVEL": "4",
+    "INTRO": "Tướng phe ta HP +20%, Tấn Công +10%.",
+    "SPINE": "shushan",
+    "NAME": "蜀国",
+    "NAME_VN": "Thục Quốc"
+  }
+}

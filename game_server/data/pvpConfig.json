@@ -1,0 +1,100 @@
+{
+    "competition": {
+      "schedule": {
+        "thursday": {
+          "closeTime": {
+            "hour": 23,
+            "minute": 0,
+            "second": 0
+          }
+        },
+        "friday": {
+          "openTime": {
+            "hour": 0,
+            "minute": 5,
+            "second": 0
+          }
+        }
+      },
+      "unlockLevel": 30,
+      "refreshInterval": 3600,
+      "rewards": {
+        "daily": {},
+        "weekly": {},
+        "season": {}
+      }
+    },
+  
+    "teamPvp": {
+      "schedule": {
+        "availableDays": [4, 5, 6, 0],
+        "dailyReset": {
+          "hour": 0,
+          "minute": 0
+        }
+      },
+      "unlockLevel": 40,
+      "teamSize": {
+        "min": 2,
+        "max": 5
+      }
+    },
+  
+    "kingPvp": {
+      "season": {
+        "lengthInDays": 7,
+        "seasonsPerCycle": 3,
+        "closeSeason": 4
+      },
+      "unlockLevel": 50,
+      "stageConfig": {
+        "maxStage": 100,
+        "refreshCost": 100
+      }
+    },
+  
+    "multiTeamPvp": {
+      "schedule": {
+        "openDays": [1, 2, 3],
+        "openTime": {
+          "hour": 0,
+          "minute": 0
+        },
+        "closeTime": {
+          "hour": 24,
+          "minute": 0
+        }
+      },
+      "unlockLevel": 60,
+      "teamRequirements": {
+        "minMembers": 3,
+        "maxMembers": 6
+      }
+    },
+  
+    "general": {
+      "seasonDuration": 604800,
+      "rankRefreshTime": 300,
+      "defaultRewardCurrency": "gold",
+      "notifications": {
+        "beforeClose": 300,
+        "beforeOpen": 300
+      },
+      "localization": {
+        "vi": {
+          "timeRemaining": "Thời gian còn lại:",
+          "countdownStart": "Đếm ngược bắt đầu:",
+          "day": "ngày",
+          "unlockAtLevel": "Cấp %d mở khóa",
+          "notOpenYet": "Hiện chưa mở, vui lòng chờ"
+        },
+        "zh": {
+          "timeRemaining": "距离结束:",
+          "countdownStart": "开启倒计时:",
+          "day": "天",
+          "unlockAtLevel": "%d级解锁",
+          "notOpenYet": "活动暂未开放，敬请期待"
+        }
+      }
+    }
+  }

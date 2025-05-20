@@ -1,0 +1,140 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 127,
+      "desc": "Lựa chọn 6",
+      "command": {
+        "cmd": "choose",
+        "num": 5,
+        "text": "Lập tức truy kích Đổng Trác"
+      }
+    },
+    {
+      "numstep": 128,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Cẩn tuân chúa công quân lệnh, toàn quân vào thành tu chỉnh.",
+          "Không nghĩ chúa công nhanh như vậy liền đánh hạ Trường An, về sau chúng ta cũng có thành trì của riêng mình rồi, Tiểu Tước phảng phất đang như nằm mơ!",
+          "Chúa công đã thỏa mãn điều kiện tăng cấp chức quan, mau nhanh thăng quan nào!"
+        ]
+      }
+    },
+    {
+      "numstep": 129,
+      "desc": "Nút quan chức",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_07",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 130,
+      "desc": "Nhận thưởng nhiệm vụ quan chức",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "left",
+        "args": "office_page / office_switch_page / bg_01 / tower_reward_item_01 / btn_get_reward",
+        "text": "Nhận lấy phần thưởng"
+      }
+    },
+    {
+      "numstep": 131,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 132,
+      "desc": "Nhấn vào tăng cấp",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "office_page > office_switch_page > btn_start",
+        "text": "Nhấn vào đây để tăng chức qua"
+      }
+    },
+    {
+      "numstep": 133,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 134,
+      "desc": "Đóng giao diện tăng cấp",
+      "command": {
+        "cmd": "closepage",
+        "args": "windows_page_office_up > bg_node > windows_tx_tips_guanbi",
+        "nomask": true,
+        "page": "windowspageofficeup"
+      }
+    },
+    {
+      "numstep": 135,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, trước đây chúng ta tù binh tướng thủ hộ Trường An - Văn Sính, đang đợi người xử lý!"
+      }
+    },
+    {
+      "numstep": 136,
+      "desc": "Nhấn vào giao diện chiêu hàng",
+      "command": {
+        "cmd": "finger",
+        "args": "office_page / zhaoxiang_btn_normal",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 137,
+      "desc": "Giới thiệu danh sách võ tướng",
+      "command": {
+        "cmd": "locator",
+        "args": "office_page > zhaoxiang_switch_page > general_list",
+        "textdirection": "mid",
+        "text": "Ở đây hiển thị võ tướng tù bình."
+      }
+    },
+    {
+      "numstep": 138,
+      "desc": "Dẫn đạo đối thoại 3",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công tâm hoài thiên hạ, trước mắt chính là lúc dùng người, không bằng chúng ta trước chiêu hàng tướng địch nhìn hắn có nguyện ý hay không bỏ gian tà theo chính nghĩa làm việc cho ta!"
+      }
+    },
+    {
+      "numstep": 139,
+      "desc": "Nhấn vào chiêu hàng",
+      "command": {
+        "cmd": "finger",
+        "args": "office_page > zhaoxiang_switch_page > pickNode > btn_zhaoxiang",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 140,
+      "desc": "Nhấn vào xác định",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "office_page / windows_page_reward_general / global_btn_enter",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn chức quan 1"
+}

@@ -1,0 +1,37 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 4,
+      "desc": "Đối thoại chiêu mộ thường",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "talk",
+        "args": "Chiêu mộ thường có thể nhận được võ tướng từ 1 đến 5 sao. Đây là Chiêu Mộ Lệnh, hãy sử dụng nó để tìm kiếm võ tướng yêu thích!"
+      }
+    },
+    {
+      "numstep": 5,
+      "desc": "Nhấp vào Chiêu Mộ Thường",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "cardpub_page > cardpub_01 > btn_pick_normal_1",
+        "text": "Nhấp vào đây để tiến hành Chiêu Mộ Thường"
+      }
+    },
+    {
+      "numstep": 6,
+      "desc": "Nhấn vào Xác Nhận",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_reward > bg_node > node_btn > global_btn_confirm",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Tửu Quán Chiêu Mộ"
+}

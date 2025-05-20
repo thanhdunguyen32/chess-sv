@@ -1,0 +1,236 @@
+[
+  {
+    "GETMARK": 93000,
+    "CNUM": 13,
+    "INTRO": "Hoàn thành tất cả nhiệm vụ hằng ngày",
+    "EXID": "daily_0",
+    "REWARD": [
+      {
+        "COUNT": 100,
+        "GSID": 38005
+      }
+    ],
+    "PMARK": "all",
+    "NAME": "完成所有每日任务",
+    "NAME_VN": "Hoàn thành tất cả nhiệm vụ hằng ngày"
+  },
+  {
+    "GETMARK": 93001,
+    "CNUM": 1,
+    "INTRO": "Đăng nhập trò chơi",
+    "EXID": "daily_1",
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 38005
+      }
+    ],
+    "PMARK": "login",
+    "NAME": "登录游戏",
+    "NAME_VN": "Đăng nhập trò chơi"
+  },
+  {
+    "GETMARK": 93002,
+    "INTRO": "Thu hoạch chinh chiến 3 lần",
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 38005
+      }
+    ],
+    "CNUM": 3,
+    "PMARK": 90164,
+    "NAME": "征战收获3次",
+    "NAME_VN": "Thu hoạch chinh chiến 3 lần",
+    "EXID": "daily_2",
+    "PAGE": "windowspageautobattleinfo"
+  },
+  {
+    "GETMARK": 93003,
+    "INTRO": "Điểm kim 3 lần",
+    "REWARD": [
+      {
+        "COUNT": 3,
+        "GSID": 30008
+      }
+    ],
+    "CNUM": 3,
+    "PMARK": 90165,
+    "NAME": "点金3次",
+    "NAME_VN": "Điểm kim 3 lần",
+    "EXID": "daily_3",
+    "PAGE": "goldmidaspage"
+  },
+  {
+    "GETMARK": 93004,
+    "INTRO": "Quan tinh 2 lần",
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 38005
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90167,
+    "NAME": "观星2次",
+    "NAME_VN": "Quan tinh 2 lần",
+    "EXID": "daily_4",
+    "PAGE": "lookstarpage"
+  },
+  {
+    "GETMARK": 93005,
+    "INTRO": "Hợp thành 1 trang bị bất kỳ",
+    "REWARD": [
+      {
+        "PARAM": 1000,
+        "COUNT": 10000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 1,
+    "PMARK": 90169,
+    "NAME": "合成任意装备1件",
+    "NAME_VN": "Hợp thành 1 trang bị bất kỳ",
+    "EXID": "daily_5",
+    "PAGE": "fusionpage"
+  },
+  {
+    "GETMARK": 93006,
+    "INTRO": "Chiêu mộ thường 1 lần",
+    "REWARD": [
+      {
+        "PARAM": 500,
+        "COUNT": 5000,
+        "GSID": 30001
+      }
+    ],
+    "CNUM": 1,
+    "PMARK": 90171,
+    "NAME": "普通招募1次",
+    "NAME_VN": "Chiêu mộ thường 1 lần",
+    "EXID": "daily_6",
+    "PAGE": "cardpubpage"
+  },
+  {
+    "GETMARK": 93007,
+    "INTRO": "Chiêu mộ cao cấp 1 lần",
+    "REWARD": [
+      {
+        "PARAM": 750,
+        "COUNT": 7500,
+        "GSID": 30001
+      }
+    ],
+    "CNUM": 1,
+    "PMARK": 90175,
+    "NAME": "高级招募1次",
+    "NAME_VN": "Chiêu mộ cao cấp 1 lần",
+    "EXID": "daily_7",
+    "PAGE": "cardpubpage"
+  },
+  {
+    "GETMARK": 93008,
+    "INTRO": "Đại chiến dịch 2 lần",
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 38005
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90178,
+    "NAME": "大战役2次",
+    "NAME_VN": "Đại chiến dịch 2 lần",
+    "EXID": "daily_8",
+    "PAGE": "bigbattlepage"
+  },
+  {
+    "GETMARK": 93009,
+    "INTRO": "Khiêu chiến diễn võ 3 lần",
+    "REWARD": [
+      {
+        "COUNT": 3,
+        "GSID": 30028
+      }
+    ],
+    "CNUM": 3,
+    "PMARK": 90180,
+    "NAME": "演武挑战3次",
+    "NAME_VN": "Khiêu chiến diễn võ 3 lần",
+    "EXID": "daily_9",
+    "PAGE": "pvpentrancepage"
+  },
+  {
+    "GETMARK": 93010,
+    "INTRO": "Nhiệm vụ nội chính 2 lần",
+    "REWARD": [
+      {
+        "PARAM": 1000,
+        "COUNT": 10000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90183,
+    "NAME": "内政任务2次",
+    "NAME_VN": "Nhiệm vụ nội chính 2 lần",
+    "EXID": "daily_10",
+    "PAGE": "itnmissionpage"
+  },
+  {
+    "GETMARK": 93011,
+    "INTRO": "Tặng điểm tình bạn 5 lần",
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 38005
+      }
+    ],
+    "CNUM": 5,
+    "PMARK": 90263,
+    "NAME": "赠送友情点5次",
+    "NAME_VN": "Tặng điểm tình bạn 5 lần",
+    "EXID": "daily_11",
+    "PAGE": "friendpage"
+  },
+  {
+    "GETMARK": 93012,
+    "INTRO": "Tranh doạt mỏ quặng 2 lần",
+    "REWARD": [
+      {
+        "COUNT": 4,
+        "GSID": 30028
+      },
+      {
+        "COUNT": 40,
+        "GSID": 38005
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90273,
+    "NAME": "矿场争夺战斗2次",
+    "NAME_VN": "Tranh doạt mỏ quặng 2 lần",
+    "EXID": "daily_12",
+    "PAGE": "minepage"
+  },
+  {
+    "GETMARK": 93013,
+    "INTRO": "Tham gia quốc chiến 2 lần",
+    "REWARD": [
+      {
+        "COUNT": 40,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30028
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90274,
+    "NAME": "参与国战争夺2次",
+    "NAME_VN": "Tham gia quốc chiến 2 lần",
+    "EXID": "daily_13",
+    "PAGE": "guozhanpvepanel"
+  }
+]

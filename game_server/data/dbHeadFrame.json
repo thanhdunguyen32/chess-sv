@@ -1,0 +1,141 @@
+{
+  "51001": {
+    "FRAMEID": 51001,
+    "NAMEICON": "headicon_chuchumaolu",
+    "INTRO": "Mở khóa khi tạo nhân vật",
+    "ARRATT": [],
+    "TIMELIMIT": -1,
+    "FRAMEICON": "headicon01",
+    "NAME": "初出茅庐",
+    "NAME_VN": "Mới Ra Đời"
+  },
+  "51005": {
+    "FRAMEID": 51005,
+    "NAMEICON": "headicon_xiaoyoumingqi",
+    "INTRO": "Đôi trong Cửa Hàng Diễn Võ",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 30
+      }
+    ],
+    "TIMELIMIT": -1,
+    "FRAMEICON": "headicon05",
+    "NAME": "小有名气",
+    "NAME_VN": "Có Chút Danh Tiếng"
+  },
+  "51014": {
+    "FRAMEID": 51014,
+    "NAMEICON": "headicon_guozhanqiangzhe",
+    "INTRO": "Nhận được thông qua Quốc Chiến",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 30
+      },
+      {
+        "ATT": 302,
+        "COUNT": 10
+      }
+    ],
+    "TIMELIMIT": -1,
+    "FRAMEICON": "headicon14",
+    "NAME": "国战强者",
+    "NAME_VN": "Cường Giả Quốc Chiến"
+  },
+  "51006": {
+    "FRAMEID": 51006,
+    "NAMEICON": "headicon_zuiqiangwangzhe",
+    "INTRO": "Mở khóa khi kết thúc mùa giải Diễn Võ và đạt Tối Cường Vương Giả",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 80
+      },
+      {
+        "ATT": 302,
+        "COUNT": 20
+      }
+    ],
+    "TIMELIMIT": 30,
+    "FRAMEICON": "headicon07",
+    "NAME": "最强王者",
+    "NAME_VN": "Tối Cường Vương Giả"
+  },
+  "51007": {
+    "FRAMEID": 51007,
+    "NAMEICON": "headicon_chaofandashi",
+    "INTRO": "Mở khóa khi kết thúc mùa giải Diễn Võ và đạt Đại Sư",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 40
+      },
+      {
+        "ATT": 302,
+        "COUNT": 10
+      }
+    ],
+    "TIMELIMIT": 30,
+    "FRAMEICON": "headicon06",
+    "NAME": "超凡大师",
+    "NAME_VN": "Siêu Phàm Đại Sư"
+  },
+  "51015": {
+    "FRAMEID": 51015,
+    "NAMEICON": "headicon_guozhanwangzhe",
+    "INTRO": "Nhận được thông qua Quốc Chiến",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 40
+      },
+      {
+        "ATT": 302,
+        "COUNT": 30
+      }
+    ],
+    "TIMELIMIT": 15,
+    "FRAMEICON": "headicon15",
+    "NAME": "国战王者",
+    "NAME_VN": "Vương Giả Quốc Chiến"
+  },
+  "51008": {
+    "FRAMEID": 51008,
+    "NAMEICON": "headicon_chuanqiguizu",
+    "INTRO": "VIP 10 mở khóa",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 30
+      },
+      {
+        "ATT": 302,
+        "COUNT": 30
+      }
+    ],
+    "TIMELIMIT": -1,
+    "FRAMEICON": "headiconvip10",
+    "NAME": "闪耀贵族",
+    "NAME_VN": "Thiểm Diệu Quý Tộc"
+  },
+  "51009": {
+    "FRAMEID": 51009,
+    "NAMEICON": "headicon_shanyaoguizu",
+    "INTRO": "VIP 13 mở khóa",
+    "ARRATT": [
+      {
+        "ATT": 301,
+        "COUNT": 50
+      },
+      {
+        "ATT": 302,
+        "COUNT": 50
+      }
+    ],
+    "TIMELIMIT": -1,
+    "FRAMEICON": "headiconvip13",
+    "NAME": "传奇贵族",
+    "NAME_VN": "Truyền Kỳ Quý Tộc"
+  }
+}

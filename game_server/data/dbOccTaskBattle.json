@@ -1,0 +1,222 @@
+{
+  "1": [
+    {
+      "INTRO": "Lưu Bị: Hỗ trợ chia sẻ sát thương toàn đội, tự hồi máu và có kỹ năng bất tử.",
+      "GSID": 12021,
+      "NAME": "刘备",
+      "NAME_VN": "Lưu Bị"
+    },
+    {
+      "INTRO": "Tôn Sách: Khả năng miễn sát thương cao, tự tạo lá chắn, vừa phòng thủ vừa tấn công. Khi thuận lợi có thể áp đảo, khi bất lợi vẫn kiên cường.",
+      "GSID": 14001,
+      "NAME": "孙策",
+      "NAME_VN": "Tôn Sách"
+    },
+    {
+      "INTRO": "Tôn Kiên: Biệt danh 'Tạc Đạn', kỹ năng Ưng Dương kích hoạt sẽ gây sát thương toàn màn tạo nên kỳ tích!",
+      "GSID": 14401,
+      "NAME": "孙坚",
+      "NAME_VN": "Tôn Kiên"
+    },
+    {
+      "INTRO": "Lữ Bố: Chiến thần miễn phép siêu mạnh, chiêu cuối vô hiệu hóa toàn bộ sát thương phép và gây choáng diện rộng.",
+      "GSID": 16001,
+      "NAME": "吕布",
+      "NAME_VN": "Lữ Bố"
+    },
+    {
+      "INTRO": "Hạng Vũ: Bị động giảm máu theo phần trăm khi bị tấn công, sống sót siêu mạnh, chiêu cuối hút mana diện rộng.",
+      "GSID": 17021,
+      "NAME": "项羽",
+      "NAME_VN": "Hạng Vũ"
+    },
+    {
+      "INTRO": "Uesugi Kenshin: Bị động tăng giáp, chiêu cuối làm mù diện rộng, tự hồi máu mạnh mẽ.",
+      "GSID": 18021,
+      "NAME": "上杉谦信",
+      "NAME_VN": "Uesugi Kenshin"
+    },
+    {
+      "INTRO": "Oda Nobunaga: Chiến binh kiêm cung thủ, sở hữu phân thân, nguyền rủa gây sát thương liên tục cực mạnh.",
+      "GSID": 18001,
+      "NAME": "织田信长",
+      "NAME_VN": "Oda Nobunaga"
+    }
+  ],
+  "3": [
+    {
+      "INTRO": "Trương Cáp: Vua kết liễu trận chiến, chiêu cuối mở ra thần chặn giết thần, phật chặn giết phật.",
+      "GSID": 10421,
+      "NAME": "张郃",
+      "NAME_VN": "Trương Cáp"
+    },
+    {
+      "INTRO": "Vu Cát: Xạ thủ giai đoạn cuối siêu mạnh, máy gặt linh hồn, nhân vật chủ lực của đội xạ thủ.",
+      "GSID": 16101,
+      "NAME": "于吉",
+      "NAME_VN": "Vu Cát"
+    },
+    {
+      "INTRO": "Tôn Thượng Hương: Chiêu câm lặng diện rộng làm bùng nổ chiến trường, vừa khống chế vừa gây sát thương.",
+      "GSID": 14081,
+      "NAME": "孙尚香",
+      "NAME_VN": "Tôn Thượng Hương"
+    },
+    {
+      "INTRO": "Thái Văn Cơ: Đánh thường có thể nảy lan, tướng thần giá rẻ, xạ thủ nòng cốt đầu trận.",
+      "GSID": 16121,
+      "NAME": "蔡文姬",
+      "NAME_VN": "Thái Văn Cơ"
+    },
+    {
+      "INTRO": "Mã Đại: Vạn Tiễn Tề Phát gây choáng diện rộng, xạ thủ khống chế cực mạnh.!",
+      "GSID": 12121,
+      "NAME": "马岱",
+      "NAME_VN": "Mã Đại"
+    },
+    {
+      "INTRO": "Hạ Hầu Uyên: Bị động gây sát thương phần trăm máu liên tiếp, khắc tinh boss và đỡ đòn.",
+      "GSID": 10101,
+      "NAME": "夏侯渊",
+      "NAME_VN": "Hạ Hầu Uyên"
+    },
+    {
+      "INTRO": "Hoàng Trung: Bị động tăng thuộc tính theo thời gian, chiêu cuối Hoàng Kim Tiễn bách phát bách trúng.",
+      "GSID": 12101,
+      "NAME": "黄忠",
+      "NAME_VN": "Hoàng Trung"
+    }
+  ],
+  "5": [
+    {
+      "INTRO": "Lưu Bang: Chống bạo kích, chiêu cuối giúp đồng đội miễn tử, khắc chế hoàn toàn lối chơi bùng nổ.",
+      "GSID": 17001,
+      "NAME": "刘邦",
+      "NAME_VN": "Lưu Bang"
+    },
+    {
+      "INTRO": "Bàng Thống: liên kết sinh mệnh chia sẻ sát thương đồng đội với nhau.",
+      "GSID": 12161,
+      "NAME": "庞统",
+      "NAME_VN": "Bàng Thống"
+    },
+    {
+      "INTRO": "Giả Hủ: Chiêu cuối gây sát thương chuẩn, hồi chiêu khi giết địch, liên tục hạ gục không ai cản nổi.",
+      "GSID": 10161,
+      "NAME": "贾诩",
+      "NAME_VN": "Giả Hủ"
+    },
+    {
+      "INTRO": "Tôn Quyền: Tướng hỗ trợ hàng đầu, tăng tốc, tăng may mắn diện rộng, hồi máu và bất tử khi cận kề cái chết.",
+      "GSID": 14181,
+      "NAME": "孙权",
+      "NAME_VN": "Tôn Quyền"
+    },
+    {
+      "INTRO": "Lý Nho: Ác Vận Độc Long, cấm hồi máu và khóa mana diện rộng, đánh thường giảm sát thương kẻ địch, cổ vũ đồng đội mạnh mẽ.",
+      "GSID": 16421,
+      "NAME": "李儒",
+      "NAME_VN": "Lý Nho"
+    },
+    {
+      "INTRO": "Tuân Úc: Giảm sát thương và tăng kháng phép diện rộng, khắc tinh pháp sư.",
+      "GSID": 10181,
+      "NAME": "荀彧",
+      "NAME_VN": "Tuân Úc"
+    },
+    {
+      "INTRO": "Hoa Đà: Trợ thủ hồi máu toàn diện, liên tục hồi phục và tạo khiên bảo vệ, đảo ngược cục diện trận chiến.",
+      "GSID": 16201,
+      "NAME": "华佗",
+      "NAME_VN": "Hoa Đà"
+    }
+  ],
+  "2": [
+    {
+      "INTRO": "Hàn Tín: Pháp sư kiêm thích khách, khả năng bùng nổ diện rộng đi kèm câm lặng, đánh thường nổ sát thương lớn, là cơn ác mộng cho kẻ yếu.",
+      "GSID": 17041,
+      "NAME": "韩信",
+      "NAME_VN": "Hàn Tín"
+    },
+    {
+      "INTRO": "Triệu Vân: Thích khách né tránh siêu mạnh, né đòn phản công, đánh thường lan rộng, gan dạ vô song.",
+      "GSID": 12061,
+      "NAME": "赵云",
+      "NAME_VN": "Triệu Vân"
+    },
+    {
+      "INTRO": "Trương Liêu: Lão đại Phủ Đầu Bang, chiêu cuối tung rìu nảy, chí mạng phá giáp, hiện thân của tử vong.",
+      "GSID": 10041,
+      "NAME": "张辽",
+      "NAME_VN": "Trương Liêu"
+    },
+    {
+      "INTRO": "Hoa Hùng: Kỹ năng Liệt Hồn Trảm Trận, ba nhát chém bùng nổ, tự hồi máu, cầm lưỡi hái tử thần.",
+      "GSID": 16061,
+      "NAME": "华雄",
+      "NAME_VN": "Hoa Hùng"
+    },
+    {
+      "INTRO": "Cam Ninh: Thích khách khống chế mạnh nhất, chiêu cuối gây choáng diện rộng, có thể tạo ra kỳ tích.",
+      "GSID": 14021,
+      "NAME": "甘宁",
+      "NAME_VN": "Cam Ninh"
+    },
+    {
+      "INTRO": "Toyotomi Hideyoshi: Tướng thích khách toàn năng, đánh ba phát hút mana và bạo kích, tăng tốc đội, một đấu mười không là vấn đề.",
+      "GSID": 18121,
+      "NAME": "丰臣秀吉",
+      "NAME_VN": "Toyotomi Hideyoshi"
+    },
+    {
+      "INTRO": "Hạ Hầu Đôn: Thích khách mạnh mẽ giai đoạn đầu, chiêu cuối diện rộng và khả năng bất tử.",
+      "GSID": 10061,
+      "NAME": "夏侯惇",
+      "NAME_VN": "Hạ Hầu Đôn"
+    }
+  ],
+  "4": [
+    {
+      "INTRO": "Gia Cát Lượng: Pháp sư không thể thiếu, sát thương diện rộng mạnh mẽ, bị động hồi mana cho phe mình và giảm mana địch.",
+      "GSID": 12141,
+      "NAME": "诸葛亮",
+      "NAME_VN": "Gia Cát Lượng"
+    },
+    {
+      "INTRO": "Hàn Tín: Pháp sư kiêm thích khách, khả năng bùng nổ diện rộng đi kèm câm lặng, đánh thường nổ sát thương lớn là cơn ác mộng cho kẻ yếu.",
+      "GSID": 17041,
+      "NAME": "韩信",
+      "NAME_VN": "Hàn Tín"
+    },
+    {
+      "INTRO": "Pháp Chính: Mỗi khi đồng đội dùng kỹ năng, Pháp Chính gây sát thương diện rộng, sức mạnh vượt trội.",
+      "GSID": 12381,
+      "NAME": "法正",
+      "NAME_VN": "Pháp Chính"
+    },
+    {
+      "INTRO": "Lục Tốn: Pháp sư bạo lực, sát thương bùng nổ, tự tạo lá chắn, tăng tốc khi đồng đội hy sinh.",
+      "GSID": 14121,
+      "NAME": "陆逊",
+      "NAME_VN": "Lục Tốn"
+    },
+    {
+      "INTRO": "Trương Giác: Thiên Lôi Cuồn Cuộn, chiêu khóa mục tiêu diện rộng không thể tránh né, cốt lõi của đội pháp sư.",
+      "GSID": 16161,
+      "NAME": "张角",
+      "NAME_VN": "Trương Giác"
+    },
+    {
+      "INTRO": "Lỗ Túc: Pháp sư hỗ trợ đa năng, hồi máu, gây sát thương và khống chế diện rộng.",
+      "GSID": 14141,
+      "NAME": "鲁肃",
+      "NAME_VN": "Lỗ Túc"
+    },
+    {
+      "INTRO": "Lưu Tú: Pháp sư chống chịu mạnh nhất, miễn mọi chí mạng, sát thương lâu dài mạnh mẽ.",
+      "GSID": 17121,
+      "NAME": "刘秀",
+      "NAME_VN": "Lưu Tú"
+    }
+  ]
+}

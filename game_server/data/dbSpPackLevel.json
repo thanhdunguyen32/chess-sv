@@ -1,0 +1,61 @@
+{
+  "20": {
+    "LEVEL": 20,
+    "PROP": "tx_djlb_01",
+    "TITLE": "xglb_tx_01",
+    "BG": "xg_bg_level01",
+    "TCBG": "xg_tcbg_level01",
+    "ICON": "xg_icon_lv01"
+  },
+  "48": {
+    "LEVEL": 48,
+    "PROP": "tx_djlb_03",
+    "TITLE": "xglb_tx_03",
+    "BG": "xg_bg_level03",
+    "TCBG": "xg_tcbg_level03",
+    "ICON": "xg_icon_lv03"
+  },
+  "92": {
+    "LEVEL": 92,
+    "PROP": "tx_djlb_07",
+    "TITLE": "xglb_tx_07",
+    "BG": "xg_bg_level07",
+    "TCBG": "xg_tcbg_level07",
+    "ICON": "xg_icon_lv07"
+  },
+  "32": {
+    "LEVEL": 32,
+    "PROP": "tx_djlb_02",
+    "TITLE": "xglb_tx_02",
+    "BG": "xg_bg_level02",
+    "TCBG": "xg_tcbg_level02",
+    "ICON": "xg_icon_lv02"
+  },
+  "10": {
+    "LEVEL": 10
+  },
+  "60": {
+    "LEVEL": 60,
+    "PROP": "tx_djlb_04",
+    "TITLE": "xglb_tx_04",
+    "BG": "xg_bg_level04",
+    "TCBG": "xg_tcbg_level04",
+    "ICON": "xg_icon_lv04"
+  },
+  "78": {
+    "LEVEL": 78,
+    "PROP": "tx_djlb_06",
+    "TITLE": "xglb_tx_06",
+    "BG": "xg_bg_level06",
+    "TCBG": "xg_tcbg_level06",
+    "ICON": "xg_icon_lv06"
+  },
+  "70": {
+    "LEVEL": 70,
+    "PROP": "tx_djlb_05",
+    "TITLE": "xglb_tx_05",
+    "BG": "xg_bg_level05",
+    "TCBG": "xg_tcbg_level05",
+    "ICON": "xg_icon_lv05"
+  }
+}

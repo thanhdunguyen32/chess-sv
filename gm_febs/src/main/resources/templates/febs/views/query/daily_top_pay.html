@@ -1,0 +1,122 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Xếp hạng nạp tiền hàng ngày">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <form class="layui-form" action="">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Xếp hạng nạp tiền hàng ngày</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label febs-form-item-require" style="width:80px;padding-left:0px;">Ngày thống kê：</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="query_date" id="query_date" lay-verify="required|date" required placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <button type="submit" class="layui-btn" lay-submit="" lay-filter="query">Tìm kiếm</button>
+                        </div>
+                    </div>
+                </form>
+                <table lay-filter="userTable" lay-data="{id: 'userTable'}"></table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'laydate','table'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            table = layui.table,
+            laydate = layui.laydate,
+            $view = $('#febs-op-gonggao'),
+            $searchForm = $view.find('form'),
+            $trimValue = $view.find('input[name="trimValue"]'),
+            $trimValueItem = $trimValue.parents('.layui-form-item'),
+            tableIns,
+            errorMsg = [[${errorMsg}]];
+
+        //Ngày tháng
+        laydate.render({
+            elem: '#query_date'
+        });
+
+        form.render();
+
+        initTable();
+
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        function initTable() {
+          tableIns = table.render({
+            elem: $view.find('table')
+            ,url:ctx + 'query/dailyTopPay'
+            ,cellMinWidth: 80
+            ,cols: [ [
+                {field: 'name', title: 'Tên',width:130},
+                {field: 'sumMoney', title: 'Số tiền (VNĐ)',width: 110,templet:function(d){
+                    return "<span style='color:red;font-weight:bold;font-size:1rem;'>"+d.sumMoney+"</span>";
+                }},
+                {title: 'ID người chơi',field:'player_id',width: 90},
+                {field: 'account_id', title: 'ID tài khoản',minWidth: 240}
+            ] ],
+            parseData: function(res){
+                return {
+                  "code": res.code == 200? 0 : res.code,
+                  "msg": res.message,
+                  "count": res.data ? res.data.total : 0,
+                  "data": res.data ? res.data.rows : []
+                };
+          }
+          });
+        }
+
+        form.on('submit(query)', function (data) {
+            let queryDate = $searchForm.find('input[name="query_date"]').val();
+            tableIns.reload({where: {query_date:queryDate}});
+            return false;
+        });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/subtitle?time="+(new Date().getTime()));
+        });
+    });
+</script>

@@ -1,0 +1,34 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 2,
+      "desc": "Hướng dẫn đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Giờ đây, nhà Hán suy yếu, thiên hạ rơi vào loạn lạc. Khởi nghĩa Khăn Vàng nổi lên, lửa chiến bùng cháy khắp nơi, dân chúng lầm than. Đổng Trác cướp ngôi, lộng hành, khiến thiên hạ chìm trong hỗn loạn.",
+          "Dù chủ công mang trong lòng chí lớn khôi phục nhà Hán, hay ấp ủ mưu đồ thống nhất thiên hạ, thì điều quan trọng nhất lúc này là chiêu mộ những hào kiệt trung thành, dũng cảm để gia tăng sức mạnh cho bản thân!"
+        ]
+      }
+    },
+    {
+      "desc": "Chuyển cảnh thành phố",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodePub"
+      }
+    },
+    {
+      "numstep": 3,
+      "desc": "Nhấp vào Tửu Quán",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / jiuguan",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn Tửu Quán Chiêu Mộ"
+}

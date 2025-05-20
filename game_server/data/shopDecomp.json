@@ -1,0 +1,162 @@
+[
+  {
+    "GSID": 20001,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 20061,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 20262,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 2500,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 20281,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 300,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 22121,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 22161,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 22202,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 2500,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 22241,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 300,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 24041,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 24141,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 24222,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 2500,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 24241,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 300,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 26021,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 26121,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 4000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 26262,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 2500,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 26281,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 300,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 27061,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 450,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 28061,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 30,
+    "PRICE": 450,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 27001,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 6000,
+    "DISCOUNT": 10
+  },
+  {
+    "GSID": 28041,
+    "COIN": 30014,
+    "BUYTIME": 1,
+    "COUNT": 50,
+    "PRICE": 6000,
+    "DISCOUNT": 10
+  }
+]

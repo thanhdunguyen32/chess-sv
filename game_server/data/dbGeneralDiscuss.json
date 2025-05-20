@@ -1,0 +1,119 @@
+{
+  "简雍": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 4,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 5,
+    "LABEL1": "Gà Mờ Pháp Sư",
+    "HP": 2,
+    "ATK": 1
+  },
+  "孙策": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 4,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 4,
+    "ATK": 9,
+    "HP": 7
+  },
+  "刘备": {},
+  "庞统": {},
+  "魏延": {},
+  "张飞": {},
+  "张郃": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 6,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 6,
+    "ATK": 6,
+    "HP": 6
+  },
+  "甘宁": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 5,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 6,
+    "LABEL1": "Thích Khách",
+    "HP": 8,
+    "ATK": 8
+  },
+  "马岱": {},
+  "姜维": {},
+  "高顺": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 5,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 7,
+    "ATK": 7,
+    "HP": 6
+  },
+  "孟达": {},
+  "关羽": {},
+  "诸葛亮": {},
+  "盾兵": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 4,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 5,
+    "LABEL1": "Gà Mờ Pháp Sư",
+    "HP": 1,
+    "ATK": 2
+  },
+  "曹操": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 6,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 8,
+    "LABEL1": "Trụ Cột Ngụy Quốc",
+    "HP": 8,
+    "ATK": 5
+  },
+  "关兴": {},
+  "吕布": {
+    "LABEL0": "Vô Địch",
+    "MDEF": 5,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 6,
+    "ATK": 10,
+    "HP": 8
+  },
+  "黄月英": {},
+  "张星彩": {},
+  "董卓": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 8,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 8,
+    "LABEL1": "Khiên thịt",
+    "HP": 9,
+    "ATK": 5
+  },
+  "黄忠": {},
+  "夏侯": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 3,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 4,
+    "ATK": 7,
+    "HP": 6
+  },
+  "马超": {},
+  "孙尚香": {
+    "LABEL0": "Khắc Tinh Chiến Sĩ",
+    "MDEF": 6,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 6,
+    "ATK": 5,
+    "HP": 6
+  },
+  "刘封": {
+    "LABEL0": "Khắc Tinh Pháp Sư",
+    "MDEF": 4,
+    "INTRO": "Chưa có nội dung miêu tả",
+    "DEF": 5,
+    "LABEL1": "Cuồng Bạo Chiến Sĩ",
+    "HP": 1,
+    "ATK": 2
+  },
+  "赵云": {}
+}

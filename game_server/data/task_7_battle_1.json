@@ -1,0 +1,76 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 23,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công mới lần đầu tham gia quân vụ, những thông tin cơ bản về chiến trường xin để Tiểu Tước giải đáp giúp chúa công!"
+      }
+    },
+    {
+      "numstep": 24,
+      "desc": "Giới thiệu ra trận nhân số",
+      "command": {
+        "cmd": "locator",
+        "args": "battle_page > ui_label_bg",
+        "textdirection": "mid",
+        "text": "Hiển thị số lượng tướng đã ra trận và số lượng tối đa có thể ra trận! (Tăng cấp chúa công sẽ tăng thêm tướng xuất trận)."
+      }
+    },
+    {
+      "numstep": 25,
+      "desc": "Giới thiệu bàn cờ",
+      "command": {
+        "cmd": "locator",
+        "args": "battle_field",
+        "textdirection": "mid",
+        "text": "Hiển thị tất cả võ tướng đã xuất trận cùng vị trí ban  đầu của tướng"
+      }
+    },
+    {
+      "numstep": 26,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Trước khi bắt đầu công thành, xin chúa công hãy thiết lập đội quân tấn công của mình!"
+      }
+    },
+    {
+      "numstep": 27,
+      "desc": "Nhấn vào võ tướng 1 ",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > global_frame_01 > general_view > content # 12241 > icon",
+        "text": "Nhấn vào tướng muốn ra trận!"
+      }
+    },
+    {
+      "numstep": 28,
+      "desc": "Nhấn vào võ tướng 2",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > global_frame_01 > general_view > content # 12281 > icon",
+        "text": "Hãy thêm một vị tướng!"
+      }
+    },
+    {
+      "numstep": 29,
+      "desc": "Nhấn để khai chiến",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "battle_page > battle_btn_start_01",
+        "text": "Đã hoàn thành chọn tướng xuất trận, chúa công có thể hạ lệnh công thành!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng Dẫn Chiến Đấu"
+}

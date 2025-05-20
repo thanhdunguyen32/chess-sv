@@ -1,0 +1,46 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 7,
+      "desc": "Dẫn đạo đối thoại",
+      "command": {
+        "cmd": "talk",
+        "args": "Xem ra mị lực của ngươi không đủ, thử dùng Chiêu Mộ Lệnh Cao Cấp xem sao!"
+      }
+    },
+    {
+      "numstep": 8,
+      "desc": "Nhấn vào Chiêu Mộ Cao Cấp x1",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "cardpub_page > cardpub_03 > btn_pick_premium_1",
+        "text": "Nhấn vào đây tiến hành Chiêu Mộ Cao Cấp"
+      }
+    },
+    {
+      "numstep": 9,
+      "desc": "Nhấn vào Xác Nhận",
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_reward > bg_node > node_btn > global_btn_confirm",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 10,
+      "desc": "Nhấn vào Quay Lại",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "cardpub_page > global_btn_back_01",
+        "text": "Nhấn vào đây để quay lại chủ thành"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tửu Quán Chiêu Mộ Cao Cấp"
+}

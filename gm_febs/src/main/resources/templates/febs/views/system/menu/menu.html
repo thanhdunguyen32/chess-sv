@@ -1,0 +1,337 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-menu" lay-title="Quản lý thực đơn">
+    <div class="layui-row layui-col-space8 febs-container">
+        <div class="layui-col-md6 layui-col-sm6 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" lay-filter="menu-table-form" id="menu-table-form">
+                        <div class="layui-row">
+                            <div class="layui-col-md8 layui-col-sm9 layui-col-xs9">
+                                <div class="layui-form-item">
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label layui-form-label-sm">Tên</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="menuName" autocomplete="off" class="layui-input">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="layui-col-md4 layui-col-sm12 layui-col-xs12 table-action-area">
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="query">
+                                    <i class="layui-icon">&#xe848;</i>
+                                </div>
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="reset">
+                                    <i class="layui-icon">&#xe79b;</i>
+                                </div>
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action action-more"
+                                     shiro:hasAnyPermissions="menu:add,menu:delete,menu:export">
+                                    <i class="layui-icon">&#xe875;</i>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <div class="eleTree menuTree" lay-filter="menuTree" style="margin-left: 1rem"></div>
+                </div>
+            </div>
+        </div>
+        <div class="layui-col-md6 layui-col-sm6 layui-col-xs12">
+            <div class="layui-card">
+                <div class="layui-card-header" id="form-header">Thực đơn mới</div>
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" action="" lay-filter="menu-form">
+                        <div class="layui-form-item febs-hide">
+                            <label class="layui-form-label febs-form-item-require">ID：</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="menuId" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">ID cấp trên:</label>
+                            <div class="layui-input-block">
+                                <input type="text" value="" name="parentId" readonly class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label febs-form-item-require">Tên:</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="menuName" autocomplete="off" class="layui-input"
+                                       minlength="2" maxlength="10" lay-verify="range">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label febs-form-item-require">Kiểu:</label>
+                            <div class="layui-input-block">
+                                <input type="radio" name="type" lay-filter="menu-type" value="0" title="Menu" checked="">
+                                <input type="radio" name="type" lay-filter="menu-type" value="1" title="Button">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Biểu tượng:</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="icon" autocomplete="off" class="layui-input"
+                                       maxlength="50" lay-verify="range">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">URL：</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="url" autocomplete="off" class="layui-input"
+                                       maxlength="50" lay-verify="range">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Quyền:</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="perms" autocomplete="off" class="layui-input"
+                                       maxlength="50" lay-verify="range">
+                            </div>
+                        </div>
+                        <div class="layui-form-item">
+                            <label class="layui-form-label">Sắp xếp theo:</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="orderNum" autocomplete="off" class="layui-input"
+                                       lay-verify="number">
+                            </div>
+                        </div>
+                        <button type="reset" class="layui-btn febs-hide" id="reset-form"></button>
+                        <button class="layui-btn febs-hide" lay-submit="" lay-filter="menu-form-submit"
+                                id="submit-form"></button>
+                    </form>
+                </div>
+                <div class="layui-card-footer">
+                    <button class="layui-btn" id="submit">Giữ</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['dropdown', 'jquery', 'laydate', 'febs', 'form', 'eleTree', 'validate'], function () {
+        var $ = layui.jquery,
+            laydate = layui.laydate,
+            febs = layui.febs,
+            form = layui.form,
+            validate = layui.validate,
+            eleTree = layui.eleTree,
+            dropdown = layui.dropdown,
+            $view = $('#febs-menu'),
+            $query = $view.find('#query'),
+            $reset = $view.find('#reset'),
+            $submit = $view.find('#submit'),
+            $searchForm = $view.find('#menu-table-form'),
+            $menuName = $searchForm.find('input[name="menuName"]'),
+            $type = $view.find('input[type="radio"][name="type"]'),
+            $icon = $view.find('input[name="icon"]'),
+            $icon_parent = $icon.parents('.layui-form-item'),
+            $url = $view.find('input[name="url"]'),
+            $url_parent = $url.parents('.layui-form-item'),
+            $order = $view.find('input[name="orderNum"]'),
+            $order_parent = $order.parents('.layui-form-item'),
+            $header = $view.find('#form-header'),
+            _currentMenuData,
+            _selectNode,
+            _menuTree,
+            tableIns;
+
+        form.verify(validate);
+        form.render();
+
+        dropdown.render({
+            elem: $view.find('.action-more'),
+            click: function (name, elem, event) {
+                if (name === 'add') {
+                    reset();
+                    var selected = _menuTree.getChecked(false, true);
+                    if (selected.length > 1) {
+                        febs.alert.warn('Chỉ có thể chọn một nút làm nút cha!');
+                        return;
+                    }
+                    if (selected[0] && selected[0].type === '1') {
+                        febs.alert.warn('Không thể chọn nút làm cha mẹ!');
+                        return;
+                    }
+                    form.val("menu-form", {
+                        "parentId": selected[0] ? selected[0].id : ''
+                    });
+                }
+                if (name === 'delete') {
+                    var checked = _menuTree.getChecked(false, true);
+                    if (checked.length < 1) {
+                        febs.alert.warn('Vui lòng kiểm tra menu hoặc nút bạn muốn xóa');
+                        return;
+                    }
+                    var menuIds = [];
+                    layui.each(checked, function (key, item) {
+                        menuIds.push(item.id)
+                    });
+                    febs.modal.confirm('Gợi ý', 'Khi bạn bấm vào nút OK, các bản ghi này sẽ bị xóa hoàn toàn và nếu chúng chứa các bản ghi phụ thì chúng cũng sẽ bị xóa!', function () {
+                        febs.get(ctx + 'menu/delete/' + menuIds.join(','), null, function () {
+                            febs.alert.success('Xóa thành công!');
+                            reloadMenuTree();
+                            reset();
+                        })
+                    });
+                }
+                if (name === 'export') {
+                    febs.download(ctx + 'menu/excel', {
+                        "menuName": $menuName.val().trim()
+                    }, 'Bảng thông tin thực đơn.xlsx');
+                }
+            },
+            options: [{
+                name: 'add',
+                title: 'Mới',
+                perms: 'menu:add'
+            }, {
+                name: 'delete',
+                title: 'Xóa bỏ',
+                perms: 'menu:delete'
+            }, {
+                name: 'export',
+                title: 'Xuất Excel',
+                perms: 'menu:export'
+            }]
+        });
+
+        _menuTree = renderMenuTree();
+
+        eleTree.on("nodeClick(menuTree)", function (d) {
+            var data = d.data.currentData.data;
+            _currentMenuData = data;
+            $type.attr("disabled", true);
+            var type = data.type;
+            handleTypeChange(type);
+            if (type === '0') { // 菜单
+                $header.text('Sửa đổi trình đơn');
+            } else { // 按钮
+                $header.text('Nút sửa đổi');
+            }
+            form.val("menu-form", {
+                "icon": data.icon,
+                "url": data.url,
+                "orderNum": data.orderNum,
+                "type": data.type,
+                "menuName": data.menuName,
+                "perms": data.perms,
+                "parentId": data.parentId,
+                "menuId": data.menuId
+            });
+        });
+
+        form.on("radio(menu-type)", function (data) {
+            handleTypeChange(data.value);
+        });
+
+        $reset.on('click', function () {
+            $menuName.val('');
+            reloadMenuTree();
+            reset();
+        });
+
+        $query.on('click', function () {
+            reloadMenuTree();
+            reset();
+        });
+
+        $submit.on('click', function () {
+            $view.find('#submit-form').trigger('click');
+        });
+
+        $icon.focus(function () {
+            febs.modal.open('Lựa chọn biểu tượng', 'others/febs/icon', {
+                btn: ['Chắc chắn'],
+                yes: function () {
+                    var icon = $('#febs-icon').find('.icon-active .icon-name').text();
+                    if (icon) {
+                        form.val("menu-form", {
+                            "icon": 'layui-icon-' + icon
+                        });
+                    } else {
+                        form.val("menu-form", {
+                            "icon": ''
+                        });
+                    }
+                    layer.closeAll();
+                }
+            });
+        });
+
+        function reset() {
+            $view.find('#reset-form').trigger('click');
+            handleTypeChange('0');
+            $type.removeAttr("disabled");
+        }
+
+        function renderMenuTree() {
+            _menuTree = eleTree.render({
+                elem: '.menuTree',
+                url: ctx + 'menu/tree',
+                where: {
+                    "menuName": $menuName.val().trim(),
+                    "invalidate_ie_cache": new Date()
+                },
+                accordion: true,
+                highlightCurrent: true,
+                showCheckbox: true,
+                checkStrictly: true,
+                renderAfterExpand: false,
+                request: {
+                    name: "title",
+                    key: "id",
+                    children: "childs",
+                    checked: "checked",
+                    data: "data"
+                },
+                response: {
+                    statusName: "code",
+                    statusCode: 200,
+                    dataName: "data"
+                }
+            });
+            return _menuTree;
+        }
+
+        function reloadMenuTree() {
+            _menuTree = renderMenuTree();
+        }
+
+        var handleTypeChange = function (type) {
+            form.val("menu-form", {
+                "icon": '',
+                "url": '',
+                "orderNum": ''
+            });
+            if (type === '1') {
+                $header.text('Nút thêm');
+                $icon_parent.hide();
+                $url_parent.hide();
+                $order_parent.hide();
+            } else {
+                $header.text('Thực đơn mới');
+                $icon_parent.show();
+                $url_parent.show();
+                $order_parent.show();
+            }
+        };
+
+        form.on('submit(menu-form-submit)', function (data) {
+            if (data.field.menuId && $header.text().indexOf('Ôn lại') !== -1) {
+                if (febs.nativeEqual(data.field, _currentMenuData)) {
+                    febs.alert.warn('Dữ liệu chưa được sửa đổi dưới bất kỳ hình thức nào!');
+                    return false;
+                }
+                febs.post(ctx + 'menu/update', data.field, function () {
+                    febs.alert.success('Sửa đổi thành công');
+                    reloadMenuTree();
+                    reset();
+                })
+            } else {
+                febs.post(ctx + 'menu', data.field, function () {
+                    febs.alert.success('Đã thêm thành công');
+                    reloadMenuTree();
+                    reset();
+                })
+            }
+            return false;
+        });
+    });
+</script>

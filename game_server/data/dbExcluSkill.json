@@ -1,0 +1,562 @@
+{
+  "48086": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công vật lý có 15% xác suất Hộ Giáp +15%, kéo dài 3 giây",
+    "ICON": 48086,
+    "NAME": "坚盾1",
+    "NAME_VN": "Kiên Thuẫn 1"
+  },
+  "48043": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công có 20% xác suất gây lên mục tiêu trạng thái Chí Tử (Giảm 60% hiệu quả Trị Liệu), kéo dài 3 giây.",
+    "ICON": 48041,
+    "NAME": "致死3",
+    "NAME_VN": "Chí Tử 3"
+  },
+  "48046": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi đánh thường có 20% xác suất nhận được Hút Máu +8%, kéo dài 2 giây (không thể chồng lên)",
+    "ICON": 48046,
+    "NAME": "饮血1",
+    "NAME_VN": "Ẩm Huyết 1"
+  },
+  "48117": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Né Tránh +15%, kéo dài 4 giây",
+    "ICON": 48116,
+    "NAME": "迅捷2",
+    "NAME_VN": "Tấn Tiệp 2"
+  },
+  "48032": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Sát Thương +20% kéo dài 3 giây.",
+    "ICON": 48031,
+    "NAME": "强攻2",
+    "NAME_VN": "Cường Công 2"
+  },
+  "48088": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công vật lý có 15% xác suất Hộ Giáp +35%, kéo dài 3 giây",
+    "ICON": 48086,
+    "NAME": "坚盾3",
+    "NAME_VN": "Kiên Thuẫn 3"
+  },
+  "48028": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Siêu Bạo Kích +25%, kéo dài 5 giây",
+    "ICON": 48026,
+    "NAME": "锐眼3",
+    "NAME_VN": "Tuệ Nhãn 3"
+  },
+  "48017": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Phá Giáp +20%, kéo dài 5 giây",
+    "ICON": 48016,
+    "NAME": "利刃2",
+    "NAME_VN": "Lợi Nhận 2"
+  },
+  "48042": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công có 15% xác suất gây lên mục tiêu trạng thái Chí Tử (Giảm 60% hiệu quả Trị Liệu), kéo dài 3 giây.",
+    "ICON": 48041,
+    "NAME": "致死2",
+    "NAME_VN": "Chí Tử 2"
+  },
+  "48047": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi đánh thường có 20% xác suất nhận được Hút Máu +10%, kéo dài 2 giây (không thể chồng lên)",
+    "ICON": 48046,
+    "NAME": "饮血2",
+    "NAME_VN": "Ẩm Huyết 2"
+  },
+  "48016": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Phá Giáp +15%, kéo dài 5 giây",
+    "ICON": 48016,
+    "NAME": "利刃1",
+    "NAME_VN": "Lợi Nhận 1"
+  },
+  "48126": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác xuất ST Thuần +15%, kéo dài 4 giây.",
+    "ICON": 48126,
+    "NAME": "神怒1",
+    "NAME_VN": "Thần Nộ 1"
+  },
+  "48023": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Xuyên Phép +25%, kéo dài 5 giây",
+    "ICON": 48021,
+    "NAME": "识破3",
+    "NAME_VN": "Thức Phá 3"
+  },
+  "48021": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Xuyên Phép +15%, kéo dài 5 giây",
+    "ICON": 48021,
+    "NAME": "识破1",
+    "NAME_VN": "Thức Phá 1"
+  },
+  "48071": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 50% xác suất tiến vào trạng thái Cuồng Nộ 3 giây, Tốc Đánh +20%, Bị Thương +15%.",
+    "ICON": 48071,
+    "NAME": "狂怒1",
+    "NAME_VN": "Cuồng Nộ 1"
+  },
+  "48068": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 100% xác suất gây thêm sát thương bằng 2% HP tối đa của mục tiêu (sát thương lớn nhất=Tấn Công *500%)",
+    "ICON": 48066,
+    "NAME": "破击3",
+    "NAME_VN": "Phá Kích 3"
+  },
+  "48113": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Phá Giáp +25%, kéo dài 4 giây.",
+    "ICON": 48111,
+    "NAME": "锯刃3",
+    "NAME_VN": "Cứ Nhận 3"
+  },
+  "48048": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi đánh thường có 20% xác suất nhận được Hút Máu +12%, kéo dài 2 giây (không thể chồng lên)",
+    "ICON": 48046,
+    "NAME": "饮血3",
+    "NAME_VN": "Ẩm Huyết 3"
+  },
+  "48056": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi đánh thường có 35% xác suất tăng  thêm 10 điểm năng lượng",
+    "ICON": 48056,
+    "NAME": "集气",
+    "NAME_VN": "Tập Khí"
+  },
+  "48097": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi trị liệu có 30% xác suất xua tan 1 hiệu quả xấu của mục tiêu",
+    "ICON": 48096,
+    "NAME": "治愈2",
+    "NAME_VN": "Trị Liệu 2"
+  },
+  "48081": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 100% xác suất  tăng 8 điểm năng lượng",
+    "ICON": 48081,
+    "NAME": "怒火",
+    "NAME_VN": "Nộ Hỏa"
+  },
+  "48123": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Đề Kháng +20%, kéo dài 4 giây",
+    "ICON": 48121,
+    "NAME": "看穿3",
+    "NAME_VN": "Thấu Suốt 3"
+  },
+  "48026": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Siêu Bạo Kích +15%, kéo dài 5 giây",
+    "ICON": 48026,
+    "NAME": "锐眼1",
+    "NAME_VN": "Tuệ Nhãn 1"
+  },
+  "48072": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 50% xác suất  tiến vào trạng thái Cuồng Nộ 3 giây, Tốc Đánh +30%, Bị Thương +20%.",
+    "ICON": 48071,
+    "NAME": "狂怒2",
+    "NAME_VN": "Cuồng Nộ 2"
+  },
+  "48096": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi trị liệu có 20% xác suất xua tan 1 hiệu quả xấu của mục tiêu",
+    "ICON": 48096,
+    "NAME": "治愈1",
+    "NAME_VN": "Trị Liệu 1"
+  },
+  "48108": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Tấn Công +25%, kéo dài 4 giây.",
+    "ICON": 48106,
+    "NAME": "突击3",
+    "NAME_VN": "Đột Kích 3"
+  },
+  "48127": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác xuất ST Thuần +20%, kéo dài 4 giây.",
+    "ICON": 48126,
+    "NAME": "神怒2",
+    "NAME_VN": "Thần Nộ 2"
+  },
+  "48103": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi trị liệu tăng cho mục tiêu Giảm Thương +12%, kéo dài 3 giây.",
+    "ICON": 48101,
+    "NAME": "庇护3",
+    "NAME_VN": "Bảo Hộ 3"
+  },
+  "48001": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Tấn Công +15%, kéo dài 5 giây.",
+    "ICON": 48001,
+    "NAME": "蛮力1",
+    "NAME_VN": "Man Lực 1"
+  },
+  "48033": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Sát Thương +25% kéo dài 3 giây.",
+    "ICON": 48031,
+    "NAME": "强攻3",
+    "NAME_VN": "Cường Công 3"
+  },
+  "48013": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Kháng Phép +60%, kéo dài 5 giây.",
+    "ICON": 48011,
+    "NAME": "魔甲3",
+    "NAME_VN": "Ma Giáp 3"
+  },
+  "48002": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Tấn Công +20%, kéo dài 5 giây.",
+    "ICON": 48001,
+    "NAME": "蛮力2",
+    "NAME_VN": "Man Lực 2"
+  },
+  "48061": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có thể hồi phục bản thân 1% HP.",
+    "ICON": 48061,
+    "NAME": "战意1",
+    "NAME_VN": "Chiến Ý 1"
+  },
+  "48093": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công phép có 15% xác suất Kháng Phép +35% , kéo dài 3 giây",
+    "ICON": 48091,
+    "NAME": "看破3",
+    "NAME_VN": "Nhìn Thấu 3"
+  },
+  "48012": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Kháng Phép +45%, kéo dài 5 giây.",
+    "ICON": 48011,
+    "NAME": "魔甲2",
+    "NAME_VN": "Ma Giáp 2"
+  },
+  "48037": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Giảm Thương +15% kéo dài 3 giây.",
+    "ICON": 48036,
+    "NAME": "坚守2",
+    "NAME_VN": "Kiên Thủ 2"
+  },
+  "48092": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công phép có 15% xác suất Kháng Phép +25% , kéo dài 3 giây",
+    "ICON": 48091,
+    "NAME": "看破2",
+    "NAME_VN": "Nhìn Thấu 2"
+  },
+  "48121": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Đề Kháng +10%, kéo dài 4 giây",
+    "ICON": 48121,
+    "NAME": "看穿1",
+    "NAME_VN": "Thấu Suốt 1"
+  },
+  "48041": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công có 10% xác suất gây lên mục tiêu trạng thái Chí Tử (Giảm 60% hiệu quả Trị Liệu), kéo dài 3 giây.",
+    "ICON": 48041,
+    "NAME": "致死1",
+    "NAME_VN": "Chí Tử 1"
+  },
+  "48101": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi trị liệu tăng cho mục tiêu Giảm Thương +8%, kéo dài 3 giây.",
+    "ICON": 48101,
+    "NAME": "庇护1",
+    "NAME_VN": "Bảo Hộ 1"
+  },
+  "48038": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Giảm Thương +20% kéo dài 3 giây.",
+    "ICON": 48036,
+    "NAME": "坚守3",
+    "NAME_VN": "Kiên Thủ 3"
+  },
+  "48011": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Kháng Phép +30%, kéo dài 5 giây.",
+    "ICON": 48011,
+    "NAME": "魔甲1",
+    "NAME_VN": "Ma Giáp 1"
+  },
+  "48007": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Hộ Giáp +45%, kéo dài 5 giây.",
+    "ICON": 48006,
+    "NAME": "铁甲2",
+    "NAME_VN": "Thiết Giáp 2"
+  },
+  "48063": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có thể hồi phục bản thân 2% HP.",
+    "ICON": 48061,
+    "NAME": "战意3",
+    "NAME_VN": "Chiến Ý 3"
+  },
+  "48067": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 100% xác suất gây thêm sát thương bằng 1.5% HP tối đa của mục tiêu (sát thương lớn nhất=Tấn Công *500%)",
+    "ICON": 48066,
+    "NAME": "破击2",
+    "NAME_VN": "Phá Kích 2"
+  },
+  "48111": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Phá Giáp +15%, kéo dài 4 giây.",
+    "ICON": 48111,
+    "NAME": "锯刃1",
+    "NAME_VN": "Cứ Nhận 1"
+  },
+  "48087": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công vật lý có 15% xác suất Hộ Giáp +25%, kéo dài 3 giây",
+    "ICON": 48086,
+    "NAME": "坚盾2",
+    "NAME_VN": "Kiên Thuẫn 2"
+  },
+  "48098": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi trị liệu có 40% xác suất xua tan 1 hiệu quả xấu của mục tiêu",
+    "ICON": 48096,
+    "NAME": "治愈3",
+    "NAME_VN": "Trị Liệu 3"
+  },
+  "48003": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Tấn Công +25%, kéo dài 5 giây.",
+    "ICON": 48001,
+    "NAME": "蛮力3",
+    "NAME_VN": "Man Lực 3"
+  },
+  "48036": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Giảm Thương +10% kéo dài 3 giây.",
+    "ICON": 48036,
+    "NAME": "坚守1",
+    "NAME_VN": "Kiên Thủ 1"
+  },
+  "48073": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 50% xác suất  tiến vào trạng thái Cuồng Nộ 3 giây, Tốc Đánh +40%, Bị Thương +25%.",
+    "ICON": 48071,
+    "NAME": "狂怒3",
+    "NAME_VN": "Cuồng Nộ 3"
+  },
+  "48102": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi trị liệu tăng cho mục tiêu Giảm Thương +10%, kéo dài 3 giây.",
+    "ICON": 48101,
+    "NAME": "庇护2",
+    "NAME_VN": "Bảo Hộ 2"
+  },
+  "48116": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Né Tránh +10%, kéo dài 4 giây",
+    "ICON": 48116,
+    "NAME": "迅捷1",
+    "NAME_VN": "Tấn Tiệp 1"
+  },
+  "48006": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Xuất trận Hộ Giáp +30%, kéo dài 5 giây.",
+    "ICON": 48006,
+    "NAME": "铁甲1",
+    "NAME_VN": "Thiết Giáp 1"
+  },
+  "48118": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Né Tránh +20%, kéo dài 4 giây",
+    "ICON": 48116,
+    "NAME": "迅捷3",
+    "NAME_VN": "Tấn Tiệp 3"
+  },
+  "48122": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 15% xác suất Đề Kháng +15%, kéo dài 4 giây",
+    "ICON": 48121,
+    "NAME": "看穿2",
+    "NAME_VN": "Thấu Suốt 2"
+  },
+  "48107": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Tấn Công +20%, kéo dài 4 giây.",
+    "ICON": 48106,
+    "NAME": "突击2",
+    "NAME_VN": "Đột Kích 2"
+  },
+  "48091": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công phép có 15% xác suất Kháng Phép +15% , kéo dài 3 giây",
+    "ICON": 48091,
+    "NAME": "看破1",
+    "NAME_VN": "Nhìn Thấu 1"
+  },
+  "48008": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Hộ Giáp +60%, kéo dài 5 giây.",
+    "ICON": 48006,
+    "NAME": "铁甲3",
+    "NAME_VN": "Thiết Giáp 3"
+  },
+  "48066": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có 100% xác suất gây thêm sát thương bằng 1% HP tối đa của mục tiêu (sát thương lớn nhất=Tấn Công *500%)",
+    "ICON": 48066,
+    "NAME": "破击1",
+    "NAME_VN": "Phá Kích 1"
+  },
+  "48051": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi đánh thường có 25% xác suất kích choáng mục tiêu 1 giây.",
+    "ICON": 48051,
+    "NAME": "重击",
+    "NAME_VN": "Trọng Kích"
+  },
+  "48027": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Siêu Bạo Kích +20%, kéo dài 5 giây",
+    "ICON": 48026,
+    "NAME": "锐眼2",
+    "NAME_VN": "Tuệ Nhãn 2"
+  },
+  "48106": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Tấn Công +15%, kéo dài 4 giây.",
+    "ICON": 48106,
+    "NAME": "突击1",
+    "NAME_VN": "Đột Kích 1"
+  },
+  "48018": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Xuất trận Phá Giáp +25%, kéo dài 5 giây",
+    "ICON": 48016,
+    "NAME": "利刃3",
+    "NAME_VN": "Lợi Nhận 3"
+  },
+  "48112": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác suất Phá Giáp +20%, kéo dài 4 giây.",
+    "ICON": 48111,
+    "NAME": "锯刃2",
+    "NAME_VN": "Cứ Nhận 2"
+  },
+  "48062": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Khi bạo kích có thể hồi phục bản thân 1.5% HP.",
+    "ICON": 48061,
+    "NAME": "战意2",
+    "NAME_VN": "Chiến Ý 2"
+  },
+  "48022": {
+    "LEVEL": 2,
+    "PROP": [],
+    "INTRO": "Xuất trận Xuyên Phép +20%, kéo dài 5 giây",
+    "ICON": 48021,
+    "NAME": "识破2",
+    "NAME_VN": "Thức Phá 2"
+  },
+  "48076": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Khi bị thương có 35% gây sát thương phéo lên người tấn công bằng 2% HP tối đa của bản thân.",
+    "ICON": 48076,
+    "NAME": "刚烈",
+    "NAME_VN": "Cương Liệt"
+  },
+  "48128": {
+    "LEVEL": 3,
+    "PROP": [],
+    "INTRO": "Khi tấn công thường có 10% xác xuất ST Thuần +25%, kéo dài 4 giây.",
+    "ICON": 48126,
+    "NAME": "神怒3",
+    "NAME_VN": "Thần Nộ 3"
+  },
+  "48031": {
+    "LEVEL": 1,
+    "PROP": [],
+    "INTRO": "Trong chiến đấu, mỗi 10 giây nhận hiệu quả Sát Thương +15% kéo dài 3 giây.",
+    "ICON": 48031,
+    "NAME": "强攻1",
+    "NAME_VN": "Cường Công 1"
+  }
+}

@@ -1,0 +1,599 @@
+[
+  {
+    "BCARD": [],
+    "INTRO": "Đại lượng tiền đồng",
+    "RIGHT": {
+      "HANG_GOLD": 0,
+      "GOLD": 0,
+      "MANOR": 0,
+      "BIGBATTLE": 2,
+      "BAG": 0,
+      "HANG_EXP": 0,
+      "HANG_TIME": 0,
+      "MISSION": 0,
+      "HANG_GEXP": 0,
+      "PUB": 0,
+      "SHOP": 0
+    },
+    "EXID": "vip_reward_0",
+    "MARK": 93200,
+    "REWARD": [
+      {
+        "COUNT": 50000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 30000,
+        "GSID": 30001
+      }
+    ],
+    "EXP": 0
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 20,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008
+      }
+    ],
+    "INTRO": "Tiến Giai Thạch",
+    "RIGHT": {
+      "HANG_GOLD": 100,
+      "GOLD": 200,
+      "MANOR": 0,
+      "BIGBATTLE": 3,
+      "BAG": 20,
+      "HANG_EXP": 100,
+      "HANG_TIME": 0,
+      "MISSION": 1,
+      "HANG_GEXP": 100,
+      "PUB": 0,
+      "SHOP": 0
+    },
+    "EXID": "vip_reward_1",
+    "MARK": 93201,
+    "REWARD": [
+      {
+        "COUNT": 300,
+        "GSID": 30015
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30006
+      }
+    ],
+    "EXP": 60
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 40,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008
+      }
+    ],
+    "INTRO": "Điêu Thuyền 5 Sao",
+    "RIGHT": {
+      "HANG_GOLD": 200,
+      "GOLD": 400,
+      "MANOR": 0,
+      "BIGBATTLE": 3,
+      "BAG": 40,
+      "HANG_EXP": 200,
+      "HANG_TIME": 0,
+      "MISSION": 1,
+      "HANG_GEXP": 200,
+      "PUB": 0,
+      "SHOP": 0
+    },
+    "EXID": "vip_reward_2",
+    "MARK": 93202,
+    "REWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 26181
+      }
+    ],
+    "EXP": 300
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 60,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30008
+      }
+    ],
+    "INTRO": "Trang Bị Cao Cấp",
+    "RIGHT": {
+      "HANG_GOLD": 300,
+      "GOLD": 600,
+      "MANOR": 1,
+      "BIGBATTLE": 4,
+      "BAG": 60,
+      "HANG_EXP": 300,
+      "HANG_TIME": 0,
+      "MISSION": 2,
+      "HANG_GEXP": 300,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_3",
+    "MARK": 93203,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 33011
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33111
+      }
+    ],
+    "EXP": 1000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 80,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30008
+      }
+    ],
+    "INTRO": "Trang Bị Cao Cấp",
+    "RIGHT": {
+      "HANG_GOLD": 450,
+      "GOLD": 800,
+      "MANOR": 1,
+      "BIGBATTLE": 4,
+      "BAG": 90,
+      "HANG_EXP": 450,
+      "HANG_TIME": 0,
+      "MISSION": 2,
+      "HANG_GEXP": 450,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_4",
+    "MARK": 93204,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 33211
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33311
+      }
+    ],
+    "EXP": 2000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 100,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30008
+      }
+    ],
+    "INTRO": "Trương Phi 5 Sao",
+    "RIGHT": {
+      "HANG_GOLD": 600,
+      "GOLD": 1000,
+      "MANOR": 1,
+      "BIGBATTLE": 5,
+      "BAG": 120,
+      "HANG_EXP": 600,
+      "HANG_TIME": 0,
+      "MISSION": 3,
+      "HANG_GEXP": 600,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_5",
+    "MARK": 93205,
+    "REWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 22001
+      }
+    ],
+    "EXP": 5000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 120,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 1,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Trang Bị Sử Thi",
+    "RIGHT": {
+      "HANG_GOLD": 750,
+      "GOLD": 1200,
+      "MANOR": 1,
+      "BIGBATTLE": 5,
+      "BAG": 160,
+      "HANG_EXP": 750,
+      "HANG_TIME": 0,
+      "MISSION": 3,
+      "HANG_GEXP": 750,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_6",
+    "MARK": 93206,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 33014
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33114
+      },
+      {
+        "COUNT": 2000,
+        "GSID": 30015
+      }
+    ],
+    "EXP": 10000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 140,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 1,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Trang Bị Sử Thi",
+    "RIGHT": {
+      "HANG_GOLD": 900,
+      "GOLD": 1400,
+      "MANOR": 1,
+      "BIGBATTLE": 6,
+      "BAG": 200,
+      "HANG_EXP": 900,
+      "HANG_TIME": 0,
+      "MISSION": 4,
+      "HANG_GEXP": 900,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_7",
+    "MARK": 93207,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 33214
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33314
+      },
+      {
+        "COUNT": 3000,
+        "GSID": 30015
+      }
+    ],
+    "EXP": 20000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 160,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 1,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Gói Quần Hùng",
+    "RIGHT": {
+      "HANG_GOLD": 1100,
+      "GOLD": 1600,
+      "MANOR": 1,
+      "BIGBATTLE": 6,
+      "BAG": 240,
+      "HANG_EXP": 1100,
+      "HANG_TIME": 0,
+      "MISSION": 5,
+      "HANG_GEXP": 1100,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_8",
+    "MARK": 93208,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32503
+      },
+      {
+        "COUNT": 5000,
+        "GSID": 30015
+      }
+    ],
+    "EXP": 50000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 180,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 1,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Trang Bị Thần Cấp",
+    "RIGHT": {
+      "HANG_GOLD": 1300,
+      "GOLD": 1800,
+      "MANOR": 1,
+      "BIGBATTLE": 7,
+      "BAG": 290,
+      "HANG_EXP": 1300,
+      "HANG_TIME": 0,
+      "MISSION": 6,
+      "HANG_GEXP": 1300,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_9",
+    "MARK": 93209,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 33017
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33117
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33217
+      },
+      {
+        "COUNT": 1,
+        "GSID": 33317
+      }
+    ],
+    "EXP": 100000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 200,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 2,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Gói Thiên Vương",
+    "RIGHT": {
+      "HANG_GOLD": 1500,
+      "GOLD": 2000,
+      "MANOR": 1,
+      "BIGBATTLE": 7,
+      "BAG": 340,
+      "HANG_EXP": 1500,
+      "HANG_TIME": 0,
+      "MISSION": 7,
+      "HANG_GEXP": 1500,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_10",
+    "MARK": 93210,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32504
+      },
+      {
+        "COUNT": 1,
+        "GSID": 34361
+      },
+      {
+        "COUNT": 1,
+        "GSID": 51008
+      }
+    ],
+    "EXP": 200000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 325,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 2,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Gói Thần Tướng",
+    "RIGHT": {
+      "HANG_GOLD": 2000,
+      "GOLD": 3000,
+      "MANOR": 1,
+      "BIGBATTLE": 7,
+      "BAG": 390,
+      "HANG_EXP": 2000,
+      "HANG_TIME": 0,
+      "MISSION": 8,
+      "HANG_GEXP": 2000,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_11",
+    "MARK": 93211,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32502
+      },
+      {
+        "COUNT": 10000,
+        "GSID": 30015
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30036
+      }
+    ],
+    "EXP": 400000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 350,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 3,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Bảo Vật Truyền Thuyết",
+    "RIGHT": {
+      "HANG_GOLD": 2250,
+      "GOLD": 3500,
+      "MANOR": 1,
+      "BIGBATTLE": 7,
+      "BAG": 440,
+      "HANG_EXP": 2250,
+      "HANG_TIME": 0,
+      "MISSION": 9,
+      "HANG_GEXP": 2250,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_12",
+    "MARK": 93212,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 34421
+      },
+      {
+        "COUNT": 20000,
+        "GSID": 30015
+      },
+      {
+        "COUNT": 8,
+        "GSID": 30036
+      }
+    ],
+    "EXP": 600000
+  },
+  {
+    "BCARD": [
+      {
+        "COUNT": 400,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30008
+      },
+      {
+        "COUNT": 4,
+        "GSID": 36001
+      }
+    ],
+    "INTRO": "Bảo Vật Truyền Thuyết",
+    "RIGHT": {
+      "HANG_GOLD": 2500,
+      "GOLD": 4000,
+      "MANOR": 1,
+      "BIGBATTLE": 8,
+      "BAG": 540,
+      "HANG_EXP": 2500,
+      "HANG_TIME": 0,
+      "MISSION": 10,
+      "HANG_GEXP": 2500,
+      "PUB": 1,
+      "SHOP": 1
+    },
+    "EXID": "vip_reward_13",
+    "MARK": 93213,
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 34431
+      },
+      {
+        "COUNT": 40000,
+        "GSID": 30015
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30036
+      },
+      {
+        "COUNT": 1,
+        "GSID": 51009
+      }
+    ],
+    "EXP": 1000000
+  }
+]

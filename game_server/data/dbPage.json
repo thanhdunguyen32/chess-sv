@@ -1,0 +1,400 @@
+{
+  "itnmissionpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 28
+    },
+    "NAME_VN": "Nhiệm Vụ Nội Chính",
+    "NAME": "内政任务"
+  },
+  "godbeastchoosepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 70
+    },
+    "NAME_VN": "Thần Thú",
+    "NAME": "神兽界面"
+  },
+  "kingpvppage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      },
+      {
+        "PAGE": "pvpentrancepage"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 55
+    },
+    "NAME_VN": "Vương Giả Thí Luyện",
+    "NAME": "王者试炼"
+  },
+  "shoppage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Cửa Hàng Hàng Ngày",
+    "NAME": "每日商店"
+  },
+  "activityjchdpagezzyk": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Thẻ Tháng Chí Tốn",
+    "NAME": "至尊月卡"
+  },
+  "lookstarpagesenior": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Quan Tinh Cao Cấp",
+    "NAME": "高级观星"
+  },
+  "cardpubpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Tửu Quán",
+    "NAME": "酒馆"
+  },
+  "activityzhdpagetgsl": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME": "Sự Kiện - Thiên Công Thử Luyện",
+    "NAME_VN": "Sự Kiện - Thiên Công Thử Luyện"
+  },
+  "carddrawpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 25
+    },
+    "NAME_VN": "Điểm Tướng Đài",
+    "NAME": "点将台"
+  },
+  "goldmidaspage": {
+    "FRONT": [],
+    "NAME_VN": "Điểm Kim",
+    "NAME": "点金"
+  },
+  "expeditionpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 40
+    },
+    "NAME_VN": "Viễn Chinh",
+    "NAME": "远征"
+  },
+  "rechargepage1": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Đặc Quyền Vip",
+    "NAME": "贵族特权"
+  },
+  "pvpcrossservicepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 18
+    },
+    "NAME_VN": "Liên Server",
+    "NAME": "跨服"
+  },
+  "autobattlepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Chinh Chiến",
+    "NAME": "征战"
+  },
+  "multipvppage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      },
+      {
+        "PAGE": "pvpentrancepage"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 60
+    },
+    "NAME_VN": "Diễn Võ Đa Đội",
+    "NAME": "多队演武"
+  },
+  "pvppage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Tổ Đội Đấu Trường",
+    "NAME": "演武场"
+  },
+  "activityxiangoupage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Gói Quà Giới Hạn",
+    "NAME": "限时礼包"
+  },
+  "bigbattlepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 20
+    },
+    "NAME_VN": "Đại Chiến Dịch",
+    "NAME": "大战役"
+  },
+  "rechargepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Nạp Thẻ",
+    "NAME": "充值"
+  },
+  "pvpentrancepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 18
+    },
+    "NAME_VN": "Diễn Võ Trường",
+    "NAME": "演武场"
+  },
+  "windowspageautobattleinfo": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      },
+      {
+        "PAGE": "autobattlepage"
+      }
+    ],
+    "NAME_VN": "Lợi Tức Afk",
+    "NAME": "挂机收益界面"
+  },
+  "rechargepagemz": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Gói Tuần",
+    "NAME": "每周礼包"
+  },
+  "generalbaghandbookpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Túi Võ Tướng",
+    "NAME": "武将背包"
+  },
+  "minepage": {
+    "UNLOCK": {
+      "NOPARAM": 20
+    },
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME": "Khai Thác Mỏ",
+    "NAME_VN": "Khai Thác Mỏ"
+  },
+  "fusionpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Lò Rèn",
+    "NAME": "铁匠铺"
+  },
+  "activityzhdpagecxry": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Sự Kiện - Tâm Đắc Vừa Ý",
+    "NAME": "活动-称心如意"
+  },
+  "guozhanpvepanel": {
+    "UNLOCK": {
+      "NOPARAM": 30
+    },
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME": "Quốc Chiến",
+    "NAME_VN": "Quốc Chiến"
+  },
+  "friendpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Bạn Bè",
+    "NAME": "好友"
+  },
+  "lookstarpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 14
+    },
+    "NAME_VN": "Quan Tinh",
+    "NAME": "观星"
+  },
+  "teampvppage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      },
+      {
+        "PAGE": "pvpentrancepage"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 55
+    },
+    "NAME_VN": "Vương Giả Thí Luyện",
+    "NAME": "组队竞技场"
+  },
+  "practicetowerpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 24
+    },
+    "NAME_VN": "Tháp Thử Luyện",
+    "NAME": "试练塔"
+  },
+  "activityyylbpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Gói Quà Nhất Nguyên",
+    "NAME": "一元礼包"
+  },
+  "dungeonentrancepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 72
+    },
+    "NAME_VN": "Nhất Kỵ Đương Thiên",
+    "NAME": "一骑当千"
+  },
+  "officepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Chức Quan",
+    "NAME": "官职"
+  },
+  "generalrelivepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Trạm Dịch",
+    "NAME": "驿站"
+  },
+  "rechargepagemy": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Gói Tháng",
+    "NAME": "每月礼包"
+  },
+  "legionhomepage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "UNLOCK": {
+      "NOPARAM": 18
+    },
+    "NAME_VN": "Quân Đoàn",
+    "NAME": "军团"
+  },
+  "generalpage": {
+    "FRONT": [
+      {
+        "PAGE": "mainscenes"
+      }
+    ],
+    "NAME_VN": "Phong Thần",
+    "NAME": "封神"
+  }
+}

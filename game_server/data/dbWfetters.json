@@ -1,0 +1,79 @@
+[
+  {
+    "TYPE": 1,
+    "STRCONT": "(3)  Ra trận 3 Pháp Sư: ST Kỹ Năng +25% (Pháp Sư)\n(5)  Ra trận 5 Pháp Sư: ST Kỹ Năng +40% (Pháp Sư)\n(7)  Ra trận 7 Pháp Sư: ST Kỹ Năng +60%.\n",
+    "OUCC": 3,
+    "NAME": "法师",
+    "NAME_VN": "Pháp Sư"
+  },
+  {
+    "TYPE": 1,
+    "STRCONT": "(3)  Ra trận 3 chiến binh: HP +15%, 30% xác suất chắn đòn giảm 25% sát thương nhận vào (Chiến Binh).\n(5)  Ra trận 5 chiến binh: HP +30%, 60% xác suất chắn đòn giảm 25% sát thương nhận vào (Chiến Binh).\n(7)  Ra trận 7 chiến binh: HP +40%, 100% xác suất chắn đòn giảm 25% sát thương nhận vào (Chiến Binh).\n",
+    "OUCC": 0,
+    "NAME": "战士",
+    "NAME_VN": "Chiến Sĩ"
+  },
+  {
+    "TYPE": 1,
+    "STRCONT": "(3)  Ra trận 3 Xạ Thủ: Tốc Đánh +25% (Xạ Thủ)\n(5)  Ra trận 5 Xạ Thủ: Tốc Đánh +50% (Xạ Thủ)\n(7)  Ra trận 7 Xạ Thủ: Tốc Đánh +75%\n",
+    "OUCC": 2,
+    "NAME": "射手",
+    "NAME_VN": "Xạ Thủ"
+  },
+  {
+    "TYPE": 1,
+    "STRCONT": "(3)  Ra trận 3 Thích Khách: Bạo Kích +10%, ST Bạo Kích +15%, tàng hình khi bắt đầu trận (Thích Khách).\n(5)  Ra trận 5 Thích Khách: Bạo Kích +15%, ST Bạo Kích +25%, tàng hình khi bắt đầu trận (Thích Khách).\n(7)  Ra trận 7 Thích Khách: Bạo Kích +20%, ST Bạo Kích +65%, tàng hình khi bắt đầu trận (Thích Khách).\n",
+    "OUCC": 1,
+    "NAME": "刺客",
+    "NAME_VN": "Thích Khách"
+  },
+  {
+    "TYPE": 1,
+    "STRCONT": "(3)  Ra trận 3 hỗ trợ: Hồi Năng Lượng +30% (Hỗ Trợ)\n(5)  Ra trận 5 hỗ trợ: Hồi Năng Lượng +50% (Hỗ Trợ), Hồi Năng Lượng +20% (Còn Lại)\n(7)  Ra trận 7 hỗ trợ: Hồi Năng Lượng +100% (Hỗ Trợ), Hồi Năng Lượng +50% (Còn Lại)\n",
+    "OUCC": 4,
+    "NAME": "辅助",
+    "NAME_VN": "Hỗ Trợ"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Ngụy Quốc: HP +10%, Tấn Công +5%\n(4)  Ra trận 4 tướng Ngụy Quốc: HP +20%, Tấn Công +10%\n(6)  Ra trận 6 tướng Ngụy Quốc: HP +35%, Tấn Công +15%\n",
+    "OUCC": 0,
+    "NAME": "魏国武将",
+    "NAME_VN": "Ngụy Quốc"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Ngô Quốc: HP +10%, Tấn Công +5%\n(4)  Ra trận 4 tướng Ngô Quốc: HP +20%, Tấn Công +10%\n(6)  Ra trận 6 tướng Ngô Quốc: HP +35%, Tấn Công +15%\n",
+    "OUCC": 2,
+    "NAME": "吴国武将",
+    "NAME_VN": "Ngô Quốc"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Thục Quốc: HP +10%, Tấn Công +5%\n(4)  Ra trận 4 tướng Thục Quốc: HP +20%, Tấn Công +10%\n(6)  Ra trận 6 tướng Thục Quốc: HP +35%, Tấn Công +15%\n",
+    "OUCC": 1,
+    "NAME": "蜀国武将",
+    "NAME_VN": "Thục Quốc"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Quần Hùng: HP +10%, Tấn Công +5%\n(4)  Ra trận 4 tướng Quần Hùng: HP +20%, Tấn Công +10%\n(6)  Ra trận 6 tướng Quần Hùng: HP +35%, Tấn Công +15%\n",
+    "OUCC": 3,
+    "NAME": "群雄武将",
+    "NAME_VN": "Quần Hùng"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Đế Vương: HP +10%, Tấn Công +5%, Sát Thương +5%\n(4)  Ra trận 4 tướng Đế Vương: HP +25%, Tấn Công +12%, Sát Thương +10%\n",
+    "OUCC": 4,
+    "NAME": "帝王武将",
+    "NAME_VN": "Đế Vương"
+  },
+  {
+    "TYPE": 2,
+    "STRCONT": "(2)  Ra trận 2 tướng Ma Vương: HP +10%, Tấn Công +5%, Hồi Chiêu +5%\n(4)  Ra trận 4 tướng Ma Vương: HP +25%, Tấn Công +12%, Hồi Chiêu +10%\n",
+    "OUCC": 5,
+    "NAME": "魔王武将",
+    "NAME_VN": "Ma Vương"
+  }
+]

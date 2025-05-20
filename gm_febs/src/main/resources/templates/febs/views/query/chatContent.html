@@ -1,0 +1,173 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-user" lay-title="Lịch sử chat">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md8">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" lay-filter="user-table-form">
+                        <div class="layui-form-item">
+                            <fieldset class="layui-elem-field layui-field-title">
+                                <legend>
+                                    <small style="color:black;">Lịch sử chat</small>
+                                </legend>
+                            </fieldset>
+                        </div>
+                        <div class="layui-row">
+                            <div class="layui-col-md2 layui-col-sm12 layui-col-xs12 table-action-area">
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="reset">
+                                    <i class="layui-icon">&#xe79b;</i>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <table lay-filter="userTable" lay-data="{id: 'userTable'}"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/html" id="user-status">
+    {{#
+    var status = {
+    1: {title: 'Hoạt động', color: 'green'},
+    0: {title: 'Vô hiệu', color: 'volcano'}
+    }[d.status];
+    }}
+    <span class="layui-badge febs-tag-{{status.color}}">{{ status.title }}</span>
+</script>
+<script type="text/html" id="user-sex">
+    {{#
+    var sex = {
+    2: {title: 'Bí mật'},
+    1: {title: 'Nữ'},
+    0: {title: 'Nam'}
+    }[d.sex];
+    }}
+    <span>{{ sex.title }}</span>
+</script>
+<script type="text/html" id="format-percent">
+    {{#
+    var yes_retain = d.yesterdayRetain.toFixed(2);
+    }}
+    <span>{{ yes_retain+"%" }}</span>
+</script>
+<script type="text/html" id="stat-time-date">
+    {{#
+    var stat_date = d.statTime.substring(0,10);
+    }}
+    <span>{{ stat_date }}</span>
+</script>
+<script type="text/html" id="user-option">
+    <span shiro:lacksPermission="user:view,user:update,user:delete">
+        <span class="layui-badge-dot febs-bg-orange"></span> Không có quyền
+    </span>
+    <a lay-event="detail" shiro:hasPermission="user:view"><i
+            class="layui-icon febs-edit-area febs-green">&#xe7a5;</i></a>
+    <a lay-event="edit" shiro:hasPermission="user:update"><i
+            class="layui-icon febs-edit-area febs-blue">&#xe7a4;</i></a>
+    <a lay-event="del" shiro:hasPermission="user:delete"><i class="layui-icon febs-edit-area febs-red">&#xe7f9;</i></a>
+</script>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['dropdown', 'jquery', 'form', 'table', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            form = layui.form,
+            table = layui.table,
+            dropdown = layui.dropdown,
+            $view = $('#febs-user'),
+            $query = $view.find('#query'),
+            $reset = $view.find('#reset'),
+            $searchForm = $view.find('form'),
+            sortObject = {field: 'createTime', type: null},
+            tableIns;
+
+        form.render();
+
+        initTable();
+
+        table.on('tool(userTable)', function (obj) {
+            var data = obj.data,
+                layEvent = obj.event;
+            if (layEvent === 'detail') {
+                febs.modal.view('Thông tin người dùng', 'system/user/detail/' + data.username, {
+                    area: $(window).width() <= 750 ? '95%' : '660px'
+                });
+            }
+            if (layEvent === 'del') {
+                febs.modal.confirm('Xóa người dùng', 'Bạn có chắc chắn muốn xóa người dùng này?', function () {
+                    deleteUsers(data.userId);
+                });
+            }
+            if (layEvent === 'edit') {
+                febs.modal.open('Sửa người dùng', 'system/user/update/' + data.username, {
+                    area: $(window).width() <= 750 ? '90%' : '50%',
+                    btn: ['Xác nhận', 'Hủy'],
+                    yes: function (index, layero) {
+                        $('#user-update').find('#submit').trigger('click');
+                    },
+                    btn2: function () {
+                        layer.closeAll();
+                    }
+                });
+            }
+        });
+
+        table.on('sort(userTable)', function (obj) {
+            sortObject = obj;
+            tableIns.reload({
+                initSort: obj,
+                where: $.extend(getQueryParams(), {
+                    field: obj.field,
+                    order: obj.type
+                })
+            });
+        });
+
+        $query.on('click', function () {
+            var params = $.extend(getQueryParams(), {field: sortObject.field, order: sortObject.type});
+            tableIns.reload({where: params, page: {curr: 1}});
+        });
+
+        $reset.on('click', function () {
+            sortObject.type = 'null';
+            tableIns.reload({where: getQueryParams()});
+        });
+
+        function initTable() {
+          tableIns = table.render({
+            elem: $view.find('table')
+            ,url:ctx + 'query/chatContent'
+            ,cellMinWidth: 80
+            ,cols: [[
+                {title: 'Thời gian',field:'chatTime',width: 180},
+                {field: 'playerId', title: 'ID người chơi',width:100},
+                {field: 'playerName', title: 'Tên',width: 140},
+                {field: 'content', title: 'Nội dung',minWidth: 320}
+            ]],
+            parseData: function(res){
+                return {
+                  "code": res.code == 200? 0 : res.code,
+                  "msg": res.message,
+                  "count": res.data ? res.data.total : 0,
+                  "data": res.data ? res.data.rows : []
+                };
+          }
+          });
+        }
+
+        function getQueryParams() {
+            return {};
+        }
+
+        function deleteUsers(userIds) {
+            var currentUserId = currentUser.userId + '';
+            if (('' + userIds).split(',').indexOf(currentUserId) !== -1) {
+                febs.alert.warn('Không thể xóa người dùng hiện tại đang đăng nhập');
+                return;
+            }
+            febs.get(ctx + 'user/delete/' + userIds, null, function () {
+                febs.alert.success('Xóa người dùng thành công');
+                $query.click();
+            });
+        }
+    })
+</script>

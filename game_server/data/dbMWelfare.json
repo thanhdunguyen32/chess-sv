@@ -1,0 +1,374 @@
+{
+  "福利": [
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_mrqd",
+      "LEVEL": 1,
+      "TYPR": 1,
+      "ISOPEN": 1,
+      "ICONPATH": "active_jchd/title_icon_01",
+      "PFBNAME": "activity_jchd_page_mrqd",
+      "NAME": "每日签到",
+      "NAME_VN": "Điểm Danh Mỗi Ngày"
+    },
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_growup",
+      "LEVEL": 1,
+      "TYPR": 1,
+      "ISOPEN": 1,
+      "ICONPATH": "active_jchd/jchd_icon_growup",
+      "PFBNAME": "activity_jchd_page_growup",
+      "NAME": "成长基金",
+      "NAME_VN": "Quỹ Trưởng Thành"
+    },
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_noble_yk",
+      "LEVEL": 1,
+      "TYPR": 1,
+      "ISOPEN": 1,
+      "ICONPATH": "active_jchd/jchd_icon_noble_small",
+      "PFBNAME": "activity_jchd_page_noble",
+      "NAME": "贵族月卡",
+      "NAME_VN": "Thẻ Tháng VIP"
+    },
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_extra_yk",
+      "LEVEL": 1,
+      "TYPR": 1,
+      "ISOPEN": 1,
+      "ICONPATH": "active_jchd/jchd_icon_extra_small",
+      "PFBNAME": "activity_jchd_page_sup",
+      "NAME": "至尊月卡",
+      "NAME_VN": "Thẻ Tháng Chí Tôn"
+    },
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_vipclub",
+      "LEVEL": 25,
+      "TYPR": 1,
+      "ISOPEN": 0,
+      "ICONPATH": "active_jchd/jchd_icon_vipclub",
+      "PFBNAME": "activity_jchd_page_vipclub",
+      "NAME": "超玩会",
+      "NAME_VN": "Siêu Lễ Hội"
+    },
+    {
+      "NAMEPATH": "active_jchd/jchd_tx_dhlb",
+      "LEVEL": 1,
+      "TYPR": 1,
+      "ISOPEN": 1,
+      "ICONPATH": "active_jchd/jchd_icon_dhlb",
+      "PFBNAME": "activity_jchd_page_dhlb",
+      "NAME": "兑换礼包",
+      "NAME_VN": "Trao Đổi Lễ Vật"
+    }
+  ],
+  "周活动": [
+    {
+      "ICONPATH": "active_zhd/zhd_icon_czlb1",
+      "PFBNAME": "activity_zhd_page_czlb",
+      "NAME": "超值礼包",
+      "NAME_VN": "Lễ Vật Giá Trị Cao",
+      "NAMEPATH": "active_zhd/zhd_tx_czlb",
+      "LEVEL": 1,
+      "SUOXIE": "CZLB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_czlb1",
+      "PFBNAME": "activity_zhd_page_gzczlb",
+      "NAME": "高招超值礼包",
+      "NAME_VN": "Lễ Vật Chiêu Mộ Giá Trị Cao",
+      "NAMEPATH": "active_zhd/zhd_tx_czlb",
+      "LEVEL": 1,
+      "SUOXIE": "GZLB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_zmzf",
+      "PFBNAME": "activity_zhd_page_zmzf",
+      "NAME": "招募祝福",
+      "NAME_VN": "Chúc Phúc Chiêu Mộ",
+      "NAMEPATH": "active_zhd/zhd_tx_zmzf",
+      "LEVEL": 1,
+      "SUOXIE": "ZMZF",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_zmjf",
+      "PFBNAME": "activity_zhd_page_zmjf",
+      "NAME": "招募积分",
+      "NAME_VN": "Tích Điểm Chiêu Mộ",
+      "NAMEPATH": "active_zhd/zhd_tx_zmjf",
+      "LEVEL": 1,
+      "SUOXIE": "ZMJF",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_xsdh",
+      "PFBNAME": "activity_zhd_page_xsdh",
+      "NAME": "分解限时兑换",
+      "NAME_VN": "Giới Hạn Thời Gian",
+      "NAMEPATH": "active_zhd/zhd_tx_xsdh",
+      "LEVEL": 1,
+      "SUOXIE": "XSDH",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_djjf",
+      "PFBNAME": "activity_zhd_page_djjf",
+      "NAME": "点将积分",
+      "NAME_VN": "Điểm Tướng Tích Điểm",
+      "NAMEPATH": "active_zhd/zhd_tx_djjf",
+      "LEVEL": 1,
+      "SUOXIE": "DJJF",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_djrw",
+      "PFBNAME": "activity_zhd_page_djrw",
+      "NAME": "点将任务",
+      "NAME_VN": "Nhiệm Vụ Điểm Tướng",
+      "NAMEPATH": "active_zhd/zhd_tx_djrw",
+      "LEVEL": 1,
+      "SUOXIE": "DJRW",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_jrlb",
+      "PFBNAME": "activity_zhd_page_jrlb",
+      "NAME": "节日礼包1",
+      "NAME_VN": "Lễ Vật Ngày Lễ 1",
+      "NAMEPATH": "active_zhd/zhd_tx_jrlb",
+      "LEVEL": 1,
+      "SUOXIE": "JRLB1",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_czlb2",
+      "PFBNAME": "activity_zhd_page_gxczlb",
+      "NAME": "观星超值礼包",
+      "NAME_VN": "Quan Tinh Cao Cấp",
+      "NAMEPATH": "active_zhd/zhd_tx_czlb",
+      "LEVEL": 1,
+      "SUOXIE": "GXLB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_czlb1",
+      "PFBNAME": "activity_zhd_page_gjczlb",
+      "NAME": "挂机超值礼包",
+      "NAME_VN": "Gói Quà AFK",
+      "NAMEPATH": "active_zhd/zhd_tx_czlb",
+      "LEVEL": 1,
+      "SUOXIE": "GJLB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_gxdb",
+      "PFBNAME": "activity_zhd_page_gxdb",
+      "NAME": "观星达标",
+      "NAME_VN": "Thành Tựu Quan Tinh",
+      "NAMEPATH": "active_zhd/zhd_tx_gxdb",
+      "LEVEL": 1,
+      "SUOXIE": "GXDB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_rlwj",
+      "PFBNAME": "activity_zhd_page_rlwj",
+      "NAME": "日理万机",
+      "NAME_VN": "Nhật Lý Vạn Cơ",
+      "NAMEPATH": "active_zhd/zhd_tx_rlwj",
+      "LEVEL": 1,
+      "SUOXIE": "RLWJ",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_szhc",
+      "PFBNAME": "activity_zhd_page_szhc",
+      "NAME": "神装合成",
+      "NAME_VN": "Hợp Thành Thần Trang",
+      "NAMEPATH": "active_zhd/zhd_tx_szdz",
+      "LEVEL": 1,
+      "SUOXIE": "SZHC",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_tqgm",
+      "PFBNAME": "activity_zhd_page_smbx",
+      "NAME": "特权购买",
+      "NAME_VN": "Đặc Quyền Mua Sắm",
+      "NAMEPATH": "active_zhd/zhd_tx_tqgm",
+      "LEVEL": 1,
+      "SUOXIE": "SMBX",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_xyhl",
+      "PFBNAME": "activity_zhd_page_dcdy",
+      "NAME": "多财多亿",
+      "NAME_VN": "Đa Tài Đa Phú",
+      "NAMEPATH": "active_zhd/zhd_tx_xyhl",
+      "LEVEL": 1,
+      "SUOXIE": "DCDY",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_gztg",
+      "PFBNAME": "activity_zhd_page_cjxg",
+      "NAME": "贵族特供",
+      "NAME_VN": "Đặc Quyền VIP",
+      "NAMEPATH": "active_zhd/zhd_tx_gztg",
+      "LEVEL": 1,
+      "SUOXIE": "CJXG1",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_jfbx",
+      "PFBNAME": "activity_zhd_page_jfbx",
+      "NAME": "积分宝箱",
+      "NAME_VN": "Tích Điểm Bảo Rương",
+      "NAMEPATH": "active_zhd/zhd_tx_jfbx",
+      "LEVEL": 1,
+      "SUOXIE": "JFBX",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_wjzh",
+      "PFBNAME": "activity_zhd_page_wjzh",
+      "NAME": "武将组合",
+      "NAME_VN": "Tổ Hợp Võ Tướng",
+      "NAMEPATH": "active_zhd/zhd_tx_wjzh",
+      "LEVEL": 1,
+      "SUOXIE": "WJZH",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_wjcs",
+      "PFBNAME": "activity_zhd_page_wjcs",
+      "NAME": "武将重生",
+      "NAME_VN": "Võ Tướng Trùng Sinh",
+      "NAMEPATH": "active_zhd/zhd_tx_wjcs",
+      "LEVEL": 1,
+      "SUOXIE": "WJCS",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_sbjl",
+      "PFBNAME": "activity_zhd_page_sbjl",
+      "NAME": "神兵降临",
+      "NAME_VN": "Thần Binh Giáng Thế",
+      "NAMEPATH": "active_zhd/zhd_tx_sbjl",
+      "LEVEL": 1,
+      "SUOXIE": "SBJL",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_cxry",
+      "PFBNAME": "activity_zhd_page_cxry",
+      "NAME": "称心如意",
+      "NAME_VN": "Hài Lòng Như Ý",
+      "NAMEPATH": "active_zhd/zhd_tx_cxry",
+      "LEVEL": 1,
+      "SUOXIE": "ZMQY",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_tnqw",
+      "PFBNAME": "activity_zhd_page_tnqw",
+      "NAME": "探囊取物",
+      "NAME_VN": "Khám Túi Lấy Vật",
+      "NAMEPATH": "active_zhd/zhd_tx_tnqw",
+      "LEVEL": 1,
+      "SUOXIE": "TNQW",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_thlb",
+      "PFBNAME": "activity_zhd_page_thlb",
+      "NAME": "特惠礼包",
+      "NAME_VN": "Gói Quà Đặc Biệt",
+      "NAMEPATH": "active_zhd/zhd_tx_thlb",
+      "LEVEL": 1,
+      "SUOXIE": "THLB",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_xygx",
+      "PFBNAME": "activity_zhd_page_xygx",
+      "NAME": "幸运观星",
+      "NAME_VN": "Quan Tinh May Mắn",
+      "NAMEPATH": "active_zhd/zhd_tx_xygx",
+      "LEVEL": 1,
+      "SUOXIE": "XYGX",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_tgsl",
+      "PFBNAME": "activity_zhd_page_tgsl",
+      "NAME": "天公试炼",
+      "NAME_VN": "Thử Thách Thiên Công",
+      "NAMEPATH": "active_zhd/zhd_tx_tgsl",
+      "LEVEL": 1,
+      "SUOXIE": "TGSL",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_mjbg",
+      "PFBNAME": "activity_zhd_page_mjbg",
+      "NAME": "秘境宝阁",
+      "NAME_VN": "Bảo Các Bí Cảnh",
+      "NAMEPATH": "active_zhd/zhd_tx_mjbg",
+      "LEVEL": 1,
+      "SUOXIE": "MJBG",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_jrsd",
+      "PFBNAME": "activity_zhd_page_gjdl",
+      "NAME": "春回大地",
+      "NAME_VN": "Xuân Về Khắp Chốn",
+      "NAMEPATH": "active_zhd/zhd_tx_khsd",
+      "LEVEL": 1,
+      "SUOXIE": "GJDL",
+      "ISOPEN": 1,
+      "TYPR": 1
+    },
+    {
+      "ICONPATH": "active_zhd/zhd_icon_zmfl",
+      "PFBNAME": "activity_zhd_page_zmfl",
+      "NAME": "周末福利",
+      "NAME_VN": "Phúc Lợi Cuối Tuần",
+      "NAMEPATH": "active_zhd/zhd_tx_zmfl",
+      "LEVEL": 1,
+      "SUOXIE": "ZMFL",
+      "ISOPEN": 1,
+      "TYPR": 1
+    }
+  ]
+}

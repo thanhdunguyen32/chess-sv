@@ -1,0 +1,762 @@
+[
+  {
+    "chengID": 1,
+    "pointY": 465,
+    "img": "city_img_1",
+    "ChengName": "Lạc Dương",
+    "countryType": 2,
+    "ChengID": 1,
+    "pointX": 3253,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 2,
+    "pointY": 284,
+    "img": "city_img_2",
+    "ChengName": "Hàm Dương",
+    "countryType": 2,
+    "ChengID": 2,
+    "pointX": 2962,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 3,
+    "pointY": 447,
+    "img": "city_img_2",
+    "ChengName": "Trường An",
+    "countryType": 2,
+    "ChengID": 3,
+    "pointX": 2630,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 4,
+    "pointY": 281,
+    "img": "city_img_2",
+    "ChengName": "Võ Uy",
+    "countryType": 2,
+    "ChengID": 4,
+    "pointX": 2242,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 5,
+    "pointY": 409,
+    "img": "city_img_2",
+    "ChengName": "Hán Trung",
+    "countryType": 2,
+    "ChengID": 5,
+    "pointX": 1850,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 6,
+    "pointY": 525,
+    "img": "city_img_2",
+    "ChengName": "Bộc Dương",
+    "countryType": 2,
+    "ChengID": 6,
+    "pointX": 2143,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 7,
+    "pointY": 801,
+    "img": "city_img_2",
+    "ChengName": "Nghiệp Thành",
+    "countryType": 2,
+    "ChengID": 7,
+    "pointX": 1816,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 8,
+    "pointY": 803,
+    "img": "city_img_2",
+    "ChengName": "Hàm Đan",
+    "countryType": 2,
+    "ChengID": 8,
+    "pointX": 2158,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 9,
+    "pointY": 932,
+    "img": "city_img_2",
+    "ChengName": "Tấn Dương",
+    "countryType": 2,
+    "ChengID": 9,
+    "pointX": 2338,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 10,
+    "pointY": 918,
+    "img": "city_img_2",
+    "ChengName": "Bạch Mã",
+    "countryType": 2,
+    "ChengID": 10,
+    "pointX": 2798,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 11,
+    "pointY": 690,
+    "img": "city_img_2",
+    "ChengName": "Bình Nguyên",
+    "countryType": 2,
+    "ChengID": 11,
+    "pointX": 3097,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 12,
+    "pointY": 1152,
+    "img": "city_img_2",
+    "ChengName": "Trần Lưu",
+    "countryType": 2,
+    "ChengID": 12,
+    "pointX": 2663,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 13,
+    "pointY": 1365,
+    "img": "city_img_2",
+    "ChengName": "Bình Khưu",
+    "countryType": 2,
+    "ChengID": 13,
+    "pointX": 2764,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 14,
+    "pointY": 1745,
+    "img": "city_img_2",
+    "ChengName": "Đông Quận",
+    "countryType": 2,
+    "ChengID": 14,
+    "pointX": 2904,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 15,
+    "pointY": 1860,
+    "img": "city_img_3",
+    "ChengName": "Quan Độ",
+    "countryType": 5,
+    "ChengID": 15,
+    "pointX": 3124,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 16,
+    "pointY": 1729,
+    "img": "city_img_2",
+    "ChengName": "Đông Hải",
+    "countryType": 2,
+    "ChengID": 16,
+    "pointX": 3417,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 17,
+    "pointY": 1475,
+    "img": "city_img_2",
+    "ChengName": "Bắc Hải",
+    "countryType": 2,
+    "ChengID": 17,
+    "pointX": 3334,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 18,
+    "pointY": 1133,
+    "img": "city_img_2",
+    "ChengName": "Bắc Bình",
+    "countryType": 2,
+    "ChengID": 18,
+    "pointX": 3311,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 19,
+    "pointY": 1554,
+    "img": "city_img_2",
+    "ChengName": "Nam Bì",
+    "countryType": 2,
+    "ChengID": 19,
+    "pointX": 3044,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 20,
+    "pointY": 816,
+    "img": "city_img_2",
+    "ChengName": "Huỳnh Dương",
+    "countryType": 2,
+    "ChengID": 20,
+    "pointX": 3429,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 21,
+    "pointY": 1054,
+    "img": "city_img_2",
+    "ChengName": "Hứa Xương",
+    "countryType": 2,
+    "ChengID": 21,
+    "pointX": 3007,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 22,
+    "pointY": 597,
+    "img": "city_img_5",
+    "ChengName": "Đồng Quan",
+    "countryType": 5,
+    "ChengID": 22,
+    "pointX": 1410,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 23,
+    "pointY": 371,
+    "img": "city_img_2",
+    "ChengName": "Tây Lương",
+    "countryType": 1,
+    "ChengID": 23,
+    "pointX": 1205,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 24,
+    "pointY": 754,
+    "img": "city_img_2",
+    "ChengName": "Hậu Thành",
+    "countryType": 1,
+    "ChengID": 24,
+    "pointX": 1038,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 25,
+    "pointY": 915,
+    "img": "city_img_2",
+    "ChengName": "Bạch Đế",
+    "countryType": 1,
+    "ChengID": 25,
+    "pointX": 1376,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 26,
+    "pointY": 271,
+    "img": "city_img_2",
+    "ChengName": "Thiên Thủy",
+    "countryType": 1,
+    "ChengID": 26,
+    "pointX": 864,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 27,
+    "pointY": 518,
+    "img": "city_img_2",
+    "ChengName": "Vĩnh An",
+    "countryType": 1,
+    "ChengID": 27,
+    "pointX": 717,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 28,
+    "pointY": 345,
+    "img": "city_img_2",
+    "ChengName": "Lũng Tây",
+    "countryType": 1,
+    "ChengID": 28,
+    "pointX": 322,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 29,
+    "pointY": 985,
+    "img": "city_img_2",
+    "ChengName": "Tử Đồng",
+    "countryType": 1,
+    "ChengID": 29,
+    "pointX": 805,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 30,
+    "pointY": 1517,
+    "img": "city_img_2",
+    "ChengName": "Phù Lăng",
+    "countryType": 1,
+    "ChengID": 30,
+    "pointX": 1082,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 31,
+    "pointY": 804,
+    "img": "city_img_2",
+    "ChengName": "Võ Dương",
+    "countryType": 1,
+    "ChengID": 31,
+    "pointX": 488,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 32,
+    "pointY": 1203,
+    "img": "city_img_1",
+    "ChengName": "Thành Đô",
+    "countryType": 1,
+    "ChengID": 32,
+    "pointX": 445,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 33,
+    "pointY": 1250,
+    "img": "city_img_2",
+    "ChengName": "Giang Châu",
+    "countryType": 1,
+    "ChengID": 33,
+    "pointX": 805,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 34,
+    "pointY": 1831,
+    "img": "city_img_2",
+    "ChengName": "Đáp Lang",
+    "countryType": 1,
+    "ChengID": 34,
+    "pointX": 556,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 35,
+    "pointY": 1805,
+    "img": "city_img_2",
+    "ChengName": "Ba Quận",
+    "countryType": 1,
+    "ChengID": 35,
+    "pointX": 865,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 36,
+    "pointY": 2130,
+    "img": "city_img_2",
+    "ChengName": "Kiến Ninh",
+    "countryType": 1,
+    "ChengID": 36,
+    "pointX": 820,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 37,
+    "pointY": 2500,
+    "img": "city_img_2",
+    "ChengName": "Kiến Ninh Nam",
+    "countryType": 1,
+    "ChengID": 37,
+    "pointX": 542,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 38,
+    "pointY": 2400,
+    "img": "city_img_2",
+    "ChengName": "Hán Thọ",
+    "countryType": 1,
+    "ChengID": 38,
+    "pointX": 768,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 39,
+    "pointY": 2683,
+    "img": "city_img_2",
+    "ChengName": "Hành Dương",
+    "countryType": 1,
+    "ChengID": 39,
+    "pointX": 196,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 40,
+    "pointY": 2314,
+    "img": "city_img_2",
+    "ChengName": "Trường Sa",
+    "countryType": 1,
+    "ChengID": 40,
+    "pointX": 307,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 41,
+    "pointY": 1970,
+    "img": "city_img_2",
+    "ChengName": "Linh Lăng",
+    "countryType": 1,
+    "ChengID": 41,
+    "pointX": 213,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 42,
+    "pointY": 1641,
+    "img": "city_img_2",
+    "ChengName": "Vân Nam",
+    "countryType": 1,
+    "ChengID": 42,
+    "pointX": 209,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 43,
+    "pointY": 1826,
+    "img": "city_img_2",
+    "ChengName": "Hạ Bi",
+    "countryType": 3,
+    "ChengID": 43,
+    "pointX": 2402,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 44,
+    "pointY": 2054,
+    "img": "city_img_2",
+    "ChengName": "Từ Châu",
+    "countryType": 3,
+    "ChengID": 44,
+    "pointX": 2930,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 45,
+    "pointY": 2025,
+    "img": "city_img_2",
+    "ChengName": "Lâm Tri",
+    "countryType": 3,
+    "ChengID": 45,
+    "pointX": 3322,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 46,
+    "pointY": 2069,
+    "img": "city_img_2",
+    "ChengName": "Thọ Xuân",
+    "countryType": 3,
+    "ChengID": 46,
+    "pointX": 2642,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 47,
+    "pointY": 2215,
+    "img": "city_img_2",
+    "ChengName": "Hợp Phì",
+    "countryType": 3,
+    "ChengID": 47,
+    "pointX": 3253,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 48,
+    "pointY": 2346,
+    "img": "city_img_2",
+    "ChengName": "Khúc A",
+    "countryType": 3,
+    "ChengID": 48,
+    "pointX": 2742,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 49,
+    "pointY": 2364,
+    "img": "city_img_2",
+    "ChengName": "Kiến Xương",
+    "countryType": 3,
+    "ChengID": 49,
+    "pointX": 2029,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 50,
+    "pointY": 2374,
+    "img": "city_img_2",
+    "ChengName": "Nam Xương",
+    "countryType": 3,
+    "ChengID": 50,
+    "pointX": 2439,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 51,
+    "pointY": 2506,
+    "img": "city_img_2",
+    "ChengName": "Giang Đô",
+    "countryType": 3,
+    "ChengID": 51,
+    "pointX": 3360,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 52,
+    "pointY": 2794,
+    "img": "city_img_2",
+    "ChengName": "Kiến An",
+    "countryType": 3,
+    "ChengID": 52,
+    "pointX": 3395,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 53,
+    "pointY": 2590,
+    "img": "city_img_2",
+    "ChengName": "Quảng Lăng",
+    "countryType": 3,
+    "ChengID": 53,
+    "pointX": 2732,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 54,
+    "pointY": 2704,
+    "img": "city_img_2",
+    "ChengName": "Hán Tân",
+    "countryType": 3,
+    "ChengID": 54,
+    "pointX": 1490,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 55,
+    "pointY": 2643,
+    "img": "city_img_2",
+    "ChengName": "Lư Giang",
+    "countryType": 3,
+    "ChengID": 55,
+    "pointX": 2089,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 56,
+    "pointY": 2526,
+    "img": "city_img_4",
+    "ChengName": "Võ Lăng",
+    "countryType": 3,
+    "ChengID": 56,
+    "pointX": 1027,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 57,
+    "pointY": 2490,
+    "img": "city_img_2",
+    "ChengName": "Đan Dương",
+    "countryType": 3,
+    "ChengID": 57,
+    "pointX": 1500,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 58,
+    "pointY": 2769,
+    "img": "city_img_2",
+    "ChengName": "Di Lăng",
+    "countryType": 5,
+    "ChengID": 58,
+    "pointX": 760,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 59,
+    "pointY": 2865,
+    "img": "city_img_2",
+    "ChengName": "Quý Dương",
+    "countryType": 3,
+    "ChengID": 59,
+    "pointX": 1019,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 60,
+    "pointY": 2956,
+    "img": "city_img_2",
+    "ChengName": "Tầm Dương",
+    "countryType": 3,
+    "ChengID": 60,
+    "pointX": 1366,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 61,
+    "pointY": 2955,
+    "img": "city_img_2",
+    "ChengName": "Võ Xương",
+    "countryType": 3,
+    "ChengID": 61,
+    "pointX": 1740,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 62,
+    "pointY": 2722,
+    "img": "city_img_2",
+    "ChengName": "Phan Dương",
+    "countryType": 3,
+    "ChengID": 62,
+    "pointX": 2477,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 63,
+    "pointY": 2875,
+    "img": "city_img_1",
+    "ChengName": "Kiến Nghiệp",
+    "countryType": 3,
+    "ChengID": 63,
+    "pointX": 2799,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 64,
+    "pointY": 1051,
+    "img": "city_img_6",
+    "ChengName": "Bác Vọng",
+    "countryType": 5,
+    "ChengID": 64,
+    "pointX": 1780,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 65,
+    "pointY": 1163,
+    "img": "city_img_2",
+    "ChengName": "Tân Thành",
+    "countryType": 4,
+    "ChengID": 65,
+    "pointX": 1554,
+    "Ziyuanlei": 1
+  },
+  {
+    "chengID": 66,
+    "pointY": 1410,
+    "img": "city_img_2",
+    "ChengName": "Kiến Bình",
+    "countryType": 4,
+    "ChengID": 66,
+    "pointX": 1445,
+    "Ziyuanlei": 1
+  },
+  {
+    "chengID": 67,
+    "pointY": 1876,
+    "img": "city_img_4",
+    "ChengName": "Vu Hạp",
+    "countryType": 5,
+    "ChengID": 67,
+    "pointX": 1187,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 68,
+    "pointY": 2174,
+    "img": "city_img_2",
+    "ChengName": "Nam Quận",
+    "countryType": 4,
+    "ChengID": 68,
+    "pointX": 1175,
+    "Ziyuanlei": 1
+  },
+  {
+    "chengID": 69,
+    "pointY": 2173,
+    "img": "city_img_2",
+    "ChengName": "Kinh Châu",
+    "countryType": 4,
+    "ChengID": 69,
+    "pointX": 1586,
+    "Ziyuanlei": 2
+  },
+  {
+    "chengID": 70,
+    "pointY": 2138,
+    "img": "city_img_4",
+    "ChengName": "Xích Bích",
+    "countryType": 5,
+    "ChengID": 70,
+    "pointX": 1827,
+    "Ziyuanlei": 3
+  },
+  {
+    "chengID": 71,
+    "pointY": 1463,
+    "img": "city_img_2",
+    "ChengName": "Giang Hạ",
+    "countryType": 4,
+    "ChengID": 71,
+    "pointX": 2365,
+    "Ziyuanlei": 2
+  },
+  {
+    "chengID": 72,
+    "pointY": 1322,
+    "img": "city_img_2",
+    "ChengName": "Tân Dã",
+    "countryType": 4,
+    "ChengID": 72,
+    "pointX": 1976,
+    "Ziyuanlei": 1
+  },
+  {
+    "chengID": 73,
+    "pointY": 1524,
+    "img": "city_img_2",
+    "ChengName": "Đương Dương",
+    "countryType": 4,
+    "ChengID": 73,
+    "pointX": 1696,
+    "Ziyuanlei": 2
+  },
+  {
+    "chengID": 74,
+    "pointY": 1354,
+    "img": "city_img_2",
+    "ChengName": "Tương Dương",
+    "countryType": 4,
+    "ChengID": 74,
+    "pointX": 1766,
+    "Ziyuanlei": 1
+  },
+  {
+    "chengID": 75,
+    "pointY": 1650,
+    "img": "city_img_2",
+    "ChengName": "Giang Lăng",
+    "countryType": 4,
+    "ChengID": 75,
+    "pointX": 1475,
+    "Ziyuanlei": 2
+  },
+  {
+    "chengID": 76,
+    "pointY": 1863,
+    "img": "city_img_2",
+    "ChengName": "Hoa Dung",
+    "countryType": 4,
+    "ChengID": 76,
+    "pointX": 1674,
+    "Ziyuanlei": 2
+  }
+]

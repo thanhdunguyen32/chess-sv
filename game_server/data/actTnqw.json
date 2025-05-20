@@ -1,0 +1,61 @@
+{
+    "event": [
+        {
+            "mark": 90366,
+            "limit": 300,
+            "intro": "Mỗi lần Quan Tinh Thường sẽ nhận 1 Nguyên Thần, nhận tối đa 300 Nguyên Thần"
+        },
+        {
+            "mark": 90367,
+            "limit": 300,
+            "intro": "Mỗi lần Quan Tinh Cao Cấp sẽ nhận 2 Nguyên Thần, nhận tối đa 300 Nguyên Thần"
+        }
+    ],
+    "bosslist": [
+        {
+            "status": 0,
+            "rewardgsids": [
+                "30026",
+                "36001"
+            ],
+            "actscore": 150
+        },
+        {
+            "status": 0,
+            "rewardgsids": [
+                "30015",
+                "36001",
+                "38006"
+            ],
+            "actscore": 300
+        },
+        {
+            "status": 0,
+            "rewardgsids": [
+                "31005",
+                "31006",
+                "31007",
+                "36001"
+            ],
+            "actscore": 450
+        },
+        {
+            "status": 0,
+            "rewardgsids": [
+                "30016",
+                "30017",
+                "36001"
+            ],
+            "actscore": 600
+        },
+        {
+            "status": 0,
+            "rewardgsids": [
+                "30029",
+                "30036",
+                "32104",
+                "37001"
+            ]
+        }
+    ]
+}

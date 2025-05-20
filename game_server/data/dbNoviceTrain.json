@@ -1,0 +1,508 @@
+{
+  "ZHANYI": [
+    {
+      "GETMARK": 93285,
+      "CNUM": 10105,
+      "EXID": "novice_zhnayi_0",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 30006
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破长安",
+      "NAME_VN": "Công phá Trường An"
+    },
+    {
+      "GETMARK": 93286,
+      "CNUM": 10210,
+      "EXID": "novice_zhnayi_1",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 22262
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破荥阳",
+      "NAME_VN": "Công phá Huỳnh Dương"
+    },
+    {
+      "GETMARK": 93287,
+      "CNUM": 10310,
+      "EXID": "novice_zhnayi_2",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 22262
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破潼关",
+      "NAME_VN": "Công phá Đồng Quan"
+    },
+    {
+      "GETMARK": 93288,
+      "CNUM": 10410,
+      "EXID": "novice_zhnayi_3",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 22262
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破洛阳",
+      "NAME_VN": "Công phá Lạc Dương"
+    },
+    {
+      "GETMARK": 93289,
+      "CNUM": 10510,
+      "EXID": "novice_zhnayi_4",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 22262
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破弘农",
+      "NAME_VN": "Công phá Hoằng Nông"
+    },
+    {
+      "GETMARK": 93290,
+      "CNUM": 10610,
+      "EXID": "novice_zhnayi_5",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 22262
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破虎牢关",
+      "NAME_VN": "Công phá Hổ Lao Quan"
+    },
+    {
+      "GETMARK": 93291,
+      "CNUM": 11110,
+      "EXID": "novice_zhnayi_6",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 30011
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破宛城",
+      "NAME_VN": "Công phá Uyển Thành"
+    },
+    {
+      "GETMARK": 93292,
+      "CNUM": 11210,
+      "EXID": "novice_zhnayi_7",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 24141
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破陈留",
+      "NAME_VN": "Công phá Trần Lưu"
+    },
+    {
+      "GETMARK": 93293,
+      "CNUM": 11310,
+      "EXID": "novice_zhnayi_8",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 24141
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破汝南",
+      "NAME_VN": "Công phá Nhữ Nam"
+    },
+    {
+      "GETMARK": 93294,
+      "CNUM": 11410,
+      "EXID": "novice_zhnayi_9",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 24141
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破许昌",
+      "NAME_VN": "Công phá Hứa Xương"
+    },
+    {
+      "GETMARK": 93295,
+      "CNUM": 11510,
+      "EXID": "novice_zhnayi_10",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 24141
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破官渡",
+      "NAME_VN": "Công phá Quan Độ"
+    },
+    {
+      "GETMARK": 93296,
+      "CNUM": 11610,
+      "EXID": "novice_zhnayi_11",
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 24141
+        }
+      ],
+      "PMARK": "maxmapid",
+      "NAME": "攻破濮阳",
+      "NAME_VN": "Công phá Bộc Dương"
+    }
+  ],
+  "XUANSHANG": [
+    {
+      "GETMARK": 93270,
+      "CNUM": 10,
+      "EXID": "novice_xuanshang_0",
+      "REWARD": [
+        {
+          "COUNT": 300000,
+          "GSID": 38006
+        }
+      ],
+      "PMARK": 90172,
+      "NAME": "进行10次普通招募",
+      "NAME_VN": "Tiến hành 10 lần phổ thông chiêu mộ"
+    },
+    {
+      "GETMARK": 93271,
+      "CNUM": 50,
+      "EXID": "novice_xuanshang_1",
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90172,
+      "NAME": "进行50次普通招募",
+      "NAME_VN": "Tiến hành 50 lần phổ thông chiêu mộ"
+    },
+    {
+      "GETMARK": 93272,
+      "CNUM": 10,
+      "EXID": "novice_xuanshang_2",
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90176,
+      "NAME": "进行10次高级招募",
+      "NAME_VN": "Tiến hành 10 lần cao cấp chiêu mộ"
+    },
+    {
+      "GETMARK": 93273,
+      "CNUM": 30,
+      "EXID": "novice_xuanshang_3",
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "PMARK": 90176,
+      "NAME": "进行30次高级招募",
+      "NAME_VN": "Tiến hành 30 lần cao cấp chiêu mộ"
+    },
+    {
+      "GETMARK": 93274,
+      "CNUM": 10,
+      "EXID": "novice_xuanshang_4",
+      "REWARD": [
+        {
+          "COUNT": 300000,
+          "GSID": 30001
+        }
+      ],
+      "PMARK": 90168,
+      "NAME": "进行10次普通观星",
+      "NAME_VN": "Tiến hành 10 lần phổ thông xem sao"
+    },
+    {
+      "GETMARK": 93275,
+      "CNUM": 30,
+      "EXID": "novice_xuanshang_5",
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90168,
+      "NAME": "进行30次普通观星",
+      "NAME_VN": "Tiến hành 30 lần phổ thông xem sao"
+    },
+    {
+      "GETMARK": 93276,
+      "CNUM": 10,
+      "EXID": "novice_xuanshang_6",
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90218,
+      "NAME": "进行10次高级观星",
+      "NAME_VN": "Tiến hành 10 lần cao cấp xem sao"
+    },
+    {
+      "GETMARK": 93277,
+      "CNUM": 20,
+      "EXID": "novice_xuanshang_7",
+      "REWARD": [
+        {
+          "COUNT": 200,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90218,
+      "NAME": "进行20次高级观星",
+      "NAME_VN": "Tiến hành 20 lần cao cấp xem sao"
+    },
+    {
+      "GETMARK": 93278,
+      "CNUM": 5,
+      "EXID": "novice_xuanshang_8",
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        }
+      ],
+      "PMARK": 90177,
+      "NAME": "进行5次点将",
+      "NAME_VN": "Tiến hành 5 lần điểm tướng"
+    },
+    {
+      "GETMARK": 93279,
+      "CNUM": 20,
+      "EXID": "novice_xuanshang_9",
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "PMARK": 90177,
+      "NAME": "进行20次点将",
+      "NAME_VN": "Tiến hành 20 lần điểm tướng"
+    },
+    {
+      "GETMARK": 93280,
+      "CNUM": 1,
+      "EXID": "novice_xuanshang_10",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 30011
+        }
+      ],
+      "PMARK": 90220,
+      "NAME": "进行1次武将置换",
+      "NAME_VN": "Tiến hành 1 lần đổi tưởng"
+    },
+    {
+      "GETMARK": 93281,
+      "CNUM": 10,
+      "EXID": "novice_xuanshang_11",
+      "REWARD": [
+        {
+          "COUNT": 2,
+          "GSID": 30011
+        }
+      ],
+      "PMARK": 90220,
+      "NAME": "进行10次武将置换",
+      "NAME_VN": "Tiến hành 10 lần đổi tưởng"
+    }
+  ],
+  "RONGYAO": [
+    {
+      "GETMARK": 93250,
+      "CNUM": 20,
+      "EXID": "novice_rongyao_0",
+      "REWARD": [
+        {
+          "COUNT": 30,
+          "GSID": 37004
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至20级",
+      "NAME_VN": "Chúa công tăng tới cấp 20"
+    },
+    {
+      "GETMARK": 93251,
+      "CNUM": 30,
+      "EXID": "novice_rongyao_1",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33009
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33109
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至30级",
+      "NAME_VN": "Chúa công tăng tới cấp 30"
+    },
+    {
+      "GETMARK": 93252,
+      "CNUM": 40,
+      "EXID": "novice_rongyao_2",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33209
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33309
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至40级",
+      "NAME_VN": "Chúa công tăng tới cấp 40"
+    },
+    {
+      "GETMARK": 93253,
+      "CNUM": 50,
+      "EXID": "novice_rongyao_3",
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 37003
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至50级",
+      "NAME_VN": "Chúa công tăng tới cấp 50"
+    },
+    {
+      "GETMARK": 93254,
+      "CNUM": 60,
+      "EXID": "novice_rongyao_4",
+      "REWARD": [
+        {
+          "COUNT": 30,
+          "GSID": 20201
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至60级",
+      "NAME_VN": "Chúa công tăng tới cấp 60"
+    },
+    {
+      "GETMARK": 93255,
+      "CNUM": 70,
+      "EXID": "novice_rongyao_5",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33011
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33111
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至70级",
+      "NAME_VN": "Chúa công tăng tới cấp 70"
+    },
+    {
+      "GETMARK": 93256,
+      "CNUM": 75,
+      "EXID": "novice_rongyao_6",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33211
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33311
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至75级",
+      "NAME_VN": "Chúa công tăng tới cấp 75"
+    },
+    {
+      "GETMARK": 93257,
+      "CNUM": 80,
+      "EXID": "novice_rongyao_7",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至80级",
+      "NAME_VN": "Chúa công tăng tới cấp 80"
+    },
+    {
+      "GETMARK": 93258,
+      "CNUM": 85,
+      "EXID": "novice_rongyao_8",
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至85级",
+      "NAME_VN": "Chúa công tăng tới cấp 85"
+    },
+    {
+      "GETMARK": 93259,
+      "CNUM": 90,
+      "EXID": "novice_rongyao_9",
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 24161
+        }
+      ],
+      "PMARK": "level",
+      "NAME": "主公升至90级",
+      "NAME_VN": "Chúa công tăng tới cấp 90"
+    }
+  ]
+}

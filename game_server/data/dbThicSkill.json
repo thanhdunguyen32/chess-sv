@@ -1,0 +1,7540 @@
+{
+  "47001": [
+    {
+      "hurmval": 3000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 12000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 12500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 13000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 13500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 14000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 14500,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 15000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 16000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 17000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 18000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 19000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 20000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 21000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 22000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 23000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 24000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 25000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 26000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 27000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 28000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 29000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 30000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 31000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 32000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 33000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 34000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 35000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 36000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 37000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 38000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 39000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 40000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 41000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 42000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 43000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 44000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 45000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 46000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 47000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 48000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 49000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 50000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 52000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 54000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 56000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 58000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 60000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 62000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 64000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 66000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 68000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 70000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 72000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 74000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 76000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 78000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 80000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 82000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 84000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 86000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 88000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 90000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 92000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 94000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 96000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 98000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 100000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 102000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 104000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 106000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 108000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 110000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 20
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 112000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 114000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 116000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 118000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 120000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 122000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 124000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 126000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 128000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 130000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 132000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 134000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 136000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 138000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 140000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 142000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 144000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 146000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 148000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 150000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 152000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 154000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 156000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 158000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 160000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 162000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 164000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 166000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 168000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 170000,
+      "s_buff": [],
+      "hurmtype": 1,
+      "e_buff": [
+        {
+          "ttime": 1.5,
+          "prob": 100,
+          "buffid": 10004
+        },
+        {
+          "ttime": 6,
+          "prob": 100,
+          "buffid": "b47001",
+          "num": 30
+        }
+      ],
+      "etarget": 5
+    }
+  ],
+  "47021": [
+    {
+      "hurmval": 2100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 2450,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 2800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3150,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3850,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4550,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5250,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5950,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6650,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7350,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8050,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8750,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9450,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10150,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 12600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 13300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 14000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 14700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 4410
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 15400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 4620
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 16100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 4830
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 16800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 5040
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 17500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 5250
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 18200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 5460
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 18900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 5670
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 19600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 5880
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 20300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 6090
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 21000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 6300
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 21700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 6510
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 22400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 6720
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 23100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 6930
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 23800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 7140
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 24500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 7350
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 25200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 7560
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 25900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 7770
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 26600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 7980
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 27300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 8190
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 28000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 8400
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 28700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 8610
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 29400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 8820
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 30100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 9030
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 30800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 9240
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 31500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 9450
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 32200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 9660
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 32900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 9870
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 33600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 10080
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 34300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 10290
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 35000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 10500
+        }
+      ],
+      "etarget": 4
+    },
+    {
+      "hurmval": 36400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 10920
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 37800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 11340
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 39200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 11760
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 40600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 12180
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 42000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 12600
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 43400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 13020
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 44800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 13440
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 46200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 13860
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 47600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 14280
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 49000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 14700
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 50400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 15120
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 51800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 15540
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 53200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 15960
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 54600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 16380
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 56000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 16800
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 57400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 17220
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 58800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 17640
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 60200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 18060
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 61600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 18480
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 63000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 18900
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 64400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 19320
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 65800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 19740
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 67200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 20160
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 68600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 20580
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 70000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 21000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 71400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 21420
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 72800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 21840
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 74200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 22260
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 75600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 22680
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 77000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 23100
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 25
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 78400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 23520
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 79800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 23940
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 81200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 24360
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 82600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 24780
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 84000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 25200
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 85400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 25620
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 86800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 26040
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 88200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 26460
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 89600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 26880
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 91000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 27300
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 92400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 27720
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 93800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 28140
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 95200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 28560
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 96600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 28980
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 98000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 29400
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 99400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 29820
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 100800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 30240
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 102200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 30660
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 103600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 31080
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 105000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 31500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 106400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 31920
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 107800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 32340
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 109200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 32760
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 110600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 33180
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 112000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 33600
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 113400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 34020
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 114800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 34440
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 116200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 34860
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 117600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 35280
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    },
+    {
+      "hurmval": 119000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470211",
+          "num": 35700
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470212",
+          "num": 35
+        }
+      ],
+      "etarget": 5
+    }
+  ],
+  "47011": [
+    {
+      "hurmval": 2400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 2800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 3600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 4800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 5600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 6800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 7600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 8800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 9600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 10800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 11600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 12000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 12800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 13600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 14400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 15200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 16000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3
+    },
+    {
+      "hurmval": 16800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 17600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 18400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 19200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 20000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 20800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 21600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 22400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 23200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 24000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 24800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 25600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 26400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 27200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 28000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 28800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 29600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 30400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 31200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 32000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 32800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 33600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 34400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 35200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 36000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 36800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 37600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 38400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 39200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 40000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "starget": 4
+    },
+    {
+      "hurmval": 41600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 43200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 44800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 46400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 48000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 49600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 51200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 52800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 54400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 56000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 57600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 59200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 60800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 62400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 64000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 65600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 67200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 68800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 70400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 72000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 73600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 75200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 76800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 78400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 80000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 81600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 83200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 84800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 86400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 88000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 15
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 89600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 91200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 92800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 94400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 96000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 97600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 99200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 100800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 102400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 104000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 105600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 107200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 108800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 110400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 112000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 113600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 115200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 116800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 118400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 120000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 121600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 123200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 124800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 126400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 128000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 129600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 131200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 132800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 134400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    },
+    {
+      "hurmval": 136000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470111",
+          "num": 15
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470112",
+          "num": 25
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "starget": 5
+    }
+  ],
+  "47031": [
+    {
+      "hurmval": 1800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 2100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 2400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 2700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 3000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 3300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 3600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 3900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 4200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 4500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 4800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 5100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 5400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 5700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 6000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 6300,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 6600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 6900,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 7200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 7500,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 7800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 8100,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 8400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 8700,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 9000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 9600,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 10200,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 10800,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 11400,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "hurmval": 12000,
+      "s_buff": [],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 3,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 12600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 15750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 13200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 16500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 13800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 17250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 14400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 18000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 15000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 18750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 15600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 19500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 16200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 20250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 16800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 21000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 17400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 21750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 18000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 22500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 18600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 23250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 19200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 24000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 19800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 24750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 20400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 25500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 21000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 26250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 21600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 27000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 22200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 27750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 22800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 28500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 23400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 29250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 24000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 30000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 24600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 30750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 25200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 31500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 25800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 32250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 26400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 33000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 27000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 33750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 27600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 34500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 28200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 35250
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 28800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 36000
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 29400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 36750
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 4,
+      "hurmval": 30000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 37500
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 4,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 31200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 39000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 32400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 40500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 33600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 42000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 34800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 43500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 36000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 45000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 37200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 46500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 38400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 48000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 39600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 49500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 40800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 51000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 42000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 52500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 43200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 54000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 44400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 55500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 45600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 57000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 46800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 58500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 48000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 60000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 49200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 61500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 50400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 63000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 51600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 64500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 52800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 66000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 54000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 67500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 55200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 69000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 56400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 70500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 57600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 72000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 58800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 73500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 60000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 75000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 61200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 76500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 62400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 78000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 63600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 79500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 64800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 81000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 66000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 82500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 5
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 67200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 84000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 68400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 85500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 69600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 87000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 70800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 88500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 72000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 90000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 73200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 91500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 74400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 93000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 75600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 94500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 76800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 96000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 78000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 97500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 79200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 99000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 80400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 100500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 81600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 102000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 82800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 103500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 84000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 105000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 85200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 106500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 86400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 108000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 87600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 109500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 88800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 111000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 90000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 112500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 91200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 114000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 92400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 115500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 93600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 117000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 94800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 118500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 96000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 120000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 97200,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 121500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 98400,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 123000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 99600,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 124500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 100800,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 126000
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    },
+    {
+      "starget": 5,
+      "hurmval": 102000,
+      "s_buff": [
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470311",
+          "num": 127500
+        },
+        {
+          "ttime": 5,
+          "prob": 100,
+          "buffid": "b470312",
+          "num": 10
+        }
+      ],
+      "hurmtype": 2,
+      "e_buff": [],
+      "etarget": 5,
+      "hpmin": 1
+    }
+  ]
+}

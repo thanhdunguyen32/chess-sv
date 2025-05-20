@@ -1,0 +1,6 @@
+/.metadata/
+/.recommenders/
+.DS_Store
+/.idea/
+/docker
+/log

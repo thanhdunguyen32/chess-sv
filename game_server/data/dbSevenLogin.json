@@ -1,0 +1,185 @@
+{
+  "REWARD": [
+    {
+      "GETSIGN": 93301,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 100,
+          "GSID": 30015
+        },
+        {
+          "COUNT": 50000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 30000,
+          "GSID": 30001
+        }
+      ],
+      "EXID": "sevenlogin_0"
+    },
+    {
+      "GETSIGN": 93302,
+      "REWARD": [
+        {
+          "COUNT": 2,
+          "GSID": 30006
+        },
+        {
+          "COUNT": 150,
+          "GSID": 30015
+        },
+        {
+          "COUNT": 100000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 50000,
+          "GSID": 30001
+        }
+      ],
+      "EXID": "sevenlogin_1"
+    },
+    {
+      "GETSIGN": 93303,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 10001
+        },
+        {
+          "COUNT": 1,
+          "GSID": 12081
+        },
+        {
+          "COUNT": 1,
+          "GSID": 14141
+        }
+      ],
+      "EXID": "sevenlogin_2"
+    },
+    {
+      "GETSIGN": 93304,
+      "REWARD": [
+        {
+          "COUNT": 10,
+          "GSID": 30024
+        },
+        {
+          "COUNT": 200,
+          "GSID": 30015
+        },
+        {
+          "COUNT": 150000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 100000,
+          "GSID": 30001
+        }
+      ],
+      "EXID": "sevenlogin_3"
+    },
+    {
+      "GETSIGN": 93305,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 30009
+        },
+        {
+          "COUNT": 5,
+          "GSID": 30008
+        },
+        {
+          "COUNT": 200000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 150000,
+          "GSID": 30001
+        }
+      ],
+      "EXID": "sevenlogin_4"
+    },
+    {
+      "GETSIGN": 93306,
+      "REWARD": [
+        {
+          "COUNT": 5,
+          "GSID": 30011
+        },
+        {
+          "COUNT": 300,
+          "GSID": 30015
+        },
+        {
+          "COUNT": 300000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 200000,
+          "GSID": 30001
+        }
+      ],
+      "EXID": "sevenlogin_5"
+    },
+    {
+      "GETSIGN": 93307,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33013
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33113
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33213
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33313
+        }
+      ],
+      "EXID": "sevenlogin_6"
+    },
+    {
+      "GETSIGN": 93303,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 10001
+        }
+      ],
+      "EXID": "sevenlogin_2_0"
+    },
+    {
+      "GETSIGN": 93303,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 12081
+        }
+      ],
+      "EXID": "sevenlogin_2_1"
+    },
+    {
+      "GETSIGN": 93303,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 14141
+        }
+      ],
+      "EXID": "sevenlogin_2_2"
+    }
+  ],
+  "LOGINSIGN": 90215
+}

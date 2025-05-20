@@ -1,0 +1,394 @@
+{
+  "招募积分": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Chiêu Mộ Tích Điểm",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, mỗi lần chiêu mộ cao cấp tại Tửu Quán sẽ nhận 1 điểm, chiêu mộ 10 lần nhận 10 điểm.\n2. Đạt số điểm chỉ định có thể nhận thưởng tương ứng. Phần thưởng sẽ được gửi qua thư.\n3. Khi tổng điểm đạt mức tối đa và vượt quá giới hạn, hệ thống tự động chuyển sang vòng tiếp theo, điểm dư sẽ tích lũy vào vòng mới.\n4. Tối đa có thể hoàn thành 4 vòng.",
+    "NAME": "招募积分"
+  },
+  "超值礼包": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Gói Siêu Giá Trị",
+    "TYPE": 1,
+    "CONTENT": "Trong thời gian sự kiện nếu số lượt mua còn lại nhỏ hơn 1 sẽ không thể mua tiếp.",
+    "NAME": "超值礼包"
+  },
+  "封地（主城）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Đất Phong (Chủ Thành)",
+    "TYPE": 1,
+    "CONTENT": "1. Xây Dựng Kiến Trúc:\n Người chơi có thể xây dựng các kiến trúc tài nguyên và kiến trúc chức năng trong Đất Phong.\n Số lượng kiến trúc tối đa phụ thuộc vào cấp độ của Phủ Đệ. \n\n2. Tài Nguyên Kiến Trúc:\nRuộng Lúa: Sản xuất Lương Thảo, tối đa 1 kiến trúc.\nMỏ Vàng: Sản xuất Nguyên Bảo, tối đa 2 kiến trúc.\nMỏ Đồng: Sản xuất Tiền Đồng, tối đa 2 kiến trúc.\nChuồng Ngựa: Sản xuất Tọa Kỵ Đân, tối đa 2 kiến trúc.\nLưu ý: Các kiến trúc tài nguyên có thể nâng cấp để tăng sản lượng.\n\n3. Kiến Trúc Chức Năng:\nTrường Bắn: Tăng sát thương, tối đa 1 kiến trúc.\nQuân Khố: Tăng tấn công, tối đa 2 kiến trúc.\nBinh Doanh: Tăng sinh mệnh, tối đa 4 kiến trúc.\nTiền Trang: Tăng sản lượng của kiến trúc tài nguyên, tối đa 1 kiến trúc.\nLưu ý: Các kiến trúc chức năng có thể nâng cấp để tăng tỷ lệ buff. Chỉ số thuộc tính chiến đấu do kiến trúc chức năng cung cấp sẽ có hiệu lực trong toàn bộ các trận chiến.",
+    "NAME": "封地（主城）"
+  },
+  "武将组合": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Võ Tướng Tổ Hợp",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian diễn ra sự kiện, người chơi khi sở hữu đầy đủ các tướng chỉ định trong tổ hợp tướng bằng bất kỳ cách nào sẽ có thể kích hoạt phần thưởng tương ứng. \n2. Phần thưởng sẽ được nhận trực tiếp ngay sau khi kích hoạt.\n3. Mỗi mốc phần thưởng chỉ có thể kích hoạt và nhận một lần duy nhất trong suốt thời gian sự kiện.",
+    "NAME": "武将组合"
+  },
+  "秘境宝阁": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Bí Cảnh Bảo Các",
+    "TYPE": 1,
+    "CONTENT": "1. Nhận Vật Phẩm Sự Kiện: \n Trong thời gian diễn ra sự kiện, đăng nhập mỗi ngày sẽ nhận được vật phẩm Búa Sắt.\n Búa Sắt được sử dụng để tìm kiếm bảo vật trong Bí Cảnh.\n2. Chọn Mục Tiêu Bảo Vật:\n Mỗi tầng sẽ cho phép người chơi chọn một bảo vật làm mục tiêu.\n Trước khi nhận được bảo vật mục tiêu, người chơi có thể tùy ý thay đổi mục tiêu bảo vật trong tầng hiện tại.\n3. Tiến Tầng Hoặc Ở Lại: Khi người chơi nhận được bảo vật mục tiêu của tầng hiện tại: \n Có thể tiến lên tầng tiếp theo để tiếp tục tìm kiếm bảo vật. \n Hoặc ở lại tầng hiện tại để tiếp tục tìm kiếm các bảo vật khác. \n Lưu ý: Khi tiến lên tầng tiếp theo, các ô còn lại ở tầng hiện tại sẽ biến mất.",
+    "NAME": "秘境宝阁"
+  },
+  "积分宝箱": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tích Điểm Bảo Rương",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian diễn ra sự kiện, người chơi có thể hoàn thành các nhiệm vụ được chỉ định để nhận điểm tích lũy.\n2. Khi điểm tích lũy đạt các mốc chỉ định, người chơi sẽ nhận được phần thưởng hậu hĩnh.\n3. Phần thưởng sẽ được gửi trực tiếp qua thư trong game.",
+    "NAME": "积分宝箱"
+  },
+  "限时兑换": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Giới Hạn Thời Gian Đổi",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, tiêu hao Chiêu Hiền Thiếp có thể đổi võ tướng chỉ định.\n2. Chiêu Hiền Thiếp có thể thu được từ tính năng Giải Giáp Quy Điền. Mỗi võ tướng chỉ có thể đổi một lần.",
+    "NAME": "限时兑换"
+  },
+  "封神": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Phong Thần",
+    "TYPE": 1,
+    "CONTENT": "1. Chọn một tướng có thể thăng sao, sau đó đặt vào các tướng nguyên liệu tương ứng. Khi điều kiện được thỏa mãn, có thể tiến hành thăng sao cho tướng.\n2. Tướng được thăng sao sẽ giữ nguyên cấp độ, phẩm giai và trang bị hiện có.\n3. Các tướng nguyên liệu đã tiêu hao sẽ hoàn trả giá trị tương ứng bằng EXP Tướng và Đá Tiến Giai vào túi đồ. Trang bị đang mang trên tướng nguyên liệu cũng sẽ được chuyển về túi đồ.\n4. Tướng đã được bồi dưỡng (nâng cấp) khi bị tiêu hao sẽ hoàn trả 100% Đồng, EXP Tướng, và Đan Tọa Kỵ.\n5. Sau khi thăng sao, tướng sẽ nhận được thuộc tính mạnh hơn và cải thiện hiệu quả kỹ năng.\n6. Các tướng hiện đang trong đội hình phòng thủ tại Diễn Võ Trường không thể được sử dụng để thăng sao hoặc thức tỉnh.",
+    "NAME": "封神"
+  },
+  "巅峰之战": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Cuộc Chiến Đỉnh Phong",
+    "TYPE": 1,
+    "CONTENT": "1. Thời Gian Diễn Ra: \n Cuộc Chiến Đỉnh Phong được tổ chức vào mùa đông hàng năm.\n Mỗi ngày sẽ có 1 trận đấu vào 21:00, sự kiện kéo dài 7 ngày liên tiếp.\n2. Chuẩn Bị Trước Trận Đấu: Người chơi cần sắp xếp đội hình trước  1 giờ khi trận đấu bắt đầu, sau thời gian này không thể điều chỉnh đội hình.\n3. Tăng Cường Võ Tướng: Các võ tướng có cấp độ hoặc phẩm chất dưới 140 cấp/6 sao sẽ được nâng lên 140 cấp/6 sao trong Đỉnh Phong Chiến.\n4. Điều Kiện Tham Gia: Khi kết thúc mùa giải Vương Giả Diễn Võ, những người chơi đạt bậc Tối Cao Vương Giả sẽ nhận được vé tham gia Vòng Dự Tuyển của Đỉnh Phong Chiến.\n5. Vòng Dự Tuyển: \n Thể thức: Thi đấu vòng tròn đơn, mỗi cặp đấu 1 trận duy nhất.\n Cách tính điểm: Người chiến thắng sẽ nhận được điểm bằng với số điểm thắng chênh lệch.\n Xếp hạng: Người chơi có điểm cao nhất sẽ vào Top 64. Nếu điểm bằng nhau, tổng lực chiến sẽ được dùng để xếp hạng.\n Thời gian: Trận đấu vòng dự tuyển diễn ra vào thứ Sáu lúc 21:00 và kéo dài khoảng 30 phút.\n6. Vòng Nhóm (Top 64):\n Phân nhóm: 64 người chơi được chia ngẫu nhiên thành 8 nhóm.\n Thể thức: Đấu loại trực tiếp theo phân nhánh chia đôi.\n Vòng đấu: Diễn ra trong 3 vòng, người đứng đầu mỗi nhóm sẽ vào Top 8 tranh chức vô địch.\n Thời gian: Các trận đấu vòng nhóm diễn ra vào thứ Bảy, Chủ Nhật và thứ Hai lúc 21:00.\n7. Vòng Chung Kết (Top 8):\n Thể thức: Đấu loại trực tiếp theo phân nhánh chia đôi.\n Vòng đấu: Diễn ra 3 trận, xác định người chiến thắng cuối cùng.\n Thời gian: Các trận chung kết diễn ra vào thứ Ba, thứ Tư và thứ Năm lúc 21:00.\n8. Phần Thưởng Vinh Dự: Người chơi đạt Top 64, Top 8, Top 4 và Vô Địch sẽ nhận được khung avatar cực kỳ hiếm làm phần thưởng vinh danh.\n9. Cơ Chế Chiến Đấu:\n Trận đấu diễn ra theo thứ tự Tiền Quân → Trung Quân → Hậu Quân, theo dạng xa luân chiến.\n Đội chiến thắng sẽ giữ nguyên lượng máu còn lại nhưng không giữ nộ khí.\n Đội nào bị hạ gục toàn bộ tướng sẽ thua trận.\n10. Quy Định Kết Thúc Trận Đấu:\n Khi hết thời gian trận đấu đội có tỷ lệ máu còn lại cao hơn sẽ chiến thắng, nếu tỷ lệ máu bằng nhau, đội tấn công trước sẽ được tính là đội thắng.\n Tướng của đội thua sẽ bị coi là tử trận và không thể tiếp tục chiến đấu.",
+    "NAME": "巅峰之战"
+  },
+  "点将台（置换）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Điểm Tướng Đài (Thay Thế)",
+    "TYPE": 1,
+    "CONTENT": "1. Tiêu hao Hồn Tướng để đổi ngẫu nhiên tướng khác cùng phe, cùng cấp sao.\n2. Nếu không hài lòng với kết quả đổi, có thể hủy và giữ nguyên tướng ban đầu, nhưng Hồn Tướng đã tiêu hao sẽ không được hoàn trả.\n3. Tướng trong đội hình phòng thủ tại Diễn Võ Trường không thể đổi; chỉ có tướng 4 sao và 5 sao mới có thể đổi; tướng thuộc phe Đế Ma không thể đổi.\n4. Sau khi đổi thành công, các thuộc tính như cấp độ, đẳng cấp, trang bị, thú cưỡi, bảo vật sẽ được kế thừa sang tướng mới.\n\n5. Tỷ lệ đổi tướng như sau:\n    Tướng 5 sao phổ thông: 62.76%\n    Tướng 5 sao tinh anh: 10.46%\n    Tướng 5 sao thần thoại: 1.67%\nLưu ý: Đổi tướng 4 sao là hoàn toàn ngẫu nhiên, xác suất xuất hiện của các tướng là như nhau.",
+    "NAME": "点将台（置换）"
+  },
+  "点将任务": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Nhiệm Vụ Điểm Tướng",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, hoàn thành nhiệm vụ võ tướng theo phe chỉ định sẽ nhận thưởng.\n2. Hoàn thành toàn bộ nhiệm vụ sẽ nhận được võ tướng 5 sao chỉ định.\n3. Lưu ý: Võ tướng nhận được từ tính năng đổi, tái sinh, hay đặt lại sẽ không tính vào sự kiện.\n4. Phần thưởng sẽ gửi qua thư!",
+    "NAME": "点将任务"
+  },
+  "官职": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Chức Quan",
+    "TYPE": 1,
+    "CONTENT": "1. Quan Chức Khởi Đầu: Người chơi bắt đầu với quan chức cấp 0. Sau khi hoàn thành tất cả nhiệm vụ, có thể tiến hành thăng cấp quan chức.\n2. Phần Thưởng Quan Chức: Người chơi sẽ nhận được phần thưởng nhất định khi hoàn thành nhiệm vụ quan chức hoặc thăng cấp quan chức.\n3. Bổng Lộc Quan Chức: Sau khi đạt quan chức, người chơi có thể nhận bổng lộc hàng ngày. Quan chức càng cao, bổng lộc càng phong phú.\n4. Hiệu Quả Tăng Cường: Thăng cấp quan chức sẽ tăng thuộc tính cho các tướng ra trận. Quan chức càng cao, thuộc tính cộng thêm càng lớn.\n5. Cửa Hàng Uy Vọng: Bổng lộc nhận được bao gồm Uy Vọng, có thể sử dụng để đổi mảnh tướng và các vật phẩm khác tại Cửa Hàng Uy Vọng.",
+    "NAME": "官职"
+  },
+  "普通观星": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Phổ Thông Xem Sao",
+    "TYPE": 1,
+    "CONTENT": "1. Tại Quan Tinh Đài Thường, người chơi có thể tiêu hao Thần Phù để tiến hành quan tinh, nhận ngẫu nhiên mảnh tướng, trang bị, bảo vật và các vật phẩm khác.\n2. Sau một khoảng thời gian nhất định, người chơi sẽ nhận được 1 lượt làm mới miễn phí cho vòng quay. Ngoài ra, có thể sử dụng Nguyên Bảo để làm mới vòng quay, giúp thiết lập lại phần thưởng hiện tại.\n3. Mỗi lần quan tinh sẽ nhận được 5 điểm Quan Tinh và 10 Ngôi Sao May Mắn. Điểm Quan Tinh: Khi đạt ngưỡng nhất định có thể nhận thưởng từ rương điểm tích lũy. Ngôi Sao May Mắn: Có thể dùng để đổi vật phẩm như mảnh tướng, trang bị tại Cửa Hàng Quan Tinh.\n\n4.Xác Suất Quan Tinh Đài Thường:\n    Vàng:30%\n    EXP Tướng:30%\n    Đan Tọa Kỵ:24%\n    Bảo Vật:8%\n    Trang Bị Thường:3%\n    Trang Bị Cao Cấp:1.5%\n    Tướng 4 Sao:3%\n    Tướng 5 Sao:0.5%",
+    "NAME": "普通观星"
+  },
+  "探囊取物": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tứ Linh Thần Thú",
+    "TYPE": 1,
+    "CONTENT": "Trong thời gian sự kiện, người chơi sẽ thu thập vật phẩm Nguyên Thần để giải phong ấn và kích hoạt các Thần Thú trong sự kiện. Mỗi Thần Thú đều sở hữu bảo vật quý giá, và có thể xem trước phần thưởng tiềm năng bằng cách nhấp vào biểu tượng Thần Thú (phần thưởng sẽ được gửi qua thư).\n1. Thách Đấu và Quét BOSS: \n Sau khi Thần Thú được giải phong ấn, nó sẽ triệu hồi Mưu Thần Võ Tướng (BOSS) để bảo vệ bảo vật.\n Người chơi có thể sử dụng Binh Phù để khiêu chiến hoặc quét nhanh BOSS.\n Đánh bại BOSS sẽ nhận được bảo vật của nó.\n2. Thu Thập Nguyên Thần: \n Vật phẩm Nguyên Thần có thể thu thập thông qua các phương thức chỉ định.\n Nhấn vào nút 'Nhận Nguyên Thần' trong sự kiện để xem chi tiết cách thu thập.\n3. Thách Đấu Thần Thú: \n Người chơi có thể tự do lựa chọn các Thần Thú đã được giải phong ấn để khiêu chiến bao gồm: Thanh Long, Bạch Hổ, Chu Tước, Huyền Vũ\n Sau khi đánh bại cả 4 Thần Thú, người chơi sẽ mở khóa và kích hoạt BOSS cuối cùng - Kỳ Lân.\n4. Phần Thưởng Sự Kiện: \n Mỗi lần khiêu chiến hoặc quét BOSS, người chơi sẽ nhận được phần thưởng thử thách ngay lập tức. \n Khi tiêu diệt thành công BOSS, người chơi sẽ nhận được phần thưởng tiêu diệt, được gửi qua thư trong game.",
+    "NAME": "探囊取物"
+  },
+  "职业任务": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Nhiệm Vụ Chức Nghiệp",
+    "TYPE": 1,
+    "CONTENT": "1. Lựa Chọn Nhiệm Vụ: \n Người chơi chỉ có thể chọn một nhiệm vụ chức nghiệp. \n Sau khi xác nhận, không thể thay đổi nhiệm vụ đã chọn.\n2. Phần Thưởng Hoàn Thành: \n Khi hoàn thành toàn bộ nhiệm vụ chức nghiệp, người chơi sẽ nhận được: Võ tướng Sư Phụ.\n Kích hoạt Gói Quà Chức Nghiệp.\n3. Mở Khóa Nhiệm Vụ: \n Người chơi phải hoàn thành nhiệm vụ trước đó để mở khóa nhiệm vụ tiếp theo.\n Các nhiệm vụ chưa được mở khóa sẽ không ghi nhận tiến độ.\n4. Gói Quà Chức Nghiệp: \n Gói quà bao gồm tướng Tinh Anh ngẫu nhiên và các vật phẩm giá trị. \n Giá bán của gói quà sẽ  dựa trên phần thưởng.",
+    "NAME": "职业任务"
+  },
+  "招募祝福": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Chiêu Mộ Chúc Phúc",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, xác suất võ tướng 5 sao trong chiêu mộ cao cấp tại Tửu Quán sẽ tăng gấp đôi.\n2. Nhận được võ tướng chỉ định sẽ nhận thưởng tương ứng. Lưu ý: Võ tướng nhận được qua đổi tại Điểm Tướng Đài sẽ không tính vào sự kiện.\n3. Phần thưởng sẽ được gửi qua thư và có thể nhận nhiều lần.",
+    "NAME": "招募祝福"
+  },
+  "驿站": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Dịch Trạm",
+    "TYPE": 1,
+    "CONTENT": "1. Phân giải tướng sẽ nhận được EXP tướng, Thẻ Cầu Hiền, Đá Tiến Giai, và các tài nguyên khác.\n2. Sau khi phân giải, tài nguyên đã sử dụng cho nâng cấp, tiến giai, tọa kỵ sẽ được hoàn trả 100%.\n3. Trang bị và bảo vật trên tướng sẽ tự động chuyển về túi đồ.\n4. Tướng nằm trong đội hình Diễn Võ Trường không thể phân giải.",
+    "NAME": "驿站"
+  },
+  "元宝限购": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Ưu Đãi Nguyên Bảo",
+    "TYPE": 1,
+    "CONTENT": "1. Gói quà này là gói quà giới hạn có thể mua bằng Nguyên Bảo. \n2. Mỗi loại gói quà chỉ có thể mua duy nhất một lần, không thể mua lại hoặc lặp lại.",
+    "NAME": "元宝限购"
+  },
+  "点将台（点将）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Điểm Tướng Đài (Điểm Tướng)",
+    "TYPE": 1,
+    "CONTENT": "1. Tiêu hao Điểm Tướng Lệnh để chiêu mộ tướng theo phe chỉ định, nhận ngẫu nhiên võ tướng 4-5 sao hoặc mảnh võ tướng.\n2. Mỗi lần chiêu mộ sẽ nhận thêm một số Hồn Tướng và Long Ngọc. Hồn Tướng dùng để đổi võ tướng, Long Ngọc dùng để đổi tướng truyền thuyết trong shop Điểm Tướng.\n\n3. Tỉ lệ chiêu mộ võ tướng phe Ngụy, Thục, Ngô và Quần Như sau:\n    Võ tướng 4 sao: 62.83%\n    Mảnh tướng 5 sao ngẫu nhiên (5-20 mảnh): 13.95%\n    Mảnh võ tướng 5 sao phe chỉ định (5-20 mảnh): 13.95%\n    Võ tướng 5 sao thường: 7.78%\n    Võ tướng 5 sao tinh anh: 1.3%\n    Võ tướng 5 sao thần thoại: 0.21%\n\n4. Tỉ lệ chiêu mộ võ tướng Đế, Ma như sau:\n    Võ tướng 4 sao Đế Ma: 53.65%\n    Mảnh võ tướng 5 sao ngẫu nhiên (5-20 mảnh): 21.46%\n    Mảnh võ tướng 5 sao Đế Vương (5-20 mảnh): 16.09%\n    Mảnh võ tướng 5 sao Ma Vương (5-20 mảnh): 16.09%\n    Võ tướng 5 sao Đế Ma thường: 8.05%\n    Võ tướng 5 sao Đế Ma tinh anh: 0.64%\n    Võ tướng 5 sao Đế Ma thần thoại: 0.11%",
+    "NAME": "点将台（点将）"
+  },
+  "大战役（挑战副本）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Đại Chiến Dịch (Phụ Bản)",
+    "TYPE": 1,
+    "CONTENT": "1. Mỗi chiến dịch mỗi ngày nhận được 2 lượt khiêu chiến miễn phí riêng biệt. Thắng trận sẽ trừ đi 1 lượt, thua trận không bị trừ lượt.\n2. Nâng cấp cấp độ người chơi sẽ mở khóa các chiến dịch có độ khó cao hơn. Độ khó càng cao, phần thưởng nhận được càng phong phú.\n3. Nâng cấp VIP sẽ cho phép mua thêm lượt khiêu chiến bổ sung.\n4. Chiến thắng có tỷ lệ nhận được phần thưởng gấp 2 hoặc gấp 3 lần.",
+    "NAME": "大战役（挑战副本）"
+  },
+  "日理万机": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Trăm Công Ngàn Việc",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, người chơi có thể hoàn thành các nhiệm vụ chỉ định trong khoảng thời gian quy định để tích lũy điểm hoạt động.\n2. Khi điểm hoạt động đạt đến các mốc yêu cầu, người chơi sẽ có thể mở rương thưởng tương ứng.",
+    "NAME": "日理万机"
+  },
+  "狂欢商店": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Cửa Hàng Lễ Hội",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian diễn ra sự kiện, khi tham gia chinh chiến và thu thuế, người chơi sẽ có tỷ lệ nhận được vật phẩm sự kiện Xu Lễ Hội.\n2. Xu Lễ Hội có thể được sử dụng tại Cửa Hàng Sự Kiện để đổi các phần thưởng giá trị.\n3. Sau khi sự kiện kết thúc, Cửa Hàng Sự Kiện sẽ mở thêm 1 ngày nữa để người chơi tiếp tục đổi thưởng. Tuy nhiên, Xu Lễ Hội sẽ không còn rơi ra khi thu thuế hoặc chinh chiến.",
+    "NAME": "狂欢商店"
+  },
+  "远征": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Viễn Chinh",
+    "TYPE": 1,
+    "CONTENT": "1. Tướng cấp 40 trở lên mới có thể tham gia Viễn Chinh. Sau mỗi trận chiến, lượng máu của cả hai bên sẽ không được hồi phục.\n2. Mỗi khi chiến thắng một trận đấu, người chơi sẽ nhận được Đồng, Chiến Công và Xu Tế Đàn làm phần thưởng. Càng tiến sâu, độ khó tăng cao và phần thưởng càng phong phú.\n3. Tại Thần Tượng, người chơi có thể tiêu hao Xu Tế Đàn để: Nhận phù trợ chiến đấu, Hồi phục máu cho tướng, Hồi sinh tướng đã tử trận.\n4. Chiến Công có thể sử dụng để đổi lấy mảnh tướng và các vật phẩm khác tại Cửa Hàng Viễn Chinh.\n5. Cứ mỗi khi vượt qua 3 ải, người chơi sẽ nhận được phần thưởng rút thẻ đặc biệt.\n6. Chế độ khó khăn. Viễn Chinh bao gồm 2 độ khó: Đơn Giản và Cao Cấp, mỗi độ khó có 15 ải. Sau khi hoàn thành 15 ải của Độ Khó Đơn Giản, người chơi sẽ tự động tiến vào Độ Khó Cao Cấp, bắt đầu lại từ ải số 1.",
+    "NAME": "远征"
+  },
+  "王者试炼": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Vương Giả Thí Luyện",
+    "TYPE": 1,
+    "CONTENT": "Thời Gian:\nMở vào ngày đầu tiên mùa xuân 0 giờ, kết thúc vào ngày cuối mùa thu 24 giờ.\nNội Dung:\n（1）Tướng dưới cấp 140 hoặc 6 sao sẽ tự động nâng lên cấp 140/6 sao trong chế độ này.\n（2）Mỗi tướng và thần thú chỉ được ra trận trong một đội hình.\n（3）Các đội hình được mở khóa theo thứ tự: Tiền Quân (đấu định vị, Đồng, Bạc), Trung Quân (Vàng, Bạch Kim, Kim Cương), Hậu Quân (Cao Thủ).\n（4）Trận đấu diễn ra theo thứ tự Tiền Quân → Trung Quân → Hậu Quân. Tướng còn sống sau chiến thắng sẽ giữ lượng máu, nhưng không giữ năng lượng. Thua trận khi tất cả tướng trong đội hình bị hạ.\n（5）Khi trận đấu kết thúc hoặc hết thời gian: bên có phần trăm máu còn lại cao hơn sẽ chiến thắng. Nếu phần trăm bằng nhau, bên tấn công sẽ được xác định thắng.\n（6）Tướng 1 sao, 2 sao, 3 sao và tướng có cấp độ dưới 30 sẽ không thể tham chiến.\nCơ Chế Chiến Đấu:\n（1）Người chơi có thể nhấn vào nút tìm trận để ghép đối thủ, mỗi trận tiêu hao 2 Lệnh Diễn Võ. Hệ thống sẽ lưu lại 10 trận gần nhất, bao gồm cả trận tấn công và phòng thủ.\n（2）Chiến thắng sẽ tăng sao, thất bại sẽ giảm sao. Ở Cao Thủ trở lên, thua phòng thủ sẽ bị trừ sao.\nCơ Chế Ghép Trận:\n（1）Đối thủ ẩn: Có 10% xác suất gặp đối thủ ẩn khi ghép trận. Thông tin đối thủ sẽ bị ẩn đi, và nếu thắng, người chơi được tăng thêm 1 sao.\nCấp Bậc Vương Giả Diễn Võ:\n（1）Định vị: Đầu mùa giải, người chơi phải hoàn thành 5 trận đấu định vị để xác định thứ hạng ban đầu.\n（2）Bậc xếp hạng: Gồm 7 bậc Đồng, Bạc, Vàng, Bạch Kim, Kim Cương, Cao Thủ, và Vương Giả Tối Cao.\n（3）Tăng Giảm Bậc: Khi đạt 1 hoặc 5 sao ở cấp hiện tại, sẽ kích hoạt trận thăng hạng. Đạt 2 thắng trong 3 trận hoặc 3 thắng trong 5 trận sẽ thăng cấp. Thất bại sẽ mất 3 sao, nhưng cấp bậc không đổi.Khi ở 5 sao hoặc 0 sao trong cấp hiện tại, không thể tụt xuống cấp bậc trước.\n（4）Bậc Cao Thủ trở lên: Không còn phân chia bậc, xếp hạng theo số lượng sao. Nếu sao bằng nhau, thứ hạng sẽ dựa vào thời gian đạt được. Liên server: Top 30 Cao Thủ sẽ thăng hạng Vương Giả Tối Cao. Chưa mở liên server: Top 10 sẽ thăng hạng Vương Giả Tối Cao.\nNhiệm Vụ:\n（1）Người chơi có thể hoàn thành nhiệm vụ hàng tuần để nhận phần thưởng.\n（2）Nhiệm vụ thiết lập lại vào thứ 6 hàng tuần.\nPhần Thưởng:\nKhi kết thúc mùa giải, phần thưởng xếp hạng sẽ được gửi qua thư. Người chơi không hoàn thành trận định vị sẽ không được nhận thưởng.\nTrước khi phát thưởng, hệ thống sẽ làm mới xếp hạng một lần cuối cùng và căn cứ vào kết quả cuối cùng để phát thưởng.\n\nXác Suất Lật Bài:\n     Tiền Đồng                             19.61%\n     Tiến Giai Thạch                    19.61%\n     Tọa Kỵ Đan               19.61%\n     EXP Võ Tướng                      19.61%\n     Nguyên Bảo                            9.80%\n     Diễn Võ Lệnh                          4.90%\n     Lệnh Chiêu Mộ                       4.90%\n     Lệnh Chiêu Mộ Cao Cấp        0.98%\n     Binh Phù                                 0.98%",
+    "NAME": "王者试炼"
+  },
+  "神兵降临": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thần Binh Xuất Hiện",
+    "TYPE": 1,
+    "CONTENT": "Trong thời gian diễn ra sự kiện, người chơi có thể sử dụng vật phẩm chỉ định để tiến hành chiêu mộ tướng giới hạn\nMỗi tướng chỉ có thể được chiêu mộ duy nhất 1 lần trong sự kiện.",
+    "NAME": "神兵降临"
+  },
+  "军团（祭祀）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quân Đoàn (Tế Tự)",
+    "TYPE": 1,
+    "CONTENT": "1. Tế Tự Quân Đoàn: Mỗi thành viên có thể tiến hành tế lễ một lần mỗi ngày để nhận phần thưởng gồm: Đóng góp cá nhân, EXP Quân Đoàn (kinh nghiệm tăng cấp cho quân đoàn).\n2. Giới Hạn EXP Quân Đoàn: EXP Quân Đoàn nhận được từ tế lễ của các thành viên có giới hạn hàng ngày, Khi EXP Quân Đoàn đã đạt giới hạn, các thành viên tiếp tục tế lễ sẽ không nhận được thêm EXP quân đoàn, nhưng vẫn nhận được phần thưởng đóng góp cá nhân.",
+    "NAME": "军团（祭祀）"
+  },
+  "竞技演武场": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thi Đấu Diễn Võ Trường",
+    "TYPE": 1,
+    "CONTENT": "1. Phát thưởng xếp hạng hàng ngày được gửi qua thư lúc 23 giờ.\n2. Mỗi ngày có 3 lần khiêu chiến miễn phí, sau khi hết lượt miễn phí, khiêu chiến sẽ tiêu hao Diễn Võ Lệnh (có thể mua bằng Nguyên Bảo).\n3. Thắng được cộng điểm, thua bị trừ điểm, xếp hạng dựa trên tổng số điểm. Nếu điểm bằng nhau, ai đạt trước sẽ được xếp cao hơn.\n4. 23 giờ thứ 5 hàng tuần sẽ tiến hành tổng kết mùa giải và phát thưởng qua thư.\n5. Huy chương xếp hạng có thể dùng để mua vật phẩm trong Cửa Hàng Diễn Võ.\n\nXác suất phần thưởng lật thẻ:\n     Tiền Đồng                             19.69%\n     Đá Tiến Giai                           19.69%\n     Tọa Kỵ Đan                            19.69%\n     EXP Tướng                             19.69%\n     Nguyên Bảo                             9.84%\n     Lệnh Diễn Võ                           4.92%\n     Lệnh Chiêu Mộ Thường           4.92%\n     Lệnh Chiêu Mộ Cao Cấp          0.79%\n     Binh Phù                                  0.79%",
+    "NAME": "竞技演武场"
+  },
+  "内政": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Nội Chính",
+    "TYPE": 1,
+    "CONTENT": "1. Thỏa mãn điều kiện nhiệm vụ nội chính sẽ nhận được phần thưởng phong phú; một tướng không thể thực hiện nhiều nhiệm vụ cùng lúc.\n2. Nhiệm vụ nội chính có thể khóa thủ công. Nhiệm vụ đã nhận sẽ tự động khóa và không thể mở khóa; tiêu hao Nguyên Bảo để làm mới toàn bộ nhiệm vụ chưa khóa.\n3. Nhiệm vụ nội chính sẽ được thiết lập lại hàng ngày. VIP càng cao, số lượng nhiệm vụ nhận được mỗi ngày càng tăng.\n4. Nhiệm vụ từ Nhiệm Vụ Quyển Trục là nhiệm vụ tạm thời, các nhiệm vụ chưa nhận sẽ bị xóa khi thiết lập lại.\n5. Tiêu hao Nguyên Bảo để tăng tốc hoàn thành nhiệm vụ đang thực hiện.",
+    "NAME": "内政"
+  },
+  "财鼠临门": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tài Thử Lâm Môn",
+    "TYPE": 1,
+    "CONTENT": "1. Gói quà VIP là ưu đãi độc quyền dành cho người chơi có cấp VIP tương ứng. Khi nâng cấp VIP cao hơn, người chơi sẽ nhận được nhiều ưu đãi hơn.\n2. Khi đạt VIP cấp độ yêu cầu, người chơi có thể mua gói quà tương ứng. Đặc biệt, khi đạt VIP cấp cao hơn, người chơi có thể mua được cả các gói quà của cấp VIP thấp hơn.\n3. Gói quà có giới hạn mua: Khi số lượt mua còn lại nhỏ hơn 1, người chơi sẽ không thể tiếp tục mua gói quà đó.",
+    "NAME": "财鼠临门"
+  },
+  "军团": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quân Đoàn",
+    "TYPE": 1,
+    "CONTENT": "1. Cấp tối đa của Quân Đoàn là 30, với giới hạn thành viên tối đa là 30 người.\nCác thành viên trong quân đoàn có thể hoàn thành các hoạt động hàng ngày như Tế Tự Quân Đoàn để nhận EXP Quân Đoàn. Khi cấp của quân đoàn tăng lên: Giới hạn thành viên sẽ được mở rộng, Mở khóa thêm các tính năng quân đoàn mới.\n3. Người chơi khi rời khỏi quân đoàn vì bất kỳ lý do gì sẽ phải chờ 12 giờ trước khi có thể gửi đơn xin gia nhập vào bất kỳ quân đoàn nào khác.\\n4. Nếu Quân Đoàn Trưởng không đăng nhập vào game trong 3 ngày liên tục trở lên, các thành viên khác trong quân đoàn có thể phát động bỏ phiếu bãi nhiệm. Nếu bỏ phiếu thành công, người phát động sẽ thay thế Quân Đoàn Trưởng và đảm nhận vị trí này.",
+    "NAME": "军团"
+  },
+  "一骑当千": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Nhất Kỵ Đương Thiên",
+    "TYPE": 1,
+    "CONTENT": "1. Thời Gian Mở Hoạt Động: \n Sự kiện Nhất Kỵ Đương Thiên mở vào 00:00 thứ Hai và thứ Sáu mỗi tuần.\n Thời gian hoạt động kéo dài 48 giờ, sau đó sự kiện sẽ đóng lại.\n2. Cơ Chế Chọn Tướng: \n Người chơi cần chọn tối thiểu 1 tướng và tối đa 5 tướng để ra trận.\n Sau khi xác nhận, không thể thay đổi đội hình tướng trong suốt thời gian sự kiện.\n Nếu không chọn tướng, hệ thống sẽ tự động chọn tướng ở vị trí đầu tiên bên trái.\n3. Cơ Chế Chiến Đấu: \n Sau mỗi trận chiến, hệ thống sẽ lưu lại lượng máu của tướng và kẻ địch. \n Tướng đã tử trận sẽ không thể tiếp tục ra trận.\n4. Bản Đồ và Lộ Trình: \n Sau khi chọn xong đội hình, người chơi có thể xem bản đồ và chọn thử thách tiếp theo.\n Một khi đã chọn thử thách, không thể hủy bỏ hoặc quay lại thử thách trước đó.\n Khi vượt qua một thử thách, có thể tiến đến thử thách tiếp theo trên tuyến đường.\n5. Địch Nhân:\n Địch nhân phân cấp Thường, Tinh Anh, Boss.\n Đánh bại đối thủ sẽ nhận được BUFF tăng cường. BUFF có thể chồng cộng dồn nếu thuộc tính giống nhau.\n6. Thương Nhân: \n Có 3 loại Thương Nhân: Sơ Cấp, Trung Cấp, Cao Cấp.\n Thương nhân cao cấp sẽ bán các vật phẩm quý hiếm hơn.\n7. Doanh Địa:\n Trong doanh địa, người chơi sẽ nhận được thuốc hồi phục 50% máu tối đa cho tướng đã chọn.\n Thuốc hồi phục sẽ bị xóa sau khi sự kiện kết thúc.\n8. Rương Báu: Khi mở rương báu, người chơi có thể nhận ngẫu nhiên các phần thưởng như: Tiền Đồng, Kim Cương, Đá Tiến Giai\n9. Khu Vực Bí Ẩn: \n Tham gia thử thách bí ẩn sẽ ngẫu nhiên kích hoạt một trong các thử thách khác.\n Ngoài ra, người chơi có cơ hội gặp Vòng Quay May Mắn để nhận các BUFF tăng cường mạnh mẽ.\n10.Quét Ải Tự Động: \n Khi sự kiện bắt đầu vòng mới, hệ thống sẽ tự động quét từ số ải cao nhất trừ đi 2.\n Người chơi sẽ bắt đầu thử thách từ ải cao nhất trừ 1. \n Ví dụ: Nếu người chơi từng vượt qua ải 8, hệ thống sẽ quét từ ải 6 và bắt đầu thử thách từ ải 7.",
+    "NAME": "一骑当千"
+  },
+  "点将积分": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tích Điểm Điểm Tướng",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, mỗi lần rút thăm tại Điểm Tướng Đài sẽ nhận 1 điểm, chiêu mộ 10 lần nhận 10 điểm.\n2. Đạt số điểm chỉ định sẽ nhận thưởng tương ứng. Phần thưởng sẽ gửi qua thư.\n3. Khi tổng điểm đạt giới hạn tối đa và vượt quá, hệ thống tự động chuyển sang vòng mới, điểm dư sẽ tích lũy vào vòng tiếp theo.\n4. Tối đa có thể hoàn thành 4 vòng.",
+    "NAME": "点将积分"
+  },
+  "神将试炼": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thí Luyện Thần Tướng",
+    "TYPE": 1,
+    "CONTENT": "1. Mở Khóa Thí Luyện: Sau khi tiêu diệt tất cả Boss trong Phụ Bản Quân Đoàn, tính năng Thí Luyện Thần Tướng sẽ được mở khóa.\n2. BOSS Thần Tướng: \n Thần Tướng Thí Luyện bao gồm 4 BOSS, thay đổi theo mùa.\n Quân đoàn đủ điều kiện có thể tham gia khiêu chiến các BOSS này.\n3. Thời Gian Hoạt Động:\n Tính năng mở vào 0 giờ ngày đầu tiên của mỗi mùa và kết thúc vào 24 giờ ngày thứ 6.\n Ngày cuối cùng (ngày thứ 7) sẽ không thể khiêu chiến.\n4. Phần Thưởng Tham Gia: \n Mỗi lần tham gia Thí Luyện Thần Tướng, thành viên quân đoàn sẽ nhận được phần thưởng Tiền Đồng, Cống Hiến Quân Đoàn.\n Có tỷ lệ nhận ngẫu nhiên trang bị võ tướng.\n5. Phần Thưởng Kết Toán: \n Phần thưởng sát Thương cao nhất, phần thưởng xếp hạng sát thương quân đoàn\n Phần thưởng sẽ được gửi qua thư trong game sau khi kết thúc sự kiện.\n6. Gia Nhập/Rời Đi: Thành viên gia nhập hoặc rời khỏi quân đoàn trong thời gian Thí Luyện Thần Tướng đang diễn ra sẽ không nhận được phần thưởng xếp hạng quân đoàn trong vòng hiện tại.",
+    "NAME": "神将试炼"
+  },
+  "酒馆": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tửu Quán",
+    "TYPE": 1,
+    "CONTENT": "1. Chiêu Mộ Thường:\nTiêu hao Lệnh Chiêu Mộ Thường để chiêu mộ, có thể nhận ngẫu nhiên tướng 1-5 sao. Tỷ lệ nhận tướng cao cấp khá thấp.\n2. Chiêu Mộ Tình Bạn:\nTiêu hao Điểm Tình Bạn để chiêu mộ, có thể nhận ngẫu nhiên tướng 2-5 sao. Tỷ lệ nhận tướng cao cấp ở mức trung bình.\n3. Chiêu Mộ Cao Cấp:\nTiêu hao Lệnh Chiêu Mộ Cao Cấp sẽ nhận ngẫu nhiên tướng 3-5 sao, với tỷ lệ nhận tướng cao cấp cao hơn.\n4. Điểm Thiên Vận:\nMỗi lần chiêu mộ sẽ tích lũy điểm Thiên Vận. Chiêu Mộ Thường: 1 điểm/lần；Chiêu Mộ Tình Bạn: 5 điểm/lần；Chiêu Mộ Cao Cấp: 20 điểm/lần. Khi tích lũy 1000 điểm Thiên Vận và đạt VIP 3, có thể tiến hành Chiêu Mộ Thần Tướng, đảm bảo nhận được tướng 5 sao ngẫu nhiên.\n\nChiêu Mộ Thường\n      Tướng 1 sao:      56%\n      Tướng 2 sao:      34%\n      Tướng 3 sao:      8.4%\n      Tướng 4 sao:      1.5%\n      Tướng 5 sao:      0.1%\n\nChiêu Mộ Tình Bạn\n      Tướng 2 sao:      33%\n      Tướng 3 sao:      54%\n      Tướng 4 sao:      12.2%\n      Tướng 5 sao:      0.8%\n\nChiêu Mộ Cao Cấp\n      Tướng 3 sao:      78%\n      Tướng 4 sao:      20%\n      Tướng 5 sao:      2%",
+    "NAME": "酒馆"
+  },
+  "神装合成": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Hợp Thành Thần Trang",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian diễn ra sự kiện, người chơi có thể tiêu hao vật phẩm chỉ định để rèn thần trang cấp cao.\n2. Khi số lượt rèn giới hạn đã giảm xuống dưới 1, người chơi sẽ không thể tiếp tục rèn.",
+    "NAME": "神装合成"
+  },
+  "军团（副本）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quân Đoàn (Phó Bản)",
+    "TYPE": 1,
+    "CONTENT": "1. Thành viên quân đoàn có thể tham gia phó bản quân đoàn để khiêu chiến BOSS.\n2. Mỗi lần khiêu chiến sẽ nhận được phần thưởng chiến đấu riêng. Khi BOSS bị hạ gục, phần thưởng tiêu diệt sẽ được phát dựa trên xếp hạng tổng sát thương mà thành viên gây ra cho BOSS.\n3. Khi BOSS hiện tại bị tiêu diệt, BOSS tiếp theo sẽ lập tức được kích hoạt. Những BOSS đã bị tiêu diệt không thể được khiêu chiến lại.\n4. Mỗi BOSS chỉ có thể nhận được phần thưởng tiêu diệt trong lần đầu tham gia hạ gục.",
+    "NAME": "军团（副本）"
+  },
+  "天公试炼": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thiên Công Thí Luyện",
+    "TYPE": 1,
+    "CONTENT": "1. Cơ Hội Thách Đấu: \nTrong thời gian diễn ra sự kiện, người chơi sẽ nhận được 1 lần thách đấu Thiên Công Tướng Quân mỗi ngày.\n2. Phần Thưởng Sát Thương: \nDựa vào lượng sát thương gây ra cho Thiên Công Tướng Quân, người chơi sẽ nhận được vật phẩm sự kiện Búa Sắt.\n3. Đổi Thưởng Bí Cảnh: \nBúa Sắt thu thập được có thể sử dụng trong  Bí Cảnh Bảo Các để đổi các phần thưởng giá trị.\n\n\n4. Quy Tắc Nhận Búa Sắt:\n      Sát thương 0-100000                            5 Búa Sắt\n    Sát thương 100001-500000                     6 Búa Sắt\n    Sát thương 500001-2000000                    7 Búa Sắt\n    Sát thương 2000001-10000000               8 Búa Sắt\n    Sát thương 10000001-50000000             10 Búa Sắt\n    Sát thương 50000001-100000000          12 Búa Sắt\n    Sát thương 100000001-200000000        14 Búa Sắt\n    Sát thương 200000001-300000000        16 Búa Sắt\n    Sát thương 300000001-500000000        18 Búa Sắt\n    Sát thương 500000001 trở lên                  20 Búa Sắt",
+    "NAME": "天公试炼"
+  },
+  "大战役（月度BOSS）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Đại Chiến Dịch (Boss)",
+    "TYPE": 1,
+    "CONTENT": "1. Mỗi lần khiêu chiến BOSS sẽ tiêu hao 1 Binh Phù. Nếu thất bại, máu của BOSS không được hồi phục, người chơi có thể tiếp tục chiến đấu cho đến khi BOSS bị hạ gục.\n2. Sau mỗi trận chiến, dù thắng hay thua, người chơi đều nhận được phần thưởng thử thách. Khi BOSS bị hạ gục, người chơi sẽ nhận được phần thưởng tiêu diệt đặc biệt, được gửi qua thư.\n3. BOSS hàng tháng bao gồm nhiều BOSS khác nhau, người chơi cần khiêu chiến theo thứ tự quy định. Nếu trong thời gian quy định không tiêu diệt hết tất cả BOSS, chúng sẽ được thiết lập vào thời gian làm mới. Nếu tất cả BOSS bị tiêu diệt trong thời gian quy định, chiến dịch sẽ tạm đóng và chờ làm mới để khởi động lại.",
+    "NAME": "大战役（月度BOSS）"
+  },
+  "招降": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Chiêu Hàng",
+    "TYPE": 1,
+    "CONTENT": "1. Bắt Giữ Tướng: Khi vượt qua các ải chỉ định, người chơi sẽ bắt giữ được các tướng tương ứng. Đối với tướng bị bắt giữ, người chơi có thể chọn trảm thủ hoặc chiêu hàng.\n2. Chiêu Hàng: Tiêu hao Đồng để tiến hành chiêu hàng tướng bị bắt giữ, Chỉ số Trung Thành của tướng càng thấp, tỷ lệ chiêu hàng thành công càng cao, Mỗi lần chiêu hàng thất bại sẽ làm giảm chỉ số Trung Thành của tướng, giúp tăng tỷ lệ thành công cho lần tiếp theo.\n3. Trảm Thủ: Khi trảm thủ tướng bị bắt giữ, người chơi sẽ nhận được các phần thưởng như: Nguyên Bảo, Uy Vọng, Mảnh tướng ngẫu nhiên, Sau khi bị trảm thủ, tướng bị bắt giữ sẽ biến mất vĩnh viễn.",
+    "NAME": "招降"
+  },
+  "试练塔": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tháp Thí Luyện",
+    "TYPE": 1,
+    "CONTENT": "1. Độ khó của Tháp Thử Luyện sẽ tăng dần theo từng tầng, đánh bại thủ vệ sẽ nhận được phần thưởng phong phú.\n2. Mỗi tầng chỉ có thể vượt qua một lần. Tuy nhiên, nếu đủ điều kiện tiêu hao, người chơi có thể thử lại các tầng chưa vượt qua mà không giới hạn.\n3. Vượt qua các tầng chỉ định sẽ nhận được phần thưởng, mỗi phần thưởng chỉ có thể nhận một lần.\n4. Xếp hạng Tháp Thử Luyện dựa trên số tầng người chơi vượt qua. Nếu bằng tầng, sẽ xếp theo thời gian hoàn thành.",
+    "NAME": "试练塔"
+  },
+  "幸运豪礼": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Gói Quà May Mắn",
+    "TYPE": 1,
+    "CONTENT": "1.Trong thời gian sự kiện, người chơi có cơ hội nhận được Rương May Mắn và Rương Cao Cấp thông qua:\n Thu thuế khi treo máy.\n Thư hàng ngày.\n Sự kiện trong chinh chiến. \n2. Khi mở rương, người chơi sẽ nhận ngẫu nhiên một phần thưởng bất kỳ.\n3. Người chơi có thể: \n Nhấn vào biểu tượng rương để xem chi tiết các phần thưởng có thể nhận được.\n Nhấn mở rương trực tiếp hoặc vào túi đồ để mở rương và nhận thưởng.\n4. Sau khi sự kiện kết thúc:\n Rương May Mắn và Rương Cao Cấp sẽ không còn xuất hiện.\n Tuy nhiên, chức năng mở rương trong túi đồ sẽ được giữ lại, cho phép người chơi tiếp tục mở các rương đã thu thập trước đó.",
+    "NAME": "幸运豪礼"
+  },
+  "巅峰之战竞猜": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Cuộc Chiến Đỉnh Phong (Dự Đoán)",
+    "TYPE": 1,
+    "CONTENT": "1. Cơ Chế Dự Đoán: \n Khi vòng 64 Đỉnh Phong Chiến bắt đầu, người chơi có thể chọn ủng hộ một tuyển thủ trong mỗi vòng đấu.\n Nếu tuyển thủ được chọn giành chiến thắng, dự đoán sẽ thành công. Ngược lại, dự đoán sẽ thất bại.\n Lưu ý: Không thể dự đoán trận chung kết.\n2. Đề Xuất Trận Đấu :\n Hệ thống sẽ tự động đề xuất các trận đấu để người chơi dự đoán.\n Các trận đấu có tuyển thủ cùng máy chủ sẽ được ưu tiên hiển thị.\n3.Phần Thưởng và Tiêu Hao:\n Tiêu hao Tiền Đồng để dự đoán, số lượng tiêu hao phụ thuộc vào cấp độ chủ công của người chơi. \n Khi dự đoán thành công, người chơi sẽ nhận được gấp 2 lần số Tiền Đồng đã tiêu hao.\n Phần thưởng sẽ được gửi qua thư trong game.",
+    "NAME": "巅峰之战竞猜"
+  },
+  "组队演武场": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tổ Đội Diễn Võ Trường",
+    "TYPE": 1,
+    "CONTENT": "1. Tổ Đội Diễn Võ mở vào 0 giờ thứ 6 và kết thúc vào 24 giờ Chủ Nhật hàng tuần.\n2. Người chơi phải lập tổ đội 3 thành viên để tham gia, do đội trưởng khởi xướng trận đấu. Có thể tự lập đội hoặc tham gia đội của người chơi khác.\n3. Trước khi thi đấu, đội viên có thể rời đội, đội trưởng có thể giải tán hoặc đuổi thành viên để tái tổ chức đội hình.\n4. Sau khi tham gia, đội sẽ bị khóa, không thể giải tán hoặc rời đội trong mùa giải.\n5. Đội trưởng có thể khiêu chiến đội khác, thành viên trong đội lần lượt thi đấu theo thứ tự sắp xếp. Trận đấu áp dụng thể thức thắng 2/3 trận.\n6. Trước trận đấu, đội trưởng có thể điều chỉnh thứ tự ra trận của đội hình.\n7. Mỗi trận tiêu hao 1 điểm thể lực. Mỗi 2 giờ hồi 1 điểm thể  lực, tối đa tích 10 điểm, không thể mua thêm thể lực.\n8. Sau trận đấu, tính điểm số để xếp hạng. Xếp hạng dựa vào tổng điểm, điểm bằng nhau tính ai đạt trước.\n9. Kết thúc mùa giải, thưởng xếp hạng được phát qua thư.",
+    "NAME": "组队演武场"
+  },
+  "称心如意": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Xưng Tâm Như Ý",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian diễn ra sự kiện, người chơi có thể chọn 3 tướng 5 sao yêu thích thuộc chức nghiệp chỉ định để ước nguyện. Cơ hội ước nguyện chỉ có 1 lần, sau khi xác nhận sẽ không thể thay đổi.\n2. Các tướng được chọn làm tướng ước nguyện sẽ có tỷ lệ xuất hiện cao hơn trong Tửu Quán Chiêu Mộ. Tỷ lệ các tướng khác không thay đổi. Người chơi có thể xem tiến độ chiêu mộ hiện tại trong giao diện chính của sự kiện.\n3. Khi người chơi chiêu mộ được một tướng 5 sao không thuộc danh sách tướng ước nguyện, sẽ nhận được 1 điểm Chúc Phúc.\n4. Cơ Chế Chúc Phúc: \n Chúc Phúc càng cao, tỷ lệ xuất hiện của tướng ước nguyện sẽ càng tăng.\n Chúc Phúc có thể tích lũy tối đa 50 điểm.\n5. Khi người chơi chiêu mộ được bất kỳ tướng ước nguyện nào, Chúc Phúc và tỷ lệ tăng thêm sẽ được reset về 0, bắt đầu vòng tính toán mới.\n6. Khi đã chiêu mộ được tướng ước nguyện bất kỳ, tướng đó sẽ không còn nhận được tỷ lệ ưu đãi trong các lượt chiêu mộ tiếp theo. Nếu tiếp tục chiêu mộ được tướng này, sẽ nhận thêm điểm Chúc Phúc.\n7. Khi người chơi đã chiêu mộ được tất cả tướng ước nguyện, Chúc Phúc sẽ không còn tăng thêm và không còn hiệu lực ưu đãi chiêu mộ.",
+    "NAME": "称心如意"
+  },
+  "铁匠铺": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tiệm Rèn",
+    "TYPE": 1,
+    "CONTENT": "1. Ghép trang bị yêu cầu tiêu hao số lượng trang bị cấp thấp chỉ định.\n2. Tiêu hao Đồng để tiến hành ghép trang bị.\n3. Trang bị đang mặc không thể tiến hành ghép, chỉ trang bị trong túi mới xuất hiện trong danh sách ghép.",
+    "NAME": "铁匠铺"
+  },
+  "神兽": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thần Thú",
+    "TYPE": 1,
+    "CONTENT": "1. Tại giao diện Chọn Thần Thú, người chơi có thể lựa chọn thần thú yêu thích. Tiêu hao Đồng và Thánh Linh Thạch để kích hoạt thần thú.\n2. Thần thú khi được kích hoạt sẽ sở hữu 1 kỹ năng chủ động và 1 kỹ năng hào quang.\n3. Tiêu hao Tiền Đồng và Thánh Linh Thạch để nâng cấp cấp độ thần thú. Cấp độ của kỹ năng chủ động sẽ tăng theo cấp độ của thần thú.\n4. Khi thần thú đạt cấp độ tối đa, người chơi có thể tiêu hao Đồng và Thánh Linh Thạch Tiến Giai để tiến giai thần thú. Sau khi tiến giai: Cấp độ tối đa của thần thú được nâng lên, Mở khóa kỹ năng hào quang mới.\n5. Tiêu hao Tiền Đồng và Ngũ Sắc Linh Thạch để nâng cấp kỹ năng hào quang của thần thú.\n6. Tại giao diện Bố Trận, người chơi có thể chọn thần thú ra trận. Khi ra trận: Kỹ năng hào quang sẽ tăng thuộc tính cho các tướng trong đội hình; Trong trận chiến, thần thú sẽ tự động thi triển kỹ năng chủ động khi tích lũy đủ năng lượng, tấn công đội hình địch. \n7. Tính năng Tái Sinh: Người chơi có thể đưa thần thú về trạng thái ban đầu và nhận lại toàn bộ Ngũ Sắc Linh Thạch, Thánh Linh Thạch và Tiền Đồng đã tiêu hao.",
+    "NAME": "神兽"
+  },
+  "高级观星": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quan Tinh Cao Cấp",
+    "TYPE": 1,
+    "CONTENT": "1. Tại Quan Tinh Đài Cao Cấp, người chơi có thể tiêu hao Thần Phù Cao Cấp để tiến hành quan tinh, nhận ngẫu nhiên mảnh tướng, mảnh bảo vật, Lệnh Điểm Tướng và các vật phẩm quý hiếm khác.\n2. Sau một khoảng thời gian nhất định, người chơi sẽ nhận được 1 lượt làm mới miễn phí cho vòng quay. Ngoài ra, có thể sử dụng Nguyên Bảo để làm mới vòng quay, giúp thiết lập lại phần thưởng hiện tại.\n3. Mỗi lần quan tinh sẽ nhận được 5 điểm Quan Tinh và 20 Ngôi Sao May Mắn. Điểm Quan Tinh: Khi đạt ngưỡng nhất định có thể nhận thưởng từ rương điểm tích lũy. Ngôi Sao May Mắn: Có thể dùng để đổi vật phẩm như mảnh tướng, trang bị tại Cửa Hàng Quan Tinh.\n\n4. Xác suất Quan Tinh Đài Cao Cấp:\n    Vàng: 35.5%\n    Lệnh Chiêu Mộ Cao Cấp: 15%\n    Lệnh Điểm Tướng: 10%\n    Mảnh Bảo Vật 4 Giai: 15%\n    Mảnh Bảo Vật 5 Giai: 5%\n    Thánh Linh Thạch: 8%\n    Tướng 4 Sao: 10%\n    Tướng 5 Sao: 1.5%",
+    "NAME": "高级观星"
+  },
+  "观星积分达标": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quan Tinh Đạt Mốc",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, người chơi tham gia Quan Tinh Thường sẽ nhận được điểm sự kiện. Quan Tinh Cao Cấp không tính điểm.\n2. Mỗi lần thực hiện Quan Tinh Thường sẽ nhận được 1 điểm. Thực hiện 10 lần Quan Tinh Thường sẽ nhận được 10 điểm.\n3. Hoàn thành các nhiệm vụ điều kiện được chỉ định sẽ nhận được phần thưởng hậu hĩnh, được gửi qua thư trong game.\n4. Khi tổng điểm đạt giới hạn cao nhất và điểm tiếp tục vượt mức (điểm dư thừa), sự kiện sẽ tự động thiết lập lại và chuyển sang vòng mới. Điểm dư thừa sẽ được cộng dồn vào vòng tiếp theo. Sự kiện có thể lặp lại tối đa 4 vòng.",
+    "NAME": "观星积分达标"
+  },
+  "军团（工坊）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quân Đoàn (Xưởng)",
+    "TYPE": 1,
+    "CONTENT": "1. Quyên Góp Tài Nguyên: Thành viên quân đoàn có thể quyên góp Đồng hoặc Nguyên Bảo để nâng cấp Công Xưởng Quân Đoàn. Mỗi ngày, mỗi thành viên có thể quyên góp tối đa 3 lần.\n2. Hạn Chế Người Mới: Người chơi vừa gia nhập quân đoàn trong ngày sẽ không thể quyên góp tại công xưởng.\n3. Nhiệm Vụ Công Xưởng: Sau khi nhận nhiệm vụ công xưởng, người chơi cần chờ 12 giờ để có thể nhận nhiệm vụ tiếp theo, Các nhiệm vụ chưa nhận có thể tiêu hao Nguyên Bảo để nâng cấp phẩm chất nhiệm vụ. Phẩm chất nhiệm vụ càng cao, phần thưởng càng phong phú.\n4. Làm Mới Nhiệm Vụ: Các nhiệm vụ chưa nhận sẽ bị xóa bỏ khi người chơi tiến hành nhận nhiệm vụ mới (nhiệm vụ đang thực hiện sẽ không bị ảnh hưởng).\n5. Xếp Hạng Quyên Góp: Bảng xếp hạng quyên góp được tính dựa trên tổng số Đồng quyên góp của các thành viên trong quân đoàn, Nếu số lượng quyên góp bằng nhau, thành viên đạt mốc trước sẽ được xếp hạng cao hơn.\n6. Xóa Dữ Liệu Khi Rời Quân Đoàn: Nếu thành viên rời khỏi quân đoàn, toàn bộ dữ liệu quyên góp của họ sẽ bị xóa bỏ.",
+    "NAME": "军团（工坊）"
+  },
+  "武将重置": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thu Hồi Võ Tướng",
+    "TYPE": 1,
+    "CONTENT": "1. Chức năng Thu Hồi sẽ đưa võ tướng trở về cấp độ 1 (cấp sao không đổi), đồng thời hoàn trả toàn bộ tài nguyên đã sử dụng nâng cấp và tăng sao võ tướng.\n2. Tọa Kỵ đã kích hoạt cho võ tướng sẽ không bị ảnh hưởng và sẽ được giữ nguyên. \n3. Trang bị đang mặc trên võ tướng sẽ được tự động chuyển về túi đồ của người chơi.\n4. Võ tướng đã xuất trận tại Vương Giả Diễn Võ sẽ không thể thực hiện Trọng Luyện.",
+    "NAME": "武将重置"
+  },
+  "幸运观星": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Quan Tinh May Mắn",
+    "TYPE": 1,
+    "CONTENT": "1. Trong thời gian sự kiện, Thần Tướng Thần Thoại sẽ được thêm vào Quan Tinh Đài Cao Cấp trong thời gian giới hạn.\n2. Người chơi có thể sử dụng tính năng làm mới Quan Tinh Đài Cao Cấp để xuất hiện Thần Tướng Thần Thoại.\n3. Tiêu hao Thần Phù Cao Cấp khi tiến hành Quan Tinh, người chơi sẽ có cơ hội nhận được Thần Tướng Thần Thoại.\n4. Mỗi lần sự kiện diễn ra, Thần Tướng xuất hiện sẽ khác nhau. Người chơi có thể nhấp vào biểu tượng 'Kính Lúp' trong giao diện sự kiện để xem danh sách Thần Tướng lần này.",
+    "NAME": "幸运观星"
+  },
+  "多队演武": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Đa Đội Diễn Võ",
+    "TYPE": 1,
+    "CONTENT": "1. Thời Gian Mở Cửa: Đa Đội Diễn Võ Trường diễn ra từ thứ Hai đến thứ Tư hàng tuần.\n2. Tăng Cường Võ Tướng:\n Các võ tướng có cấp độ hoặc phẩm chất dưới 140 cấp/6 sao sẽ được tự động nâng lên 140 cấp/6 sao trong tính năng này. \n Hiệu quả này chỉ áp dụng trong Đa Đội Diễn Võ Trường.\n3. Quy Định Đội Hình:\n Mỗi võ tướng chỉ có thể được xếp vào một đội hình duy nhất.\n Mỗi Thần Thú cũng chỉ có thể tham gia một đội hình duy nhất.\n Hiệu quả này chỉ áp dụng trong Đa Đội Diễn Võ Trường.\n4. Cơ Chế Chiến Đấu:\n Trận đấu sẽ diễn ra theo thứ tự Tiền Quân → Trung Quân dưới dạng đấu xoay vòng.\n Đội thắng trận sẽ giữ nguyên lượng máu còn lại nhưng không giữ năng lượng (nộ khí).\n Đội nào toàn bộ tướng bị hạ gục sẽ bị xử thua.\n5. Quy Tắc Thời Gian và Kết Thúc:\n Nếu thời gian trận đấu kết thúc đội có tỷ lệ máu còn lại cao hơn sẽ được tính là đội thắng, nếu tỷ lệ máu bằng nhau, đội tấn công trước sẽ được tính là thắng.\n Đội thua trận sẽ không thể tiếp tục tham gia vòng đấu sau.\n6. Hạn Chế Võ Tướng:\n Võ tướng 1 sao, 2 sao, 3 sao sẽ không thể ra trận.\n Võ tướng có cấp độ dưới 30 cũng không thể tham gia chiến đấu.\n7. Tính Điểm và Xếp Hạng:\n Thắng trận sẽ nhận được điểm tích lũy, thua trận sẽ bị trừ điểm.\n Tiến hành xếp hạng theo điểm tích lũy, nếu điểm bằng nhau, thứ hạng sẽ được xác định theo thời gian đạt được điểm đó.\n8. Phần Thưởng Mùa Giải: Khi mùa giải kết thúc, phần thưởng xếp hạng sẽ được gửi qua thư trong game.",
+    "NAME": "多队演武"
+  },
+  "天赋武魂": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Thiên Phú Võ Hồn",
+    "TYPE": 1,
+    "CONTENT": "1. Khi tướng đạt 10 sao, người chơi có thể trang bị bất kỳ thiên phú đã được mở khóa cho tướng đó.\n2. Võ Hồn và Ô Thiên Phú:\n Mỗi tướng có thể mở khóa tối đa 3 vị trí Võ Hồn.\n Mỗi vị trí Võ Hồn có thể trang bị 2 Thiên Phú.\n Khi 2 Thiên Phú được trang bị vào cùng một vị trí Võ Hồn, Võ Hồn tương ứng sẽ được kích hoạt.\n3. Giới Hạn Sao của Thiên Phú: Các Thiên Phú có yêu cầu điều kiện sao để mở khóa. Tướng cần đạt mốc sao chỉ định mới có thể mở khóa Thiên Phú tương ứng.\n4. Cơ Chế Thay Đổi Thiên Phú:\n Lần đầu tiên trang bị Thiên Phú cho tướng sẽ không tiêu hao tài nguyên.\n Những lần thay đổi Thiên Phú sau đó sẽ tiêu hao Kim Cương.\n Miễn phí thay đổi Thiên Phú cho lần đầu tiên mỗi ngày. Các lần thay đổi tiếp theo sẽ tính theo số lượt sử dụng của tính năng (tất cả tướng sẽ dùng chung số lượt này).",
+    "NAME": "天赋武魂"
+  },
+  "节日礼包": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Gói Quà Lễ Hội",
+    "TYPE": 1,
+    "CONTENT": "1. Gói mua giới hạn bằng KNB, phần thưởng sẽ gửi qua thư.\n2. Nếu số lượt mua còn lại nhỏ hơn 1 thì sẽ không thể tiếp tục mua.",
+    "NAME": "节日礼包"
+  },
+  "跨服争霸": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Tranh Bá Liên Server",
+    "TYPE": 1,
+    "CONTENT": "1. Sau khi máy chủ được mở quá 28 ngày, máy chủ đó mới đủ điều kiện tham gia Tranh Bá Liên Server.\n2. Vào 0 giờ ngày đầu tiên của mùa xuân mỗi năm, hệ thống sẽ tiến hành phân nhóm các máy chủ đủ điều kiện tham gia liên server, dựa trên cấp độ thế giới của cụm server (được tính dựa trên cấp độ trung bình của Top 100 người chơi tại Diễn Võ Trường). Số lượng máy chủ trong mỗi nhóm sẽ được điều chỉnh linh hoạt tùy theo tổng số máy chủ tham gia Tranh Bá Liên Server.\n3. Chu kỳ phân nhóm sẽ kéo dài từ ngày đầu tiên mùa xuân cho đến 24 giờ ngày cuối cùng của mùa đông trong cùng năm. Vào 0 giờ ngày đầu tiên mùa xuân của năm tiếp theo, hệ thống sẽ tiến hành phân nhóm lại từ đầu.\n4. Sau khi hoàn tất phân nhóm, người chơi sẽ tham gia các hoạt động liên server và gặp gỡ người chơi từ các máy chủ cùng nhóm.",
+    "NAME": "跨服争霸"
+  },
+  "封地（野外）": {
+    "TITLE": "Chi tiết",
+    "NAME_VN": "Đất Phong (Dã Ngoại)",
+    "TYPE": 1,
+    "CONTENT": "1. Mở Khóa Sơn Tặc Doanh Trại: Cấp độ Phủ Đệ càng cao, số lượng Sơn Tặc Doanh Trại được mở khóa càng nhiều.\n2. Sơn Tặc và Rương Báu: \n Sơn Tặc Doanh Trại sẽ ngẫu nhiên xuất hiện Sơn Tặc hoặc Rương Báu.\n Đánh bại Sơn Tặc để nhận thưởng.\n Mở Rương Báu để nhận các phần thưởng ngẫu nhiên.\n3. Tiêu Hao Lương Thảo:\n Mỗi trận chiến tiêu hao 1 Lương Thảo.\n Nếu thất bại, máu của kẻ địch sẽ được giữ nguyên. Người chơi có thể tiếp tục chiến đấu cho đến khi chiến thắng.\n4. Tự Động Hồi Phục Lương Thảo:\n 1 Lương Thảo sẽ được tự động hồi phục sau 2 giờ.\n Khi Lương Thảo đạt giới hạn tối đa, sẽ không tự động hồi phục thêm.\n5. Mua Lương Thảo: \n Người chơi có thể mua tối đa 30 Lương Thảo mỗi ngày.\n Số lần mua Lương Thảo sẽ được thiết lập lại vào 0 giờ hàng ngày.\n6. Long Lĩnh Bí Động (BOSS Cố Định):\n Long Lĩnh Bí Động là điểm BOSS cố định.\n Mỗi lần chiến đấu với BOSS, người chơi sẽ nhận được phần thưởng ngẫu nhiên.\n Hạ gục BOSS sẽ nhận được phần thưởng phong phú.\n7. Thời Gian Làm Mới:\n Trong thời gian làm mới, nếu người chơi đánh bại kẻ địch hoặc mở rương tại Sơn Tặc \n Doanh Trại và Long Lĩnh Bí Động, sẽ nhận được phần thưởng.\n Khi thời gian làm mới kết thúc, Sơn Tặc Doanh Trại và Long Lĩnh Bí Động sẽ được làm mới lại.\n\nTính Năng Tuần Tra (VIP 3 trở lên):\n8. Người chơi đạt VIP 3 hoặc cao hơn có thể sử dụng tính năng \"Tuần Tra\" để làm mới tất cả Sơn Tặc Doanh Trại ngay lập tức.\n9. Mời Bạn Trợ Giúp: \n Người chơi có thể mời bạn bè giúp đỡ khi chiến đấu với BOSS trong Long Lĩnh Bí Động.\n Mỗi ngày chỉ có thể mời bạn trợ chiến tối đa 2 lần.\n10. Độ Khó Tăng Dần: Độ khó của kẻ địch tại Sơn Tặc Doanh Trại và Long Lĩnh Bí Động sẽ tăng theo cấp độ Phủ Đệ.",
+    "NAME": "封地（野外）"
+  }
+}

@@ -1,0 +1,2732 @@
+[
+    {
+        "chapter": 1,
+		"name": "潘璋",
+        "name_vn": "Phan Chương",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 5000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 15
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 14301,
+                "level": 35,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 2000000,
+                "exatk": 1
+            },
+            "10": {
+                "gsid": 14321,
+                "level": 35,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 1000000,
+                "exatk": 1
+            },
+            "12": {
+                "gsid": 14321,
+                "level": 35,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 1000000,
+                "exatk": 1
+            }
+        },
+        "maxhp": 4000000
+    },
+    {
+        "chapter": 2,
+		"name": "袁绍",
+        "name_vn": "Viên Thiệu",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 6000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 15
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 16241,
+                "level": 40,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 2500000,
+                "exatk": 2
+            },
+            "4": {
+                "gsid": 16241,
+                "level": 40,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 2500000,
+                "exatk": 2
+            },
+            "19": {
+                "gsid": 16281,
+                "level": 40,
+                "hpcover": 1,
+                "class": 1,
+                "exhp": 3000000,
+                "exatk": 2
+            }
+        },
+        "maxhp": 8000000
+    },
+    {
+        "chapter": 3,
+		"name": "典韦",
+        "name_vn": "Điển Vi",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 7000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 16
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 10201,
+                "level": 45,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 5000000,
+                "exatk": 2.5
+            },
+            "18": {
+                "gsid": 10241,
+                "level": 45,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 3500000,
+                "exatk": 2.5
+            },
+            "20": {
+                "gsid": 10241,
+                "level": 45,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 3500000,
+                "exatk": 2.5
+            }
+        },
+        "maxhp": 12000000
+    },
+    {
+        "chapter": 4,
+		"name": "黄月英",
+        "name_vn": "Hoàng Nguyệt Anh",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 8000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 16
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 12181,
+                "level": 50,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 5000000,
+                "exatk": 3
+            },
+            "4": {
+                "gsid": 12181,
+                "level": 50,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 5000000,
+                "exatk": 3
+            },
+            "19": {
+                "gsid": 12241,
+                "level": 50,
+                "hpcover": 1,
+                "class": 2,
+                "exhp": 6000000,
+                "exatk": 3
+            }
+        },
+        "maxhp": 16000000
+    },
+    {
+        "chapter": 5,
+		"name": "诸葛恪",
+        "name_vn": "Gia Cát Khác",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 9000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 17
+            }
+        ],
+        "bset": {
+            "1": {
+                "gsid": 14221,
+                "level": 55,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 6000000,
+                "exatk": 3.5
+            },
+            "30": {
+                "gsid": 14241,
+                "level": 55,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 7000000,
+                "exatk": 3.5
+            },
+            "31": {
+                "gsid": 14241,
+                "level": 55,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 7000000,
+                "exatk": 3.5
+            }
+        },
+        "maxhp": 20000000
+    },
+    {
+        "chapter": 6,
+		"name": "魏延",
+        "name_vn": "Ngụy Duyên",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 10000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 17
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 12182,
+                "level": 60,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 14000000,
+                "exatk": 3
+            },
+            "24": {
+                "gsid": 12202,
+                "level": 60,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 13000000,
+                "exatk": 3
+            },
+            "25": {
+                "gsid": 12202,
+                "level": 60,
+                "hpcover": 1,
+                "class": 3,
+                "exhp": 13000000,
+                "exatk": 3
+            }
+        },
+        "maxhp": 40000000
+    },
+    {
+        "chapter": 7,
+		"name": "甄姬",
+        "name_vn": "Chân Cơ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 11000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 18
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 10302,
+                "level": 65,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 22000000,
+                "exatk": 3.5
+            },
+            "18": {
+                "gsid": 10302,
+                "level": 65,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 22000000,
+                "exatk": 3.5
+            },
+            "20": {
+                "gsid": 10282,
+                "level": 65,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 16000000,
+                "exatk": 3.5
+            }
+        },
+        "maxhp": 60000000
+    },
+    {
+        "chapter": 8,
+		"name": "刘表",
+        "name_vn": "Lưu Biểu",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 12000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 18
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 16222,
+                "level": 70,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 25000000,
+                "exatk": 4
+            },
+            "18": {
+                "gsid": 16302,
+                "level": 70,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 27500000,
+                "exatk": 4
+            },
+            "20": {
+                "gsid": 16302,
+                "level": 70,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 27500000,
+                "exatk": 4
+            }
+        },
+        "maxhp": 80000000
+    },
+    {
+        "chapter": 9,
+		"name": "黄盖",
+        "name_vn": "Hoàng Cái",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 13000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 19
+            }
+        ],
+        "bset": {
+            "0": {
+                "gsid": 14202,
+                "level": 75,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 35000000,
+                "exatk": 4.5
+            },
+            "2": {
+                "gsid": 14202,
+                "level": 75,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 35000000,
+                "exatk": 4.5
+            },
+            "9": {
+                "gsid": 14262,
+                "level": 75,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 30000000,
+                "exatk": 4.5
+            }
+        },
+        "maxhp": 100000000
+    },
+    {
+        "chapter": 10,
+		"name": "庞德",
+        "name_vn": "Bàng Đức",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 14000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 19
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 10222,
+                "level": 80,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 45000000,
+                "exatk": 5
+            },
+            "4": {
+                "gsid": 10222,
+                "level": 80,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 45000000,
+                "exatk": 5
+            },
+            "19": {
+                "gsid": 10262,
+                "level": 80,
+                "hpcover": 1,
+                "class": 4,
+                "exhp": 30000000,
+                "exatk": 5
+            }
+        },
+        "maxhp": 120000000
+    },
+    {
+        "chapter": 11,
+		"name": "姜维",
+        "name_vn": "Khương Duy",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 15000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 20
+            }
+        ],
+        "bset": {
+            "0": {
+                "gsid": 12262,
+                "level": 85,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 5.5
+            },
+            "8": {
+                "gsid": 12222,
+                "level": 85,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 40000000,
+                "exatk": 5.5
+            },
+            "9": {
+                "gsid": 12222,
+                "level": 85,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 40000000,
+                "exatk": 5.5
+            }
+        },
+        "maxhp": 140000000
+    },
+    {
+        "chapter": 12,
+		"name": "小乔",
+        "name_vn": "Tiểu Kiều",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 16000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 20
+            }
+        ],
+        "bset": {
+            "22": {
+                "gsid": 14262,
+                "level": 90,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 6
+            },
+            "23": {
+                "gsid": 14262,
+                "level": 90,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 6
+            },
+            "27": {
+                "gsid": 14242,
+                "level": 90,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 40000000,
+                "exatk": 6
+            }
+        },
+        "maxhp": 160000000
+    },
+    {
+        "chapter": 13,
+		"name": "刘表",
+        "name_vn": "Lưu Biểu",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 17000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 21
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 16302,
+                "level": 95,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 6.5
+            },
+            "26": {
+                "gsid": 16262,
+                "level": 95,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 6.5
+            },
+            "27": {
+                "gsid": 16262,
+                "level": 95,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 6.5
+            }
+        },
+        "maxhp": 180000000
+    },
+    {
+        "chapter": 14,
+		"name": "孟获",
+        "name_vn": "Mạnh Hoạch",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 18000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 21
+            }
+        ],
+        "bset": {
+            "10": {
+                "gsid": 16021,
+                "level": 100,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 70000000,
+                "exatk": 7
+            },
+            "11": {
+                "gsid": 16021,
+                "level": 100,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 70000000,
+                "exatk": 7
+            },
+            "31": {
+                "gsid": 16081,
+                "level": 100,
+                "hpcover": 1,
+                "class": 5,
+                "exhp": 60000000,
+                "exatk": 7
+            }
+        },
+        "maxhp": 200000000
+    },
+    {
+        "chapter": 15,
+		"name": "马超",
+        "name_vn": "Mã Siêu",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 19000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 22
+            }
+        ],
+        "bset": {
+            "24": {
+                "gsid": 12021,
+                "level": 105,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 90000000,
+                "exatk": 7.5
+            },
+            "30": {
+                "gsid": 12081,
+                "level": 105,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 80000000,
+                "exatk": 7.5
+            },
+            "31": {
+                "gsid": 12081,
+                "level": 105,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 80000000,
+                "exatk": 7.5
+            }
+        },
+        "maxhp": 250000000
+    },
+    {
+        "chapter": 16,
+		"name": "太史慈",
+        "name_vn": "Thái Sử Từ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 20000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 22
+            }
+        ],
+        "bset": {
+            "10": {
+                "gsid": 14061,
+                "level": 110,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 8
+            },
+            "12": {
+                "gsid": 14061,
+                "level": 110,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 8
+            },
+            "27": {
+                "gsid": 14021,
+                "level": 110,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 100000000,
+                "exatk": 8
+            }
+        },
+        "maxhp": 300000000
+    },
+    {
+        "chapter": 17,
+		"name": "郭嘉",
+        "name_vn": "Quách Gia",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 21000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 23
+            }
+        ],
+        "bset": {
+            "9": {
+                "gsid": 10141,
+                "level": 115,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 130000000,
+                "exatk": 8.5
+            },
+            "18": {
+                "gsid": 10121,
+                "level": 115,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 110000000,
+                "exatk": 8.5
+            },
+            "20": {
+                "gsid": 10121,
+                "level": 115,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 110000000,
+                "exatk": 8.5
+            }
+        },
+        "maxhp": 350000000
+    },
+    {
+        "chapter": 18,
+		"name": "甘宁",
+        "name_vn": "Cam Ninh",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 22000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 23
+            }
+        ],
+        "bset": {
+            "16": {
+                "gsid": 14021,
+                "level": 120,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 140000000,
+                "exatk": 9
+            },
+            "24": {
+                "gsid": 14021,
+                "level": 120,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 140000000,
+                "exatk": 9
+            },
+            "25": {
+                "gsid": 14041,
+                "level": 120,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 120000000,
+                "exatk": 9
+            }
+        },
+        "maxhp": 400000000
+    },
+    {
+        "chapter": 19,
+		"name": "荀彧",
+        "name_vn": "Tuân Úc",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 23000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 24
+            }
+        ],
+        "bset": {
+            "10": {
+                "gsid": 10181,
+                "level": 125,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 150000000,
+                "exatk": 9.5
+            },
+            "11": {
+                "gsid": 10161,
+                "level": 125,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 150000000,
+                "exatk": 9.5
+            },
+            "12": {
+                "gsid": 10181,
+                "level": 125,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 150000000,
+                "exatk": 9.5
+            }
+        },
+        "maxhp": 450000000
+    },
+    {
+        "chapter": 20,
+		"name": "关羽",
+        "name_vn": "Quan Vũ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 24000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 24
+            }
+        ],
+        "bset": {
+            "4": {
+                "gsid": 12041,
+                "level": 130,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 170000000,
+                "exatk": 10
+            },
+            "5": {
+                "gsid": 12021,
+                "level": 130,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 160000000,
+                "exatk": 10
+            },
+            "6": {
+                "gsid": 12041,
+                "level": 130,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 170000000,
+                "exatk": 10
+            }
+        },
+        "maxhp": 500000000
+    },
+    {
+        "chapter": 21,
+		"name": "蔡文姬",
+        "name_vn": "Thái Vân Cơ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 25000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 25
+            }
+        ],
+        "bset": {
+            "8": {
+                "gsid": 16122,
+                "level": 135,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 180000000,
+                "exatk": 7
+            },
+            "9": {
+                "gsid": 16122,
+                "level": 135,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 180000000,
+                "exatk": 7
+            },
+            "10": {
+                "gsid": 16102,
+                "level": 135,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 190000000,
+                "exatk": 7
+            }
+        },
+        "maxhp": 550000000
+    },
+    {
+        "chapter": 22,
+		"name": "马岱",
+        "name_vn": "Mã Đại",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 26000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 25
+            }
+        ],
+        "bset": {
+            "17": {
+                "gsid": 12122,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 200000000,
+                "exatk": 7.5
+            },
+            "19": {
+                "gsid": 12102,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 200000000,
+                "exatk": 7.5
+            },
+            "21": {
+                "gsid": 12122,
+                "level": 140,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 200000000,
+                "exatk": 7.5
+            }
+        },
+        "maxhp": 600000000
+    },
+    {
+        "chapter": 23,
+		"name": "周瑜",
+        "name_vn": "Chu Du",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 27000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 26
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 14182,
+                "level": 145,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 210000000,
+                "exatk": 8
+            },
+            "18": {
+                "gsid": 14102,
+                "level": 145,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 220000000,
+                "exatk": 8
+            },
+            "21": {
+                "gsid": 14102,
+                "level": 145,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 220000000,
+                "exatk": 8
+            }
+        },
+        "maxhp": 650000000
+    },
+    {
+        "chapter": 24,
+		"name": "夏侯惇",
+        "name_vn": "Hạ Hầu Đôn",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 28000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 26
+            }
+        ],
+        "bset": {
+            "16": {
+                "gsid": 10062,
+                "level": 150,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 240000000,
+                "exatk": 8.5
+            },
+            "17": {
+                "gsid": 10062,
+                "level": 150,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 240000000,
+                "exatk": 8.5
+            },
+            "19": {
+                "gsid": 10102,
+                "level": 150,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 220000000,
+                "exatk": 8.5
+            }
+        },
+        "maxhp": 700000000
+    },
+    {
+        "chapter": 25,
+		"name": "吕布",
+        "name_vn": "Lữ Bố",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 29000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 27
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 16002,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 265000000,
+                "exatk": 9
+            },
+            "4": {
+                "gsid": 16002,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 265000000,
+                "exatk": 9
+            },
+            "19": {
+                "gsid": 16182,
+                "level": 160,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 220000000,
+                "exatk": 9
+            }
+        },
+        "maxhp": 750000000
+    },
+    {
+        "chapter": 26,
+		"name": "陆逊",
+        "name_vn": "Lục Tốn",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 30000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 27
+            }
+        ],
+        "bset": {
+            "9": {
+                "gsid": 14122,
+                "level": 170,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 270000000,
+                "exatk": 9.5
+            },
+            "11": {
+                "gsid": 14142,
+                "level": 170,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 260000000,
+                "exatk": 9.5
+            },
+            "13": {
+                "gsid": 14122,
+                "level": 170,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 270000000,
+                "exatk": 9.5
+            }
+        },
+        "maxhp": 800000000
+    },
+    {
+        "chapter": 27,
+		"name": "庞统",
+        "name_vn": "Bàng Thống",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 31000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 28
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 12142,
+                "level": 180,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 280000000,
+                "exatk": 10
+            },
+            "18": {
+                "gsid": 12162,
+                "level": 180,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 285000000,
+                "exatk": 10
+            },
+            "20": {
+                "gsid": 12162,
+                "level": 180,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 285000000,
+                "exatk": 10
+            }
+        },
+        "maxhp": 850000000
+    },
+    {
+        "chapter": 28,
+		"name": "许褚",
+        "name_vn": "Hứa Chử",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 32000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 28
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 10022,
+                "level": 190,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 300000000,
+                "exatk": 10.5
+            },
+            "3": {
+                "gsid": 10022,
+                "level": 190,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 300000000,
+                "exatk": 10.5
+            },
+            "27": {
+                "gsid": 10042,
+                "level": 190,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 300000000,
+                "exatk": 10.5
+            }
+        },
+        "maxhp": 900000000
+    },
+    {
+        "chapter": 29,
+		"name": "华雄",
+        "name_vn": "Hoa Hùng",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 33000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 29
+            }
+        ],
+        "bset": {
+            "16": {
+                "gsid": 16022,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 310000000,
+                "exatk": 11
+            },
+            "24": {
+                "gsid": 16062,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 320000000,
+                "exatk": 11
+            },
+            "25": {
+                "gsid": 16062,
+                "level": 200,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 320000000,
+                "exatk": 11
+            }
+        },
+        "maxhp": 950000000
+    },
+    {
+        "chapter": 30,
+		"name": "诸葛亮",
+        "name_vn": "Gia Cát Lượng",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 34000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 29
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 12022,
+                "level": 210,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 300000000,
+                "exatk": 11.5
+            },
+            "10": {
+                "gsid": 12142,
+                "level": 210,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 11.5
+            },
+            "12": {
+                "gsid": 12142,
+                "level": 210,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 11.5
+            }
+        },
+        "maxhp": 1000000000
+    },
+    {
+        "chapter": 31,
+		"name": "孙尚香",
+        "name_vn": "Tôn Thượng Hương",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 35000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 30
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 14223,
+                "level": 220,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 12
+            },
+            "18": {
+                "gsid": 14082,
+                "level": 220,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 12
+            },
+            "20": {
+                "gsid": 14082,
+                "level": 220,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 12
+            }
+        },
+        "maxhp": 1050000000
+    },
+    {
+        "chapter": 32,
+		"name": "曹操",
+        "name_vn": "Tào Tháo",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 36000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 30
+            }
+        ],
+        "bset": {
+            "19": {
+                "gsid": 10182,
+                "level": 230,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 300000000,
+                "exatk": 12.3
+            },
+            "30": {
+                "gsid": 10082,
+                "level": 230,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.3
+            },
+            "31": {
+                "gsid": 10082,
+                "level": 230,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.3
+            }
+        },
+        "maxhp": 1100000000
+    },
+    {
+        "chapter": 33,
+		"name": "张角",
+        "name_vn": "Trương Giác",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 37000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 31
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 16102,
+                "level": 240,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 350000000,
+                "exatk": 12.6
+            },
+            "18": {
+                "gsid": 16162,
+                "level": 240,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.6
+            },
+            "20": {
+                "gsid": 16162,
+                "level": 240,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.6
+            }
+        },
+        "maxhp": 1150000000
+    },
+    {
+        "chapter": 34,
+		"name": "夏侯渊",
+        "name_vn": "Hạ Hầu Uyên",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 38000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 31
+            }
+        ],
+        "bset": {
+            "9": {
+                "gsid": 10022,
+                "level": 250,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.9
+            },
+            "16": {
+                "gsid": 10102,
+                "level": 250,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.9
+            },
+            "17": {
+                "gsid": 10102,
+                "level": 250,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 12.9
+            }
+        },
+        "maxhp": 1200000000
+    },
+    {
+        "chapter": 35,
+		"name": "赵云",
+        "name_vn": "Triệu Vân",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 39000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 32
+            }
+        ],
+        "bset": {
+            "21": {
+                "gsid": 12022,
+                "level": 260,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.2
+            },
+            "30": {
+                "gsid": 12062,
+                "level": 260,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 13.2
+            },
+            "31": {
+                "gsid": 12062,
+                "level": 260,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 13.2
+            }
+        },
+        "maxhp": 1250000000
+    },
+    {
+        "chapter": 36,
+		"name": "鲁肃",
+        "name_vn": "Lỗ Túc",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 40000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 32
+            }
+        ],
+        "bset": {
+            "18": {
+                "gsid": 14142,
+                "level": 270,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.5
+            },
+            "19": {
+                "gsid": 14142,
+                "level": 270,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.5
+            },
+            "27": {
+                "gsid": 14042,
+                "level": 270,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 400000000,
+                "exatk": 13.5
+            }
+        },
+        "maxhp": 1300000000
+    },
+    {
+        "chapter": 37,
+		"name": "貂蝉",
+        "name_vn": "Điêu Thuyền",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 41000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 33
+            }
+        ],
+        "bset": {
+            "1": {
+                "gsid": 16002,
+                "level": 280,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.8
+            },
+            "8": {
+                "gsid": 16182,
+                "level": 280,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.8
+            },
+            "10": {
+                "gsid": 16182,
+                "level": 280,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 13.8
+            }
+        },
+        "maxhp": 1350000000
+    },
+    {
+        "chapter": 38,
+		"name": "贾诩",
+        "name_vn": "Giả Hủ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 42000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 33
+            }
+        ],
+        "bset": {
+            "21": {
+                "gsid": 10162,
+                "level": 290,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 475000000,
+                "exatk": 14.1
+            },
+            "23": {
+                "gsid": 10162,
+                "level": 290,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 475000000,
+                "exatk": 14.1
+            },
+            "31": {
+                "gsid": 10082,
+                "level": 290,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 14.1
+            }
+        },
+        "maxhp": 1400000000
+    },
+    {
+        "chapter": 39,
+		"name": "于吉",
+        "name_vn": "Vu Cát",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 43000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 34
+            }
+        ],
+        "bset": {
+            "5": {
+                "gsid": 16022,
+                "level": 300,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 450000000,
+                "exatk": 14.4
+            },
+            "13": {
+                "gsid": 16102,
+                "level": 300,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 14.4
+            },
+            "15": {
+                "gsid": 16102,
+                "level": 300,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 14.4
+            }
+        },
+        "maxhp": 1450000000
+    },
+    {
+        "chapter": 40,
+		"name": "陆逊",
+        "name_vn": "Lục Tốn",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 44000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 34
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 14182,
+                "level": 310,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 14.7
+            },
+            "10": {
+                "gsid": 14122,
+                "level": 310,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 14.7
+            },
+            "12": {
+                "gsid": 14122,
+                "level": 310,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 14.7
+            }
+        },
+        "maxhp": 1500000000
+    },
+    {
+        "chapter": 41,
+		"name": "汉献帝",
+        "name_vn": "Hán Hiến Đế",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 45000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 35
+            }
+        ],
+        "bset": {
+            "19": {
+                "gsid": 17062,
+                "level": 320,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 550000000,
+                "exatk": 21.4
+            },
+            "20": {
+                "gsid": 17062,
+                "level": 320,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 550000000,
+                "exatk": 21.4
+            },
+            "21": {
+                "gsid": 10042,
+                "level": 320,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 500000000,
+                "exatk": 15
+            }
+        },
+        "maxhp": 1600000000
+    },
+    {
+        "chapter": 42,
+		"name": "明智光秀",
+        "name_vn": "Akechi Mitsuhide" ,
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 46000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 35
+            }
+        ],
+        "bset": {
+            "4": {
+                "gsid": 12042,
+                "level": 330,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 550000000,
+                "exatk": 15.3
+            },
+            "11": {
+                "gsid": 18062,
+                "level": 330,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 600000000,
+                "exatk": 21.82
+            },
+            "13": {
+                "gsid": 18062,
+                "level": 330,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 600000000,
+                "exatk": 21.82
+            }
+        },
+        "maxhp": 1750000000
+    },
+    {
+        "chapter": 43,
+		"name": "本多忠胜",
+        "name_vn": "Honda Tadakatsu",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 47000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 36
+            }
+        ],
+        "bset": {
+            "2": {
+                "gsid": 18083,
+                "level": 340,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 650000000,
+                "exatk": 15.6
+            },
+            "9": {
+                "gsid": 16002,
+                "level": 340,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 650000000,
+                "exatk": 15.6
+            },
+            "16": {
+                "gsid": 16002,
+                "level": 340,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 600000000,
+                "exatk": 15.6
+            }
+        },
+        "maxhp": 1900000000
+    },
+    {
+        "chapter": 44,
+		"name": "司马炎",
+        "name_vn": "Tư Mã Viêm",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 48000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 36
+            }
+        ],
+        "bset": {
+            "24": {
+                "gsid": 17083,
+                "level": 350,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 700000000,
+                "exatk": 16
+            },
+            "27": {
+                "gsid": 17083,
+                "level": 350,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 700000000,
+                "exatk": 16
+            },
+            "31": {
+                "gsid": 14082,
+                "level": 350,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 650000000,
+                "exatk": 16
+            }
+        },
+        "maxhp": 2050000000
+    },
+    {
+        "chapter": 45,
+		"name": "项羽",
+        "name_vn": "Hạng Vũ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 49000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 37
+            }
+        ],
+        "bset": {
+            "4": {
+                "gsid": 17026,
+                "level": 360,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 750000000,
+                "exatk": 8
+            },
+            "12": {
+                "gsid": 17026,
+                "level": 360,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 750000000,
+                "exatk": 8
+            },
+            "20": {
+                "gsid": 16006,
+                "level": 360,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 700000000,
+                "exatk": 8
+            }
+        },
+        "maxhp": 2200000000
+    },
+    {
+        "chapter": 46,
+		"name": "服部半藏",
+        "name_vn": "Hattori Hanzo",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 50000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 37
+            }
+        ],
+        "bset": {
+            "0": {
+                "gsid": 18046,
+                "level": 370,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 800000000,
+                "exatk": 8.4
+            },
+            "20": {
+                "gsid": 18046,
+                "level": 370,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 800000000,
+                "exatk": 8.4
+            },
+            "31": {
+                "gsid": 10086,
+                "level": 370,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 750000000,
+                "exatk": 8.4
+            }
+        },
+        "maxhp": 2350000000
+    },
+    {
+        "chapter": 47,
+		"name": "上杉谦信",
+        "name_vn": "Uesugi Kenshin",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 51000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 38
+            }
+        ],
+        "bset": {
+            "11": {
+                "gsid": 18026,
+                "level": 380,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 850000000,
+                "exatk": 8.8
+            },
+            "13": {
+                "gsid": 18026,
+                "level": 380,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 850000000,
+                "exatk": 8.8
+            },
+            "20": {
+                "gsid": 12146,
+                "level": 380,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 800000000,
+                "exatk": 8.8
+            }
+        },
+        "maxhp": 2500000000
+    },
+    {
+        "chapter": 48,
+		"name": "刘邦",
+        "name_vn": "Lưu Bang",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 52000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 38
+            }
+        ],
+        "bset": {
+            "8": {
+                "gsid": 17006,
+                "level": 390,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 900000000,
+                "exatk": 9.2
+            },
+            "24": {
+                "gsid": 16166,
+                "level": 390,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 850000000,
+                "exatk": 9.2
+            },
+            "26": {
+                "gsid": 17006,
+                "level": 390,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 900000000,
+                "exatk": 9.2
+            }
+        },
+        "maxhp": 2650000000
+    },
+    {
+        "chapter": 49,
+		"name": "织田信长",
+        "name_vn": "Oda Nobunaga",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 53000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 39
+            }
+        ],
+        "bset": {
+            "24": {
+                "gsid": 18006,
+                "level": 400,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 950000000,
+                "exatk": 9.6
+            },
+            "27": {
+                "gsid": 14186,
+                "level": 400,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 900000000,
+                "exatk": 9.6
+            },
+            "31": {
+                "gsid": 18006,
+                "level": 400,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 950000000,
+                "exatk": 9.6
+            }
+        },
+        "maxhp": 2800000000
+    },
+    {
+        "chapter": 50,
+		"name": "韩信",
+        "name_vn": "Hàn Tín",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 54000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 39
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 17046,
+                "level": 410,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1000000000,
+                "exatk": 10
+            },
+            "19": {
+                "gsid": 17046,
+                "level": 410,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1000000000,
+                "exatk": 10
+            },
+            "27": {
+                "gsid": 17006,
+                "level": 410,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 950000000,
+                "exatk": 10
+            }
+        },
+        "maxhp": 2950000000
+    },
+    {
+        "chapter": 51,
+		"name": "曹操",
+        "name_vn": "Tào Tháo",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 55000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 40
+            }
+        ],
+        "bset": {
+            "4": {
+                "gsid": 10086,
+                "level": 420,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1050000000,
+                "exatk": 10.4
+            },
+            "24": {
+                "gsid": 10086,
+                "level": 420,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1050000000,
+                "exatk": 10.4
+            },
+            "31": {
+                "gsid": 10046,
+                "level": 420,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1000000000,
+                "exatk": 10.4
+            }
+        },
+        "maxhp": 3100000000
+    },
+    {
+        "chapter": 52,
+		"name": "刘备",
+        "name_vn": "Lưu Bị",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 56000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 40
+            }
+        ],
+        "bset": {
+            "15": {
+                "gsid": 12026,
+                "level": 430,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1100000000,
+                "exatk": 10.8
+            },
+            "29": {
+                "gsid": 12026,
+                "level": 430,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1100000000,
+                "exatk": 10.8
+            },
+            "31": {
+                "gsid": 12146,
+                "level": 430,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1050000000,
+                "exatk": 10.8
+            }
+        },
+        "maxhp": 3250000000
+    },
+    {
+        "chapter": 53,
+		"name": "孙权",
+        "name_vn": "Tôn Quyền",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 57000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 41
+            }
+        ],
+        "bset": {
+            "0": {
+                "gsid": 14186,
+                "level": 440,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1150000000,
+                "exatk": 11.2
+            },
+            "8": {
+                "gsid": 14186,
+                "level": 440,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1150000000,
+                "exatk": 11.2
+            },
+            "16": {
+                "gsid": 14166,
+                "level": 440,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1100000000,
+                "exatk": 11.2
+            }
+        },
+        "maxhp": 3400000000
+    },
+    {
+        "chapter": 54,
+		"name": "贾诩",
+        "name_vn": "Giả Hủ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 58000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 41
+            }
+        ],
+        "bset": {
+            "15": {
+                "gsid": 10166,
+                "level": 450,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1200000000,
+                "exatk": 11.6
+            },
+            "23": {
+                "gsid": 10166,
+                "level": 450,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1200000000,
+                "exatk": 11.6
+            },
+            "31": {
+                "gsid": 10106,
+                "level": 450,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1150000000,
+                "exatk": 11.6
+            }
+        },
+        "maxhp": 3550000000
+    },
+    {
+        "chapter": 55,
+		"name": "赵云",
+        "name_vn": "Triệu Vân",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 59000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 42
+            }
+        ],
+        "bset": {
+            "9": {
+                "gsid": 12066,
+                "level": 460,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1250000000,
+                "exatk": 12
+            },
+            "11": {
+                "gsid": 12066,
+                "level": 460,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1250000000,
+                "exatk": 12
+            },
+            "13": {
+                "gsid": 12066,
+                "level": 460,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1200000000,
+                "exatk": 12
+            }
+        },
+        "maxhp": 3700000000
+    },
+    {
+        "chapter": 56,
+		"name": "于吉",
+        "name_vn": "Vu Cát",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 60000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 42
+            }
+        ],
+        "bset": {
+            "24": {
+                "gsid": 16106,
+                "level": 470,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1300000000,
+                "exatk": 12.4
+            },
+            "26": {
+                "gsid": 16166,
+                "level": 470,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1250000000,
+                "exatk": 12.4
+            },
+            "28": {
+                "gsid": 16106,
+                "level": 470,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1300000000,
+                "exatk": 12.4
+            }
+        },
+        "maxhp": 3850000000
+    },
+    {
+        "chapter": 57,
+		"name": "周瑜",
+        "name_vn": "Chu Du",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 61000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 43
+            }
+        ],
+        "bset": {
+            "13": {
+                "gsid": 14106,
+                "level": 480,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1350000000,
+                "exatk": 12.8
+            },
+            "15": {
+                "gsid": 14106,
+                "level": 480,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1350000000,
+                "exatk": 12.8
+            },
+            "29": {
+                "gsid": 14126,
+                "level": 480,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1300000000,
+                "exatk": 12.8
+            }
+        },
+        "maxhp": 4000000000
+    },
+    {
+        "chapter": 58,
+		"name": "织田信长",
+        "name_vn": "Oda Nobunaga",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 62000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 43
+            }
+        ],
+        "bset": {
+            "6": {
+                "gsid": 18026,
+                "level": 490,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1350000000,
+                "exatk": 13.2
+            },
+            "15": {
+                "gsid": 18006,
+                "level": 490,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1400000000,
+                "exatk": 13.2
+            },
+            "23": {
+                "gsid": 18006,
+                "level": 490,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1400000000,
+                "exatk": 13.2
+            }
+        },
+        "maxhp": 4150000000
+    },
+    {
+        "chapter": 59,
+		"name": "韩信",
+        "name_vn": "Hàn Tín",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 63000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 44
+            }
+        ],
+        "bset": {
+            "8": {
+                "gsid": 18046,
+                "level": 500,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1400000000,
+                "exatk": 13.6
+            },
+            "20": {
+                "gsid": 17046,
+                "level": 500,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1450000000,
+                "exatk": 13.6
+            },
+            "21": {
+                "gsid": 17046,
+                "level": 500,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1450000000,
+                "exatk": 13.6
+            }
+        },
+        "maxhp": 4300000000
+    },
+    {
+        "chapter": 60,
+		"name": "项羽",
+        "name_vn": "Hạng Vũ",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 64000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 44
+            }
+        ],
+        "bset": {
+            "10": {
+                "gsid": 17026,
+                "level": 510,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1500000000,
+                "exatk": 14
+            },
+            "12": {
+                "gsid": 17026,
+                "level": 510,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1500000000,
+                "exatk": 14
+            },
+            "27": {
+                "gsid": 17006,
+                "level": 510,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 1450000000,
+                "exatk": 14
+            }
+        },
+        "maxhp": 4450000000
+    },
+    {
+        "chapter": 61,
+		"name": "法正",
+        "name_vn": "Pháp Chính",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 65000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 45
+            }
+        ],
+        "bset": {
+            "1": {
+                "gsid": 12146,
+                "level": 520,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 2400000000,
+                "exatk": 14.5
+            },
+            "8": {
+                "gsid": 12386,
+                "level": 520,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 2800000000,
+                "exatk": 14.5
+            },
+            "10": {
+                "gsid": 12386,
+                "level": 520,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 2800000000,
+                "exatk": 14.5
+            }
+        },
+        "maxhp": 8000000000
+    },
+    {
+        "chapter": 62,
+		"name": "李儒",
+        "name_vn": "Lý Nho",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 66000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 45
+            }
+        ],
+        "bset": {
+            "21": {
+                "gsid": 16426,
+                "level": 530,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 3500000000,
+                "exatk": 15
+            },
+            "23": {
+                "gsid": 16426,
+                "level": 530,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 3500000000,
+                "exatk": 15
+            },
+            "31": {
+                "gsid": 16166,
+                "level": 530,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 3000000000,
+                "exatk": 15
+            }
+        },
+        "maxhp": 10000000000
+    },
+    {
+        "chapter": 63,
+		"name": "孙坚",
+        "name_vn": "Tôn Kiên",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 67000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 46
+            }
+        ],
+        "bset": {
+            "5": {
+                "gsid": 14066,
+                "level": 540,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 3600000000,
+                "exatk": 15.5
+            },
+            "13": {
+                "gsid": 14406,
+                "level": 540,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 4200000000,
+                "exatk": 15.5
+            },
+            "15": {
+                "gsid": 14406,
+                "level": 540,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 4200000000,
+                "exatk": 15.5
+            }
+        },
+        "maxhp": 12000000000
+    },
+    {
+        "chapter": 64,
+		"name": "张郃",
+        "name_vn": "Trương Cáp",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 68000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 46
+            }
+        ],
+        "bset": {
+            "3": {
+                "gsid": 16006,
+                "level": 550,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 4200000000,
+                "exatk": 16
+            },
+            "10": {
+                "gsid": 10426,
+                "level": 550,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 4900000000,
+                "exatk": 16
+            },
+            "12": {
+                "gsid": 10426,
+                "level": 550,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 4900000000,
+                "exatk": 16
+            }
+        },
+        "maxhp": 14000000000
+    },
+    {
+        "chapter": 65,
+		"name": "刘秀",
+        "name_vn": "Lưu Tú",
+        "rewards": [
+            {
+                "GSID": 38006,
+                "COUNT": 69000
+            },
+            {
+                "GSID": 30020,
+                "COUNT": 47
+            }
+        ],
+        "bset": {
+            "19": {
+                "gsid": 17126,
+                "level": 560,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 7000000000,
+                "exatk": 16.5
+            },
+            "20": {
+                "gsid": 17126,
+                "level": 560,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 7000000000,
+                "exatk": 16.5
+            },
+            "21": {
+                "gsid": 10046,
+                "level": 560,
+                "hpcover": 1,
+                "class": 6,
+                "exhp": 6000000000,
+                "exatk": 16.5
+            }
+        },
+        "maxhp": 20000000000
+    }
+]

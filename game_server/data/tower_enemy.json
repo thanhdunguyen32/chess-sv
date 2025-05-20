@@ -1,0 +1,503 @@
+{
+  "team": {
+    "18": {
+      "guid": "5de728560895174e9fd0850d",
+      "treasure": 34041,
+      "camp": 4,
+      "power": 4582,
+      "star": 5,
+      "occu": 4,
+      "level": 40,
+      "property": {
+        "patk": 90,
+        "atk": 1766,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 50,
+        "pmdef": 305,
+        "mdef": 305,
+        "hp": 11335,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 255,
+        "def": 255,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33008",
+        "33107",
+        "33207",
+        "33306"
+      ],
+      "gsid": 16302,
+      "skill": [
+        46301,
+        46306,
+        46311,
+        46316
+      ],
+      "class": 1,
+      "exclusive": {
+        "property": [
+          {
+            "key": "atk",
+            "val": 50
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "20": {
+      "guid": "5debb987673488709bb69a2f",
+      "treasure": 34061,
+      "camp": 2,
+      "power": 5577,
+      "star": 5,
+      "occu": 3,
+      "level": 50,
+      "property": {
+        "patk": 90,
+        "pckatk": 80,
+        "atk": 2444,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 329,
+        "mdef": 329,
+        "hp": 12191,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 315,
+        "def": 315,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33107",
+        "33205",
+        "33307"
+      ],
+      "gsid": 12222,
+      "skill": [
+        42221,
+        42226,
+        42231
+      ],
+      "class": 3,
+      "exclusive": {
+        "property": [
+          {
+            "key": "atk",
+            "val": 50
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "13": {
+      "guid": "5debb8a5673488709bb699e3",
+      "treasure": 34041,
+      "camp": 3,
+      "power": 5351,
+      "star": 5,
+      "occu": 2,
+      "level": 50,
+      "property": {
+        "patk": 90,
+        "atk": 2145,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 50,
+        "pmdef": 322,
+        "mdef": 322,
+        "hp": 12908,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 315,
+        "def": 315,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33106",
+        "33205",
+        "33306"
+      ],
+      "gsid": 14242,
+      "skill": [
+        44241,
+        44246,
+        44251
+      ],
+      "class": 3,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "21": {
+      "guid": "5de8596aeaafc71beb605903",
+      "treasure": 34141,
+      "camp": 4,
+      "power": 5165,
+      "star": 5,
+      "occu": 4,
+      "level": 40,
+      "property": {
+        "patk": 90,
+        "atk": 1984,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 120,
+        "pmdef": 317,
+        "mdef": 317,
+        "hp": 13828,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 264,
+        "def": 264,
+        "php": 220,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33008",
+        "33108",
+        "33207",
+        "33306"
+      ],
+      "gsid": 16141,
+      "skill": [
+        46141,
+        46146,
+        46151,
+        46156
+      ],
+      "class": 1,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "19": {
+      "guid": "5decbc24673488709bb6fd87",
+      "treasure": 34041,
+      "camp": 1,
+      "power": 5207,
+      "star": 5,
+      "occu": 3,
+      "level": 50,
+      "property": {
+        "patk": 90,
+        "atk": 2074,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 50,
+        "pmdef": 318,
+        "mdef": 318,
+        "hp": 12487,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 311,
+        "def": 311,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33106",
+        "33206",
+        "33306"
+      ],
+      "gsid": 10262,
+      "skill": [
+        40261,
+        40266,
+        40271,
+        40276
+      ],
+      "class": 2,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "12": {
+      "guid": "5de727370895174e9fd0840a",
+      "treasure": 34181,
+      "camp": 1,
+      "power": 14659,
+      "star": 5,
+      "occu": 1,
+      "level": 100,
+      "property": {
+        "patk": 200,
+        "atk": 4798,
+        "pjsatk": 150,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 614,
+        "mdef": 614,
+        "hp": 52751,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 693,
+        "def": 693,
+        "php": 310,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33011",
+        "33111",
+        "33211",
+        "33311"
+      ],
+      "gsid": 10222,
+      "skill": [
+        40221,
+        40226,
+        40231,
+        40236
+      ],
+      "class": 5,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "10": {
+      "guid": "5de73cf50895174e9fd0957f",
+      "treasure": 34161,
+      "camp": 4,
+      "power": 10643,
+      "star": 5,
+      "occu": 3,
+      "level": 80,
+      "property": {
+        "patk": 160,
+        "pckatk": 150,
+        "atk": 4742,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 501,
+        "mdef": 501,
+        "hp": 27809,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 469,
+        "def": 469,
+        "php": 270,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33009",
+        "33109",
+        "33209",
+        "33309"
+      ],
+      "gsid": 16121,
+      "skill": [
+        46121,
+        46126,
+        46131,
+        46136
+      ],
+      "class": 4,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "28": {
+      "guid": "5decbb67673488709bb6fd16",
+      "treasure": 34041,
+      "camp": 1,
+      "power": 8573,
+      "star": 5,
+      "occu": 5,
+      "level": 80,
+      "property": {
+        "patk": 90,
+        "atk": 2757,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 50,
+        "pmdef": 582,
+        "mdef": 582,
+        "hp": 25194,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 485,
+        "def": 485,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33107",
+        "33207",
+        "33307"
+      ],
+      "gsid": 10302,
+      "skill": [
+        40301,
+        40306,
+        40311,
+        40316
+      ],
+      "class": 4,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "27": {
+      "guid": "5dea3d71673488709bb5f939",
+      "treasure": 34061,
+      "camp": 2,
+      "power": 7898,
+      "star": 5,
+      "occu": 5,
+      "level": 64,
+      "property": {
+        "patk": 90,
+        "pckatk": 80,
+        "atk": 2378,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 459,
+        "mdef": 459,
+        "hp": 26660,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 416,
+        "def": 416,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33108",
+        "33207",
+        "33307"
+      ],
+      "gsid": 12262,
+      "skill": [
+        42261,
+        42266,
+        42271,
+        42276
+      ],
+      "class": 4,
+      "exclusive": {
+        "property": [
+          {
+            "key": "atk",
+            "val": 50
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    },
+    "11": {
+      "guid": "5debbda1673488709bb69b04",
+      "treasure": 34041,
+      "camp": 4,
+      "power": 5587,
+      "star": 5,
+      "occu": 2,
+      "level": 50,
+      "property": {
+        "patk": 90,
+        "atk": 2071,
+        "msp": 300,
+        "pcri": 50,
+        "pmsatk": 50,
+        "pmdef": 392,
+        "mdef": 392,
+        "hp": 13850,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 322,
+        "def": 322,
+        "php": 180,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33007",
+        "33106",
+        "33204",
+        "33306"
+      ],
+      "gsid": 16041,
+      "skill": [
+        46041,
+        46046,
+        46051,
+        46056
+      ],
+      "class": 3,
+      "exclusive": {
+        "property": [
+          {
+            "key": "hp",
+            "val": 300
+          }
+        ],
+        "gsid": 39000,
+        "skill": [],
+        "level": 1
+      }
+    }
+  },
+  "mythic": {}
+}

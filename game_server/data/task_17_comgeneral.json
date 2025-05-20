@@ -1,0 +1,73 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 85,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúc mừng tướng quân đã chiêu mộ được tướng mới"
+      }
+    },
+    {
+      "numstep": 86,
+      "desc": "Nhấn vào túi đồ",
+      "command": {
+        "test": "Mảnh đều nằm trong túi!",
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_03",
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 87,
+      "desc": "Nhấn vào phân loại mảnh",
+      "command": {
+        "cmd": "finger",
+        "args": "propbag_page / item",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 88,
+      "desc": "Nhấn vào mảnh tướng",
+      "command": {
+        "test": "Nhấn vào hợp thành võ tướng",
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "propbag_page / porpbag_chip_view > content % 1"
+      }
+    },
+    {
+      "numstep": 89,
+      "desc": "Nhấn vào đổi",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_tips_prop > bg_node > layout_btn > btn_ex",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 90,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 91,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Hợp thành thành công, chúc mừng dưới trướng tướng quân lại thêm một viên mãnh tướng!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn hợp thành mảnh"
+}

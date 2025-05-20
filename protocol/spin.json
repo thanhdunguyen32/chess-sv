@@ -1,0 +1,147 @@
+{
+	"C2SSpinList": {
+		"is_req": true,
+		"id": 401,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"is_force": "bool",
+				"desc": "true表示刷新"
+			}
+		]
+	},
+	"S2CSpinList": {
+		"is_resp": true,
+		"id": 402,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"is_force": "bool",
+				"desc": "true表示刷新"
+			},
+			{
+				"items": "[]IOSpinItem"
+			},
+			{
+				"free": "long",
+				"desc": "下次免费刷新时间"
+			}
+		]
+	},
+	"IOSpinItem": {
+		"fields": [
+			{
+				"GSID": "int"
+			},
+			{
+				"COUNT": "int"
+			},
+			{
+				"REPEAT": "int"
+			}
+		]
+	},
+	"C2SSpinRoll": {
+		"is_req": true,
+		"id": 403,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"times": "int",
+				"desc": "1或者10"
+			}
+		]
+	},
+	"S2CSpinRoll": {
+		"is_resp": true,
+		"id": 404,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"times": "int",
+				"desc": "1或者10"
+			},
+			{
+				"pos": "int",
+				"desc": "奖励物品位置"
+			},
+			{
+				"items": "[]IOSpinItem"
+			}
+		]
+	},
+	"C2SSpinBoxOpen": {
+		"is_req": true,
+		"id": 405,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"box_index": "int"
+			}
+		]
+	},
+	"S2CSpinBoxOpen": {
+		"is_resp": true,
+		"id": 406,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			},
+			{
+				"box_index": "int"
+			},
+			{
+				"rewards": "[]IOSpinItem"
+			}
+		]
+	},
+	"C2SSpinBuy": {
+		"is_req": true,
+		"id": 407,
+		"fields": [
+			{
+				"count": "int"
+			}
+		]
+	},
+	"S2CSpinBuy": {
+		"is_resp": true,
+		"id": 408
+	},
+	"C2SSpinBoxReset": {
+		"is_req": true,
+		"id": 409,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			}
+		]
+	},
+	"S2CSpinBoxReset": {
+		"is_resp": true,
+		"id": 410,
+		"fields": [
+			{
+				"type": "int",
+				"desc": "1普通，2高级"
+			}
+		]
+	}
+}

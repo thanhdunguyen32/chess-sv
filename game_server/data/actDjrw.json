@@ -1,0 +1,196 @@
+[
+    {
+        "chk": [
+            {
+                "MARK": 90300,
+                "NUM": 3
+            }
+        ],
+        "cnum": 3,
+		"name": "获得3个魏国5星武将",
+        "name_vn": "Nhận được 3 tướng Ngụy 5 sao",
+        "items": [
+            {
+                "GSID": 33012,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33112,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 6
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90301,
+                "NUM": 3
+            }
+        ],
+        "cnum": 3,
+		"name": "获得3个蜀国5星武将",
+        "name_vn": "Nhận được 3 tướng Thục 5 sao",
+        "items": [
+            {
+                "GSID": 33212,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33312,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 6
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90302,
+                "NUM": 3
+            }
+        ],
+        "cnum": 3,
+		"name": "获得3个吴国5星武将",
+        "name_vn": "Nhận được 3 tướng Ngô 5 sao",
+        "items": [
+            {
+                "GSID": 33012,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33112,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 6
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90303,
+                "NUM": 3
+            }
+        ],
+        "cnum": 3,
+		"name": "获得3个群雄5星武将",
+        "name_vn": "Nhận được 3 tướng Quần 5 sao",
+        "items": [
+            {
+                "GSID": 33212,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33312,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30006,
+                "COUNT": 6
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90317,
+                "NUM": 2
+            }
+        ],
+        "cnum": 2,
+		"name": "获得2个帝王5星武将",
+        "name_vn": "Nhận được 2 tướng Đế 5 sao",
+        "items": [
+            {
+                "GSID": 33013,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33113,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 5
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90318,
+                "NUM": 2
+            }
+        ],
+        "cnum": 2,
+		"name": "获得2个魔王5星武将",
+        "name_vn": "Nhận được 2 tướng Ma 5 sao",
+        "items": [
+            {
+                "GSID": 33213,
+                "COUNT": 1
+            },
+            {
+                "GSID": 33313,
+                "COUNT": 1
+            },
+            {
+                "GSID": 30011,
+                "COUNT": 5
+            }
+        ],
+        "status": 0
+    },
+    {
+        "chk": [
+            {
+                "MARK": 90294,
+                "NUM": 1
+            },
+            {
+                "MARK": 90295,
+                "NUM": 1
+            },
+            {
+                "MARK": 90296,
+                "NUM": 1
+            },
+            {
+                "MARK": 90297,
+                "NUM": 1
+            },
+            {
+                "MARK": 90315,
+                "NUM": 1
+            },
+            {
+                "MARK": 90316,
+                "NUM": 1
+            }
+        ],
+        "cnum": 6,
+		"name": "完成所有任务",
+        "name_vn": "Hoàn thành tất cả nhiệm vụ",
+        "items": [
+            {
+                "GSID": 20141,
+                "COUNT": 50
+            }
+        ],
+        "status": 0
+    }
+]

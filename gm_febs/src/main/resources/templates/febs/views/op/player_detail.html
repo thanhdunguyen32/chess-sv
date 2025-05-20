@@ -1,0 +1,59 @@
+<div class="layui-fluid" id="player-detail">
+    <div class="layui-row">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-header">Thông tin chi tiết người chơi</div>
+                <div class="layui-card-body detail-body">
+                    <div class="layui-row">
+                        <div class="layui-col-md12">
+                            <div class="layui-form">
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">ID:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.id}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">Tên:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.name}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">Cấp độ:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.level}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">VIP:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.viplevel}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">Sức mạnh:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.fight}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">Vàng:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.gold}"></div>
+                                    </div>
+                                </div>
+                                <div class="layui-form-item">
+                                    <label class="layui-form-label">Đồng:</label>
+                                    <div class="layui-input-block">
+                                        <div class="layui-form-mid" th:text="${player.cooper}"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> 

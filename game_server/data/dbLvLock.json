@@ -1,0 +1,140 @@
+{
+  "18": [
+    {
+      "ID": "PVP",
+      "NAME_VN": "Diễn Võ Trường",
+      "PAGE": "pvpentrancepage",
+      "ICON": "mainscenes_icon_yanwuchang",
+      "NAME": "演武场"
+    },
+    {
+      "ID": "LEGION",
+      "NAME_VN": "Quân Đoàn",
+      "PAGE": "legionhomepage",
+      "ICON": "juntuangongfang",
+      "NAME": "军团"
+    },
+    {
+      "ID": "CROSSSERVICE",
+      "PAGE": "pvpcrossservicepage",
+      "NAME_VN": "Liên Máy Chủ",
+      "NAME": "跨服"
+    }
+  ],
+  "14": [
+    {
+      "ID": "LOOKSTAR",
+      "NAME_VN": "Quan Tinh Thường",
+      "PAGE": "lookstarpage",
+      "ICON": "mainscenes_icon_guanxingtai",
+      "NAME": "普通观星"
+    }
+  ],
+  "20": [
+    {
+      "ID": "BIGBATTLE",
+      "NAME_VN": "Chiến Dịch",
+      "PAGE": "bigbattlepage",
+      "ICON": "mainscenes_icon_chengmen",
+      "NAME": "战役"
+    }
+  ],
+  "40": [
+    {
+      "ID": "EXPEDITION",
+      "NAME_VN": "Viễn Chinh",
+      "PAGE": "expeditionpage",
+      "ICON": "mainscenes_icon_guanai",
+      "NAME": "远征"
+    }
+  ],
+  "25": [
+    {
+      "ID": "DRAW",
+      "NAME_VN": "Điểm Tướng Đài",
+      "PAGE": "carddrawpage",
+      "ICON": "mainscenes_icon_dianjiangtai",
+      "NAME": "点将台"
+    }
+  ],
+  "50": [
+    {
+      "ID": "LOOKSTARPREMIUM",
+      "ICON": "mainscenes_icon_guanxingtai",
+      "NAME_VN": "Quan Tinh Cao Cấp",
+      "NAME": "高级观星"
+    }
+  ],
+  "36": [
+    {
+      "ID": "FRIENDEXPLORE",
+      "ICON": "haoyoutansuo",
+      "NAME_VN": "Bạn Bè Thăm Dò",
+      "NAME": "好友探索"
+    }
+  ],
+  "28": [
+    {
+      "ID": "ITNMISSION",
+      "NAME_VN": "Nhiệm Vụ Nội Chính",
+      "PAGE": "itnmissionpage",
+      "ICON": "mainscenes_icon_gongdian",
+      "NAME": "内政任务"
+    }
+  ],
+  "60": [
+    {
+      "ID": "MULTIPVP",
+      "PAGE": "multipvppage",
+      "NAME_VN": "Đa Đội Diễn Võ",
+      "NAME": "多队演武"
+    }
+  ],
+  "70": [
+    {
+      "ID": "MYTHICAL",
+      "NAME_VN": "Thần Thú",
+      "PAGE": "godbeastchoosepage",
+      "ICON": "global_menu_icon_05",
+      "NAME": "神兽"
+    }
+  ],
+  "72": [
+    {
+      "ID": "DUNGEON",
+      "PAGE": "dungeonentrancepage",
+      "NAME_VN": "Nhất Kỵ Đương Thiên",
+      "NAME": "一骑当千"
+    }
+  ],
+  "30": [
+    {
+      "ID": "MAILSINGLE",
+      "NAME_VN": "Thư Mật",
+      "NAME": "私聊邮件"
+    }
+  ],
+  "24": [
+    {
+      "ID": "TOWER",
+      "NAME_VN": "Tháp Thí Luyện",
+      "PAGE": "practicetowerpage",
+      "ICON": "mainscenes_icon_shilianta",
+      "NAME": "试练塔"
+    }
+  ],
+  "55": [
+    {
+      "ID": "TEAMPVP",
+      "PAGE": "teampvppage",
+      "NAME_VN": "Tổ Đội Diễn Võ",
+      "NAME": "组队竞技场"
+    },
+    {
+      "ID": "KINGPVP",
+      "PAGE": "kingpvppage",
+      "NAME_VN": "Vương Giả Thí Luyện",
+      "NAME": "王者试炼"
+    }
+  ]
+}

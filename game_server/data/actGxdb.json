@@ -1,0 +1,92 @@
+{
+    "looplimit": 4,
+    "currentloop": 0,
+    "missions": [
+        {
+            "NUM": 50,
+            "cur": 0,
+			"NAME": "获得50积分",
+            "NAME_VN": "Nhận được 50 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 30009,
+                    "COUNT": 2
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 2
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 100,
+            "cur": 0,
+			"NAME": "获得100积分",
+            "NAME_VN": "Nhận được 100 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 200,
+            "cur": 0,
+			"NAME": "获得200积分",
+            "NAME_VN": "Nhận được 200 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 30009,
+                    "COUNT": 3
+                },
+                {
+                    "GSID": 30011,
+                    "COUNT": 3
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 300,
+            "cur": 0,
+			"NAME": "获得300积分",
+            "NAME_VN": "Nhận được 300 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 32102,
+                    "COUNT": 1
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 400,
+            "cur": 0,
+			"NAME": "获得400积分",
+            "NAME_VN": "Nhận được 400 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 20441,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 500,
+            "cur": 0,
+			"NAME": "获得500积分",
+            "NAME_VN": "Nhận được 500 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 30029,
+                    "COUNT": 100
+                }
+            ],
+            "status": 0
+        }
+    ]
+}

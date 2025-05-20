@@ -1,0 +1,27 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 11,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Thời điểm không sai biệt lắm, Chúa Công hãy tiến tới Hổ Lao Quan tham gia hội minh!"
+        ]
+      }
+    },
+    {
+      "numstep": 12,
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "nomask": true,
+        "location": "up"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới Chinh Chiến"
+}

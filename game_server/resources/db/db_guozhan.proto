@@ -1,0 +1,54 @@
+syntax = "proto3";
+import "formation.proto";
+
+package db.proto;
+
+option java_outer_classname = "ProtoMessageGuozhan";
+option optimize_for = SPEED;
+
+message DBGuozhanPlayer{
+	map<int32,bool> pass_city_index = 1;
+}
+
+message DBGuoZhanOffice{
+	repeated DBGuoZhanNation nations = 1;
+	map<int32,int32> player_point = 2;
+}
+
+message DBGuoZhanNation{
+	repeated DBGuoZhanOfficePoint player_offices = 1;//
+}
+
+message DBGuoZhanOfficePoint{
+	int32 player_id = 1;
+	bool is_fighting = 2;
+}
+
+message DBGuoZhanFight{
+	map<int32,DBGuoZhanRole> players = 1;
+	repeated DBGuoZhanCity citys = 2;
+	repeated int32 nation_own_city = 3;
+}
+
+message DBGuoZhanRole{
+	int32 hp_perc = 1;
+	int32 move_step = 2;
+	int64 last_add_step_time = 3;
+	int64 last_attack_time = 4;//最后战斗时间，用来恢复hp
+	int32 city_index = 5;//当前在的city index
+	repeated DBGuoZhanHistory my_record = 6;//我方战斗记录
+}
+
+message DBGuoZhanCity{
+	int32 city_index = 1;
+	repeated int32 occupy_player = 2;
+	int32 own_nation_id = 3;
+	bool in_battle = 4;
+}
+
+message DBGuoZhanHistory{
+	int32 type = 1;//1进攻获胜，2进攻失败，3防守获胜留原地，4防守获胜迁城，5防守失败
+	int32 target_player_id = 2;
+	repeated int32 params = 3;
+	int64 add_time = 4;
+}

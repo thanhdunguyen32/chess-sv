@@ -1,0 +1,508 @@
+{
+  "overcome_exchange_refresh_item": [
+    [
+      1105,
+      20
+    ],
+    [
+      1105,
+      40
+    ],
+    [
+      1105,
+      60
+    ],
+    [
+      1105,
+      80
+    ],
+    [
+      1105,
+      100
+    ],
+    [
+      1105,
+      120
+    ],
+    [
+      1105,
+      140
+    ],
+    [
+      1105,
+      160
+    ],
+    [
+      1105,
+      180
+    ],
+    [
+      1105,
+      200
+    ]
+  ],
+  "hero_num_limit": [
+    [
+      1012,
+      4
+    ],
+    [
+      1013,
+      5
+    ],
+    [
+      1014,
+      6
+    ],
+    [
+      1015,
+      7
+    ],
+    [
+      1016,
+      8
+    ],
+    [
+      1018,
+      9
+    ],
+    [
+      1019,
+      10
+    ]
+  ],
+  "rune_hammer_price": 100,
+  "treasure_rob_avoid_hour": 4,
+  "ten_sweep_vip": 4,
+  "player_max_energy": 500,
+  "guozhan_pve_energy_cost": [
+    12,
+    2
+  ],
+  "card_levelup_items_id": [
+    1006,
+    1007,
+    1008,
+    1009
+  ],
+  "LOG_ERROR_REPORT": false,
+  "init_offline_award": [
+    [
+      1453,
+      100
+    ],
+    [
+      1454,
+      20
+    ],
+    [
+      1104,
+      1000
+    ],
+    [
+      1002,
+      400
+    ]
+  ],
+  "mine_hour_gold": [
+    [
+      2,
+      6,
+      10
+    ],
+    [
+      4,
+      9,
+      12
+    ],
+    [
+      8,
+      12,
+      15
+    ]
+  ],
+  "rune_cost_hammer": [
+    20,
+    50,
+    100,
+    200
+  ],
+  "send_desktop_shortcut_award": [
+    [
+      1451,
+      100
+    ],
+    [
+      1204,
+      3
+    ],
+    [
+      1010,
+      20
+    ]
+  ],
+  "cheer_volume": 1,
+  "stamina_restore_time": 900,
+  "rune_bless_oil": [
+    500,
+    1000,
+    2000
+  ],
+  "skill_cal_times": 180,
+  "max_stamina": 20,
+  "energy_restore_time": 360,
+  "rank_like_award": [
+    [
+      1204,
+      2
+    ],
+    [
+      1010,
+      5
+    ],
+    [
+      1201,
+      1
+    ],
+    [
+      1200,
+      1
+    ]
+  ],
+  "CHARGE_STAGE": true,
+  "card_upgrade_lvlimit": [
+    [
+      0,
+      1
+    ],
+    [
+      10,
+      1
+    ],
+    [
+      20,
+      5
+    ],
+    [
+      30,
+      15
+    ],
+    [
+      40,
+      25
+    ],
+    [
+      50,
+      35
+    ],
+    [
+      60,
+      45
+    ]
+  ],
+  "card_levelup_items": {
+    "1009": 25000,
+    "1007": 1000,
+    "1008": 5000,
+    "1006": 200
+  },
+  "hero_num_init": 3,
+  "init": {
+    "cards": [
+      [
+        120,
+        1
+      ]
+    ],
+    "vip_level": 0,
+    "items": [
+      [
+        3500,
+        1
+      ],
+      [
+        3501,
+        1
+      ],
+      [
+        3502,
+        1
+      ],
+      [
+        1000,
+        1
+      ]
+    ],
+    "money": 0,
+    "gamemoney": 0,
+    "cardgen": [
+      0,
+      28800,
+      86400,
+      0
+    ],
+    "honor": 0
+  },
+  "sweep_item": 1010,
+  "add_points": {
+    "stamina": 5,
+    "buy_gamemoney": 10,
+    "energy": 1
+  },
+  "tujian_cards": [
+    6,
+    7,
+    13,
+    16,
+    17,
+    27,
+    31,
+    216,
+    34,
+    59,
+    62,
+    147,
+    148,
+    61,
+    3,
+    18,
+    20,
+    21,
+    30,
+    39,
+    44,
+    46,
+    47,
+    56,
+    58,
+    5,
+    8,
+    9,
+    11,
+    12,
+    23,
+    29,
+    195,
+    52,
+    36,
+    14,
+    19,
+    48,
+    37,
+    50,
+    198,
+    49,
+    53,
+    43,
+    184,
+    199,
+    218,
+    217,
+    192,
+    28,
+    215,
+    214,
+    193,
+    194,
+    196
+  ],
+  "guozhan_change_nation_cost": 500,
+  "GUIDE_TREASURE_ROB": 64,
+  "overcome_exchange_item": 1105,
+  "rune_putup_cost": [
+    10000,
+    30000,
+    60000,
+    100000
+  ],
+  "treasure_levelup_items": [
+    null,
+    null,
+    null,
+    null,
+    {
+      "3198": 1000,
+      "3199": 5000
+    },
+    {
+      "3098": 1000,
+      "3099": 5000
+    }
+  ],
+  "mine_levels": [
+    20,
+    60,
+    100,
+    200
+  ],
+  "money_exchange_rate": 10,
+  "secret_soldier_revive": [
+    200,
+    400,
+    600,
+    800,
+    1000,
+    1200,
+    1400
+  ],
+  "arena_head_frames": [
+    4500,
+    4501
+  ],
+  "sweep_cost_money": 10,
+  "role_count": 3,
+  "mine_energy_cost": [
+    2,
+    1
+  ],
+  "weixin_share_award": [
+    [
+      1451,
+      20
+    ],
+    [
+      1205,
+      1
+    ],
+    [
+      1008,
+      5
+    ],
+    [
+      1002,
+      50
+    ]
+  ],
+  "treasure_rob_avoid_money": 200,
+  "bags": {
+    "max": [
+      100,
+      100,
+      100,
+      100,
+      100
+    ],
+    "ori": [
+      15,
+      15,
+      15,
+      15,
+      15
+    ],
+    "expand": [
+      500,
+      1000
+    ]
+  },
+  "DEBUG_INFO_DISPLAY": false,
+  "change_name_cost": 1000,
+  "reward_type": {
+    "stamina": 1454,
+    "honor": 1455,
+    "money": 1451,
+    "gamemoney": 1450,
+    "exp": 1452,
+    "energy": 1453
+  },
+  "USER_HEART_BEAT_DURTIME": 300,
+  "elite_dailylimit": 5,
+  "forge_card_exp_items": {
+    "1008": 5000,
+    "1006": 200
+  },
+  "FIGHT_CONTROL_ENEMY": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "GUIDE_STORY_DELAY_TIME": 0.8,
+  "init_offline_show_award": [
+    [
+      1450,
+      1000000
+    ],
+    [
+      1451,
+      15888
+    ],
+    [
+      16,
+      1
+    ],
+    [
+      56,
+      1
+    ],
+    [
+      1205,
+      50
+    ],
+    [
+      2086,
+      1
+    ],
+    [
+      2002,
+      1
+    ],
+    [
+      1201,
+      10
+    ],
+    [
+      1200,
+      5
+    ]
+  ],
+  "guozhan_pass_reward": [
+    [
+      32568,
+      1
+    ],
+    [
+      36001,
+      20
+    ],
+    [
+      38005,
+      1500
+    ],
+    [
+      38006,
+      6000000
+    ],
+    [
+      30015,
+      800
+    ],
+    [
+      51015,
+      1
+    ]
+  ],
+  "player_max_level": 100,
+  "recruit_hero_cost": [
+    1000,
+    1001
+  ],
+  "mine_hour_coins": [
+    [
+      30000,
+      80000,
+      140000
+    ],
+    [
+      50000,
+      130000,
+      190000
+    ],
+    [
+      70000,
+      180000,
+      230000
+    ]
+  ]
+}

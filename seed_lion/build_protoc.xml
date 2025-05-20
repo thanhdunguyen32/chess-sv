@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<project name="protobuf_genereate_source" basedir="./">
+	<target name="prepare">
+		<mkdir dir="target/generated-sources" />
+		<!--mkdir dir="target/generated-js-sources" /-->
+		<path id="proto.path">
+			<fileset dir="resources/protobuf/">
+				<include name="**/*.proto" />
+			</fileset>
+		</path>
+		<condition property="exe_name" value="bin/protoc361win.exe">
+			<os family="windows" />
+		</condition>
+		<condition property="exe_name" value="bin/protoc361mac">
+			<os family="mac" />
+		</condition>
+		<condition property="exe_name" value="bin/protoc361linux">
+			<os family="unix" />
+		</condition>
+		<pathconvert pathsep=" " property="proto.files" refid="proto.path" />
+	</target>
+	<target name="run_protoc" depends="prepare">
+		<echo message="run ${exe_name}" />
+		<exec executable="${exe_name}">
+			<arg value="--java_out=target/generated-sources" />
+			<!--arg value="\-\-js_out=target/generated-js-sources" /-->
+			<arg value="--proto_path=${basedir}/resources/protobuf/" />
+			<arg line="${proto.files}" />
+		</exec>
+	</target>
+	<target name="main" depends="run_protoc">
+		<!--replace token="::google::" value="google::" dir="target/generated-cpp-sources">
+			<include name="*.cc" />
+			<include name="*.h" />
+		</replace-->
+	</target>
+</project>

@@ -1,0 +1,10 @@
+syntax = "proto3";
+package db.proto;
+
+option java_outer_classname = "ProtoMessageFormation";
+option optimize_for = SPEED;
+
+message DBBattleset{
+	int32 mythic = 1;
+	map<int32,int64> formation_generals = 2;//城市的防守阵容
+}

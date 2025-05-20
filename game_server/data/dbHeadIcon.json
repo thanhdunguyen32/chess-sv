@@ -1,0 +1,826 @@
+{
+  "50093": {
+    "HEADID": 50093,
+    "HEADICON": "zhitianxinchang_1",
+    "INTRO": "Mở khóa khi nhận Oda Nobunaga",
+    "TIMELIMIT": -1,
+    "NAME": "织田信长",
+    "NAME_VN": "Oda Nobunaga"
+  },
+  "50074": {
+    "HEADID": 50074,
+    "HEADICON": "huatuo_1",
+    "INTRO": "Mở khóa khi nhận Hoa Đà",
+    "TIMELIMIT": -1,
+    "NAME": "华佗",
+    "NAME_VN": "Hoa Đà"
+  },
+  "50065": {
+    "HEADID": 50065,
+    "HEADICON": "menghuo_1",
+    "INTRO": "Mở khóa khi nhận Mạnh Hoạch",
+    "TIMELIMIT": -1,
+    "NAME": "孟获",
+    "NAME_VN": "Mạnh Hoạch"
+  },
+  "50061": {
+    "HEADID": 50061,
+    "HEADICON": "zhugejin_1",
+    "INTRO": "Mở khóa khi nhận Gia Cát Cẩn",
+    "TIMELIMIT": -1,
+    "NAME": "诸葛瑾",
+    "NAME_VN": "Gia Cát Cẩn"
+  },
+  "50041": {
+    "HEADID": 50041,
+    "HEADICON": "daofushou_1",
+    "INTRO": "Mở khóa khi nhận Đao Phủ",
+    "TIMELIMIT": -1,
+    "NAME": "刀斧手",
+    "NAME_VN": "Đao Phủ"
+  },
+  "50064": {
+    "HEADID": 50064,
+    "HEADICON": "lvbu_1",
+    "INTRO": "Mở khóa khi nhận Lữ Bố",
+    "TIMELIMIT": -1,
+    "NAME": "吕布",
+    "NAME_VN": "Lữ Bố"
+  },
+  "50076": {
+    "HEADID": 50076,
+    "HEADICON": "gaoshun_1",
+    "INTRO": "Mở khóa khi nhận Cao Thuận",
+    "TIMELIMIT": -1,
+    "NAME": "高顺",
+    "NAME_VN": "Cao Thuận"
+  },
+  "50095": {
+    "HEADID": 50095,
+    "HEADICON": "fububanzang_1",
+    "INTRO": "Mở khóa khi nhận Hattori Hanzo",
+    "TIMELIMIT": -1,
+    "NAME": "服部半藏",
+    "NAME_VN": "Hattori Hanzo"
+  },
+  "50020": {
+    "HEADID": 50020,
+    "HEADICON": "liuye_1",
+    "INTRO": "Mở khóa khi nhận Lưu Diệp",
+    "TIMELIMIT": -1,
+    "NAME": "刘晔",
+    "NAME_VN": "Lưu Diệp"
+  },
+  "50029": {
+    "HEADID": 50029,
+    "HEADICON": "madai_1",
+    "INTRO": "Mở khóa khi nhận Mã Đại",
+    "TIMELIMIT": -1,
+    "NAME": "马岱",
+    "NAME_VN": "Mã Đại"
+  },
+  "50062": {
+    "HEADID": 50062,
+    "HEADICON": "xuezhe_1",
+    "INTRO": "Mở khóa khi nhận Học giả",
+    "TIMELIMIT": -1,
+    "NAME": "学者",
+    "NAME_VN": "Học giả"
+  },
+  "50021": {
+    "HEADID": 50021,
+    "HEADICON": "qiangnubing_1",
+    "INTRO": "Mở khóa khi nhận Cường Nỏ Binh",
+    "TIMELIMIT": -1,
+    "NAME": "强弩兵",
+    "NAME_VN": "Cường Nỏ Binh"
+  },
+  "50009": {
+    "HEADID": 50009,
+    "HEADICON": "jiaxu_1",
+    "INTRO": "Mở khóa khi nhận Tư Mã Ý",
+    "TIMELIMIT": -1,
+    "NAME": "贾诩",
+    "NAME_VN": "Tư Mã Ý"
+  },
+  "50051": {
+    "HEADID": 50051,
+    "HEADICON": "bulianshi_1",
+    "INTRO": "Mở khóa khi nhận Bộ Luyện Sư",
+    "TIMELIMIT": -1,
+    "NAME": "步练师",
+    "NAME_VN": "Bộ Luyện Sư"
+  },
+  "50015": {
+    "HEADID": 50015,
+    "HEADICON": "chengyu_1",
+    "INTRO": "Mở khóa khi nhận Vương Lãng",
+    "TIMELIMIT": -1,
+    "NAME": "王朗",
+    "NAME_VN": "Vương Lãng"
+  },
+  "50063": {
+    "HEADID": 50063,
+    "HEADICON": "sunjian_1",
+    "INTRO": "Mở khóa khi nhận Tôn Kiên",
+    "TIMELIMIT": -1,
+    "NAME": "孙坚",
+    "NAME_VN": "Tôn Kiên"
+  },
+  "50043": {
+    "HEADID": 50043,
+    "HEADICON": "sunce_1",
+    "INTRO": "Mở khóa khi nhận Tôn Sách",
+    "TIMELIMIT": -1,
+    "NAME": "孙策",
+    "NAME_VN": "Tôn Sách"
+  },
+  "50059": {
+    "HEADID": 50059,
+    "HEADICON": "sunxiu_1",
+    "INTRO": "Mở khóa khi nhận Tôn Hưu",
+    "TIMELIMIT": -1,
+    "NAME": "孙休",
+    "NAME_VN": "Tôn Hưu"
+  },
+  "50084": {
+    "HEADID": 50084,
+    "HEADICON": "huangjinjun_1",
+    "INTRO": "Mở khóa khi nhận Khăn vàng quân",
+    "TIMELIMIT": -1,
+    "NAME": "黄巾军",
+    "NAME_VN": "Khăn vàng quân"
+  },
+  "50103": {
+    "HEADID": 50103,
+    "HEADICON": "zuoci_1",
+    "INTRO": "Mở khóa khi nhận Tả Từ",
+    "TIMELIMIT": -1,
+    "NAME": "左慈",
+    "NAME_VN": "Tả Từ"
+  },
+  "50099": {
+    "HEADID": 50099,
+    "HEADICON": "fengchenxiuji_1",
+    "INTRO": "Mở khóa khi nhận Toyotomi Hideyoshi",
+    "TIMELIMIT": -1,
+    "NAME": "丰臣秀吉",
+    "NAME_VN": "Toyotomi Hideyoshi"
+  },
+  "50027": {
+    "HEADID": 50027,
+    "HEADICON": "machao_1",
+    "INTRO": "Mở khóa khi nhận Mã Siêu",
+    "TIMELIMIT": -1,
+    "NAME": "马超",
+    "NAME_VN": "Mã Siêu"
+  },
+  "50097": {
+    "HEADID": 50097,
+    "HEADICON": "benduozhongsheng_1",
+    "INTRO": "Mở khóa khi nhận Honda Tadakatsu",
+    "TIMELIMIT": -1,
+    "NAME": "本多忠胜",
+    "NAME_VN": "Honda Tadakatsu"
+  },
+  "50033": {
+    "HEADID": 50033,
+    "HEADICON": "weiyan_1",
+    "INTRO": "Mở khóa khi nhận Ngụy Duyên",
+    "TIMELIMIT": -1,
+    "NAME": "魏延",
+    "NAME_VN": "Ngụy Duyên"
+  },
+  "50056": {
+    "HEADID": 50056,
+    "HEADICON": "xiaoqiao_1",
+    "INTRO": "Mở khóa khi nhận Tiểu Kiều",
+    "TIMELIMIT": -1,
+    "NAME": "小乔",
+    "NAME_VN": "Tiểu Kiều"
+  },
+  "50091": {
+    "HEADID": 50091,
+    "HEADICON": "jinjun_1",
+    "INTRO": "Mở khóa khi nhận Cấm quân",
+    "TIMELIMIT": -1,
+    "NAME": "禁军",
+    "NAME_VN": "Cấm quân"
+  },
+  "50079": {
+    "HEADID": 50079,
+    "HEADICON": "liubiao_1",
+    "INTRO": "Mở khóa khi nhận Lưu Biểu",
+    "TIMELIMIT": -1,
+    "NAME": "刘表",
+    "NAME_VN": "Lưu Biểu"
+  },
+  "50096": {
+    "HEADID": 50096,
+    "HEADICON": "mingzhiguangxiu_1",
+    "INTRO": "Mở khóa khi nhận Akechi Mitsuhide",
+    "TIMELIMIT": -1,
+    "NAME": "明智光秀",
+    "NAME_VN": "Akechi Mitsuhide"
+  },
+  "50030": {
+    "HEADID": 50030,
+    "HEADICON": "zhugeliang_1",
+    "INTRO": "Mở khóa khi nhận Gia Cát Lượng",
+    "TIMELIMIT": -1,
+    "NAME": "诸葛亮",
+    "NAME_VN": "Gia Cát Lượng"
+  },
+  "50078": {
+    "HEADID": 50078,
+    "HEADICON": "yuanshao_1",
+    "INTRO": "Mở khóa khi nhận Viên Thiệu",
+    "TIMELIMIT": -1,
+    "NAME": "袁绍",
+    "NAME_VN": "Viên Thiệu"
+  },
+  "50001": {
+    "HEADID": 50001,
+    "HEADICON": "caoren_1",
+    "INTRO": "Mở khóa khi nhận Tào Nhân",
+    "TIMELIMIT": -1,
+    "NAME": "曹仁",
+    "NAME_VN": "Tào Nhân"
+  },
+  "50013": {
+    "HEADID": 50013,
+    "HEADICON": "dengai_1",
+    "INTRO": "Mở khóa khi nhận Đặng Ngải",
+    "TIMELIMIT": -1,
+    "NAME": "邓艾",
+    "NAME_VN": "Đặng Ngải"
+  },
+  "50069": {
+    "HEADID": 50069,
+    "HEADICON": "yuji_1",
+    "INTRO": "Mở khóa khi nhận Vu Cát",
+    "TIMELIMIT": -1,
+    "NAME": "于吉",
+    "NAME_VN": "Vu Cát"
+  },
+  "50075": {
+    "HEADID": 50075,
+    "HEADICON": "dongzhuo_1",
+    "INTRO": "Mở khóa khi nhận Đổng Trác",
+    "TIMELIMIT": -1,
+    "NAME": "董卓",
+    "NAME_VN": "Đổng Trác"
+  },
+  "50022": {
+    "HEADID": 50022,
+    "HEADICON": "zhanghe_1",
+    "INTRO": "Mở khóa khi nhận Trương Cáp",
+    "TIMELIMIT": -1,
+    "NAME": "张郃",
+    "NAME_VN": "Trương Cáp"
+  },
+  "50048": {
+    "HEADID": 50048,
+    "HEADICON": "zhouyu_1",
+    "INTRO": "Mở khóa khi nhận Chu Du",
+    "TIMELIMIT": -1,
+    "NAME": "周瑜",
+    "NAME_VN": "Chu Du"
+  },
+  "50012": {
+    "HEADID": 50012,
+    "HEADICON": "pangde_1",
+    "INTRO": "Mở khóa khi nhận Bàng Đức",
+    "TIMELIMIT": -1,
+    "NAME": "庞德",
+    "NAME_VN": "Bàng Đức"
+  },
+  "50031": {
+    "HEADID": 50031,
+    "HEADICON": "pangtong_1",
+    "INTRO": "Mở khóa khi nhận Bàng Thống",
+    "TIMELIMIT": -1,
+    "NAME": "庞统",
+    "NAME_VN": "Bàng Thống"
+  },
+  "50052": {
+    "HEADID": 50052,
+    "HEADICON": "sunquan_1",
+    "INTRO": "Mở khóa khi nhận Tôn Quyền",
+    "TIMELIMIT": -1,
+    "NAME": "孙权",
+    "NAME_VN": "Tôn Quyền"
+  },
+  "50089": {
+    "HEADID": 50089,
+    "HEADICON": "hanxiandi_1",
+    "INTRO": "Mở khóa khi nhận Hán Hiến Đế",
+    "TIMELIMIT": -1,
+    "NAME": "汉献帝",
+    "NAME_VN": "Hán Hiến Đế"
+  },
+  "50102": {
+    "HEADID": 50102,
+    "HEADICON": "xvhuang_1",
+    "INTRO": "Mở khóa khi nhận Từ Hoảng",
+    "TIMELIMIT": -1,
+    "NAME": "徐晃",
+    "NAME_VN": "Từ Hoảng"
+  },
+  "50098": {
+    "HEADID": 50098,
+    "HEADICON": "langren_1",
+    "INTRO": "Mở khóa khi nhận Lãng Nhân",
+    "TIMELIMIT": -1,
+    "NAME": "浪人",
+    "NAME_VN": "Lãng Nhân"
+  },
+  "50032": {
+    "HEADID": 50032,
+    "HEADICON": "guanxing_1",
+    "INTRO": "Mở khóa khi nhận Quan Hưng",
+    "TIMELIMIT": -1,
+    "NAME": "关兴",
+    "NAME_VN": "Quan Hưng"
+  },
+  "50057": {
+    "HEADID": 50057,
+    "HEADICON": "daqiao_1",
+    "INTRO": "Mở khóa khi nhận Đại Kiều",
+    "TIMELIMIT": -1,
+    "NAME": "大乔",
+    "NAME_VN": "Đại Kiều"
+  },
+  "50044": {
+    "HEADID": 50044,
+    "HEADICON": "ganning_1",
+    "INTRO": "Mở khóa khi nhận Cam Ninh",
+    "TIMELIMIT": -1,
+    "NAME": "甘宁",
+    "NAME_VN": "Cam Ninh"
+  },
+  "50058": {
+    "HEADID": 50058,
+    "HEADICON": "zhoutai_1",
+    "INTRO": "Mở khóa khi nhận Chu Thái",
+    "TIMELIMIT": -1,
+    "NAME": "周泰",
+    "NAME_VN": "Chu Thái"
+  },
+  "50072": {
+    "HEADID": 50072,
+    "HEADICON": "zhangjiao_1",
+    "INTRO": "Mở khóa khi nhận Trương Giác",
+    "TIMELIMIT": -1,
+    "NAME": "张角",
+    "NAME_VN": "Trương Giác"
+  },
+  "50087": {
+    "HEADID": 50087,
+    "HEADICON": "xiangyu_1",
+    "INTRO": "Mở khóa khi nhận Hạng Vũ",
+    "TIMELIMIT": -1,
+    "NAME": "项羽",
+    "NAME_VN": "Hạng Vũ"
+  },
+  "50004": {
+    "HEADID": 50004,
+    "HEADICON": "xiahoudun_1",
+    "INTRO": "Mở khóa khi nhận Hạ Hầu Đôn",
+    "TIMELIMIT": -1,
+    "NAME": "夏侯惇",
+    "NAME_VN": "Hạ Hầu Đôn"
+  },
+  "50081": {
+    "HEADID": 50081,
+    "HEADICON": "yuanshu_1",
+    "INTRO": "Mở khóa khi nhận Viên Thuật",
+    "TIMELIMIT": -1,
+    "NAME": "袁术",
+    "NAME_VN": "Viên Thuật"
+  },
+  "50083": {
+    "HEADID": 50083,
+    "HEADICON": "liuzhang_1",
+    "INTRO": "Mở khóa khi nhận Lưu Chương",
+    "TIMELIMIT": -1,
+    "NAME": "刘璋",
+    "NAME_VN": "Lưu Chương"
+  },
+  "50036": {
+    "HEADID": 50036,
+    "HEADICON": "jiangwei_1",
+    "INTRO": "Mở khóa khi nhận Khương Duy",
+    "TIMELIMIT": -1,
+    "NAME": "姜维",
+    "NAME_VN": "Khương Duy"
+  },
+  "50038": {
+    "HEADID": 50038,
+    "HEADICON": "xushu_1",
+    "INTRO": "Mở khóa khi nhận Từ Thứ",
+    "TIMELIMIT": -1,
+    "NAME": "徐庶",
+    "NAME_VN": "Từ Thứ"
+  },
+  "50025": {
+    "HEADID": 50025,
+    "HEADICON": "guanyu_1",
+    "INTRO": "Mở khóa khi nhận Quan Vũ",
+    "TIMELIMIT": -1,
+    "NAME": "关羽",
+    "NAME_VN": "Quan Vũ"
+  },
+  "50092": {
+    "HEADID": 50092,
+    "HEADICON": "liuxiu_1",
+    "INTRO": "Mở khóa khi nhận Lưu Tú",
+    "TIMELIMIT": -1,
+    "NAME": "刘秀",
+    "NAME_VN": "Lưu Tú"
+  },
+  "50042": {
+    "HEADID": 50042,
+    "HEADICON": "fazheng_1",
+    "INTRO": "Mở khóa khi nhận Pháp Chính",
+    "TIMELIMIT": -1,
+    "NAME": "法正",
+    "NAME_VN": "Pháp Chính"
+  },
+  "50073": {
+    "HEADID": 50073,
+    "HEADICON": "diaochan_1",
+    "INTRO": "Mở khóa khi nhận Điêu Thuyền",
+    "TIMELIMIT": -1,
+    "NAME": "貂蝉",
+    "NAME_VN": "Điêu Thuyền"
+  },
+  "50034": {
+    "HEADID": 50034,
+    "HEADICON": "zhangxingcai_1",
+    "INTRO": "Mở khóa khi nhận Trương Tinh Thải",
+    "TIMELIMIT": -1,
+    "NAME": "张星彩",
+    "NAME_VN": "Trương Tinh Thải"
+  },
+  "50088": {
+    "HEADID": 50088,
+    "HEADICON": "hanxin_1",
+    "INTRO": "Mở khóa khi nhận Hàn Tín",
+    "TIMELIMIT": -1,
+    "NAME": "韩信",
+    "NAME_VN": "Hàn Tín"
+  },
+  "50082": {
+    "HEADID": 50082,
+    "HEADICON": "mateng_1",
+    "INTRO": "Mở khóa khi nhận Mã Đằng",
+    "TIMELIMIT": -1,
+    "NAME": "马腾",
+    "NAME_VN": "Mã Đằng"
+  },
+  "50046": {
+    "HEADID": 50046,
+    "HEADICON": "taishici_1",
+    "INTRO": "Mở khóa khi nhận Thái Sử Từ",
+    "TIMELIMIT": -1,
+    "NAME": "太史慈",
+    "NAME_VN": "Thái Sử Từ"
+  },
+  "50006": {
+    "HEADID": 50006,
+    "HEADICON": "xiahouyuan_1",
+    "INTRO": "Mở khóa khi nhận Hạ Hầu Uyên",
+    "TIMELIMIT": -1,
+    "NAME": "夏侯渊",
+    "NAME_VN": "Hạ Hầu Uyên"
+  },
+  "50045": {
+    "HEADID": 50045,
+    "HEADICON": "lvmeng_1",
+    "INTRO": "Mở khóa khi nhận Lữ Mông",
+    "TIMELIMIT": -1,
+    "NAME": "吕蒙",
+    "NAME_VN": "Lữ Mông"
+  },
+  "50067": {
+    "HEADID": 50067,
+    "HEADICON": "huaxiong_1",
+    "INTRO": "Mở khóa khi nhận Hoa Hùng",
+    "TIMELIMIT": -1,
+    "NAME": "华雄",
+    "NAME_VN": "Hoa Hùng"
+  },
+  "50085": {
+    "HEADID": 50085,
+    "HEADICON": "liru_1",
+    "INTRO": "Mở khóa khi nhận Lý Nho",
+    "TIMELIMIT": -1,
+    "NAME": "李儒",
+    "NAME_VN": "Lý Nho"
+  },
+  "50023": {
+    "HEADID": 50023,
+    "HEADICON": "zhangfei_1",
+    "INTRO": "Mở khóa khi nhận Trương Phi",
+    "TIMELIMIT": -1,
+    "NAME": "张飞",
+    "NAME_VN": "Trương Phi"
+  },
+  "50016": {
+    "HEADID": 50016,
+    "HEADICON": "zhenji_1",
+    "INTRO": "Mở khóa khi nhận Chân Cơ",
+    "TIMELIMIT": -1,
+    "NAME": "甄姬",
+    "NAME_VN": "Chân Cơ"
+  },
+  "50066": {
+    "HEADID": 50066,
+    "HEADICON": "lvlingqi_1",
+    "INTRO": "Mở khóa khi nhận Lữ Linh Kỳ",
+    "TIMELIMIT": -1,
+    "NAME": "吕玲琦",
+    "NAME_VN": "Lữ Linh Kỳ"
+  },
+  "50071": {
+    "HEADID": 50071,
+    "HEADICON": "chengong_1",
+    "INTRO": "Mở khóa khi nhận Trần Cung",
+    "TIMELIMIT": -1,
+    "NAME": "陈宫",
+    "NAME_VN": "Trần Cung"
+  },
+  "50047": {
+    "HEADID": 50047,
+    "HEADICON": "sunshangxiang_1",
+    "INTRO": "Mở khóa khi nhận Tôn Thượng Hương",
+    "TIMELIMIT": -1,
+    "NAME": "孙尚香",
+    "NAME_VN": "Tôn Thượng Hương"
+  },
+  "50055": {
+    "HEADID": 50055,
+    "HEADICON": "lukang_1",
+    "INTRO": "Mở khóa khi nhận Lục Kháng",
+    "TIMELIMIT": -1,
+    "NAME": "陆抗",
+    "NAME_VN": "Lục Kháng"
+  },
+  "50010": {
+    "HEADID": 50010,
+    "HEADICON": "xunyu_1",
+    "INTRO": "Mở khóa khi nhận Tuân Úc",
+    "TIMELIMIT": -1,
+    "NAME": "荀彧",
+    "NAME_VN": "Tuân Úc"
+  },
+  "50017": {
+    "HEADID": 50017,
+    "HEADICON": "caoxiu_1",
+    "INTRO": "Mở khóa khi nhận Tào Hưu",
+    "TIMELIMIT": -1,
+    "NAME": "曹休",
+    "NAME_VN": "Tào Hưu"
+  },
+  "50068": {
+    "HEADID": 50068,
+    "HEADICON": "zhurong_1",
+    "INTRO": "Mở khóa khi nhận Chúc Dung",
+    "TIMELIMIT": -1,
+    "NAME": "祝融",
+    "NAME_VN": "Chúc Dung"
+  },
+  "50070": {
+    "HEADID": 50070,
+    "HEADICON": "caiwenji_1",
+    "INTRO": "Mở khóa khi nhận Thái Văn Cơ",
+    "TIMELIMIT": -1,
+    "NAME": "蔡文姬",
+    "NAME_VN": "Thái Văn Cơ"
+  },
+  "50086": {
+    "HEADID": 50086,
+    "HEADICON": "liubang_1",
+    "INTRO": "Mở khóa khi nhận Lưu Bang",
+    "TIMELIMIT": -1,
+    "NAME": "刘邦",
+    "NAME_VN": "Lưu Bang"
+  },
+  "50026": {
+    "HEADID": 50026,
+    "HEADICON": "zhaoyun_1",
+    "INTRO": "Mở khóa khi nhận Triệu Vân",
+    "TIMELIMIT": -1,
+    "NAME": "赵云",
+    "NAME_VN": "Triệu Vân"
+  },
+  "50039": {
+    "HEADID": 50039,
+    "HEADICON": "wangping_1",
+    "INTRO": "Mở khóa khi nhận Vương Bình",
+    "TIMELIMIT": -1,
+    "NAME": "王平",
+    "NAME_VN": "Vương Bình"
+  },
+  "50077": {
+    "HEADID": 50077,
+    "HEADICON": "gongsunzan_1",
+    "INTRO": "Mở khóa khi nhận Công Tôn Toản",
+    "TIMELIMIT": -1,
+    "NAME": "公孙瓒",
+    "NAME_VN": "Công Tôn Toản"
+  },
+  "50053": {
+    "HEADID": 50053,
+    "HEADICON": "huanggai_1",
+    "INTRO": "Mở khóa khi nhận Hoàng Cái",
+    "TIMELIMIT": -1,
+    "NAME": "黄盖",
+    "NAME_VN": "Hoàng Cái"
+  },
+  "50054": {
+    "HEADID": 50054,
+    "HEADICON": "lingtong_1",
+    "INTRO": "Mở khóa khi nhận Lăng Thống",
+    "TIMELIMIT": -1,
+    "NAME": "凌统",
+    "NAME_VN": "Lăng Thống"
+  },
+  "50101": {
+    "HEADID": 50101,
+    "HEADICON": "maliang_1",
+    "INTRO": "Mở khóa khi nhận Mã Lương",
+    "TIMELIMIT": -1,
+    "NAME": "马良",
+    "NAME_VN": "Mã Lương"
+  },
+  "50002": {
+    "HEADID": 50002,
+    "HEADICON": "xuchu_1",
+    "INTRO": "Mở khóa khi nhận Hứa Chử",
+    "TIMELIMIT": -1,
+    "NAME": "许褚",
+    "NAME_VN": "Hứa Chử"
+  },
+  "50050": {
+    "HEADID": 50050,
+    "HEADICON": "lusu_1",
+    "INTRO": "Mở khóa khi nhận Lỗ Túc",
+    "TIMELIMIT": -1,
+    "NAME": "鲁肃",
+    "NAME_VN": "Lỗ Túc"
+  },
+  "50014": {
+    "HEADID": 50014,
+    "HEADICON": "yujin_1",
+    "INTRO": "Mở khóa khi nhận Vu Cấm",
+    "TIMELIMIT": -1,
+    "NAME": "于禁",
+    "NAME_VN": "Vu Cấm"
+  },
+  "50037": {
+    "HEADID": 50037,
+    "HEADICON": "liufeng_1",
+    "INTRO": "Mở khóa khi nhận Lưu Phong",
+    "TIMELIMIT": -1,
+    "NAME": "刘封",
+    "NAME_VN": "Lưu Phong"
+  },
+  "50019": {
+    "HEADID": 50019,
+    "HEADICON": "lejin_1",
+    "INTRO": "Mở khóa khi nhận Nhạc Tiến",
+    "TIMELIMIT": -1,
+    "NAME": "乐进",
+    "NAME_VN": "Nhạc Tiến"
+  },
+  "50011": {
+    "HEADID": 50011,
+    "HEADICON": "dianwei_1",
+    "INTRO": "Mở khóa khi nhận Điển Vi",
+    "TIMELIMIT": -1,
+    "NAME": "典韦",
+    "NAME_VN": "Điển Vi"
+  },
+  "50008": {
+    "HEADID": 50008,
+    "HEADICON": "simayi_1",
+    "INTRO": "获得司马懿解锁",
+    "TIMELIMIT": -1,
+    "NAME": "司马懿",
+    "NAME_VN": "司马懿"
+  },
+  "50049": {
+    "HEADID": 50049,
+    "HEADICON": "luxun_1",
+    "INTRO": "Mở khóa khi nhận Lục Tốn",
+    "TIMELIMIT": -1,
+    "NAME": "陆逊",
+    "NAME_VN": "Lục Tốn"
+  },
+  "50003": {
+    "HEADID": 50003,
+    "HEADICON": "zhangliao_1",
+    "INTRO": "Mở khóa khi nhận Trương Liêu",
+    "TIMELIMIT": -1,
+    "NAME": "张辽",
+    "NAME_VN": "Trương Liêu"
+  },
+  "50080": {
+    "HEADID": 50080,
+    "HEADICON": "wenpin_1",
+    "INTRO": "Mở khóa khi nhận Văn Sính",
+    "TIMELIMIT": -1,
+    "NAME": "文聘",
+    "NAME_VN": "Văn Sính"
+  },
+  "50040": {
+    "HEADID": 50040,
+    "HEADICON": "jianyong_1",
+    "INTRO": "Mở khóa khi nhận Giản Ung",
+    "TIMELIMIT": -1,
+    "NAME": "简雍",
+    "NAME_VN": "Giản Ung"
+  },
+  "50100": {
+    "HEADID": 50100,
+    "HEADICON": "chengpu_1",
+    "INTRO": "Mở khóa khi nhận Trình Phổ",
+    "TIMELIMIT": -1,
+    "NAME": "程普",
+    "NAME_VN": "Trình Phổ"
+  },
+  "50028": {
+    "HEADID": 50028,
+    "HEADICON": "huangzhong_1",
+    "INTRO": "Mở khóa khi nhận Hoàng Trung",
+    "TIMELIMIT": -1,
+    "NAME": "黄忠",
+    "NAME_VN": "Hoàng Trung"
+  },
+  "50005": {
+    "HEADID": 50005,
+    "HEADICON": "caocao_1",
+    "INTRO": "Mở khóa khi nhận Tào Tháo",
+    "TIMELIMIT": -1,
+    "NAME": "曹操",
+    "NAME_VN": "Tào Tháo"
+  },
+  "50007": {
+    "HEADID": 50007,
+    "HEADICON": "guojia_1",
+    "INTRO": "Mở khóa khi nhận Quách Gia",
+    "TIMELIMIT": -1,
+    "NAME": "郭嘉",
+    "NAME_VN": "Quách Gia"
+  },
+  "50090": {
+    "HEADID": 50090,
+    "HEADICON": "simayan_1",
+    "INTRO": "Mở khóa khi nhận Tư Mã Viêm",
+    "TIMELIMIT": -1,
+    "NAME": "司马炎",
+    "NAME_VN": "Tư Mã Viêm"
+  },
+  "50018": {
+    "HEADID": 50018,
+    "HEADICON": "caozhi_1",
+    "INTRO": "Mở khóa khi nhận Tào Thực",
+    "TIMELIMIT": -1,
+    "NAME": "曹植",
+    "NAME_VN": "Tào Thực"
+  },
+  "50094": {
+    "HEADID": 50094,
+    "HEADICON": "shangshanqianxin_1",
+    "INTRO": "Mở khóa khi nhận Uesugi Kenshin",
+    "TIMELIMIT": -1,
+    "NAME": "上杉谦信",
+    "NAME_VN": "Uesugi Kenshin"
+  },
+  "50060": {
+    "HEADID": 50060,
+    "HEADICON": "handang_1",
+    "INTRO": "Mở khóa khi nhận Hàn Đương",
+    "TIMELIMIT": -1,
+    "NAME": "韩当",
+    "NAME_VN": "Hàn Đương"
+  },
+  "50024": {
+    "HEADID": 50024,
+    "HEADICON": "liubei_1",
+    "INTRO": "Mở khóa khi nhận Lưu Bị",
+    "TIMELIMIT": -1,
+    "NAME": "刘备",
+    "NAME_VN": "Lưu Bị"
+  },
+  "50035": {
+    "HEADID": 50035,
+    "HEADICON": "huangyueying_1",
+    "INTRO": "Mở khóa khi nhận Hoàng Nguyệt Anh",
+    "TIMELIMIT": -1,
+    "NAME": "黄月英",
+    "NAME_VN": "Hoàng Nguyệt Anh"
+  }
+}

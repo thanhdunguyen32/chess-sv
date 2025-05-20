@@ -1,0 +1,392 @@
+{
+  "LEGION_HARM_FIRST": [
+    {
+      "COUNT": 4000000,
+      "GSID": 38006
+    },
+    {
+      "COUNT": 2000,
+      "GSID": 30020
+    }
+  ],
+  "FIGHTING_COST": [
+    0,
+    0,
+    40,
+    80
+  ],
+  "BOSS_INFO": {
+    "3": {
+      "RANDOM_RATE": [
+        {
+          "NUM": 0,
+          "CHANCE": 630
+        },
+        {
+          "NUM": 1,
+          "CHANCE": 370
+        },
+        {
+          "NUM": 2,
+          "CHANCE": 0
+        },
+        {
+          "NUM": 3,
+          "CHANCE": 0
+        }
+      ],
+      "ID": 3,
+      "FIGHT_REWARD": [
+        {
+          "COUNT": 140000,
+          "GSID": 38006,
+          "ADD": 0
+        },
+        {
+          "COUNT": 47,
+          "GSID": 30020,
+          "ADD": 0
+        }
+      ],
+      "SKILL": [
+        17123,
+        17128,
+        17133,
+        17138
+      ],
+      "RANDOM_REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33209,
+          "CHANCE": 400
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33210,
+          "CHANCE": 350
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33211,
+          "CHANCE": 250
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33212,
+          "CHANCE": 0
+        }
+      ]
+    },
+    "1": {
+      "RANDOM_RATE": [
+        {
+          "NUM": 0,
+          "CHANCE": 630
+        },
+        {
+          "NUM": 1,
+          "CHANCE": 370
+        },
+        {
+          "NUM": 2,
+          "CHANCE": 0
+        },
+        {
+          "NUM": 3,
+          "CHANCE": 0
+        }
+      ],
+      "ID": 1,
+      "FIGHT_REWARD": [
+        {
+          "COUNT": 140000,
+          "GSID": 38006,
+          "ADD": 0
+        },
+        {
+          "COUNT": 47,
+          "GSID": 30020,
+          "ADD": 0
+        }
+      ],
+      "SKILL": [
+        17023,
+        17028,
+        17033,
+        17038
+      ],
+      "RANDOM_REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33009,
+          "CHANCE": 400
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33010,
+          "CHANCE": 350
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33011,
+          "CHANCE": 250
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33012,
+          "CHANCE": 0
+        }
+      ]
+    },
+    "2": {
+      "RANDOM_RATE": [
+        {
+          "NUM": 0,
+          "CHANCE": 630
+        },
+        {
+          "NUM": 1,
+          "CHANCE": 370
+        },
+        {
+          "NUM": 2,
+          "CHANCE": 0
+        },
+        {
+          "NUM": 3,
+          "CHANCE": 0
+        }
+      ],
+      "ID": 2,
+      "FIGHT_REWARD": [
+        {
+          "COUNT": 140000,
+          "GSID": 38006,
+          "ADD": 0
+        },
+        {
+          "COUNT": 47,
+          "GSID": 30020,
+          "ADD": 0
+        }
+      ],
+      "SKILL": [
+        18003,
+        18008,
+        18013,
+        18018
+      ],
+      "RANDOM_REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33109,
+          "CHANCE": 400
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33110,
+          "CHANCE": 350
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33111,
+          "CHANCE": 250
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112,
+          "CHANCE": 0
+        }
+      ]
+    },
+    "4": {
+      "RANDOM_RATE": [
+        {
+          "NUM": 0,
+          "CHANCE": 630
+        },
+        {
+          "NUM": 1,
+          "CHANCE": 370
+        },
+        {
+          "NUM": 2,
+          "CHANCE": 0
+        },
+        {
+          "NUM": 3,
+          "CHANCE": 0
+        }
+      ],
+      "ID": 4,
+      "FIGHT_REWARD": [
+        {
+          "COUNT": 140000,
+          "GSID": 38006,
+          "ADD": 0
+        },
+        {
+          "COUNT": 47,
+          "GSID": 30020,
+          "ADD": 0
+        }
+      ],
+      "SKILL": [
+        18023,
+        18028,
+        18033,
+        18038
+      ],
+      "RANDOM_REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33309,
+          "CHANCE": 400
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33310,
+          "CHANCE": 350
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33311,
+          "CHANCE": 250
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312,
+          "CHANCE": 0
+        }
+      ]
+    }
+  },
+  "LEGION_WORLD_REWARD": [
+    {
+      "MIN": 1,
+      "MAX": 1,
+      "ITEMS": [
+        {
+          "COUNT": 1000,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 10000000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 16000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 2,
+      "MAX": 2,
+      "ITEMS": [
+        {
+          "COUNT": 950,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 9500000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 15000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 3,
+      "MAX": 3,
+      "ITEMS": [
+        {
+          "COUNT": 900,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 9000000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 14000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 4,
+      "MAX": 4,
+      "ITEMS": [
+        {
+          "COUNT": 850,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 8500000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 13000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 5,
+      "MAX": 5,
+      "ITEMS": [
+        {
+          "COUNT": 800,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 8000000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 12000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 6,
+      "MAX": 10,
+      "ITEMS": [
+        {
+          "COUNT": 750,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 7500000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 11000,
+          "GSID": 30020
+        }
+      ]
+    },
+    {
+      "MIN": 11,
+      "MAX": 999999,
+      "ITEMS": [
+        {
+          "COUNT": 700,
+          "GSID": 38005
+        },
+        {
+          "COUNT": 7000000,
+          "GSID": 38006
+        },
+        {
+          "COUNT": 10000,
+          "GSID": 30020
+        }
+      ]
+    }
+  ]
+}

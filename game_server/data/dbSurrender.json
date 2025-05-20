@@ -1,0 +1,1490 @@
+{
+  "10510": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 50
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16241,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 26241
+      }
+    ]
+  },
+  "14510": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16301,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26301
+      }
+    ]
+  },
+  "10210": {
+    "CAST": 1000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 50
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 20,
+        "GSID": 36041
+      }
+    ],
+    "GSID": 16341,
+    "SRENDER": [
+      {
+        "COUNT": 20,
+        "GSID": 26341
+      }
+    ]
+  },
+  "11410": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 10301,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 20301
+      }
+    ]
+  },
+  "15310": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12001,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22001
+      }
+    ]
+  },
+  "17110": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 16201,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26201
+      }
+    ]
+  },
+  "14410": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12061,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22061
+      }
+    ]
+  },
+  "11510": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10001,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20001
+      }
+    ]
+  },
+  "11210": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 100
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 10201,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 20201
+      }
+    ]
+  },
+  "16510": {
+    "CAST": 1000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16361,
+    "SRENDER": [
+      {
+        "COUNT": 20,
+        "GSID": 26361
+      }
+    ]
+  },
+  "11310": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 10221,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 20221
+      }
+    ]
+  },
+  "16410": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10021,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 20021
+      }
+    ]
+  },
+  "13510": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14081,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24081
+      }
+    ]
+  },
+  "10610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 16222,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26222
+      }
+    ]
+  },
+  "12210": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12121,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22121
+      }
+    ]
+  },
+  "11610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10081,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20081
+      }
+    ]
+  },
+  "16310": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10141,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20141
+      }
+    ]
+  },
+  "15210": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12241,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22241
+      }
+    ]
+  },
+  "11110": {
+    "CAST": 1000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 10261,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 20261
+      }
+    ]
+  },
+  "17210": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10041,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20041
+      }
+    ]
+  },
+  "12410": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12161,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22161
+      }
+    ]
+  },
+  "15610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12141,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22141
+      }
+    ]
+  },
+  "16210": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12261,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22262
+      }
+    ]
+  },
+  "13210": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 14201,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24201
+      }
+    ]
+  },
+  "17410": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16261,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26261
+      }
+    ]
+  },
+  "10410": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 50
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16261,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 26221
+      }
+    ]
+  },
+  "13410": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 14261,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24261
+      }
+    ]
+  },
+  "12510": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12241,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22242
+      }
+    ]
+  },
+  "10105": {
+    "CAST": 100,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 0
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 20,
+        "GSID": 36041
+      }
+    ],
+    "GSID": 16321,
+    "SRENDER": [
+      {
+        "COUNT": 20,
+        "GSID": 26321
+      }
+    ]
+  },
+  "13110": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14041,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24041
+      }
+    ]
+  },
+  "15110": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14121,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24121
+      }
+    ]
+  },
+  "17310": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 16121,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26121
+      }
+    ]
+  },
+  "17610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 16101,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 26101
+      }
+    ]
+  },
+  "14310": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14021,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24021
+      }
+    ]
+  },
+  "12310": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12201,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22202
+      }
+    ]
+  },
+  "13610": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14181,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24181
+      }
+    ]
+  },
+  "14110": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12201,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22201
+      }
+    ]
+  },
+  "17510": {
+    "CAST": 1000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 10161,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20161
+      }
+    ]
+  },
+  "12610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12041,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22041
+      }
+    ]
+  },
+  "14210": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14061,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24061
+      }
+    ]
+  },
+  "15510": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16381,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 26381
+      }
+    ]
+  },
+  "10310": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 50
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 16281,
+    "SRENDER": [
+      {
+        "COUNT": 30,
+        "GSID": 26281
+      }
+    ]
+  },
+  "14610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12021,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22021
+      }
+    ]
+  },
+  "16610": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 12081,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22081
+      }
+    ]
+  },
+  "15410": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12201,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22202
+      }
+    ]
+  },
+  "12110": {
+    "CAST": 5000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 12181,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 22182
+      }
+    ]
+  },
+  "16110": {
+    "CAST": 20000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 15,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      }
+    ],
+    "GSID": 10241,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 20242
+      }
+    ]
+  },
+  "13310": {
+    "CAST": 1000,
+    "LOYAL": {
+      "RANGE": [
+        1,
+        5
+      ],
+      "BASE": 80
+    },
+    "KILL": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "GSID": 14141,
+    "SRENDER": [
+      {
+        "COUNT": 50,
+        "GSID": 24141
+      }
+    ]
+  }
+}

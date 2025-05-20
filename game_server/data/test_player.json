@@ -1,0 +1,394 @@
+{
+  "team": {
+    "18": {
+      "guid": "5d6cdb0b9c086f6fab3bbceb",
+      "camp": 1,
+      "power": 308,
+      "battleset": {
+        "pvpdef": "18"
+      },
+      "star": 3,
+      "occu": 4,
+      "level": 1,
+      "property": {
+        "atk": 56,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 41,
+        "mdef": 41,
+        "hp": 440,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 38,
+        "def": 38,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 10341,
+      "skill": [
+        40341,
+        40346
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "20": {
+      "guid": "5d6cdb0b9c086f6fab3bbcea",
+      "camp": 3,
+      "power": 310,
+      "battleset": {
+        "pvpdef": "20"
+      },
+      "star": 3,
+      "occu": 1,
+      "level": 1,
+      "property": {
+        "atk": 41,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 35,
+        "mdef": 35,
+        "hp": 595,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 43,
+        "def": 43,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 14301,
+      "skill": [
+        44301,
+        44306
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "13": {
+      "guid": "5d6cee319c086f6fab3bbd1a",
+      "treasure": 34004,
+      "camp": 2,
+      "power": 26092,
+      "battleset": {
+        "pvpdef": "13",
+        "tower": "11",
+        "pvpatt": "11",
+        "normal": "10"
+      },
+      "star": 6,
+      "occu": 1,
+      "level": 123,
+      "property": {
+        "atk": 7269,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 712,
+        "mdef": 712,
+        "hp": 116788,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 978,
+        "def": 978,
+        "pxfatk": 80,
+        "php": 130,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33011",
+        "33111",
+        "33209",
+        "33309"
+      ],
+      "gsid": 12002,
+      "skill": [
+        42002,
+        42007,
+        42012,
+        42017
+      ],
+      "class": 6,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "21": {
+      "guid": "5d6b6c4c1f453805be0c7218",
+      "camp": 3,
+      "power": 291,
+      "battleset": {
+        "pvpdef": "21"
+      },
+      "star": 3,
+      "occu": 3,
+      "level": 1,
+      "property": {
+        "atk": 71,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 36,
+        "mdef": 36,
+        "hp": 345,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 35,
+        "def": 35,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 14321,
+      "skill": [
+        44321,
+        44326
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "19": {
+      "guid": "5d6b6c4a1f453805be0c7212",
+      "camp": 2,
+      "power": 4986,
+      "battleset": {
+        "pvpdef": "19",
+        "pvpatt": "20",
+        "expedition": "4",
+        "tower": "21"
+      },
+      "star": 4,
+      "occu": 3,
+      "level": 80,
+      "property": {
+        "atk": 1704,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 455,
+        "mdef": 455,
+        "hp": 8458,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 435,
+        "def": 435,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 12221,
+      "skill": [
+        42221,
+        42226,
+        42231
+      ],
+      "class": 4,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "12": {
+      "guid": "5d6ceea09c086f6fab3bbd1b",
+      "treasure": 34071,
+      "camp": 3,
+      "power": 30614,
+      "battleset": {
+        "normal": "4",
+        "tower": "12",
+        "pvpdef": "12",
+        "pvpatt": "12",
+        "expedition": "5"
+      },
+      "star": 6,
+      "occu": 1,
+      "level": 130,
+      "property": {
+        "patk": 70,
+        "atk": 8450,
+        "pssatk": 80,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 867,
+        "mdef": 867,
+        "hp": 139576,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 1020,
+        "def": 1020,
+        "php": 90,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33009",
+        "33109",
+        "33209",
+        "33309"
+      ],
+      "gsid": 14002,
+      "skill": [
+        44002,
+        44007,
+        44012,
+        44017
+      ],
+      "class": 6,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "10": {
+      "guid": "5d6cdb0b9c086f6fab3bbce9",
+      "camp": 4,
+      "power": 315,
+      "battleset": {
+        "pvpdef": "10"
+      },
+      "star": 3,
+      "occu": 1,
+      "level": 1,
+      "property": {
+        "atk": 44,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 40,
+        "mdef": 40,
+        "hp": 10000000,
+        "range": 100,
+        "atktime": 1.5,
+        "pdef": 41,
+        "def": 41,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 16321,
+      "skill": [
+        46321,
+        46326
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "28": {
+      "guid": "5d7763776879eb246dd466e3",
+      "camp": 2,
+      "power": 307,
+      "battleset": {
+        "pvpdef": "28"
+      },
+      "star": 3,
+      "occu": 4,
+      "level": 1,
+      "property": {
+        "atk": 59,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 47,
+        "mdef": 47,
+        "hp": 410,
+        "range": 500,
+        "atktime": 1,
+        "pdef": 32,
+        "def": 32,
+        "pcrid": 2000
+      },
+      "equip": [],
+      "gsid": 12301,
+      "skill": [
+        42301,
+        42306
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    },
+    "27": {
+      "guid": "5d6cedfc9c086f6fab3bbd19",
+      "treasure": 34071,
+      "camp": 2,
+      "power": 3323,
+      "battleset": {
+        "pvpdef": "27",
+        "tower": "27",
+        "pvpatt": "21",
+        "normal": "26"
+      },
+      "star": 6,
+      "occu": 5,
+      "level": 1,
+      "property": {
+        "patk": 70,
+        "atk": 1399,
+        "pssatk": 80,
+        "msp": 300,
+        "pcri": 50,
+        "pmdef": 63,
+        "mdef": 63,
+        "hp": 12994,
+        "range": 100,
+        "atktime": 1.2,
+        "pdef": 57,
+        "def": 57,
+        "php": 50,
+        "pcrid": 2000
+      },
+      "equip": [
+        "33009",
+        "33109",
+        "33211",
+        "33309"
+      ],
+      "gsid": 12263,
+      "skill": [
+        42262,
+        42267,
+        42272,
+        42277
+      ],
+      "class": 0,
+      "exclusive": {
+        "property": [],
+        "gsid": 39000,
+        "skill": [],
+        "level": 0
+      }
+    }
+  },
+  "mythic": {
+    "pskill": [
+      6,
+      5,
+      1,
+      0
+    ],
+    "class": 3,
+    "tid": "101",
+    "level": 85
+  }
+}

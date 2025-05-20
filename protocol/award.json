@@ -1,0 +1,72 @@
+{
+	"C2SListSignIn":{
+		"is_req":true,
+		"id":801
+	},
+	"S2CListSignIn":{
+		"is_resp":true,
+		"id":802,
+		"fields":[
+			{"sign_in_count":"int","desc":"Số lần đã điểm danh"},
+			{"is_get":"bool","desc":"Có nhận hay không?"}
+		]
+	},
+	"C2SGetSignAward":{
+		"is_req":true,
+		"id":803
+	},
+	"S2CGetSignAward":{
+		"is_resp":true,
+		"id":804,
+		"fields":[
+			{"awards":"[]AwardItem","desc":""}
+		]
+	},
+	"C2SListOnlineAward":{
+		"is_req":true,
+		"id":805,
+		"desc":"Tải thông tin phần thưởng trực tuyến"
+	},
+	"S2CListOnlineAward":{
+		"is_resp":true,
+		"id":806,
+		"fields":[
+			{"need_online_time":"long","desc":"Thời gian hiện tại (ms), thời gian cần đạt được"},
+			{"reward_index":"int","desc":"Chỉ mục phần thưởng chờ nhận"}
+		]
+	},
+	"C2SGetOnlineAward":{
+		"is_req":true,
+		"id":807,
+		"desc":"Nhận phần thưởng trực tuyến"
+	},
+	"S2CGetOnlineAward":{
+		"is_resp":true,
+		"id":808,
+		"fields":[
+			{"reward":"[]AwardItem","desc":""}
+		]
+	},
+	"C2SKeyConvert":{
+		"is_req":true,
+		"id":809,
+		"desc":"Đổi mã kích hoạt",
+		"fields":[
+			{"key":"string","desc":"Mã kích hoạt"}
+		]
+	},
+	"S2CKeyConvert":{
+		"is_resp":true,
+		"id":810,
+		"fields":[
+			{"result_id":"int","desc":"0 Thất bại, 1 Thành công"},
+			{"reward_item":"[]AwardItem"}
+		]
+	},
+	"AwardItem":{
+		"fields":[
+			{"gsid":"int"},
+			{"count":"int"}
+		]
+	}
+}

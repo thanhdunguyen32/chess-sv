@@ -1,0 +1,90 @@
+[
+  {
+    "NUM": 20,
+    "STAR": 5,
+    "RMARK": 90242,
+    "ITEMS": [
+      {
+        "COUNT": 1000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 1000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 600,
+        "GSID": 30016
+      }
+    ],
+    "NAME": "合成5星武将1次",
+    "NAME_VN": "Hợp thành võ tướng 5 sao 1 lần"
+  },
+  {
+    "NUM": 8,
+    "STAR": 6,
+    "RMARK": 90243,
+    "ITEMS": [
+      {
+        "COUNT": 4000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 5000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 300,
+        "GSID": 30017
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30009
+      }
+    ],
+    "NAME": "合成6星武将1次",
+    "NAME_VN": "Hợp thành võ tướng 6 sao 1 lần"
+  },
+  {
+    "NUM": 3,
+    "STAR": 9,
+    "RMARK": 90244,
+    "ITEMS": [
+      {
+        "COUNT": 8000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 8000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30009
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30029
+      }
+    ],
+    "NAME": "合成9星武将1次",
+    "NAME_VN": "Hợp thành võ tướng 9 sao 1 lần"
+  },
+  {
+    "NUM": 1,
+    "STAR": 10,
+    "RMARK": 90245,
+    "ITEMS": [
+      {
+        "COUNT": 2000,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30029
+      }
+    ],
+    "NAME": "合成10星武将1次",
+    "NAME_VN": "Hợp thành võ tướng 10 sao 1 lần"
+  }
+]

@@ -1,0 +1,23 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "desc": "Phát phụ đề mở đầu",
+      "command": {
+        "cmd": "opentx"
+      }
+    },
+    {
+      "numstep": 1,
+      "desc": "Đổi Tên",
+      "command": {
+        "cmd": "openpage",
+        "args": "create",
+        "nomask": true,
+        "page": "playerinfonamepage"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng Dẫn Đổi Tên"
+}

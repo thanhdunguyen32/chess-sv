@@ -1,0 +1,23 @@
+"id","name","type","priority"
+11,Phần thưởng nạp tích lũy|累计充值奖励,2,2
+12,Nạp lần đầu|首次充值,2,7
+13,Nạp liên tục|连续充值,2,7
+14,Nạp hàng ngày|每日充值,2,4
+15,Tổng chi tiêu|累计消费,2,7
+16,Đăng nhập hàng ngày|每日登陆,3,1
+17,Xếp hạng Arena|竞技场排名,2,8
+18,Mở hộp vàng X lần|开金宝箱X次,2,8
+19,Mở hộp bạc X lần|开银宝箱X次,2,8
+20,Mở hộp đồng X lần|开铜宝箱X次,2,8
+21,Mở hộp gỗ X lần|开木质宝箱X次,2,8
+22,Rút thưởng tại quán rượu X lần|酒馆抽奖X次,2,8
+23,Rút thưởng tại quán rượu 10 lần|酒馆十连抽X次,2,8
+24,Bảng xếp hạng|冲级榜,2,8
+106,Phần thưởng tăng gấp đôi|奖励加倍,2,8
+111,Quỹ phát triển|成长基金,3,6
+112,Quỹ phúc lợi|全民福利,2,8
+116,Hộp quà héro|英雄礼包,2,5
+117,Rút thưởng tại quán rượu X lần|酒馆抽奖X次,2,8
+119,Quỹ phúc lợi|奇珍异宝,2,8
+121,Nạp lần đầu|单笔充值,2,3
+128,Quỹ trẻ em|青春基金,2,6

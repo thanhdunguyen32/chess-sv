@@ -1,0 +1,236 @@
+[
+  {
+    "ID": 1,
+    "COST": 0,
+    "TITLE": "Thành Thị Tuần Tra",
+    "STAR": 1
+  },
+  {
+    "ID": 2,
+    "COST": 0,
+    "TITLE": "Nhưỡng Tửu",
+    "STAR": 1
+  },
+  {
+    "ID": 3,
+    "COST": 0,
+    "TITLE": "Khai Khẩn Hoang Địa",
+    "STAR": 1
+  },
+  {
+    "ID": 4,
+    "COST": 0,
+    "TITLE": "Gia Cố Thành Tường",
+    "STAR": 2
+  },
+  {
+    "ID": 5,
+    "COST": 0,
+    "TITLE": "Phát Bảng Cầu Hiền",
+    "STAR": 2
+  },
+  {
+    "ID": 6,
+    "COST": 0,
+    "TITLE": "Tửu Quán Ẩu Đả",
+    "STAR": 2
+  },
+  {
+    "ID": 7,
+    "COST": 0,
+    "TITLE": "Quân Đội Huấn Luyện",
+    "STAR": 2
+  },
+  {
+    "ID": 8,
+    "COST": 0,
+    "TITLE": "Dạ Quan Thiên Tượng",
+    "STAR": 2
+  },
+  {
+    "ID": 9,
+    "COST": 0,
+    "TITLE": "Tiễu Diệt Sơn Tặc",
+    "STAR": 3
+  },
+  {
+    "ID": 10,
+    "COST": 0,
+    "TITLE": "Bí Chế Tửu Nhưỡng",
+    "STAR": 3
+  },
+  {
+    "ID": 11,
+    "COST": 0,
+    "TITLE": "Trọng Dụng Nhân Tài",
+    "STAR": 3
+  },
+  {
+    "ID": 12,
+    "COST": 0,
+    "TITLE": "Nhật Thường Diễn Võ",
+    "STAR": 3
+  },
+  {
+    "ID": 13,
+    "COST": 0,
+    "TITLE": "Tử Vi Giáng Lâm",
+    "STAR": 3
+  },
+  {
+    "ID": 14,
+    "COST": 20,
+    "TITLE": "Tiêu Diệt Hoàng Tai",
+    "STAR": 4
+  },
+  {
+    "ID": 15,
+    "COST": 20,
+    "TITLE": "Thượng Sơn Thú Liệp",
+    "STAR": 4
+  },
+  {
+    "ID": 16,
+    "COST": 20,
+    "TITLE": "Biến Phỏng Hiền Sĩ",
+    "STAR": 4
+  },
+  {
+    "ID": 17,
+    "COST": 20,
+    "TITLE": "Võ Cử Tuyển Bạt",
+    "STAR": 4
+  },
+  {
+    "ID": 18,
+    "COST": 20,
+    "TITLE": "Thiên Lang Tinh",
+    "STAR": 4
+  },
+  {
+    "ID": 19,
+    "COST": 50,
+    "TITLE": "Thủy Điền Khuếch Dung",
+    "STAR": 5
+  },
+  {
+    "ID": 20,
+    "COST": 50,
+    "TITLE": "Sơn Lâm Thám Hiểm",
+    "STAR": 5
+  },
+  {
+    "ID": 21,
+    "COST": 50,
+    "TITLE": "Bách Gia Tranh Minh",
+    "STAR": 5
+  },
+  {
+    "ID": 22,
+    "COST": 50,
+    "TITLE": "Diễn Võ Đại Trại",
+    "STAR": 5
+  },
+  {
+    "ID": 23,
+    "COST": 50,
+    "TITLE": "Thiên Cẩu Thực Nguyệt",
+    "STAR": 5
+  },
+  {
+    "ID": 24,
+    "COST": 100,
+    "TITLE": "Triều Bái Thiên Tử",
+    "STAR": 6
+  },
+  {
+    "ID": 25,
+    "COST": 100,
+    "TITLE": "Đại Tiệc Mãn Hán",
+    "STAR": 6
+  },
+  {
+    "ID": 26,
+    "COST": 100,
+    "TITLE": "Thiên Tử Ân Khoa",
+    "STAR": 6
+  },
+  {
+    "ID": 27,
+    "COST": 100,
+    "TITLE": "Sa Trường Điểm Binh",
+    "STAR": 6
+  },
+  {
+    "ID": 28,
+    "COST": 100,
+    "TITLE": "Thủy Lục Đại Hội",
+    "STAR": 6
+  },
+  {
+    "ID": 29,
+    "COST": 100,
+    "TITLE": "Hung Nô Tiến Cống",
+    "STAR": 6
+  },
+  {
+    "ID": 30,
+    "COST": 100,
+    "TITLE": "Thất Tinh Liên Châu",
+    "STAR": 6
+  },
+  {
+    "ID": 31,
+    "COST": 200,
+    "TITLE": "Gia Miện Vi Vương",
+    "STAR": 7
+  },
+  {
+    "ID": 32,
+    "COST": 200,
+    "TITLE": "Nam Tiến Hàng Hải",
+    "STAR": 7
+  },
+  {
+    "ID": 33,
+    "COST": 200,
+    "TITLE": "Thiên Hạ Đại Xá",
+    "STAR": 7
+  },
+  {
+    "ID": 34,
+    "COST": 200,
+    "TITLE": "Tam Cố Mao Lư",
+    "STAR": 7
+  },
+  {
+    "ID": 35,
+    "COST": 200,
+    "TITLE": "Tế Thiên Đại Điển",
+    "STAR": 7
+  },
+  {
+    "ID": 36,
+    "COST": 200,
+    "TITLE": "Tuyệt Thế Thần Binh",
+    "STAR": 7
+  },
+  {
+    "ID": 37,
+    "COST": 200,
+    "TITLE": "Tử Vi Đế Tinh",
+    "STAR": 7
+  },
+  {
+    "ID": 38,
+    "COST": 20,
+    "TITLE": "Đế Vương Hộ Vệ",
+    "STAR": 4
+  },
+  {
+    "ID": 39,
+    "COST": 20,
+    "TITLE": "Ma Vương Hộ Vệ",
+    "STAR": 4
+  }
+]

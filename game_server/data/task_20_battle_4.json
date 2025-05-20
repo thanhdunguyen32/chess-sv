@@ -1,0 +1,69 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 100,
+      "desc": "Nhấn vào võ tướng 1",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > global_frame_01 > general_view > content # 10241 > icon",
+        "text": "Đầu tiên cần để võ tướng mới gia nhập ra trận!"
+      }
+    },
+    {
+      "numstep": 100,
+      "desc": "Nhấn vào võ tướng 1",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > global_frame_01 > general_view > content # 14241 > icon",
+        "text": "Đầu tiên cần để võ tướng mới gia nhập ra trận!"
+      }
+    },
+    {
+      "numstep": 101,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Bẩm Chủ Công, địch quân hậu trận có bố trí \"trợ thủ\", nếu để chúng tự do hành động, e rằng trận chiến khó phân thắng bại nhanh chóng.",
+          "May thay, tướng mới có chức nghiệp Thích Khách, chuyên đối phó với đơn vị hàng sau của địch. (Thích khách sẽ tập kích đơn vị ở xa nhất trong hàng sau của địch ngay khi trận chiến bắt đầu)."
+        ]
+      }
+    },
+    {
+      "numstep": 102,
+      "desc": "Dẫn đạo bố trí",
+      "command": {
+        "cmd": "drag",
+        "nomask": true,
+        "end": 28,
+        "start": 12
+      }
+    },
+    {
+      "numstep": 103,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công anh minh, thích khách chuyên môn khắc chế đơn vị hàng sau, kể từ đó quân địch phụ trợ cũng vô pháp phát huy tác dụng quá lớn!"
+      }
+    },
+    {
+      "numstep": 104,
+      "desc": "Nhấn để bắt đầu chiến đấu",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "battle_page > battle_btn_start_01",
+        "text": "Bày trận hoàn thành, thỉnh chúa công hạ lệnh toàn quân xuất kích!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn chiến đấu"
+}

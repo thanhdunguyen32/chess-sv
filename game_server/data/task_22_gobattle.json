@@ -1,0 +1,53 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 120,
+      "desc": "Nhấn vào Trường An",
+      "command": {
+        "cmd": "cityfinger",
+        "cityid": "101",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 121,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "gsid": 16221,
+        "args": "Lũ chuột nhắt các ngươi, thừa lúc con ta Phụng Tiên trấn giữ Hổ Lao Quan mà đến công thành. Nếu nó có mặt, dù các ngươi hợp sức cũng chẳng phải đối thủ!",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 122,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "gsid": 16061,
+        "args": "Chủ Công chớ lo, còn ta Hoa Hùng ở đây, lũ vô danh tiểu tốt này chẳng chịu nổi một hiệp!",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 123,
+      "desc": "Dẫn đạo đối thoại 3",
+      "command": {
+        "cmd": "talk",
+        "args": "Nhiều lời vô ích, chúng ta trên chiến trường phân thắng bại!"
+      }
+    },
+    {
+      "numstep": 124,
+      "desc": "Nhấn vào Công Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > windows_page_siege > btn_right",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới Chinh Chiến"
+}

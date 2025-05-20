@@ -1,0 +1,28 @@
+{
+  "THREECHOOSEONE": [
+    {
+      "REWARD": {
+        "COUNT": 1,
+        "GSID": 10222
+      },
+      "MINMAP": 10210,
+      "EXID": "campaignhelp_0"
+    },
+    {
+      "REWARD": {
+        "COUNT": 1,
+        "GSID": 12202
+      },
+      "MINMAP": 10210,
+      "EXID": "campaignhelp_1"
+    },
+    {
+      "REWARD": {
+        "COUNT": 1,
+        "GSID": 14262
+      },
+      "MINMAP": 10210,
+      "EXID": "campaignhelp_2"
+    }
+  ]
+}

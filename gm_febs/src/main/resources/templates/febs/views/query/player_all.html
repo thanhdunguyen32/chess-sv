@@ -1,0 +1,184 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-user" lay-title="Thông tin tất cả người chơi">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" lay-filter="user-table-form">
+                        <div class="layui-form-item">
+                            <fieldset class="layui-elem-field layui-field-title">
+                                <legend>
+                                    <small style="color:black;">Thông tin tất cả người chơi</small>
+                                </legend>
+                            </fieldset>
+                        </div>
+                        <div class="layui-row">
+                            <div class="layui-col-md10">
+                                <div class="layui-form-item">
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">ID:</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="playerId" autocomplete="off" class="layui-input">
+                                        </div>
+                                    </div>
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">Tên:</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="playerName" autocomplete="off" class="layui-input">
+                                        </div>
+                                    </div>
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">VIP:</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="vipLevel" autocomplete="off" class="layui-input">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="layui-col-md2 layui-col-sm12 layui-col-xs12 table-action-area">
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="query">
+                                    <i class="layui-icon">&#xe848;</i>
+                                </div>
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="reset">
+                                    <i class="layui-icon">&#xe79b;</i>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                    <table lay-filter="userTable" lay-data="{id: 'userTable'}"></table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="text/html" id="user-status">
+    {{#
+    var status = {
+    1: {title: 'Hoạt động', color: 'green'},
+    0: {title: 'Vô hiệu', color: 'volcano'}
+    }[d.status];
+    }}
+    <span class="layui-badge febs-tag-{{status.color}}">{{ status.title }}</span>
+</script>
+<script type="text/html" id="user-sex">
+    {{#
+    var sex = {
+    2: {title: 'Bí mật'},
+    1: {title: 'Nữ'},
+    0: {title: 'Nam'}
+    }[d.sex];
+    }}
+    <span>{{ sex.title }}</span>
+</script>
+<script type="text/html" id="format-percent">
+    {{#
+    var yes_retain = d.yesterdayRetain.toFixed(2);
+    }}
+    <span>{{ yes_retain+"%" }}</span>
+</script>
+<script type="text/html" id="stat-time-date">
+    {{#
+    var stat_date = d.statTime.substring(0,10);
+    }}
+    <span>{{ stat_date }}</span>
+</script>
+<script type="text/html" id="user-option">
+    <span shiro:lacksPermission="query:player:view">
+        <span class="layui-badge-dot febs-bg-orange"></span> Không có quyền
+    </span>
+    <a lay-event="detail" shiro:hasPermission="query:player:view"><i
+            class="layui-icon febs-edit-area febs-green">&#xe7a5;</i></a>
+</script>
+<script data-th-inline="none" type="text/javascript">
+    layui.use(['dropdown', 'jquery', 'form', 'table', 'febs'], function () {
+        var $ = layui.jquery,
+            febs = layui.febs,
+            form = layui.form,
+            table = layui.table,
+            dropdown = layui.dropdown,
+            $view = $('#febs-user'),
+            $query = $view.find('#query'),
+            $reset = $view.find('#reset'),
+            $searchForm = $view.find('form'),
+            sortObject = {field: 'createTime', type: null},
+            tableIns;
+
+        form.render();
+
+        initTable();
+
+        table.on('tool(userTable)', function (obj) {
+            var data = obj.data,
+                layEvent = obj.event;
+            if (layEvent === 'detail') {
+                febs.modal.view('Chi tiết người chơi', 'query/player/detail/' + data.id, {
+                    area: $(window).width() <= 750 ? '95%' : '660px'
+                });
+            }
+        });
+
+        $query.on('click', function () {
+            var params = $.extend(getQueryParams(), {field: sortObject.field, order: sortObject.type});
+            tableIns.reload({where: params, page: {curr: 1}});
+        });
+
+        $reset.on('click', function () {
+            $searchForm[0].reset();
+            sortObject.type = 'null';
+            tableIns.reload({where: getQueryParams(), page: {curr: 1}});
+        });
+
+        function initTable() {
+            tableIns = table.render({
+                elem: $view.find('table'),
+                url: ctx + 'query/playerAllBase',
+                cellMinWidth: 80,
+                page: true,
+                cols: [[
+                    {title: 'ID người chơi', field: 'id', width: 100, sort: true},
+                    {field: 'name', title: 'Tên', width: 140, sort: true},
+                    {field: 'level', title: 'Cấp độ', width: 80, sort: true},
+                    {field: 'viplevel', title: 'Cấp VIP', width: 90, sort: true},
+                    {field: 'fight', title: 'Sức mạnh', width: 100, sort: true},
+                    {field: 'gold', title: 'Vàng', width: 120, sort: true},
+                    {field: 'cooper', title: 'Đồng', width: 120, sort: true},
+                    {field: 'diamond', title: 'Kim cương', width: 120, sort: true},
+                    {field: 'lastLoginTime', title: 'Lần cuối đăng nhập', width: 160, sort: true},
+                    {field: 'createTime', title: 'Ngày tạo', width: 160, sort: true},
+                    {title: 'Thao tác', toolbar: '#user-option', width: 140, fixed: 'right'}
+                ]],
+                initSort: {
+                    field: 'id',
+                    type: 'desc'
+                },
+                parseData: function(res) {
+                    return {
+                        "code": res.code == 200 ? 0 : res.code,
+                        "msg": res.message,
+                        "count": res.data ? res.data.total : 0,
+                        "data": res.data ? res.data.rows : []
+                    };
+                }
+            });
+        }
+
+        function getQueryParams() {
+            var params = {};
+            $.each($searchForm.serializeArray(), function(_, item) {
+                if (item.value) {
+                    params[item.name] = item.value;
+                }
+            });
+            return params;
+        }
+
+        table.on('sort(userTable)', function(obj){
+            tableIns.reload({
+                initSort: obj,
+                where: $.extend(getQueryParams(), {
+                    sort: obj.field,
+                    order: obj.type
+                })
+            });
+        });
+    });
+</script>

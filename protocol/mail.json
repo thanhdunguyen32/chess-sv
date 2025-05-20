@@ -1,0 +1,92 @@
+{
+	"C2SMailList":{
+		"is_req":true,
+		"id":701
+	},
+	"S2CMailList":{
+		"is_resp":true,
+		"id":702,
+		"fields":[
+			{"list":"[]IOMailInfo"}
+		]
+	},
+	"IOMailInfo":{
+		"desc":"Tải thư",
+		"fields":[
+			{"id":"int"},
+			{"from":"IOMailFrom"},
+			{"type":"int","desc":"Loại thư (0: Thư tùy chỉnh, 1: Thư đọc từ bảng cấu hình)"},
+			{"state":"int","desc":"new,is_read,get_attach"},
+			{"title":"string","desc":"Tiêu đề (đọc khi ID mẫu thư = 0)"},
+			{"content":"string","desc":"Nội dung (đọc khi ID mẫu thư = 0)"},
+			{"reward":"[]IOMailAttach"},
+			{"stime":"long"},
+			{"etime":"long"}
+		]
+	},
+	"IOMailFrom":{
+		"fields":[
+			{"type":"string","desc":"sys,role,legion"},
+			{"fid":"int","desc":"from player id"},
+			{"legion":"int","desc":"from legion id"}
+		]
+	},
+	"IOMailAttach":{
+		"fields":[
+			{"gsid":"int"},
+			{"count":"int"}
+		]
+	},
+	"C2SGetMailAttach":{
+		"is_req":true,
+		"id":703,
+		"desc":"Nhận tệp đính kèm",
+		"fields":[{"mail_id":"[]int"}]
+	},
+	"S2CGetMailAttach":{
+		"is_resp":true,
+		"id":704,
+		"fields":[
+			{"rewards":"[]IOMailAttach"}
+		]
+	},
+	"C2SSetMailRead":{
+		"is_req":true,
+		"id":705,
+		"desc":"Đọc thư mới",
+		"fields":[{"mail_id":"[]int"}]
+	},
+	"S2CSetMailRead":{
+		"is_resp":true,
+		"id":706
+	},
+	"C2SDelMail":{
+		"is_req":true,
+		"id":707,
+		"desc":"Xóa thư",
+		"fields":[{"mail_id":"[]int"}]
+	},
+	"S2CDelMail":{
+		"is_resp":true,
+		"id":708
+	},
+	"PushNewMail":{
+		"is_resp":true,
+		"id":710,
+		"fields":[
+			{"mail_info":"IOMailInfo"}
+		]
+	},
+    "C2SMailRedNotice":{
+        "desc":"",
+        "is_req":true,
+        "id":711
+    },
+    "S2CMailRedNotice":{
+		"is_resp":true,
+		"id":712,
+		"fields":[
+			{"ret":"bool"}
+		]
+    }
+}

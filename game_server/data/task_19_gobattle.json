@@ -1,0 +1,38 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 97,
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "location": "up",
+        "text": "Hoàn thành chuẩn bị! Giờ là thời điểm để võ tướng mới đại triển quyền cước!"
+      }
+    },
+    {
+      "numstep": 98,
+      "desc": "Nhấn vào Trường An",
+      "command": {
+        "cmd": "cityfinger",
+        "cityid": "101",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 99,
+      "desc": "Nhấn vào Công Thành",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > windows_page_siege > btn_right",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới Chinh Chiến"
+}

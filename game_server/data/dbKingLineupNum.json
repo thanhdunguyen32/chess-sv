@@ -1,0 +1,20 @@
+[
+  {
+    "LINEUPNUM": 1,
+    "STAGE": 2,
+    "NAME": "白银",
+    "NAME_VN": "Bạch Ngân"
+  },
+  {
+    "LINEUPNUM": 2,
+    "STAGE": 5,
+    "NAME": "钻石",
+    "NAME_VN": "Kim Cương"
+  },
+  {
+    "LINEUPNUM": 3,
+    "STAGE": 7,
+    "NAME": "王者",
+    "NAME_VN": "Vương Giả"
+  }
+]

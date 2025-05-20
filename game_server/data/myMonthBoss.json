@@ -1,0 +1,390 @@
+[
+  [
+    {
+      "general": 10041,
+      "level": 100,
+      "bset": {
+        "4": {
+          "gsid": 10202,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 50000000,
+          "exatk": 5
+        },
+        "17": {
+          "gsid": 10041,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 50000000,
+          "exatk": 5
+        },
+        "22": {
+          "gsid": 10061,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 50000000,
+          "exatk": 5
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 38006,
+          "COUNT": 15000000
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 7500000
+        }
+      ],
+      "maxhp": 150000000
+    },
+    {
+      "general": 10021,
+      "level": 200,
+      "bset": {
+        "10": {
+          "gsid": 10142,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 266666667,
+          "exatk": 12
+        },
+        "12": {
+          "gsid": 10022,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 266666667,
+          "exatk": 12
+        },
+        "14": {
+          "gsid": 10162,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 266666667,
+          "exatk": 12
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 38006,
+          "COUNT": 40000000
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 20000000
+        },
+        {
+          "GSID": 30029,
+          "COUNT": 60
+        }
+      ],
+      "maxhp": 800000000
+    },
+    {
+      "general": 10081,
+      "level": 300,
+      "bset": {
+        "12": {
+          "gsid": 10086,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1000000000,
+          "exatk": 15
+        },
+        "19": {
+          "gsid": 10046,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1000000000,
+          "exatk": 15
+        },
+        "28": {
+          "gsid": 10166,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1000000000,
+          "exatk": 15
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 38006,
+          "COUNT": 100000000
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 50000000
+        },
+        {
+          "GSID": 30029,
+          "COUNT": 120
+        }
+      ],
+      "maxhp": 3000000000
+    }
+  ],
+  [
+    {
+      "general": 12101,
+      "level": 100,
+      "bset": {
+        "27": {
+          "gsid": 12101,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 300000000,
+          "exatk": 10
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 30026,
+          "COUNT": 6000
+        }
+      ],
+      "maxhp": 300000000
+    },
+    {
+      "general": 12041,
+      "level": 200,
+      "bset": {
+        "31": {
+          "gsid": 12042,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1600000000,
+          "exatk": 25
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 30026,
+          "COUNT": 16000
+        },
+        {
+          "GSID": 30029,
+          "COUNT": 60
+        }
+      ],
+      "maxhp": 1600000000
+    },
+    {
+      "general": 12061,
+      "level": 300,
+      "bset": {
+        "12": {
+          "gsid": 12066,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 6000000000,
+          "exatk": 20
+        }
+      },
+      "lastdamge": 0,
+      "rewards": [
+        {
+          "GSID": 30026,
+          "COUNT": 40000
+        },
+        {
+          "GSID": 30029,
+          "COUNT": 120
+        }
+      ],
+      "maxhp": 6000000000
+    }
+  ],
+  [
+    {
+      "general": 14141,
+      "level": 100,
+      "bset": {
+        "10": {
+          "gsid": 14202,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 90000000,
+          "exatk": 5
+        },
+        "12": {
+          "gsid": 14222,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 90000000,
+          "exatk": 5
+        },
+        "19": {
+          "gsid": 14061,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 90000000,
+          "exatk": 5
+        },
+        "27": {
+          "gsid": 14141,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 90000000,
+          "exatk": 5
+        },
+        "28": {
+          "gsid": 14262,
+          "level": 100,
+          "hpcover": 1,
+          "class": 5,
+          "exhp": 90000000,
+          "exatk": 5
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 30016,
+          "COUNT": 1500
+        },
+        {
+          "GSID": 30017,
+          "COUNT": 750
+        }
+      ],
+      "maxhp": 450000000
+    },
+    {
+      "general": 14121,
+      "level": 200,
+      "bset": {
+        "11": {
+          "gsid": 14122,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 480000000,
+          "exatk": 10
+        },
+        "18": {
+          "gsid": 14082,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 480000000,
+          "exatk": 10
+        },
+        "20": {
+          "gsid": 14062,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 480000000,
+          "exatk": 10
+        },
+        "26": {
+          "gsid": 14042,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 480000000,
+          "exatk": 10
+        },
+        "28": {
+          "gsid": 14022,
+          "level": 200,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 480000000,
+          "exatk": 10
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 30016,
+          "COUNT": 4000
+        },
+        {
+          "GSID": 30017,
+          "COUNT": 2000
+        },
+        {
+          "GSID": 37002,
+          "COUNT": 50
+        }
+      ],
+      "maxhp": 2400000000
+    },
+    {
+      "general": 14181,
+      "level": 300,
+      "bset": {
+        "10": {
+          "gsid": 14186,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1800000000,
+          "exatk": 10
+        },
+        "12": {
+          "gsid": 14166,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1800000000,
+          "exatk": 10
+        },
+        "18": {
+          "gsid": 14126,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1800000000,
+          "exatk": 10
+        },
+        "19": {
+          "gsid": 14106,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1800000000,
+          "exatk": 10
+        },
+        "20": {
+          "gsid": 14146,
+          "level": 300,
+          "hpcover": 1,
+          "class": 6,
+          "exhp": 1800000000,
+          "exatk": 10
+        }
+      },
+      "rewards": [
+        {
+          "GSID": 30016,
+          "COUNT": 10000
+        },
+        {
+          "GSID": 30017,
+          "COUNT": 5000
+        },
+        {
+          "GSID": 37007,
+          "COUNT": 50
+        }
+      ],
+      "maxhp": 9000000000
+    }
+  ]
+]

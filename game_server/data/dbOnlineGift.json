@@ -1,0 +1,113 @@
+{
+  "REWARD": [
+    {
+      "TIME": 1,
+      "REWARD": [
+        {
+          "COUNT": 5000,
+          "GSID": 30001
+        }
+      ]
+    },
+    {
+      "TIME": 3,
+      "REWARD": [
+        {
+          "COUNT": 1,
+          "GSID": 33005
+        }
+      ]
+    },
+    {
+      "TIME": 5,
+      "REWARD": [
+        {
+          "COUNT": 50000,
+          "GSID": 38006
+        }
+      ]
+    },
+    {
+      "TIME": 10,
+      "REWARD": [
+        {
+          "COUNT": 30,
+          "GSID": 24201
+        }
+      ]
+    },
+    {
+      "TIME": 15,
+      "REWARD": [
+        {
+          "COUNT": 100,
+          "GSID": 30015
+        }
+      ]
+    },
+    {
+      "TIME": 20,
+      "REWARD": [
+        {
+          "COUNT": 50000,
+          "GSID": 30001
+        }
+      ]
+    },
+    {
+      "TIME": 30,
+      "REWARD": [
+        {
+          "COUNT": 100000,
+          "GSID": 38006
+        }
+      ]
+    },
+    {
+      "TIME": 30,
+      "REWARD": [
+        {
+          "COUNT": 30,
+          "GSID": 20281
+        }
+      ]
+    },
+    {
+      "TIME": 60,
+      "REWARD": [
+        {
+          "COUNT": 150000,
+          "GSID": 30001
+        }
+      ]
+    },
+    {
+      "TIME": 90,
+      "REWARD": [
+        {
+          "COUNT": 2,
+          "GSID": 30006
+        }
+      ]
+    },
+    {
+      "TIME": 120,
+      "REWARD": [
+        {
+          "COUNT": 300000,
+          "GSID": 38006
+        }
+      ]
+    },
+    {
+      "TIME": 120,
+      "REWARD": [
+        {
+          "COUNT": 50,
+          "GSID": 22222
+        }
+      ]
+    }
+  ],
+  "GIVE_SIGN": 90212
+}

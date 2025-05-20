@@ -1,0 +1,382 @@
+[
+  {
+    "SALARY": [
+      {
+        "COUNT": 25,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 25000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 1,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 36021
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 60
+      },
+      {
+        "KEY": 302,
+        "VAL": 30
+      }
+    ],
+    "NAME": "校尉",
+    "NAME_VN": "Hiệu Úy"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 50,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 5,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 120
+      },
+      {
+        "KEY": 302,
+        "VAL": 60
+      }
+    ],
+    "NAME": "都尉",
+    "NAME_VN": "Đô Úy"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 75,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 75000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 2,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 10,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 180
+      },
+      {
+        "KEY": 302,
+        "VAL": 90
+      }
+    ],
+    "NAME": "侍郎",
+    "NAME_VN": "Thị Lang"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 100,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 100000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 25,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 100,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 240
+      },
+      {
+        "KEY": 302,
+        "VAL": 120
+      }
+    ],
+    "NAME": "羽林卫",
+    "NAME_VN": "Vũ Lâm Vệ"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 125,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 125000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 3,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      },
+      {
+        "COUNT": 150,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 300
+      },
+      {
+        "KEY": 302,
+        "VAL": 150
+      }
+    ],
+    "NAME": "中郎将",
+    "NAME_VN": "Trung Lang Tướng"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 150,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 150000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32101
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 360
+      },
+      {
+        "KEY": 302,
+        "VAL": 180
+      }
+    ],
+    "NAME": "执金吾",
+    "NAME_VN": "Chấp Kim Ngô"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 175,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 175000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32101
+      },
+      {
+        "COUNT": 250,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 420
+      },
+      {
+        "KEY": 302,
+        "VAL": 210
+      }
+    ],
+    "NAME": "前将军",
+    "NAME_VN": "Tiền Tướng Quân"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 200,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 200000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 6,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32101
+      },
+      {
+        "COUNT": 300,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 480
+      },
+      {
+        "KEY": 302,
+        "VAL": 240
+      }
+    ],
+    "NAME": "骠骑将军",
+    "NAME_VN": "Phiêu Kỵ Tướng Quân"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 225,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 225000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 8,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32101
+      },
+      {
+        "COUNT": 300,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 540
+      },
+      {
+        "KEY": 302,
+        "VAL": 270
+      }
+    ],
+    "NAME": "都督",
+    "NAME_VN": "Đô Đốc"
+  },
+  {
+    "SALARY": [
+      {
+        "COUNT": 250,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 250000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30029
+      }
+    ],
+    "REWARD": [
+      {
+        "COUNT": 1,
+        "GSID": 32102
+      },
+      {
+        "COUNT": 300,
+        "GSID": 30029
+      }
+    ],
+    "ATTR": [
+      {
+        "KEY": 301,
+        "VAL": 600
+      },
+      {
+        "KEY": 302,
+        "VAL": 300
+      }
+    ],
+    "NAME": "大将军",
+    "NAME_VN": "Đại Tướng Quân"
+  }
+]

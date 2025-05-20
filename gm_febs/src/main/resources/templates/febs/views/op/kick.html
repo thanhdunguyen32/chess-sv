@@ -1,0 +1,67 @@
+<style>
+    #febs-op-kick .layui-form-label {
+        width: 125px
+    }
+    #febs-op-kick .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-kick" lay-title="Đăng xuất người chơi">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <form class="layui-form" action="" lay-filter="kick-form">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Đăng xuất người chơi</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label febs-form-item-require">ID người chơi:</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="playerId" lay-verify="required|number" 
+                                       placeholder="Nhập ID người chơi" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-input-block">
+                            <button type="submit" class="layui-btn" lay-submit="" lay-filter="kick-submit">
+                                <i class="layui-icon layui-icon-ok"></i>Đăng xuất
+                            </button>
+                            <button type="reset" class="layui-btn layui-btn-primary">
+                                <i class="layui-icon layui-icon-refresh"></i>Làm mới
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'validate'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            layer = layui.layer,
+            form = layui.form,
+            validate = layui.validate,
+            $view = $('#febs-op-kick');
+
+        form.verify(validate);
+        form.render();
+
+        form.on('submit(kick-submit)', function (data) {
+            febs.post(ctx + 'op/kickSend', data.field, function () {
+                layer.closeAll();
+                febs.alert.success('Đăng xuất người chơi thành công');
+                $view.find('button[type="reset"]').click();
+            });
+            return false;
+        });
+    });
+</script>

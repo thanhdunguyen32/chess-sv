@@ -1,0 +1,387 @@
+{
+  "32570": {
+    "INTRO": "Có thể nhận một tướng thần thoại chỉ định từ gói quà",
+    "BG": "dfzs_bg",
+    "QUALITY": 6,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 17041,
+        "EXID": "cbox_32570_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18001,
+        "EXID": "cbox_32570_3"
+      }
+    ],
+    "ICON": 32570,
+    "NAME": "巅峰战神包",
+    "NAME_VN": "Gói Chiến Thần"
+  },
+  "32504": {
+    "INTRO": "Có thể chọn 1 trong 5 tướng 5 sao thần thoại sau: Tôn Sách, Triệu Vân, U Diệp, Pháp Chính, Giả Hữu",
+    "BG": "sgtw_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 14001,
+        "EXID": "cbox_32504_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12061,
+        "EXID": "cbox_32504_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16101,
+        "EXID": "cbox_32504_2"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12381,
+        "EXID": "cbox_32504_3"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10161,
+        "EXID": "cbox_32504_4"
+      }
+    ],
+    "ICON": 32504,
+    "NAME": "三国天王包",
+    "NAME_VN": "Gói Tam Quốc"
+  },
+  "32507": {
+    "INTRO": "VIP 12: 150 triệu Tiền Đồng, 100 triệu EXP Tướng,  50.000 Tiến Hóa Thạch, 5000 Tọa Kỵ Đan",
+    "BG": "wgpx_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 150000000,
+        "GSID": 38006,
+        "EXID": "cbox_32507_0"
+      },
+      {
+        "COUNT": 100000000,
+        "GSID": 30001,
+        "EXID": "cbox_32507_1"
+      },
+      {
+        "COUNT": 50000,
+        "GSID": 30015,
+        "EXID": "cbox_32507_2"
+      },
+      {
+        "COUNT": 5000,
+        "GSID": 30026,
+        "EXID": "cbox_32507_3"
+      }
+    ],
+    "ICON": 32507,
+    "NAME": "五谷飘香包",
+    "NAME_VN": "Gói Phiêu Hương"
+  },
+  "32508": {
+    "INTRO": "VIP13: 300 triệu Tiền Đồng, 200 triệu EXP Tướng,  100.000 Tiến Hóa Thạch, 10.000 Tọa Kỵ Đan",
+    "BG": "blwx_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 300000000,
+        "GSID": 38006,
+        "EXID": "cbox_32508_0"
+      },
+      {
+        "COUNT": 200000000,
+        "GSID": 30001,
+        "EXID": "cbox_32508_1"
+      },
+      {
+        "COUNT": 100000,
+        "GSID": 30015,
+        "EXID": "cbox_32508_2"
+      },
+      {
+        "COUNT": 10000,
+        "GSID": 30026,
+        "EXID": "cbox_32508_3"
+      }
+    ],
+    "ICON": 32508,
+    "NAME": "苞笼万象包",
+    "NAME_VN": "Gói Vạn Tượng"
+  },
+  "32501": {
+    "INTRO": "Có thể chọn 1 trong 3 tướng 5 sao tinh anh sau: Lưu Bị, Tào Tháo, Tôn Quyền",
+    "BG": "qxlb_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10081,
+        "EXID": "cbox_32501_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12021,
+        "EXID": "cbox_32501_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14181,
+        "EXID": "cbox_32501_2"
+      }
+    ],
+    "ICON": 32501,
+    "NAME": "三国英杰包",
+    "NAME_VN": "Gói Anh Kiệt"
+  },
+  "32568": {
+    "INTRO": "Có thể nhận một tướng truyền thuyết chỉ định từ gói quà",
+    "BG": "sezs_bg",
+    "QUALITY": 6,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10161,
+        "EXID": "cbox_32568_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10421,
+        "EXID": "cbox_32568_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10441,
+        "EXID": "cbox_32568_2"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12061,
+        "EXID": "cbox_32568_3"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12381,
+        "EXID": "cbox_32568_4"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12401,
+        "EXID": "cbox_32568_5"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14001,
+        "EXID": "cbox_32568_6"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14401,
+        "EXID": "cbox_32568_7"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14421,
+        "EXID": "cbox_32568_8"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16101,
+        "EXID": "cbox_32568_9"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16421,
+        "EXID": "cbox_32568_10"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16441,
+        "EXID": "cbox_32568_11"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17021,
+        "EXID": "cbox_32568_12"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17121,
+        "EXID": "cbox_32568_13"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18121,
+        "EXID": "cbox_32568_14"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18021,
+        "EXID": "cbox_32568_15"
+      }
+    ],
+    "ICON": 32568,
+    "NAME": "极限战神包",
+    "NAME_VN": "Gói Cực hạn"
+  },
+  "32506": {
+    "INTRO": "VIP13: 300 triệu Tiền Đồng, 200 triệu EXP Tướng,  100.000 Tiến Hóa Thạch, 10.000 Tọa Kỵ Đan",
+    "BG": "rxfn_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 300000000,
+        "GSID": 38006,
+        "EXID": "cbox_32506_0"
+      },
+      {
+        "COUNT": 200000000,
+        "GSID": 30001,
+        "EXID": "cbox_32506_1"
+      },
+      {
+        "COUNT": 100000,
+        "GSID": 30015,
+        "EXID": "cbox_32506_2"
+      }
+    ],
+    "ICON": 32506,
+    "NAME": "瑞雪丰年包",
+    "NAME_VN": "Gói Thụy Tuyết"
+  },
+  "32569": {
+    "INTRO": "Có thể nhận một tướng truyền thuyết chỉ định từ gói quà. Giới hạn mua 1 lần",
+    "BG": "jywjxg_bg",
+    "QUALITY": 6,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 12061,
+        "EXID": "cbox_32569_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14001,
+        "EXID": "cbox_32569_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 10421,
+        "EXID": "cbox_32569_2"
+      }
+    ],
+    "ICON": 32569,
+    "NAME": "精英武将限购包",
+    "NAME_VN": "Gói Tinh Anh"
+  },
+  "32571": {
+    "INTRO": "Có thể nhận một vật phẩm chỉ định từ gói quà",
+    "BG": "cjxy_bg",
+    "QUALITY": 6,
+    "ITEMS": [
+      {
+        "COUNT": 100,
+        "GSID": 30006,
+        "EXID": "cbox_32571_0"
+      },
+      {
+        "COUNT": 25,
+        "GSID": 30011,
+        "EXID": "cbox_32571_1"
+      },
+      {
+        "COUNT": 50,
+        "GSID": 30009,
+        "EXID": "cbox_32571_2"
+      }
+    ],
+    "ICON": 32571,
+    "NAME": "超级幸运包",
+    "NAME_VN": "Gói May Mắn"
+  },
+  "32502": {
+    "INTRO": "Có thể chọn 1 trong 2 tướng 5 sao thần ma sau: Hàn Tín, Oda Nobunaga",
+    "BG": "smzf_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 17041,
+        "EXID": "cbox_32502_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 18001,
+        "EXID": "cbox_32502_1"
+      }
+    ],
+    "ICON": 32502,
+    "NAME": "神魔争锋包",
+    "NAME_VN": "Gói Thần Ma"
+  },
+  "32505": {
+    "INTRO": "VIP 12: 150 triệu Tiền Đồng, 100 triệu Exp Tướng, 50.000 Tiến Hóa Thạch",
+    "BG": "wgfd_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 150000000,
+        "GSID": 38006,
+        "EXID": "cbox_32505_0"
+      },
+      {
+        "COUNT": 100000000,
+        "GSID": 30001,
+        "EXID": "cbox_32505_1"
+      },
+      {
+        "COUNT": 50000,
+        "GSID": 30015,
+        "EXID": "cbox_32505_2"
+      }
+    ],
+    "ICON": 32505,
+    "NAME": "五谷丰登包",
+    "NAME_VN": "Gói Phong Đăng"
+  },
+  "32503": {
+    "INTRO": "Có thể chọn 1 trong 5 tướng 5 sao tinh anh sau: Tư Mã Ý, Lưu Bị, Hoa Hùng, Tôn Sảng, Lưu Bang",
+    "BG": "qxzb_bg",
+    "QUALITY": 5,
+    "ITEMS": [
+      {
+        "COUNT": 1,
+        "GSID": 10141,
+        "EXID": "cbox_32503_0"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 12021,
+        "EXID": "cbox_32503_1"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 16061,
+        "EXID": "cbox_32503_2"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 14081,
+        "EXID": "cbox_32503_3"
+      },
+      {
+        "COUNT": 1,
+        "GSID": 17001,
+        "EXID": "cbox_32503_4"
+      }
+    ],
+    "ICON": 32503,
+    "NAME": "群雄争霸包",
+    "NAME_VN": "Gói Quần Hùng"
+  }
+}

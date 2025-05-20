@@ -1,0 +1,34 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 156,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, nhiệm vụ hàng ngày đã mở khóa, mỗi ngày hoàn thành nhiệm vụ hàng ngày có thể nhận được phần thưởng phong phú!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "numstep": 157,
+      "desc": "Nhấn vào nhiệm vụ hàng ngày",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > widget_down / renwu",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn nhiệm vụ hàng ngày"
+}

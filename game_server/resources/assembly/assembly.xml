@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly>
+    <id>bin</id>
+    <!-- Generates a zip package containing the needed files -->
+    <formats>
+        <format>zip</format>
+    </formats>
+
+    <!-- Adds dependencies to zip package under lib directory -->
+    <dependencySets>
+        <dependencySet>
+            <outputDirectory>/</outputDirectory>
+            <useProjectArtifact>true</useProjectArtifact>
+            <unpack>true</unpack>
+            <scope>runtime</scope>
+        </dependencySet>
+    </dependencySets>
+
+    <fileSets>
+        <!--
+           Adds startup scripts to the root directory of zip package. The startup
+           scripts are located to src/main/scripts directory as stated by Maven
+           conventions.
+       -->
+        <fileSet>
+            <directory>${project.build.scriptSourceDirectory}</directory>
+            <outputDirectory></outputDirectory>
+            <includes>
+                <include>startup.*</include>
+            </includes>
+        </fileSet>
+        <!-- adds jar package to the root directory of zip package -->
+        <fileSet>
+            <directory>${project.build.directory}</directory>
+            <outputDirectory></outputDirectory>
+            <includes>
+                <include>*.jar</include>
+            </includes>
+        </fileSet>
+        <fileSet>
+	      <directory>${basedir}/resources</directory>
+	      <outputDirectory></outputDirectory>
+	      <includes>
+	        <include>*.properties</include>
+	        <include>*.p12</include>
+	        <include>*.conf</include>
+	        <include>*.xml</include>
+     	    <include>*.cert</include>
+	        <include>*.key</include>
+	        <include>**/*.groovy</include>
+	        <include>template/**/*</include>
+	        <include>excel/**/*</include>
+	      </includes>
+	    </fileSet>
+	    <fileSet>
+	      <directory>${basedir}/data</directory>
+	      <outputDirectory>data</outputDirectory>
+	      <includes>
+	        <include>**/*.json</include>
+	      </includes>
+	    </fileSet>
+	    <fileSet>
+	      <directory>${basedir}/config</directory>
+	      <outputDirectory>config</outputDirectory>
+	      <includes>
+	        <include>**/*.csv</include>
+	      </includes>
+	    </fileSet>
+	    <fileSet>
+	    	<directory>${basedir}/bin</directory>
+	    	<outputDirectory></outputDirectory>
+	      <includes>
+	        <include>*.bat</include>
+	        <include>*.sh</include>
+	      </includes>
+	    </fileSet>
+	    <fileSet>
+	        <directory>.</directory>
+	        <outputDirectory></outputDirectory>
+	        <includes>
+	            <include>build.log</include>
+	            <include>login_pic.jpg</include>
+	        </includes>
+	    </fileSet>
+	    <fileSet>
+	        <directory>${basedir}/file</directory>
+	        <outputDirectory>file</outputDirectory>
+	        <includes>
+	            <include>*</include>
+	        </includes>
+	    </fileSet>
+    </fileSets>
+</assembly>

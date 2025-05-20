@@ -1,0 +1,263 @@
+{
+  "1002": {
+    "ID": 1002,
+    "GNAME": "Lữ Linh Kỳ",
+    "NAME": "将门虎女",
+    "NAME_VN": "Tướng Môn Hổ Nữ",
+    "CHAPTER": 10610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 40000,
+      "maxc": 50000
+    },
+    "GSID": 16041,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 26041
+      },
+      {
+        "COUNT": 1000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30006
+      }
+    ]
+  },
+  "1007": {
+    "ID": 1007,
+    "GNAME": "Hoa Đà",
+    "NAME": "神医华陀",
+    "NAME_VN": "Thần Y Hoa Đà",
+    "CHAPTER": 15610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 70000,
+      "maxc": 80000
+    },
+    "GSID": 16206,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 26201
+      },
+      {
+        "COUNT": 1000,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 37001
+      }
+    ]
+  },
+  "1001": {
+    "ID": 1001,
+    "GNAME": "Viên Thiệu",
+    "NAME": "十八路诸侯",
+    "NAME_VN": "Thập Bát Lộ Chư Hầu",
+    "CHAPTER": 10410,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 40000,
+      "maxc": 50000
+    },
+    "GSID": 16281,
+    "KREWARD": [
+      {
+        "COUNT": 30,
+        "GSID": 26281
+      },
+      {
+        "COUNT": 200000,
+        "GSID": 30001
+      },
+      {
+        "COUNT": 200,
+        "GSID": 30015
+      }
+    ]
+  },
+  "1009": {
+    "ID": 1009,
+    "GNAME": "Tư Mã Ý",
+    "NAME": "辽东之战",
+    "NAME_VN": "Cuộc Chiến Liêu Đông",
+    "CHAPTER": 17610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 60000,
+      "maxc": 80000
+    },
+    "GSID": 10146,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 20141
+      },
+      {
+        "COUNT": 3000,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 37008
+      }
+    ]
+  },
+  "1004": {
+    "ID": 1004,
+    "GNAME": "Gia Cát Lượng",
+    "NAME": "卧龙出世",
+    "NAME_VN": "Ngọa Long Xuất Thế",
+    "CHAPTER": 12610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 40000,
+      "maxc": 50000
+    },
+    "GSID": 12142,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 22141
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30006
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30011
+      }
+    ]
+  },
+  "1006": {
+    "ID": 1006,
+    "GNAME": "Triệu Vân",
+    "NAME": "长阪坡大战",
+    "NAME_VN": "Đại Chiến Trường Bản",
+    "CHAPTER": 14610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 60000,
+      "maxc": 70000
+    },
+    "GSID": 12062,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 22061
+      },
+      {
+        "COUNT": 50,
+        "GSID": 37001
+      },
+      {
+        "COUNT": 15000000,
+        "GSID": 38006
+      }
+    ]
+  },
+  "1008": {
+    "ID": 1008,
+    "GNAME": "Tào Tháo",
+    "NAME": "割须弃袍",
+    "NAME_VN": "Cắt Râu Vứt Áo",
+    "CHAPTER": 16610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 60000,
+      "maxc": 80000
+    },
+    "GSID": 10086,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 20081
+      },
+      {
+        "COUNT": 2000,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 37001
+      }
+    ]
+  },
+  "1003": {
+    "ID": 1003,
+    "GNAME": "Trương Liêu",
+    "NAME": "徐州之战",
+    "NAME_VN": "Cuộc Chiến Từ Châu",
+    "CHAPTER": 11610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 40000,
+      "maxc": 50000
+    },
+    "GSID": 10041,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 20041
+      },
+      {
+        "COUNT": 1500,
+        "GSID": 30016
+      },
+      {
+        "COUNT": 500,
+        "GSID": 30017
+      }
+    ]
+  },
+  "1005": {
+    "ID": 1005,
+    "GNAME": "Tôn Thượng Hương",
+    "NAME": "东吴娶亲",
+    "NAME_VN": "Đông Ngô Đón Dâu",
+    "CHAPTER": 13610,
+    "TALK": "Văn bản chưa xác định",
+    "INTRO": "Bẩm chủ công, hình như có chuyện gì phát sinh phụ cận %s, xác nhận tiến tới ?",
+    "REWARD": {
+      "gsid": 38006,
+      "minc": 50000,
+      "maxc": 60000
+    },
+    "GSID": 14082,
+    "KREWARD": [
+      {
+        "COUNT": 50,
+        "GSID": 24081
+      },
+      {
+        "COUNT": 10000,
+        "GSID": 30026
+      },
+      {
+        "COUNT": 10000000,
+        "GSID": 38006
+      }
+    ]
+  }
+}

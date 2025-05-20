@@ -1,0 +1,282 @@
+package beans;
+
+option optimize_for = SPEED;
+option java_package = "game.module.activity.bean";
+
+// 活动: 冲级奖励(Activity表)
+message DBActivityLevelAward {
+	repeated LevelAward levelAward = 1;
+	required int32 day_count = 2;
+}
+
+message LevelAward {
+	required int32 level = 1;
+	repeated Award award = 2;
+}
+
+message Award {
+	required int32 item_id = 1;
+	required int32 item_count = 2;
+}
+
+// 活动: 冲级奖励(Activity_player表)
+message DBActivityLevel {
+	// 已领取的等级奖励
+	repeated int32 awarded_level = 1;
+}
+
+//活动: 充值奖励
+message DBRechargeAward{
+	repeated ActivityConfigOne items = 1;
+}
+
+message ActivityConfigOne{
+	required int32 level = 1;
+	repeated Award award = 2;
+}
+
+//消费反馈
+message DBActivityConsume{
+	repeated ActivityConfigOne items = 1;
+}
+
+//登陆奖励
+message DBActivityLogin{
+	repeated ActivityConfigOne items = 1;
+}
+
+// 活动: 钻石矿井(Activity表)
+message DBActivityMineAward {
+	repeated MineAward mineAward = 1;
+	required int32 day_count = 2;
+}
+
+message MineAward {
+	required int32 count = 1;
+	required int32 cost_diamond = 2;
+	required int32 award_diamond1 = 3;
+	required int32 award_diamond2 = 4;
+}
+
+// 活动: 钻石矿井(Activity_player表)
+message DBActivityMine {
+	// 已经使用的次数
+	required int32 used_count = 1;
+}
+
+// 活动: 奖励加倍(Activity表)
+message DBActivityAwardDouble {
+	repeated AwardDouble awardDouble = 1;
+}
+
+message AwardDouble {
+	required int32 moudel_type = 1;
+	required int32 multiple_cnt = 2;
+}
+
+// 活动: 答题(Activity表)
+message DBActivityAnswerAward {
+	required int32 total_answer_cnt = 1;
+	required int32 total_award_answer_cnt = 2;
+	required int32 open_time = 3;
+	required int32 close_time = 4;
+}
+
+// 活动: 答题(Activity_player表)
+message DBActivityAnswer {
+	repeated Answer all_answer_id = 1;
+	required int32 total_awards_getted = 2;
+}
+
+message Answer {
+	required int32 answer_id = 1;
+	// 题目状态: 0未答, 1正确, 2错误
+	required int32 answer_state = 2;
+	required int32 player_choose = 3;
+}
+
+//玩家领取奖励信息
+message DBActivityPlayerGet{
+	repeated int32 level = 1;
+	optional int64 last_login_time = 2; 
+	repeated int32 vip_level = 3;
+}
+
+// 活动: 折扣季(Activity表)
+message DBActivitySale {
+	repeated Sale sale = 1;
+}
+
+message Sale {
+	required int32 store_type = 1;
+	required int32 sale_result = 2;
+}
+
+//开服竞赛竞技场
+message DBActivityKaiFu {
+	repeated ActivityConfigKaifuJinSai items = 1;
+}
+
+message ActivityConfigKaifuJinSai{
+	required int32 type = 1;//0表示竞技场，1表示诸神争霸
+	required int32 level = 2;//排名
+	repeated Award award = 3;
+}
+
+//成长基金
+message DBActivityChengZhangJiJin {
+	repeated int32 diamond_daily = 1;
+}
+
+//全民福利
+message DBActivityQuanMinFuLi {
+	repeated ActivityConfigOneFuLi items = 1;
+}
+
+message ActivityConfigOneFuLi{
+	required int32 level = 1;
+	required int32 vip_level = 2;
+	repeated Award award = 3;
+}
+
+//VIP礼包
+message DBActivityVipLiBao{
+	repeated ActivityConfigVipLiBao items = 1;
+}
+
+message ActivityConfigVipLiBao{
+	required int32 cost_diamond = 1;
+	required int32 vip_level = 2;
+	repeated Award award = 3;
+}
+
+//每日活跃度礼包
+message DBActivityDailyActive{
+	repeated ActivityConfigOne items = 1;
+}
+
+
+//三日首冲
+message DBActivity3DayFirstRecharge{
+	repeated ActivityConfigOne items = 1;
+}
+
+//英雄礼包
+message DBActivityHeroLibao{
+	repeated ActivityConfigHeroLiBao items = 1;
+}
+
+message ActivityConfigHeroLiBao{
+	required int32 buy_count = 1;
+	required int32 favor_rate = 2;//优惠率
+	required int32 price = 3;
+	required int32 recharge_id = 4;
+	repeated Award award = 5;
+}
+
+//英雄礼包-玩家购买信息
+message DBActivityPlayerHeroLibao{
+	repeated int32 recharge_id = 1;
+	repeated int32 buy_count = 2;
+}
+
+//登录抽奖转盘
+message DBActivityLotteryWheel{
+	required int32 daily_free_count = 1;
+	required int32 daily_pay_count = 2;
+	required int32 pay_price = 3;
+	repeated DBActivityLotteryWheelOne award_item = 4;
+}
+
+message DBActivityLotteryWheelOne{
+	required int32 template_id = 1;
+	required int32 count = 2;
+	required int32 rate = 3;
+}
+
+//三倍首冲
+message DBActivityFirstRechgeDouble{
+	repeated ActivityFirstRechgeDouble items = 1;
+}
+
+message ActivityFirstRechgeDouble{
+	required int32 recharge_id = 1;
+	required int32 favor_rate = 2;//100为基数，3倍就填写300
+}
+
+//奇珍异宝db配置
+message DBActivityQiZhenYiBao{
+	required int32 player_count = 1;
+	required int32 cost_diamond = 2;
+	required int32 big_award_value = 3;
+	repeated Award fixed_award = 4;
+	required Award big_award = 5;
+}
+
+//每日首充
+message DBActivityMeiRiShouChong{
+	repeated ActivityConfigOne items = 1;
+}
+
+//单笔充值
+message DBActivityDanBiChongZhi{
+	repeated ActivityConfigOne items = 1;
+}
+
+//连续7天充值
+message DBActivityLianXuChongZhi{
+	repeated ActivityConfigOne items = 1;
+}
+
+//每日充值
+//每日登陆
+message DBActivityCommon{
+	repeated ActivityConfigOne items = 1;
+}
+
+//十连奖励
+message DBActivityShiLianJiangLi{
+	repeated ActivityConfigOne items = 1;
+}
+
+message ActivityConfigOne1{
+	required int32 level = 1;
+	repeated Award award = 2;
+	optional int32 extra_limit = 3;
+	repeated Award extra_limit_award = 4;
+}
+
+//充值榜
+message DBActivityChongZhiBang{
+	repeated ActivityConfigOne1 items = 1;
+}
+
+//消费榜
+message DBActivityXiaoFeiBang{
+	repeated ActivityConfigOne1 items = 1;
+}
+
+//跨服BOSS战
+message DBActivityCrossBoss{
+	required int32 start_time_min = 1;
+	required int32 end_time_min = 2;
+}
+
+//活动: 天天好礼
+message DBActivityTTHL{
+	repeated ActivityConfigOne items = 1;
+}
+
+//活动: 青春基金
+message DBActivityQCJJ{
+	repeated ActivityConfigQCJJ items = 1;
+}
+
+message ActivityConfigQCJJ{
+	required int32 buy_count = 1;
+	required int32 price = 2;
+	required int32 total_value = 3;
+	required int32 recharge_id = 4;
+	required int32 extra_diamond = 5;
+	repeated Award award = 6;
+}

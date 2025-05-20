@@ -1,0 +1,227 @@
+<style>
+    #user-update {
+        padding: 20px 25px 25px 0;
+    }
+
+    #user-update .layui-treeSelect .ztree li a, .ztree li span {
+        margin: 0 0 2px 3px !important;
+    }
+
+    .xm-cz{
+        display:inline-block;
+        cursor:pointer;
+        margin-right: 20px;
+    }
+
+    .xm-cz:hover{color: #C0C4CC;}
+
+</style>
+<div class="layui-fluid" id="user-update">
+    <form class="layui-form" action="" lay-filter="user-update-form">
+        <div class="layui-form-item febs-hide">
+            <label class="layui-form-label febs-form-item-require">ID người dùng:</label>
+            <div class="layui-input-block">
+                <input type="text" name="templateId" data-th-value="${activityTpl.id}">
+            </div>
+        </div>
+        <dd lay-value="" class="xm-select-tips" style="background-color: #FFF!important;margin:.5rem .5rem;">
+            <div class="xm-cz-group">
+                <div class="xm-cz" method="全选" title="Chọn tất cả" id="gs-selectall">
+                    <i class="xm-iconfont icon-quanxuan"></i><span>Chọn tất cả</span>
+                </div>
+                <div class="xm-cz" method="清空" title="Hủy tất cả" id="gs-unselectall">
+                    <i class="xm-iconfont icon-qingkong"></i><span>Xóa tất cả</span>
+                </div>
+            </div>
+        </dd>
+        <div class="layui-form-item" style="margin-left:.5rem;" id="gs_select_div">
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">Có đặt lại không:</label>
+            <div class="layui-input-block">
+                <input type="checkbox" name="isReset" lay-skin="primary" title="">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label">Tên ID:</label>
+            <div class="layui-input-block">
+                <label class="layui-form-label" style="color:black;width:120px;">[[${activityTpl.id}]]&nbsp;&nbsp;[[${activityTpl.name}]]</label>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label febs-form-item-require">Tiêu đề:</label>
+            <div class="layui-input-block">
+                <input type="text" name="title" required autocomplete="off" class="layui-input">
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <label class="layui-form-label febs-form-item-require">Mô tả:</label>
+            <div class="layui-input-block">
+                <textarea name="description" maxlength="100" required class="layui-textarea"></textarea>
+            </div>
+        </div>
+
+        <div id="acttype-date-div">
+        </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label febs-form-item-require">Có mở không:</label>
+            <div class="layui-input-block">
+                <input type="checkbox" name="isOpen" lay-skin="primary" title="" checked="">
+            </div>
+        </div>
+        <div class="layui-form-item layui-form-text">
+            <label class="layui-form-label febs-form-item-require">Tham số:</label>
+            <div class="layui-input-block">
+                <textarea name="paramsStr" maxlength="1000" rows="12" required class="layui-textarea"></textarea>
+            </div>
+        </div>
+        <div class="layui-form-item febs-hide">
+            <button class="layui-btn" lay-submit="" lay-filter="user-update-form-submit" id="submit"></button>
+        </div>
+    </form>
+</div>
+
+<script type="text/html" id="act_type_date">
+    {{#  if(d.type == 1){ }}
+    <div class="layui-form-item">
+        <label class="layui-form-label febs-form-item-require">Số ngày có hiệu lực:</label>
+        <div class="layui-input-block">
+            <input type="text" required name="validDayCount" lay-verify="required|number" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    {{# }else if(d.type == 2){ }}
+    <div class="layui-form-item">
+        <label class="layui-form-label febs-form-item-require">Thời gian bắt đầu:</label>
+        <div class="layui-input-inline">
+            <input type="text" name="startDateStr" required id="startDateStr" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">&nbsp;&nbsp;
+        </div>
+        <div class="layui-input-inline">
+            <input type="text" name="startTimeStr" id="startTimeStr" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label febs-form-item-require">Thời gian kết thúc:</label>
+        <div class="layui-input-inline">
+            <input type="text" name="endDateStr" required id="endDateStr" placeholder="yyyy-MM-dd" autocomplete="off" class="layui-input">&nbsp;&nbsp;
+        </div>
+        <div class="layui-input-inline">
+            <input type="text" name="endTimeStr" id="endTimeStr" autocomplete="off" class="layui-input">
+        </div>
+    </div>
+    {{# }else if(d.type == 3){ }}
+    <div class="layui-form-item">
+        <label class="layui-form-label febs-form-item-require">Thời gian có hiệu lực:</label>
+        <div class="layui-input-block">
+            <label class="layui-form-label" style="color:green;">Vĩnh viễn</label>
+        </div>
+    </div>
+    {{#  } }}
+</script>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'formSelects', 'validate', 'laydate', 'laytpl'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            layer = layui.layer,
+            laytpl = layui.laytpl,
+            laydate = layui.laydate,
+            formSelects = layui.formSelects,
+            form = layui.form,
+            user = [[${activity4Gm}]],
+            activityTpl = [[${activityTpl}]],
+            gs_list = [[${gs_list}]],
+            $view = $('#user-update'),
+            validate = layui.validate;
+
+        var getTpl = document.getElementById('act_type_date').innerHTML;
+        var divView = document.getElementById('acttype-date-div');
+        laytpl(getTpl).render(activityTpl, function(html){
+            divView.innerHTML = html;
+        });
+
+        var gsSelectDiv = $('#gs_select_div');
+        gs_list.forEach(function(gs, index) {
+            $('<input>', {
+                name: 'selected_gs[' + index + ']',
+                type: 'checkbox',
+                title: gs.name,
+                checked: gs.is_selected === 1,
+                value: gs.id
+            }).appendTo(gsSelectDiv);
+        });
+
+        form.verify(validate);
+        form.render();
+
+        laydate.render({
+            elem: '#startDateStr',
+            type: 'date'
+        });
+        laydate.render({
+            elem: '#endDateStr', 
+            type: 'date'
+        });
+        laydate.render({
+            elem: '#startTimeStr',
+            type: 'time'
+        });
+        laydate.render({
+            elem: '#endTimeStr',
+            type: 'time'
+        });
+
+        function initUserValue() {
+            if (user) {
+                form.val("user-update-form", {
+                    "title": user.title,
+                    "description": user.description,
+                    "isOpen": user.isOpen === 1,
+                    "validDayCount": user.validDayCount,
+                    "startDateStr": user.startDateStr,
+                    "startTimeStr": user.startTimeStr,
+                    "endDateStr": user.endDateStr,
+                    "endTimeStr": user.endTimeStr,
+                    "paramsStr": user.paramsStr
+                });
+            }
+        }
+
+        initUserValue();
+        formSelects.render();
+
+        form.on('submit(user-update-form-submit)', function (data) {
+            if (febs.nativeEqual(data.field, user)) {
+                febs.alert.warn('Dữ liệu chưa được sửa đổi!');
+                return false;
+            }
+            
+            data.field.isOpenStr = data.field.isOpen;
+            data.field.isOpen = data.field.isOpen === "on" ? 1 : 0;
+
+            febs.post(ctx + 'op/activityUpdate', data.field, function () {
+                layer.closeAll();
+                febs.alert.success('Cập nhật hoạt động thành công!');
+            });
+            return false;
+        });
+
+        $view.find('#gs-selectall').on('click', function () {
+            var params = {};
+            gs_list.forEach(function(_, index) {
+                params['selected_gs[' + index + ']'] = true;
+            });
+            form.val("user-update-form", params);
+            form.render();
+        });
+
+        $view.find('#gs-unselectall').on('click', function () {
+            var params = {};
+            gs_list.forEach(function(_, index) {
+                params['selected_gs[' + index + ']'] = false;
+            });
+            form.val("user-update-form", params);
+            form.render();
+        });
+    });
+</script>

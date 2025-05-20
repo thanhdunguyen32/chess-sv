@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Chào mừng đến với Quân Sư 3Q",
+        "content": "Trong thời loạn thế này, chỉ người được thiên mệnh chọn mới có thể chấm dứt chiến loạn, bình định thiên hạ! Hoan nghênh chủ công giá lâm, mọi lương thảo đã được chuẩn bị sẵn sàng, xin hãy khởi hành ngay để không chậm trễ đại nghiệp bình định thiên hạ.",
+        "reward": [
+            {
+                "GSID": 38006,
+                "COUNT": 10000
+            },
+            {
+                "GSID": 38005,
+                "COUNT": 100
+            }
+        ]
+    },
+    {
+        "title": "Trọng dụng nhân tài",
+        "content": "\"3 Chiến 3 Pháp 6 Quần Hùng\", \"6 Kích 3 Pháp Phá Ngàn Quân\", \"Ngô Ngụy Liên Quân Chinh Cửu Châu\", \"Thục Chiến Quân Sư Thái Cực Băng\".\n\nThái Cực sinh Lưỡng Nghi, Lưỡng Nghi sinh Tứ Tượng, Tứ Tượng sinh Bát Quái, Bát Quái định Càn Khôn.\n\nMỗi tướng trong quân đội đều có hai khả năng liên kết mạnh mẽ, khi kết hợp với bất kỳ tướng nào cũng tạo ra các hiệu ứng liên kết khác nhau. Càng nhiều liên kết, sức mạnh đội hình càng mạnh!",
+        "reward": [
+            {
+                "GSID": 30001,
+                "COUNT": 10000
+            }
+        ]
+    }
+]

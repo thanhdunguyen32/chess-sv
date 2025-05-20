@@ -1,0 +1,41 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 168,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Thắng lợi nhận được tích điểm, thất bại mất tích điểm, tích điểm cao thấp quyết định xếp hạng diễn võ trường, thỉnh chúa công thiết trí đội hình phòng thủ!"
+      }
+    },
+    {
+      "numstep": 169,
+      "desc": "Nhấn vào Xuất Trận Nhanh",
+      "command": {
+        "cmd": "finger",
+        "args": "battle_page > global_frame_01 > battle_hero_blood_yellow",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 170,
+      "desc": "Lưu đội hình",
+      "command": {
+        "cmd": "finger",
+        "args": "battle_page > btn_save",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 171,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Hiện tại chúng ta có thể lựa chọn đối thủ tiến hành khiêu chiến!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn thiết lập đội phòng thủ pvp"
+}

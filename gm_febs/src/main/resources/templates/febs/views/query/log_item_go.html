@@ -1,0 +1,135 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Tra cứu luồng vật phẩm">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <form class="layui-form" action="">
+                    <div class="layui-form-item">
+                        <fieldset class="layui-elem-field layui-field-title">
+                            <legend>
+                                <small style="color:black;">Tra cứu luồng vật phẩm</small>
+                            </legend>
+                        </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <div class="layui-inline">
+                            <label class="layui-form-label" style="width:80px;padding-left:0px;">ID người chơi：</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="playerId" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <label class="layui-form-label" style="width:80px;padding-left:0px;">ID vật phẩm：</label>
+                            <div class="layui-input-inline">
+                                <input type="text" name="itemId" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                        <div class="layui-inline">
+                            <button type="submit" class="layui-btn" lay-submit="" lay-filter="query">Tìm kiếm</button>
+                        </div>
+                    </div>
+                </form>
+                <table lay-filter="userTable" lay-data="{id: 'userTable'}"></table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form', 'laydate','table'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            table = layui.table,
+            laydate = layui.laydate,
+            $view = $('#febs-op-gonggao'),
+            $searchForm = $view.find('form'),
+            $trimValue = $view.find('input[name="trimValue"]'),
+            $trimValueItem = $trimValue.parents('.layui-form-item'),
+            tableIns,
+            errorMsg = [[${errorMsg}]];
+
+        //Ngày tháng
+        laydate.render({
+        elem: '#query_date'
+        });
+
+        form.render();
+
+        initTable();
+
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.on("radio(isTrim)", function (data) {
+            if (data.value === '1') {
+                trimValueItemShow();
+            } else {
+                trimValueItemHide();
+            }
+        });
+
+        function trimValueItemShow() {
+            $trimValueItem.show();
+        }
+
+        function trimValueItemHide() {
+            form.val("generator-configure-form", {
+                "trimValue": ''
+            });
+            $trimValueItem.hide();
+        }
+
+        function initTable() {
+          tableIns = table.render({
+            elem: $view.find('table')
+            ,url:ctx + 'query/logItemGo'
+            ,cellMinWidth: 80
+            ,cols: [ [
+                {field: 'playerId', title: 'ID người chơi',width:80},
+                {field: 'playerName', title: 'Tên',width:130},
+                {field: 'itemId', title: 'ID vật phẩm',width: 80},
+                {title: 'Module',field:'moduleType',width: 80},
+                {field: 'changeValue', title: 'Giá trị thay đổi',width: 100,templet:function(d){
+                    if(d.changeValue >0){
+                        return "<span style='color:green;font-weight:bold;'>+"+d.changeValue+"</span>";
+                    }else{
+                        return "<span style='color:red;font-weight:bold;'>"+d.changeValue+"</span>";
+                    }
+                }},
+                {field: 'createTime', title: 'Thời gian',minWidth: 200}
+            ] ],
+            parseData: function(res){
+                return {
+                  "code": res.code == 200? 0 : res.code,
+                  "msg": res.message,
+                  "count": res.data ? res.data.total : 0,
+                  "data": res.data ? res.data.rows : []
+                };
+          }
+          });
+        }
+
+        form.on('submit(query)', function (data) {
+            let player_id = $searchForm.find('input[name="playerId"]').val();
+            let item_id = $searchForm.find('input[name="itemId"]').val();
+            tableIns.reload({where: {player_id:player_id,item_id:item_id}});
+            return false;
+        });
+
+        $view.find('#refresh_page').on('click', function () {
+            febs.navigate("/op/subtitle?time="+(new Date().getTime()));
+        });
+    });
+</script>

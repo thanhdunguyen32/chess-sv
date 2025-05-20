@@ -1,0 +1,110 @@
+[
+  {
+    "viple": 0,
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 500
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30006,
+        "COUNT": 5
+      },
+      {
+        "GSID": 30026,
+        "COUNT": 1000
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "viple": 1,
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 1200
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30009,
+        "COUNT": 5
+      },
+      {
+        "GSID": 33011,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33111,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "viple": 2,
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 2400
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30011,
+        "COUNT": 8
+      },
+      {
+        "GSID": 33211,
+        "COUNT": 1
+      },
+      {
+        "GSID": 33311,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "viple": 3,
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 5000
+      }
+    ],
+    "items": [
+      {
+        "GSID": 32102,
+        "COUNT": 1
+      },
+      {
+        "GSID": 30026,
+        "COUNT": 10000
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "viple": 5,
+    "consume": [
+      {
+        "GSID": 38005,
+        "COUNT": 8000
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30020,
+        "COUNT": 20000
+      },
+      {
+        "GSID": 32101,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 1
+  }
+]

@@ -1,0 +1,101 @@
+{
+    "looplimit": 4,
+    "currentloop": 0,
+    "missions": [
+        {
+            "NUM": 10,
+            "cur": 0,
+			"NAME": "获得10积分",
+            "NAME_VN": "Nhận được 10 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 36026,
+                    "COUNT": 30
+                },
+                {
+                    "GSID": 36027,
+                    "COUNT": 30
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 20,
+            "cur": 0,
+			"NAME": "获得20积分",
+            "NAME_VN": "Nhận được 20 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 36001,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 30,
+            "cur": 0,
+			"NAME": "获得30积分",
+            "NAME_VN": "Nhận được 30 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 32102,
+                    "COUNT": 1
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 50,
+            "cur": 0,
+			"NAME": "获得50积分",
+            "NAME_VN": "Nhận được 50 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 36006,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 60,
+            "cur": 0,
+			"NAME": "获得60积分",
+            "NAME_VN": "Nhận được 60 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 36007,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 80,
+            "cur": 0,
+			"NAME": "获得80积分",
+            "NAME_VN": "Nhận được 80 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 22381,
+                    "COUNT": 50
+                }
+            ],
+            "status": 0
+        },
+        {
+            "NUM": 100,
+            "cur": 0,
+			"NAME": "获得100积分",
+            "NAME_VN": "Nhận được 100 điểm",
+            "ITEMS": [
+                {
+                    "GSID": 30029,
+                    "COUNT": 150
+                }
+            ],
+            "status": 0
+        }
+    ]
+}

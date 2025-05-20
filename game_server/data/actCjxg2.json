@@ -1,0 +1,255 @@
+[
+  [
+    {
+      "value": 6709,
+      "price": 648,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 6480
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 35
+        },
+        {
+          "GSID": 38006,
+          "COUNT": 20000000
+        },
+        {
+          "GSID": 27121,
+          "COUNT": 50
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_liuxiu",
+      "heroname": "hero_name_liuxiu",
+      "txbig": "tx_jhzl_big",
+      "normal": "tx_jhzl_normal",
+      "check": "tx_jhzl_check"
+    },
+    {
+      "value": 6782,
+      "price": 98,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 980
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 7
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 2000000
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_liuxiu",
+      "heroname": "hero_name_liuxiu",
+      "txbig": "tx_jjlb_bog",
+      "normal": "tx_jjlb_normal",
+      "check": "tx_jjlb_check"
+    }
+  ],
+  [
+    {
+      "value": 6709,
+      "price": 648,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 6480
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 35
+        },
+        {
+          "GSID": 38006,
+          "COUNT": 20000000
+        },
+        {
+          "GSID": 22401,
+          "COUNT": 50
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_maliang",
+      "heroname": "hero_name_maliang",
+      "txbig": "tx_jhzl_big",
+      "normal": "tx_jhzl_normal",
+      "check": "tx_jhzl_check"
+    },
+    {
+      "value": 6782,
+      "price": 98,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 980
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 7
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 2000000
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_maliang",
+      "heroname": "hero_name_maliang",
+      "txbig": "tx_jjlb_bog",
+      "normal": "tx_jjlb_normal",
+      "check": "tx_jjlb_check"
+    }
+  ],
+  [
+    {
+      "value": 6709,
+      "price": 648,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 6480
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 35
+        },
+        {
+          "GSID": 38006,
+          "COUNT": 20000000
+        },
+        {
+          "GSID": 26101,
+          "COUNT": 50
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_yuji",
+      "heroname": "hero_name_yuji",
+      "txbig": "tx_jhzl_big",
+      "normal": "tx_jhzl_normal",
+      "check": "tx_jhzl_check"
+    },
+    {
+      "value": 6782,
+      "price": 98,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 980
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 7
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 2000000
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [
+        {
+          "GSID": 90353,
+          "COUNT": 20
+        }
+      ],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_yuji",
+      "heroname": "hero_name_yuji",
+      "txbig": "tx_jjlb_bog",
+      "normal": "tx_jjlb_normal",
+      "check": "tx_jjlb_check"
+    }
+  ],
+  [
+    {
+      "value": 6709,
+      "price": 648,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 6480
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 35
+        },
+        {
+          "GSID": 38006,
+          "COUNT": 20000000
+        },
+        {
+          "GSID": 22061,
+          "COUNT": 50
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_zhaoyun",
+      "heroname": "hero_name_zhaoyun",
+      "txbig": "tx_jhzl_big",
+      "normal": "tx_jhzl_normal",
+      "check": "tx_jhzl_check"
+    },
+    {
+      "value": 6782,
+      "price": 98,
+      "items": [
+        {
+          "GSID": 38005,
+          "COUNT": 980
+        },
+        {
+          "GSID": 30011,
+          "COUNT": 7
+        },
+        {
+          "GSID": 30001,
+          "COUNT": 2000000
+        }
+      ],
+      "buytime": 1,
+      "icon": "icon_czzp",
+      "special": [],
+      "bg1": "bg_cclb_01",
+      "bg2": "bg_cclb_02",
+      "hero": "hero_spr_zhaoyun",
+      "heroname": "hero_name_zhaoyun",
+      "txbig": "tx_jjlb_bog",
+      "normal": "tx_jjlb_normal",
+      "check": "tx_jjlb_check"
+    }
+  ]
+]

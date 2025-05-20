@@ -1,0 +1,56 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 152,
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công, Dịch Trạm ở Hoàng Thành có thể phân giải võ tướng, để Tiểu Tước dẫn người đi xem!"
+      }
+    },
+    {
+      "desc": "Nhấn vào Hoàng Thành",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_01",
+        "nomask": true,
+        "location": "up"
+      }
+    },
+    {
+      "desc": "Di chuyển đến bối cảnh thành thị",
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodeGDeComp"
+      }
+    },
+    {
+      "numstep": 154,
+      "desc": "Nhấn vào Dịch Trạm",
+      "command": {
+        "cmd": "finger",
+        "args": "Main Camera > city_node > homecity_city / yizhan",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Hình ảnh giới thiệu",
+      "command": {
+        "cmd": "intro",
+        "funname": "relive"
+      }
+    },
+    {
+      "numstep": 155,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Chúa công có thể phân giải võ tướng không dùng tại đây, đồng thời lại một phần tài nguyên"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn phân giải tướng"
+}

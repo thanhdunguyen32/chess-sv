@@ -1,0 +1,67 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "desc": "Dẫn đạo đối thoại 1",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Khởi bẩm chúa công, võ tướng của người đã đạt tới cấp 40, mở khóa thú cưỡi chuyên dụng!"
+      }
+    },
+    {
+      "numstep": 1000,
+      "desc": "Nhấn kích hoạt thú cưỡi",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "mid",
+        "args": "general_page_info > equip_05",
+        "text": "Nhấn vào đây kích hoạt thú cưỡi!"
+      }
+    },
+    {
+      "desc": "Dẫn đạo đối thoại 2",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Đã kích hoạt thú cưỡi, hãy tăng cấp cho thú cưỡi!"
+      }
+    },
+    {
+      "desc": "Nhấn vào thú cưỡi",
+      "command": {
+        "cmd": "finger",
+        "args": "general_page_info > equip_05",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Nhấn vào tăng sao",
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_tips_exclus > btn_up",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Giới thiệu tăng cấp",
+      "command": {
+        "cmd": "locator",
+        "args": "general_special_equic_page > btn_levelup",
+        "textdirection": "mid",
+        "text": "Nhấn vào đây tăng cấp thú cưỡi"
+      }
+    },
+    {
+      "desc": "Dẫn đạo đối thoại 3",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Sau khi tăng sao thú cưỡi! Võ tướng của chúa công sẽ càng mạnh mẽ!"
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn mở khóa thú cưỡi"
+}

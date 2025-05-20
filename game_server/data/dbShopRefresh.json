@@ -1,0 +1,36 @@
+{
+  "legion": {
+    "MANUAL": {
+      "CAST_ITEMS": [
+        {
+          "COUNT": 20000,
+          "GSID": 30020
+        }
+      ]
+    }
+  },
+  "day": {
+    "INTERAL": 24
+  },
+  "general": {},
+  "star": {
+    "MANUAL": {
+      "CAST_ITEMS": [
+        {
+          "COUNT": 500,
+          "GSID": 30027
+        }
+      ]
+    }
+  },
+  "decomp": {
+    "MANUAL": {
+      "CAST_ITEMS": [
+        {
+          "COUNT": 2000,
+          "GSID": 30014
+        }
+      ]
+    }
+  }
+}

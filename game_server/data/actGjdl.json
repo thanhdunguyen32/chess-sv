@@ -1,0 +1,167 @@
+[
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 4000
+      }
+    ],
+    "items": [
+      {
+        "GSID": 32007,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 2
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 2800
+      }
+    ],
+    "items": [
+      {
+        "GSID": 22401,
+        "COUNT": 50
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 2800
+      }
+    ],
+    "items": [
+      {
+        "GSID": 20161,
+        "COUNT": 50
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 2300
+      }
+    ],
+    "items": [
+      {
+        "GSID": 24081,
+        "COUNT": 50
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 1500
+      }
+    ],
+    "items": [
+      {
+        "GSID": 26181,
+        "COUNT": 50
+      }
+    ],
+    "buytime": 1
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 300
+      }
+    ],
+    "items": [
+      {
+        "GSID": 38009,
+        "COUNT": 10
+      }
+    ],
+    "buytime": 10
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 300
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30011,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 99
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 120
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30009,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 99
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 100
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30006,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 99
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 20
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30041,
+        "COUNT": 1
+      }
+    ],
+    "buytime": 999
+  },
+  {
+    "consume": [
+      {
+        "GSID": 30043,
+        "COUNT": 1
+      }
+    ],
+    "items": [
+      {
+        "GSID": 30026,
+        "COUNT": 3
+      }
+    ],
+    "buytime": 9999
+  }
+]

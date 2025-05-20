@@ -1,0 +1,64 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 40,
+      "desc": "Chuyển đến bối cảnh thành thị",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "movetobuilding",
+        "buildname": "p_nodeShop"
+      }
+    },
+    {
+      "numstep": 41,
+      "desc": "Nhấn vào Chợ",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "right",
+        "args": "Main Camera > city_node > homecity_city / jishi",
+        "text": "Chợ sẽ mở bán một số đạo cụ quý hiếm, chúng ta đi xem sao!"
+      }
+    },
+    {
+      "numstep": 42,
+      "desc": "Nhấn mua Chiêu Mộ Lệnh",
+      "delayTime": 0.5,
+      "command": {
+        "cmd": "finger",
+        "args": "shop_page > shop_tableView > content % 1 > item_01 > btn_buy",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 43,
+      "desc": "Nhấn vào Xác Nhận",
+      "delayTime": 0.2,
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_tips_msg > bg_node > layout_btn > global_btn_confirm_01",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 44,
+      "desc": "Nhấn vào chỗ trống bất kỳ",
+      "command": {
+        "cmd": "closemask",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 45,
+      "desc": "Nhấn vào Quay Lại",
+      "command": {
+        "cmd": "finger",
+        "args": "shop_page > global_btn_back_01",
+        "nomask": true
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng Dẫn Chợ"
+}

@@ -1,0 +1,84 @@
+<style>
+    #febs-op-gonggao .layui-form-label {
+        width: 125px
+    }
+
+    #febs-op-gonggao .layui-input-block {
+        margin-left: 155px;
+    }
+</style>
+<div class="layui-fluid layui-anim febs-anim" id="febs-op-gonggao" lay-title="Nạp tiền giả lập">
+    <div class="layui-row febs-container">
+        <div class="layui-card">
+            <div class="layui-card-body" style="padding: 15px;">
+                <div class="alert" id="ErrorMessageDiv">
+                    <span class="febs-alert-base febs-alert-error" id="ErrorMessage"></span>
+                </div>
+                <form class="layui-form" action="" lay-filter="generator-configure-form">
+                    <div class="layui-form-item">
+                    <fieldset class="layui-elem-field layui-field-title">
+                        <legend>
+                            <small style="color:black;">Nạp tiền giả lập, yêu cầu người chơi trực tuyến</small>
+                        </legend>
+                    </fieldset>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:95px;padding-left:0px;">ID người chơi</label>
+                        <div class="layui-input-block" style="margin-left: 110px;">
+                            <input type="text" name="playerId" lay-verify="required|number" required autocomplete="off" class="layui-input" placeholder="Nhập ID người chơi">
+                        </div>
+                    </div>
+                    <div class="layui-form-item">
+                        <label class="layui-form-label febs-form-item-require" style="width:95px;padding-left:0px;">Số tiền nạp (VNĐ)</label>
+                        <div class="layui-input-block" style="margin-left: 110px;">
+                            <input type="text" name="payMoney" autocomplete="off" maxlength="20"
+                                   lay-verify="required|number|payMoneyCheck" required class="layui-input" value="10" placeholder="Nhập số tiền nạp">
+                            <div class="layui-form-mid layui-word-aux">Số tiền tối thiểu: 10 VNĐ</div>
+                        </div>
+                    </div>
+                    <div class="layui-form-item" shiro:hasPermission="fakepay:send">
+                        <div class="layui-input-block">
+                            <button class="layui-btn" lay-submit="" lay-filter="generator-configure-form-submit">Gửi</button>
+                            <button type="reset" class="layui-btn layui-btn-primary">Làm mới</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script data-th-inline="javascript">
+    layui.use(['febs', 'form'], function () {
+        var $ = layui.$,
+            febs = layui.febs,
+            form = layui.form,
+            $view = $('#febs-op-gonggao'),
+            errorMsg = [[${errorMsg}]];
+
+        form.render();
+        if(errorMsg != null){
+            $view.find('#ErrorMessage').text(errorMsg).end();
+        }else{
+            $view.find('#ErrorMessageDiv').hide();
+        }
+
+        form.verify({
+            payMoneyCheck: function(value) {
+                if(value < 10) {
+                    return 'Số tiền nạp tối thiểu là 10 VNĐ';
+                }
+            }
+        });
+
+        form.on('submit(generator-configure-form-submit)', function (data) {
+            data.field.gsId = currentUser.gsEntity != null ? currentUser.gsEntity.id : 0;
+            febs.post(ctx + 'op/fakepaySend', data.field, function (r) {
+                febs.alert.success('Gửi thành công!');
+                $view.find('form')[0].reset();
+                form.render();
+            });
+            return false;
+        });
+    });
+</script>

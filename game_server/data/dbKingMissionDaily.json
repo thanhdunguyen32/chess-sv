@@ -1,0 +1,232 @@
+[
+  {
+    "GETMARK": 90322,
+    "INTRO": "Hoàn thành 2 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 4200,
+        "COUNT": 12000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90319,
+    "NAME": "完成2次战斗",
+    "NAME_VN": "Hoàn thành 2 lần chiến đấu",
+    "EXID": "kingdaily_0",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90323,
+    "INTRO": "Hoàn thành 5 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 4200,
+        "COUNT": 12000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 5,
+    "PMARK": 90319,
+    "NAME": "完成5次战斗",
+    "NAME_VN": "Hoàn thành 5 lần chiến đấu",
+    "EXID": "kingdaily_1",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90324,
+    "INTRO": "Hoàn thành 10 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 8400,
+        "COUNT": 24000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 10,
+    "PMARK": 90319,
+    "NAME": "完成10次战斗",
+    "NAME_VN": "Hoàn thành 10 lần chiến đấu",
+    "EXID": "kingdaily_2",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90325,
+    "INTRO": "Hoàn thành 15 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 8400,
+        "COUNT": 24000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 15,
+    "PMARK": 90319,
+    "NAME": "完成15次战斗",
+    "NAME_VN": "Hoàn thành 15 lần chiến đấu",
+    "EXID": "kingdaily_3",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90326,
+    "INTRO": "Hoàn thành 20 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 21000,
+        "COUNT": 60000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 20,
+    "PMARK": 90319,
+    "NAME": "完成20次战斗",
+    "NAME_VN": "Hoàn thành 20 lần chiến đấu",
+    "EXID": "kingdaily_4",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90327,
+    "INTRO": "Hoàn thành 25 lần chiến đấu",
+    "REWARD": [
+      {
+        "PARAM": 21000,
+        "COUNT": 60000,
+        "GSID": 38006
+      }
+    ],
+    "CNUM": 25,
+    "PMARK": 90319,
+    "NAME": "完成25次战斗",
+    "NAME_VN": "Hoàn thành 25 lần chiến đấu",
+    "EXID": "kingdaily_5",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90328,
+    "INTRO": "Tích lũy thắng lợi 1 lần",
+    "REWARD": [
+      {
+        "COUNT": 500,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 1,
+    "PMARK": 90320,
+    "NAME": "累积胜利1次",
+    "NAME_VN": "Tích lũy thắng lợi 1 lần",
+    "EXID": "kingdaily_6",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90329,
+    "INTRO": "Tích lũy thắng lợi 2 lần",
+    "REWARD": [
+      {
+        "COUNT": 800,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 2,
+    "PMARK": 90320,
+    "NAME": "累积胜利2次",
+    "NAME_VN": "Tích lũy thắng lợi 2 lần",
+    "EXID": "kingdaily_7",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90342,
+    "INTRO": "Tích lũy thắng lợi 4 lần",
+    "REWARD": [
+      {
+        "COUNT": 1000,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 4,
+    "PMARK": 90320,
+    "NAME": "累积胜利4次",
+    "NAME_VN": "Tích lũy thắng lợi 4 lần",
+    "EXID": "kingdaily_8",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90343,
+    "INTRO": "Tích lũy thắng lợi 6 lần",
+    "REWARD": [
+      {
+        "COUNT": 1500,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 6,
+    "PMARK": 90320,
+    "NAME": "累积胜利6次",
+    "NAME_VN": "Tích lũy thắng lợi 6 lần",
+    "EXID": "kingdaily_9",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90344,
+    "INTRO": "Tích lũy thắng lợi 8 lần",
+    "REWARD": [
+      {
+        "COUNT": 1500,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 8,
+    "PMARK": 90320,
+    "NAME": "累积胜利8次",
+    "NAME_VN": "Tích lũy thắng lợi 8 lần",
+    "EXID": "kingdaily_10",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90345,
+    "INTRO": "Tích lũy thắng lợi 10 lần",
+    "REWARD": [
+      {
+        "COUNT": 1500,
+        "GSID": 30015
+      }
+    ],
+    "CNUM": 10,
+    "PMARK": 90320,
+    "NAME": "累积胜利10次",
+    "NAME_VN": "Tích lũy thắng lợi 10 lần",
+    "EXID": "kingdaily_11",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90346,
+    "INTRO": "Chiến đấu với đối thủ ẩn 1 lần",
+    "REWARD": [
+      {
+        "COUNT": 2,
+        "GSID": 30006
+      }
+    ],
+    "CNUM": 1,
+    "PMARK": 90321,
+    "NAME": "与隐藏对手战斗1次",
+    "NAME_VN": "Chiến đấu với đối thủ ẩn 1 lần",
+    "EXID": "kingdaily_12",
+    "PAGE": "kingpvppage"
+  },
+  {
+    "GETMARK": 90347,
+    "INTRO": "Chiến đấu với đối thủ ẩn 3 lần",
+    "REWARD": [
+      {
+        "COUNT": 5,
+        "GSID": 30006
+      }
+    ],
+    "CNUM": 3,
+    "PMARK": 90321,
+    "NAME": "与隐藏对手战斗3次",
+    "NAME_VN": "Chiến đấu với đối thủ ẩn 3 lần",
+    "EXID": "kingdaily_13",
+    "PAGE": "kingpvppage"
+  }
+]

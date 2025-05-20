@@ -1,0 +1,317 @@
+{
+  "207": {
+    "EN": "PDEX",
+    "INTRO": "Tỷ lệ né tránh đòn đánh thường của đối thủ.",
+    "NUMTYPE": 2,
+    "NAME": "闪避",
+    "NAME_VN": "Né Tránh"
+  },
+  "401": {
+    "EN": "PATKDAM",
+    "INTRO": "Tăng sát thương cho đòn đánh thường.",
+    "NUMTYPE": 2,
+    "NAME": "平砍伤害",
+    "NAME_VN": "ST Thường"
+  },
+  "602": {
+    "EN": "PCKATK",
+    "INTRO": "Tăng sát thương gây ra cho các tướng hệ Thích khách.",
+    "NUMTYPE": 2,
+    "NAME": "对刺客伤害加深",
+    "NAME_VN": "Sát thương lên Thích Khách"
+  },
+  "215": {
+    "EN": "PCD",
+    "INTRO": "Giảm thời gian hồi chiêu (chỉ áp dụng cho kỹ năng chủ động).",
+    "NUMTYPE": 2,
+    "NAME": "冷却缩减",
+    "NAME_VN": "Giảm Hồi Chiêu"
+  },
+  "106": {
+    "EN": "ATKTIME",
+    "INTRO": "Thời gian giữa các đòn đánh thường của tướng (tính bằng giây).",
+    "NUMTYPE": 1,
+    "NAME": "攻击间隔",
+    "NAME_VN": "Tỷ Lệ Đánh"
+  },
+  "205": {
+    "EN": "PCRI",
+    "INTRO": "Khả năng gây sát thương chí mạng.",
+    "NUMTYPE": 2,
+    "NAME": "暴击率",
+    "NAME_VN": "Bạo Kích"
+  },
+  "211": {
+    "EN": "PDAM",
+    "INTRO": "Sát thương cộng thêm (cả vật lý và phép).",
+    "NUMTYPE": 2,
+    "NAME": "伤害加成",
+    "NAME_VN": "Sát Thương"
+  },
+  "104": {
+    "EN": "MDEF",
+    "INTRO": "Khả năng kháng sát thương phép của tướng.",
+    "NUMTYPE": 1,
+    "NAME": "魔抗",
+    "NAME_VN": "Kháng Phép"
+  },
+  "405": {
+    "EN": "PRATK",
+    "INTRO": "Thêm sát thương chuẩn không thể chuyển đổi.",
+    "NUMTYPE": 2,
+    "NAME": "附加伤害",
+    "NAME_VN": "ST Chuẩn"
+  },
+  "214": {
+    "EN": "PRDC",
+    "INTRO": "Tỷ lệ giảm sát thương nhận vào (cả vật lý và phép).",
+    "NUMTYPE": 2,
+    "NAME": "伤害减免",
+    "NAME_VN": "Miễn Thương"
+  },
+  "404": {
+    "EN": "PEFC",
+    "INTRO": "Giảm thời gian chịu các hiệu ứng bất lợi.",
+    "NUMTYPE": 2,
+    "NAME": "免控",
+    "NAME_VN": "Miễn Khống"
+  },
+  "213": {
+    "EN": "PMRDC",
+    "INTRO": "Tỷ lệ giảm sát thương phép nhận vào.",
+    "NUMTYPE": 2,
+    "NAME": "法术伤害减免",
+    "NAME_VN": "Miễn Thương Phép"
+  },
+  "105": {
+    "EN": "MP",
+    "INTRO": "Năng lượng ban đầu khi tướng vào trận.",
+    "NUMTYPE": 1,
+    "NAME": "初始能量",
+    "NAME_VN": "Năng Lượng Khởi Đầu"
+  },
+  "402": {
+    "EN": "PSKIDAM",
+    "INTRO": "Tăng sát thương kỹ năng.",
+    "NUMTYPE": 2,
+    "NAME": "技能伤害",
+    "NAME_VN": "ST Kỹ Năng"
+  },
+  "505": {
+    "EN": "PYZRES",
+    "INTRO": "Giảm thời gian chịu hiệu ứng áp chế.",
+    "NUMTYPE": 2,
+    "NAME": "压制抗性",
+    "NAME_VN": "Kháng Áp Chế"
+  },
+  "202": {
+    "EN": "PASP",
+    "INTRO": "Tỷ lệ tăng thêm tốc độ đánh thường.",
+    "NUMTYPE": 2,
+    "NAME": "攻击速度",
+    "NAME_VN": "Tốc Đánh"
+  },
+  "604": {
+    "EN": "PJSATK",
+    "INTRO": "Tăng sát thương gây ra cho các tướng hệ Pháp sư.",
+    "NUMTYPE": 2,
+    "NAME": "对法师伤害加深",
+    "NAME_VN": "Sát thương lên Pháp Sư"
+  },
+  "603": {
+    "EN": "PSSATK",
+    "INTRO": "Tăng sát thương gây ra cho các tướng hệ Xạ thủ.",
+    "NUMTYPE": 2,
+    "NAME": "对射手伤害加深",
+    "NAME_VN": "Sát thương lên Xạ Thủ"
+  },
+  "506": {
+    "EN": "PJFRES",
+    "INTRO": "Giảm khả năng bị hất tung.",
+    "NUMTYPE": 2,
+    "NAME": "击飞抗性",
+    "NAME_VN": "Kháng Hất Tung"
+  },
+  "403": {
+    "EN": "PHEA",
+    "INTRO": "Hiệu quả hồi máu nhận được tăng theo phần trăm.",
+    "NUMTYPE": 2,
+    "NAME": "活力",
+    "NAME_VN": "Hồi Máu"
+  },
+  "102": {
+    "EN": "ATK",
+    "INTRO": "Tổng lực tấn công của tướng, dùng để tính sát thương.",
+    "NUMTYPE": 1,
+    "NAME": "攻击",
+    "NAME_VN": "Tấn Công"
+  },
+  "203": {
+    "EN": "PPTHR",
+    "INTRO": "Giảm chỉ số giáp của mục tiêu.",
+    "NUMTYPE": 2,
+    "NAME": "破甲",
+    "NAME_VN": "Xuyên Giáp"
+  },
+  "212": {
+    "EN": "PPRDC",
+    "INTRO": "Tỷ lệ giảm sát thương vật lý nhận vào.",
+    "NUMTYPE": 2,
+    "NAME": "物理伤害减免",
+    "NAME_VN": "Miễn Thương Vật Lý"
+  },
+  "101": {
+    "EN": "HP",
+    "INTRO": "Sức chịu đựng tối đa của tướng hoặc quái vật.",
+    "NUMTYPE": 1,
+    "NAME": "最大生命值",
+    "NAME_VN": "HP Tối Đa"
+  },
+  "206": {
+    "EN": "PCRID",
+    "INTRO": "Sát thương cộng thêm khi chí mạng.",
+    "NUMTYPE": 2,
+    "NAME": "暴击伤害",
+    "NAME_VN": "ST Bạo Kích"
+  },
+  "108": {
+    "EN": "MSP",
+    "INTRO": "Tốc độ di chuyển của tướng.",
+    "NUMTYPE": 1,
+    "NAME": "移动速度",
+    "NAME_VN": "Tốc Độ Di Chuyển"
+  },
+  "208": {
+    "EN": "PMDEX",
+    "INTRO": "Tỷ lệ chống lại hiệu ứng kỹ năng.",
+    "NUMTYPE": 2,
+    "NAME": "魔法抵抗",
+    "NAME_VN": "Kháng Kỹ Năng"
+  },
+  "504": {
+    "EN": "PMHRES",
+    "INTRO": "Giảm thời gian chịu hiệu ứng mê hoặc.",
+    "NUMTYPE": 2,
+    "NAME": "魅惑抗性",
+    "NAME_VN": "Kháng Mê Hoặc"
+  },
+  "103": {
+    "EN": "DEF",
+    "INTRO": "Tổng giáp của tướng, dùng để giảm sát thương vật lý.",
+    "NUMTYPE": 1,
+    "NAME": "护甲",
+    "NAME_VN": "Hộ Giáp"
+  },
+  "406": {
+    "EN": "PPBS",
+    "INTRO": "Tỷ lệ chuyển sát thương vật lý thành máu.",
+    "NUMTYPE": 2,
+    "NAME": "物理吸血",
+    "NAME_VN": "Hút Máu Vật Lý"
+  },
+  "210": {
+    "EN": "PMDAM",
+    "INTRO": "Sát thương phép cộng thêm.",
+    "NUMTYPE": 2,
+    "NAME": "法术伤害加成",
+    "NAME_VN": "ST Phép"
+  },
+  "501": {
+    "EN": "PCFRES",
+    "INTRO": "Giảm thời gian chịu hiệu ứng khiêu khích.",
+    "NUMTYPE": 2,
+    "NAME": "嘲讽抗性",
+    "NAME_VN": "Kháng Khiêu Khích"
+  },
+  "301": {
+    "EN": "PHP",
+    "INTRO": "Tăng máu theo phần trăm, cộng dồn từ các nguồn khác nhau.",
+    "NUMTYPE": 2,
+    "NAME": "生命",
+    "NAME_VN": "HP"
+  },
+  "601": {
+    "EN": "PXFATK",
+    "INTRO": "Tăng sát thương gây ra cho các tướng hệ Chiến binh.%",
+    "NUMTYPE": 2,
+    "NAME": "对战士伤害加深",
+    "NAME_VN": "Sát thương lên Chiến Binh"
+  },
+  "302": {
+    "EN": "PATK",
+    "INTRO": "Tăng tấn công theo phần trăm, cộng dồn từ các nguồn khác nhau.",
+    "NUMTYPE": 2,
+    "NAME": "攻击",
+    "NAME_VN": "Tấn Công"
+  },
+  "503": {
+    "EN": "PCMRES",
+    "INTRO": "Giảm thời gian chịu hiệu ứng câm lặng.",
+    "NUMTYPE": 2,
+    "NAME": "沉默抗性",
+    "NAME_VN": "Kháng Câm Lặng"
+  },
+  "209": {
+    "EN": "PPDAM",
+    "INTRO": "Sát thương vật lý cộng thêm.",
+    "NUMTYPE": 2,
+    "NAME": "物理伤害加成",
+    "NAME_VN": "ST Vật Lý"
+  },
+  "204": {
+    "EN": "PMTHR",
+    "INTRO": "Giảm hiệu quả kháng phép của mục tiêu.",
+    "NUMTYPE": 2,
+    "NAME": "穿透",
+    "NAME_VN": "Xuyên Phép"
+  },
+  "303": {
+    "EN": "PDEF",
+    "INTRO": "Tăng giáp theo phần trăm, cộng dồn từ các nguồn khác nhau.",
+    "NUMTYPE": 2,
+    "NAME": "护甲",
+    "NAME_VN": "Hộ Giáp"
+  },
+  "407": {
+    "EN": "PMBS",
+    "INTRO": "Tỷ lệ chuyển sát thương phép thành máu.",
+    "NUMTYPE": 2,
+    "NAME": "法术吸血",
+    "NAME_VN": "Hút Máu Phép"
+  },
+  "502": {
+    "EN": "PHMRES",
+    "INTRO": "Giảm thời gian chịu hiệu ứng choáng.",
+    "NUMTYPE": 2,
+    "NAME": "昏迷抗性",
+    "NAME_VN": "Kháng Choáng"
+  },
+  "201": {
+    "EN": "PMPS",
+    "INTRO": "Tỷ lệ phục hồi năng lượng của tướng.",
+    "NUMTYPE": 2,
+    "NAME": "能量恢复速度",
+    "NAME_VN": "Hồi Năng Lượng"
+  },
+  "304": {
+    "EN": "PMDEF",
+    "INTRO": "Tăng kháng phép theo phần trăm, cộng dồn từ các nguồn khác nhau.",
+    "NUMTYPE": 2,
+    "NAME": "魔抗",
+    "NAME_VN": "Kháng Phép"
+  },
+  "605": {
+    "EN": "PMSATK",
+    "INTRO": "Tăng sát thương gây ra cho các tướng hệ Hỗ trợ.",
+    "NUMTYPE": 2,
+    "NAME": "对辅助伤害加深",
+    "NAME_VN": "Sát thương lên Hỗ Trợ"
+  },
+  "107": {
+    "EN": "RANGE",
+    "INTRO": "Phạm vi tấn công của tướng khi đánh thường.",
+    "NUMTYPE": 1,
+    "NAME": "攻击距离",
+    "NAME_VN": "Tầm Đánh"
+  }
+}

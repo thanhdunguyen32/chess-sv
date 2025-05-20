@@ -1,0 +1,90 @@
+[
+  {
+    "NUM": 3,
+    "RMARK": 90234,
+    "ITEMS": [
+      {
+        "COUNT": 10000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 4,
+        "GSID": 30009
+      },
+      {
+        "COUNT": 3000,
+        "GSID": 30026
+      }
+    ],
+    "PROCESS": 90232,
+    "NAME": "通关第15关3次",
+    "NAME_VN": "Vượt Ải 15 3 lần"
+  },
+  {
+    "NUM": 6,
+    "RMARK": 90235,
+    "ITEMS": [
+      {
+        "COUNT": 15000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 10,
+        "GSID": 30006
+      },
+      {
+        "COUNT": 5000,
+        "GSID": 30015
+      }
+    ],
+    "PROCESS": 90232,
+    "NAME": "通关第15关6次",
+    "NAME_VN": "Vượt Ải 15 6 lần"
+  },
+  {
+    "NUM": 10,
+    "RMARK": 90236,
+    "ITEMS": [
+      {
+        "COUNT": 20000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 5,
+        "GSID": 30011
+      },
+      {
+        "COUNT": 2000,
+        "GSID": 30016
+      },
+      {
+        "COUNT": 1000,
+        "GSID": 30017
+      }
+    ],
+    "PROCESS": 90232,
+    "NAME": "通关第15关10次",
+    "NAME_VN": "Vượt Ải 15 10 lần"
+  },
+  {
+    "NUM": 1,
+    "RMARK": 90237,
+    "ITEMS": [
+      {
+        "COUNT": 25000000,
+        "GSID": 38006
+      },
+      {
+        "COUNT": 800,
+        "GSID": 38005
+      },
+      {
+        "COUNT": 50,
+        "GSID": 36001
+      }
+    ],
+    "PROCESS": 90233,
+    "NAME": "通关第30关1次",
+    "NAME_VN": "Vượt Ải 30 1 lần"
+  }
+]

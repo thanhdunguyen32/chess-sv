@@ -1,0 +1,131 @@
+package beans;
+
+option optimize_for = SPEED;
+option java_package = "game.module.battle.bean";
+
+message DBPlayerStageRecord {
+	repeated DBChapterRecord chapter_list = 1;
+}
+
+message DBPlayerStageRecordOld {
+	repeated DBChapterRecordOld chapter_list = 1;
+}
+
+message DBChapterRecordOld{
+	required int32 chapter_id = 1;
+	repeated DBStageRecord stage_list = 2;
+	repeated bool box_award = 3;
+}
+
+message DBChapterRecord{
+	required int32 chapter_id = 1;
+	repeated DBStageRecord stage_list = 2;
+	repeated bool box_award = 3;
+	required int32 limit_start_time = 4;//限时奖励开启时间
+	required int32 limit_finish_time = 5;//限时奖励结束时间
+	required bool limit_reward_get = 6;//限时奖励是否领取
+}
+
+message DBStageRecord{
+	required int32 stage_id = 1;
+	optional int32 star = 2;
+	optional int32 attack_count = 3;
+	optional int32 last_attack_time = 4;
+	optional int32 reset_count = 5;
+	optional int32 last_reset_time = 6;
+}
+
+message DBStageHeroList{
+	required int32 battle_force = 1;//战力
+	repeated DBStageHero stage_hero = 2;
+}
+
+message DBStageHero{
+	required int32 template_id = 1;
+	required int32 level = 2;
+	required int32 star_count = 3;//星级
+	required int32 quality = 4;//品质
+}
+
+//英雄碎片奖励
+message DBStageFragmentAward{
+	required int32 current_index = 1;
+	required int32 award_index = 2;
+}
+
+//--------------竞技场------------------
+message DBArena{
+	repeated DBArenaMember member_rank = 1;
+}
+
+message DBArenaMember{
+	required DB_ENEMY_TYPE member_type = 1;
+	optional DBArenaPlayer arena_player = 2;
+	optional DBArenaRobot arena_robot = 3;
+}
+
+message DBArenaRobot{
+	required int32 id = 1;
+	required string name = 2;
+	optional bool in_battle = 3;
+}
+
+message DBArenaPlayer{
+	required int32 player_id = 1;
+	required bool in_battle = 2;//战斗中不能挑战
+}
+
+message DBArenaPack{
+	repeated DBArenaRecentBattle recent_battle = 1;
+}
+
+message DBArenaRecentBattle{
+	required bool is_win = 1;
+	required int32 position_change = 2;
+	required bool is_attacker = 3;
+	required int32 target_player_id = 4;
+	required int32 attack_time = 5;
+}
+
+//单个玩家的记录
+message DBArenaOnePlayer{
+	repeated int32 defence_heros = 1;
+	repeated DBArenaBattleRecord battle_record = 2;
+}
+
+message DBArenaBattleRecord{
+	required bool is_win = 1;
+	required int32 rank_change = 2;//正负表示升降
+	required bool is_attacker = 3;
+	required int32 attack_time = 4;
+	required string target_name = 5;
+}
+
+enum DB_ENEMY_TYPE{
+	DB_ENEMY_TYPE_ROBOT = 1;
+	DB_ENEMY_TYPE_PLAYER = 2;
+}
+
+//-----------诸神争霸------------
+message DBCraftRecord{
+	repeated DBCraftRecordItem record_item = 1;
+}
+
+message DBCraftRecordItem{
+	required bool is_win = 1;
+	required int32 battle_time = 2;
+	repeated DBCraftRecordSide one_side = 3;
+}
+
+message DBCraftRecordSide{
+	required int32 player_id = 1;
+	required int32 server_id = 2;
+	required string player_name = 3;
+	required int32 craft_level = 4;
+	repeated DBCraftRecordHero hero_info = 5;	
+}
+
+message DBCraftRecordHero{
+	required int32 hero_tpl_id = 1;
+	required int32 star_count = 2;
+}

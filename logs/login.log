@@ -1,0 +1,144 @@
+2024-12-31 13:32:39.587 [main] WARN ,l.LoginServer - load executer
+2024-12-31 13:32:39.610 [main] INFO ,g.d.DataSourceManager - init Hikari jdbc DataSource
+2024-12-31 13:32:39.627 [main] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-12-31 13:32:39.808 [main] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-31 13:32:39.808 [main] WARN ,l.LoginServer - regist message processors!
+2024-12-31 13:32:39.958 [main] WARN ,l.LoginServer - regist http processors!
+2024-12-31 13:32:40.038 [main] INFO ,l.n.m.MsgDispatcher - dump IO message processors:
+51=login.processor.TestLoginProcessor
+53=login.processor_channel.GuestLoginProcessor
+55=login.processor_channel.OpenLoginProcessor
+57=login.processor.ServerListProcessor
+59=login.processor.GetAnnounceProcessor
+61=login.processor.SelectServerProcessor
+10031=login.processor_channel.QunheiLoginProcessor
+10033=login.processor_channel.WanbaLoginProcessor
+10035=login.processor_channel.ZhangMengLoginProcessor
+10037=login.processor_channel.Three33LoginProcessor
+10039=login.processor_channel.ChongChongLoginProcessor
+10041=login.processor_channel.Open4399LoginProcessor
+10043=login.processor.YijieLoginProcessor
+10047=login.processor_channel.YunbeeLoginProcessor
+10049=login.processor_channel.LiuyeLogin1Processor
+10051=login.processor_channel.LiuyeLogin2Processor
+10053=login.processor_channel.PingPingLoginProcessor
+10055=login.processor_channel.XingTengLoginProcessor
+10057=login.processor_channel.XingTengLoginProcessor2
+10059=login.processor_channel.ChuangFuLoginProcessor
+10061=login.processor_channel.QuLeLeLoginProcessor
+10063=login.processor_channel.MoXiLoginProcessor
+10065=login.processor.QuickLoginProcessor
+10067=login.processor_channel.O185syLoginProcessor
+
+2024-12-31 13:32:40.038 [main] INFO ,l.n.m.MsgDispatcher - dump IO message processors:
+
+2024-12-31 13:32:40.039 [main] WARN ,l.LoginServer - start netty server
+2024-12-31 13:32:40.177 [main] WARN ,l.w.WebsocketServer - websocket server listen on http:8100 successfully!
+2024-12-31 13:32:40.178 [main] INFO ,l.LoginServer - load templates:ServerListManager
+2024-12-31 13:32:40.179 [main] INFO ,l.l.ServerListManager - reload server_list template!
+2024-12-31 13:32:40.218 [main] INFO ,l.l.ServerHasRoleManager - reload server_has_role info!
+2024-12-31 13:32:40.225 [main] INFO ,l.l.AnnounceManager - reload announce list!
+2024-12-31 13:32:40.229 [main] WARN ,l.LoginServer - init lan connection
+2024-12-31 13:32:40.230 [main] INFO ,l.LoginServer - start lan server!
+2024-12-31 13:32:40.238 [main] INFO ,l.l.LoginLanClientManager - connect to hostName=127.0.0.1,port=12001
+2024-12-31 13:32:40.252 [main] ERROR,l.l.LoginLanClientManager - lan connect to 127.0.0.1:12001 error!
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: getsockopt: /127.0.0.1:12001
+Caused by: java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:682)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:1062)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+2024-12-31 13:32:40.253 [main] WARN ,l.LoginServer - init http server,port=8102!
+2024-12-31 13:32:40.297 [main] WARN ,l.h.Netty4HttpServer - HttpServer listening on port:8102 successfully!
+2024-12-31 13:32:40.313 [main] WARN ,l.l.LanServer - lan server listen on port:8101 successfully!
+2024-12-31 13:32:40.314 [main] WARN ,l.LoginServer - login server startup success! in 0.729 s
+2024-12-31 13:32:45.326 [shutdown-hook] WARN ,l.LoginServer - shutdown login server!
+2024-12-31 13:32:45.328 [shutdown-hook] WARN ,l.LoginServer - shutdown lan server!
+2024-12-31 13:32:45.330 [shutdown-hook] WARN ,l.LoginServer - close http server!
+2024-12-31 13:32:45.332 [shutdown-hook] WARN ,l.LoginServer - global timmer shutdown!
+2024-12-31 13:32:45.336 [shutdown-hook] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-12-31 13:32:45.343 [shutdown-hook] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-12-31 13:32:45.344 [shutdown-hook] WARN ,l.LoginServer - successfully close login server!
+2024-12-31 13:33:11.828 [main] WARN ,l.LoginServer - load executer
+2024-12-31 13:33:11.846 [main] INFO ,g.d.DataSourceManager - init Hikari jdbc DataSource
+2024-12-31 13:33:11.861 [main] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Starting...
+2024-12-31 13:33:12.060 [main] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Start completed.
+2024-12-31 13:33:12.060 [main] WARN ,l.LoginServer - regist message processors!
+2024-12-31 13:33:12.198 [main] WARN ,l.LoginServer - regist http processors!
+2024-12-31 13:33:12.291 [main] INFO ,l.n.m.MsgDispatcher - dump IO message processors:
+51=login.processor.TestLoginProcessor
+53=login.processor_channel.GuestLoginProcessor
+55=login.processor_channel.OpenLoginProcessor
+57=login.processor.ServerListProcessor
+59=login.processor.GetAnnounceProcessor
+61=login.processor.SelectServerProcessor
+10031=login.processor_channel.QunheiLoginProcessor
+10033=login.processor_channel.WanbaLoginProcessor
+10035=login.processor_channel.ZhangMengLoginProcessor
+10037=login.processor_channel.Three33LoginProcessor
+10039=login.processor_channel.ChongChongLoginProcessor
+10041=login.processor_channel.Open4399LoginProcessor
+10043=login.processor.YijieLoginProcessor
+10047=login.processor_channel.YunbeeLoginProcessor
+10049=login.processor_channel.LiuyeLogin1Processor
+10051=login.processor_channel.LiuyeLogin2Processor
+10053=login.processor_channel.PingPingLoginProcessor
+10055=login.processor_channel.XingTengLoginProcessor
+10057=login.processor_channel.XingTengLoginProcessor2
+10059=login.processor_channel.ChuangFuLoginProcessor
+10061=login.processor_channel.QuLeLeLoginProcessor
+10063=login.processor_channel.MoXiLoginProcessor
+10065=login.processor.QuickLoginProcessor
+10067=login.processor_channel.O185syLoginProcessor
+
+2024-12-31 13:33:12.291 [main] INFO ,l.n.m.MsgDispatcher - dump IO message processors:
+
+2024-12-31 13:33:12.292 [main] WARN ,l.LoginServer - start netty server
+2024-12-31 13:33:12.428 [main] WARN ,l.w.WebsocketServer - websocket server listen on http:8100 successfully!
+2024-12-31 13:33:12.429 [main] INFO ,l.LoginServer - load templates:ServerListManager
+2024-12-31 13:33:12.429 [main] INFO ,l.l.ServerListManager - reload server_list template!
+2024-12-31 13:33:12.464 [main] INFO ,l.l.ServerHasRoleManager - reload server_has_role info!
+2024-12-31 13:33:12.472 [main] INFO ,l.l.AnnounceManager - reload announce list!
+2024-12-31 13:33:12.477 [main] WARN ,l.LoginServer - init lan connection
+2024-12-31 13:33:12.477 [main] INFO ,l.LoginServer - start lan server!
+2024-12-31 13:33:12.484 [main] INFO ,l.l.LoginLanClientManager - connect to hostName=127.0.0.1,port=12001
+2024-12-31 13:33:12.494 [@+netty_LAN_CLIENT-3-1] INFO ,l.l.Netty4LanHandler - channelActive,remote_ip=/127.0.0.1:12001
+2024-12-31 13:33:12.494 [main] INFO ,l.l.LanClient - successfully connect to server!host=127.0.0.1,port=12001
+2024-12-31 13:33:12.495 [main] WARN ,l.LoginServer - init http server,port=8102!
+2024-12-31 13:33:12.535 [main] WARN ,l.h.Netty4HttpServer - HttpServer listening on port:8102 successfully!
+2024-12-31 13:33:12.548 [main] WARN ,l.l.LanServer - lan server listen on port:8101 successfully!
+2024-12-31 13:33:12.549 [main] WARN ,l.LoginServer - login server startup success! in 0.723 s
+2024-12-31 13:33:45.017 [@+netty_I/O-2-1] INFO ,l.w.WebSocketFrameHandler - receive msg,code=51
+2024-12-31 13:33:45.019 [@+netty_I/O-2-1] INFO ,l.p.TestLoginProcessor - TestLoginProcessor.process,reqMsg=C2STestLogin [uname=55,pwd=1,]
+2024-12-31 13:33:45.019 [@+netty_I/O-2-1] INFO ,l.p.TestLoginProcessor - 51-login,userName=55,pwd=1,loginIp=/127.0.0.1:56739
+2024-12-31 13:33:45.239 [@+netty_I/O-2-1] INFO ,l.w.WebSocketFrameHandler - receive msg,code=59
+2024-12-31 13:33:45.239 [@+netty_I/O-2-1] INFO ,l.p.GetAnnounceProcessor - get announcement!
+2024-12-31 13:33:45.251 [@+netty_I/O-2-1] INFO ,l.w.WebSocketFrameHandler - receive msg,code=57
+2024-12-31 13:33:48.196 [@+netty_I/O-2-1] INFO ,l.w.WebSocketFrameHandler - receive msg,code=61
+2024-12-31 13:33:48.197 [@+netty_I/O-2-1] INFO ,l.p.SelectServerProcessor - select server,reqMsg=C2SSelectServer [server_id=1,session_id=3320207081689088,]
+2024-12-31 13:33:48.197 [@+netty_I/O-2-1] INFO ,l.l.LoginLanClientManager - connect to hostName=127.0.0.1,port=12001
+2024-12-31 13:33:48.199 [@+netty_I/O-2-1] INFO ,l.l.LoginLanClientManager - send Login2GsMessage,ip=127.0.0.1:12001,sid=3320207081689088,userId=55
+2024-12-31 13:33:48.250 [@+netty_LAN_CLIENT-3-1] INFO ,l.l.Netty4LanHandler - receive msg,code=10010
+2024-12-31 13:33:48.250 [@+netty_LAN_CLIENT-3-1] INFO ,l.l.LoginLanClientManager - reveive msgCode=10010
+2024-12-31 13:33:48.251 [@+netty_LAN_CLIENT-3-1] INFO ,l.p.SelectServerProcessor - game server ret:openId=55,serverId=1,hasRole=true
+2024-12-31 13:33:48.251 [@+netty_LAN_CLIENT-3-1] INFO ,l.s.LoginStat - select server processor cost=54ms,sessionId=3320207081689088
+2024-12-31 13:34:23.231 [@+netty_LAN_CLIENT-3-1] ERROR,l.l.Netty4LanHandler - lost connection!
+2024-12-31 13:34:23.413 [@+netty_LAN_SERVER-7-1] INFO ,l.l.Netty4LanHandler - channelActive,remote_ip=/127.0.0.1:56765
+2024-12-31 13:34:23.417 [@+netty_LAN_SERVER-7-1] INFO ,l.l.Netty4LanHandler - receive msg,code=11003
+2024-12-31 13:34:23.419 [@+netty_LAN_SERVER-7-1] INFO ,l.l.LoginLanServerManager - game server add ServerHasRole info,server=1,account=55,level=140
+2024-12-31 13:34:24.051 [@+netty_LAN_SERVER-7-1] ERROR,l.l.Netty4LanHandler - lost connection!
+2024-12-31 13:34:58.774 [shutdown-hook] WARN ,l.LoginServer - shutdown login server!
+2024-12-31 13:34:58.776 [shutdown-hook] WARN ,l.LoginServer - shutdown lan server!
+2024-12-31 13:34:58.777 [shutdown-hook] WARN ,l.LoginServer - close http server!
+2024-12-31 13:34:58.779 [shutdown-hook] WARN ,l.LoginServer - global timmer shutdown!
+2024-12-31 13:34:58.781 [shutdown-hook] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2024-12-31 13:34:58.789 [shutdown-hook] INFO ,c.z.h.HikariDataSource - HikariPool-1 - Shutdown completed.
+2024-12-31 13:34:58.789 [shutdown-hook] WARN ,l.LoginServer - successfully close login server!

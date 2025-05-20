@@ -1,0 +1,990 @@
+{
+  "1015": [
+    {
+      "KEY": "HP",
+      "VAL": 12000
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 1200
+    }
+  ],
+  "2003": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 100
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 100
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 60
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 60
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 60
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 60
+    }
+  ],
+  "1013": [
+    {
+      "KEY": "HP",
+      "VAL": 7200
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 900
+    }
+  ],
+  "3010": [
+    {
+      "KEY": "PHP",
+      "VAL": 220
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 220
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 220
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 220
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 400
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 220
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 220
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 190
+    }
+  ],
+  "1007": [
+    {
+      "KEY": "HP",
+      "VAL": 2800
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 400
+    }
+  ],
+  "1001": [
+    {
+      "KEY": "HP",
+      "VAL": 300
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 50
+    }
+  ],
+  "1011": [
+    {
+      "KEY": "HP",
+      "VAL": 5600
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 750
+    }
+  ],
+  "3004": [
+    {
+      "KEY": "PHP",
+      "VAL": 150
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 150
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 150
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 150
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 240
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 150
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 150
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 120
+    }
+  ],
+  "3001": [
+    {
+      "KEY": "PHP",
+      "VAL": 100
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 100
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 100
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 100
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 150
+    }
+  ],
+  "2005": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 150
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 150
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 80
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 80
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 80
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 80
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 80
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 200
+    }
+  ],
+  "1005": [
+    {
+      "KEY": "HP",
+      "VAL": 1400
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 200
+    }
+  ],
+  "2008": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 200
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 200
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 110
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 110
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 110
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 110
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 110
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 240
+    }
+  ],
+  "3002": [
+    {
+      "KEY": "PHP",
+      "VAL": 110
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 110
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 110
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 110
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 180
+    }
+  ],
+  "2002": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 80
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 80
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 50
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 50
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 50
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 50
+    }
+  ],
+  "3009": [
+    {
+      "KEY": "PHP",
+      "VAL": 210
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 210
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 210
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 210
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 380
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 210
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 210
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 180
+    }
+  ],
+  "1018": [
+    {
+      "KEY": "HP",
+      "VAL": 20000
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 2000
+    }
+  ],
+  "2009": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 220
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 220
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 120
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 120
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 120
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 120
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 120
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 260
+    }
+  ],
+  "1017": [
+    {
+      "KEY": "HP",
+      "VAL": 18000
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 1800
+    }
+  ],
+  "2015": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 400
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 400
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 200
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 200
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 200
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 200
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 200
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 400
+    }
+  ],
+  "1006": [
+    {
+      "KEY": "HP",
+      "VAL": 2100
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 300
+    }
+  ],
+  "1008": [
+    {
+      "KEY": "HP",
+      "VAL": 3500
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 500
+    }
+  ],
+  "1010": [
+    {
+      "KEY": "HP",
+      "VAL": 4900
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 700
+    }
+  ],
+  "2014": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 360
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 360
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 180
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 180
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 180
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 180
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 180
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 380
+    }
+  ],
+  "2012": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 300
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 300
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 150
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 150
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 150
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 150
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 150
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 330
+    }
+  ],
+  "2011": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 260
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 260
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 140
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 140
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 140
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 140
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 140
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 300
+    }
+  ],
+  "1012": [
+    {
+      "KEY": "HP",
+      "VAL": 6400
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 800
+    }
+  ],
+  "1002": [
+    {
+      "KEY": "HP",
+      "VAL": 420
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 75
+    }
+  ],
+  "1016": [
+    {
+      "KEY": "HP",
+      "VAL": 15000
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 1500
+    }
+  ],
+  "2013": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 330
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 330
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 160
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 160
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 160
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 160
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 160
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 360
+    }
+  ],
+  "3006": [
+    {
+      "KEY": "PHP",
+      "VAL": 170
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 170
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 170
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 170
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 280
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 170
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 170
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 140
+    }
+  ],
+  "3011": [
+    {
+      "KEY": "PHP",
+      "VAL": 250
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 250
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 250
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 250
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 500
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 250
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 250
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 200
+    }
+  ],
+  "3005": [
+    {
+      "KEY": "PHP",
+      "VAL": 160
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 160
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 160
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 160
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 260
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 160
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 160
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 130
+    }
+  ],
+  "2004": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 120
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 120
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 70
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 70
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 70
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 70
+    }
+  ],
+  "1004": [
+    {
+      "KEY": "HP",
+      "VAL": 900
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 150
+    }
+  ],
+  "1014": [
+    {
+      "KEY": "HP",
+      "VAL": 8000
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 1000
+    }
+  ],
+  "3007": [
+    {
+      "KEY": "PHP",
+      "VAL": 180
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 180
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 180
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 180
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 300
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 180
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 180
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 150
+    }
+  ],
+  "1003": [
+    {
+      "KEY": "HP",
+      "VAL": 720
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 120
+    }
+  ],
+  "2007": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 180
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 180
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 100
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 100
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 100
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 100
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 100
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 220
+    }
+  ],
+  "2010": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 240
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 240
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 130
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 130
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 130
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 130
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 130
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 280
+    }
+  ],
+  "2006": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 160
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 160
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 90
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 90
+    },
+    {
+      "KEY": "PCRI",
+      "VAL": 90
+    },
+    {
+      "KEY": "PEFC",
+      "VAL": 90
+    },
+    {
+      "KEY": "PASP",
+      "VAL": 90
+    },
+    {
+      "KEY": "PHEA",
+      "VAL": 210
+    }
+  ],
+  "1009": [
+    {
+      "KEY": "HP",
+      "VAL": 4200
+    },
+    {
+      "KEY": "ATK",
+      "VAL": 600
+    }
+  ],
+  "3008": [
+    {
+      "KEY": "PHP",
+      "VAL": 200
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 200
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 200
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 200
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 350
+    },
+    {
+      "KEY": "PATKDAM",
+      "VAL": 200
+    },
+    {
+      "KEY": "PSKIDAM",
+      "VAL": 200
+    },
+    {
+      "KEY": "PRATK",
+      "VAL": 170
+    }
+  ],
+  "2001": [
+    {
+      "KEY": "PPTHR",
+      "VAL": 30
+    },
+    {
+      "KEY": "PMTHR",
+      "VAL": 30
+    },
+    {
+      "KEY": "PDEX",
+      "VAL": 20
+    },
+    {
+      "KEY": "PMDEX",
+      "VAL": 20
+    }
+  ],
+  "3003": [
+    {
+      "KEY": "PHP",
+      "VAL": 120
+    },
+    {
+      "KEY": "PATK",
+      "VAL": 120
+    },
+    {
+      "KEY": "PDEF",
+      "VAL": 120
+    },
+    {
+      "KEY": "PMDEF",
+      "VAL": 120
+    },
+    {
+      "KEY": "PCRID",
+      "VAL": 200
+    }
+  ]
+}

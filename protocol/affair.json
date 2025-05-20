@@ -1,0 +1,138 @@
+{
+    "C2SAffairList":{
+        "desc":"Danh sách nội chính",
+		"is_req":true,
+		"id":331
+	},
+	"S2CAffairList":{
+		"is_resp":true,
+		"id":332,
+		"fields":[
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "IOAffairItem":{
+        "fields":[
+			{"id":"int","desc":"Mã mẫu id của bảng dbAffairs tương ứng"},
+			{"gnum":"int","desc":"Số lượng tướng"},
+			{"gstar":"int","desc":"Sao của tướng"},
+			{"hour":"int"},
+			{"cond":"[]int","desc":"Điều kiện nhiệm vụ"},
+			{"reward":"[]IORewardItem"},
+			{"lock":"int"},
+			{"create":"long"},
+            {"etime":"long"},
+            {"arr":"[]long","desc":"UUID của tướng ra trận"}
+		]
+    },
+    "IORewardItem":{
+        "fields":[
+			{"GSID":"int"},
+			{"COUNT":"int"}
+		]
+    },
+    "C2SAffairRefresh":{
+        "is_req":true,
+		"id":333
+    },
+    "S2CAffairRefresh":{
+		"is_resp":true,
+		"id":334,
+		"fields":[
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "C2SAffairReel":{
+        "desc":"Sử dụng cuộn giấy, tạo nhiệm vụ nội chính",
+        "is_req":true,
+        "id":335,
+        "fields":[
+			{"scroll_id":"int"}
+		]
+    },
+    "S2CAffairReel":{
+		"is_resp":true,
+		"id":336,
+		"fields":[
+			{"scroll_id":"int"}
+		]
+    },
+    "C2SAffairLock":{
+        "desc":"Khóa một nhiệm vụ cụ thể",
+        "is_req":true,
+        "id":337,
+        "fields":[
+			{"affair_index":"int"}
+		]
+    },
+    "S2CAffairLock":{
+		"is_resp":true,
+		"id":338,
+		"fields":[
+			{"affair_index":"int"},
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "C2SAffairStart":{
+        "desc":"Nhận nhiệm vụ",
+        "is_req":true,
+        "id":339,
+        "fields":[
+			{"affair_index":"int"},
+			{"arr":"[]long","desc":"UUID của anh hùng ra trận"}
+		]
+    },
+    "S2CAffairStart":{
+		"is_resp":true,
+		"id":340,
+		"fields":[
+			{"affair_index":"int"},
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "C2SAffairAcce":{
+        "desc":"Yuanbao tăng tốc nhiệm vụ",
+        "is_req":true,
+        "id":341,
+        "fields":[
+			{"affair_index":"int"}
+		]
+    },
+    "S2CAffairAcce":{
+		"is_resp":true,
+		"id":342,
+		"fields":[
+			{"affair_index":"int"},
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "C2SAffairAward":{
+        "desc":"Nhận phần thưởng nhiệm vụ nội chính",
+        "is_req":true,
+        "id":343,
+        "fields":[
+			{"affair_index":"int"}
+		]
+    },
+    "S2CAffairAward":{
+		"is_resp":true,
+		"id":344,
+		"fields":[
+			{"affair_index":"int"},
+			{"rewards":"[]IORewardItem"},
+			{"item_list":"[]IOAffairItem"}
+		]
+    },
+    "C2SAffairRedNotice":{
+        "desc":"Yuanbao tăng tốc nhiệm vụ",
+        "is_req":true,
+        "id":345
+    },
+    "S2CAffairRedNotice":{
+		"is_resp":true,
+		"id":346,
+		"fields":[
+			{"ret":"bool"}
+		]
+    }
+}

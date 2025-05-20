@@ -1,0 +1,124 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 75,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Nhờ có chúa công quyết định sách lược tác chiến, chiến đấu dễ dàng rất nhiều!"
+      }
+    },
+    {
+      "numstep": 76,
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "notice",
+        "text": "Lúc này có hai thân ảnh từ hai phương hướng chậm rãi tới gần quân doanh!"
+      }
+    },
+    {
+      "numstep": 77,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": "Người tới dừng lại! Nói rõ ý đồ, nếu không thì đừng trách quân ta mưa tên vô tình!"
+      }
+    },
+    {
+      "numstep": 78,
+      "desc": "Dẫn đạo đối thoại 3",
+      "command": {
+        "cmd": "talk",
+        "gsid": 10241,
+        "args": "Bẩm tướng quân, tiểu nhân là Cức Dương Đặng Ngải, đi ngang qua Trường An, may mắn gặp phải tướng quân thảo phạt Đổng tặc, do đó hy vọng gia nhập dưới trướng tướng quân, kiến công lập nghiệp!",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 79,
+      "desc": "Dẫn đạo đối thoại 4",
+      "command": {
+        "cmd": "talk",
+        "gsid": 14241,
+        "args": "Bẩm tướng quân, ta là Giang Đông Lục Kháng, vừa thấy tướng quân mang binh công thành, điều binh khiển tướng còn tư thái danh tướng, làm tướng quân phong thái vô song khuất phục, đặc biệt đến xin quy phục!",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 80,
+      "desc": "Dẫn đạo đối thoại 5",
+      "command": {
+        "cmd": "talk",
+        "args": "Tướng quân, quân ta lương thảo bất lực, thật sự không thể cùng lúc nhận lấy hai người bọn họ, chỉ có thể mời tướng quân cân nhắc."
+      }
+    },
+    {
+      "numstep": 81,
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "choose",
+        "num": 3,
+        "text": "Thỉnh chúa công chọn võ tướng muốn chiêu mộ!"
+      }
+    },
+    {
+      "numstep": 82,
+      "desc": "Dẫn đạo đối thoại 6",
+      "command": {
+        "cmd": "talk",
+        "gsid": 10241,
+        "args": "Đa tạ Tướng quân tin cậy, tại hạ nhất định anh dũng tác chiến báo lấy ơn tri ngộ của tướng quân.",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 82,
+      "desc": "Dẫn đạo đối thoại 6",
+      "command": {
+        "cmd": "talk",
+        "gsid": 14241,
+        "args": "Đa tạ Tướng quân tin cậy, tại hạ nhất định anh dũng tác chiến báo lấy ơn tri ngộ của tướng quân.",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 83,
+      "desc": "Dẫn đạo đối thoại 7",
+      "command": {
+        "cmd": "talk",
+        "gsid": 10241,
+        "args": "Tướng quân đã chỗ khó xử, ta cũng không cưỡng cầu, tương lai còn có cơ hội vì tướng quân hiệu mệnh",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 83,
+      "desc": "Dẫn đạo đối thoại 7",
+      "command": {
+        "cmd": "talk",
+        "gsid": 14241,
+        "args": "Tướng quân đã chỗ khó xử, ta cũng không cưỡng cầu, tương lai còn có cơ hội vì tướng quân hiệu mệnh",
+        "direction": "right"
+      }
+    },
+    {
+      "numstep": 84,
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "notice",
+        "text": "Nói xong, Đặng Ngải quay lại rời khỏi quân doanh."
+      }
+    },
+    {
+      "numstep": 84,
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "notice",
+        "text": "Nói xong, Lục Kháng rời khỏi quân doanh."
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Hướng dẫn hợp thành mảnh"
+}

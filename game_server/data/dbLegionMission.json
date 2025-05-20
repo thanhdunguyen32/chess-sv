@@ -1,0 +1,145 @@
+[
+  {
+    "ID": 1,
+    "NAME": "打造铁剑",
+    "NAME_VN": "Chế Tạo Thiết Kiếm",
+    "YB": 10,
+    "STAR": 1,
+    "ITEMS": [
+      {
+        "COUNT": [
+          150000,
+          160000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          60,
+          69
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 360
+  },
+  {
+    "ID": 2,
+    "NAME": "熔炼精铁",
+    "NAME_VN": "Luyện Tinh Thiết",
+    "YB": 20,
+    "STAR": 2,
+    "ITEMS": [
+      {
+        "COUNT": [
+          180000,
+          190000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          70,
+          79
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 420
+  },
+  {
+    "ID": 3,
+    "NAME": "雕琢铠甲",
+    "NAME_VN": "Tạo Hình Áo Giáp",
+    "YB": 30,
+    "STAR": 3,
+    "ITEMS": [
+      {
+        "COUNT": [
+          220000,
+          230000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          80,
+          89
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 480
+  },
+  {
+    "ID": 4,
+    "NAME": "兵器开锋",
+    "NAME_VN": "Binh Khí Khai Phong",
+    "YB": 60,
+    "STAR": 4,
+    "ITEMS": [
+      {
+        "COUNT": [
+          260000,
+          270000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          100,
+          109
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 540
+  },
+  {
+    "ID": 5,
+    "NAME": "镶嵌宝石",
+    "NAME_VN": "Khảm Bảo Thạch",
+    "YB": 100,
+    "STAR": 5,
+    "ITEMS": [
+      {
+        "COUNT": [
+          300000,
+          310000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          130,
+          139
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 600
+  },
+  {
+    "ID": 6,
+    "NAME": "神兵铸魂",
+    "NAME_VN": "Thần Binh Đúc Hồn",
+    "STAR": 6,
+    "ITEMS": [
+      {
+        "COUNT": [
+          350000,
+          360000
+        ],
+        "GSID": 38006
+      },
+      {
+        "COUNT": [
+          180,
+          189
+        ],
+        "GSID": 30020
+      }
+    ],
+    "TIMEMIN": 720
+  }
+]

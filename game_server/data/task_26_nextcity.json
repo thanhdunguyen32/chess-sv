@@ -1,0 +1,89 @@
+{
+  "debug": true,
+  "steps": [
+    {
+      "numstep": 147,
+      "desc": "Dẫn đạo đối thoại 1",
+      "command": {
+        "cmd": "talk",
+        "args": "Toàn quân tu chỉnh hoàn tất, giờ là thời điểm truy kích Đổng Trác!"
+      }
+    },
+    {
+      "numstep": 148,
+      "desc": "Nhấn vào Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "nomask": true,
+        "textdirection": "left",
+        "args": "Main Camera > mainscenes_menu_bg_down > mainscenes_btn_04",
+        "location": "up",
+        "text": "Hoàn thành chuẩn bị! Thời điểm để võ tướng mới đại triển thân thủ!"
+      }
+    },
+    {
+      "desc": "Dẫn đạo đối thoại 2",
+      "delayTime": 0.1,
+      "command": {
+        "cmd": "talk",
+        "args": "Bẩm chúa công, triều đình vừa hạ lệnh treo giải thưởng, ai có thể công phá Huỳnh Dương, có thể nhận được thần tướng nương nhờ!"
+      }
+    },
+    {
+      "numstep": 149,
+      "desc": "Nhấn vào Thần Tướng 3 chọn 1",
+      "command": {
+        "cmd": "finger",
+        "args": "new_worldmap_page > activity_node > 3or1",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Giới thiệu chọn võ tướng",
+      "command": {
+        "cmd": "locator",
+        "args": "activity_qiri_choise_page > bg_node > layout",
+        "textdirection": "mid",
+        "text": "Chỉ cần đánh hạ Huỳnh Dương, có thể tự do lựa chọn một thần tướng"
+      }
+    },
+    {
+      "numstep": 150,
+      "desc": "Nhấn tiến tới Chinh Chiến",
+      "command": {
+        "cmd": "finger",
+        "args": "activity_qiri_choise_page > btn_fight",
+        "nomask": true
+      }
+    },
+    {
+      "desc": "Nhấn vào tiến tới",
+      "command": {
+        "cmd": "finger",
+        "args": "windows_page_cutcity > btn_1",
+        "nomask": true
+      }
+    },
+    {
+      "numstep": 151,
+      "desc": "Dẫn đạo đối thoại 2",
+      "command": {
+        "cmd": "talk",
+        "args": [
+          "Chúa công, trước đây chúng ta tập kích bất ngờ Trường An, Đổng Trác chuẩn bị không đủ, do đó bị chúng ta dễ dàng cầm xuống.",
+          "Huỳnh Dương tuy nhỏ, nhưng Đổng Trác có giáo huấn trước đó tất phải tăng mạnh phòng thủ, thỉnh chúa công nhất định không được sơ ý. ",
+          "Hiện tại quân ta quy mô mở rộng không ít, rất nhiều việc vặt vãnh đều cần Tiểu Tước xử lý, nên tạm thời không bồi chúa công chinh chiến thiên hạ, chúc chúa công võ vận hưng thịnh, Tiểu Tước cáo lui."
+        ]
+      }
+    },
+    {
+      "desc": "Thông báo tin tức",
+      "command": {
+        "cmd": "notice",
+        "text": "Nói xong, Tiểu Tước rời khỏi doanh trướng..."
+      }
+    }
+  ],
+  "autorun": false,
+  "name": "Tiến tới Chinh Chiến"
+}

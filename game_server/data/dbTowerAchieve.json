@@ -1,0 +1,893 @@
+{
+  "GETMARK": 90209,
+  "ACHIEVE": [
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33004
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33104
+        }
+      ],
+      "TOWER": 10,
+      "EXID": "towerachieve_0"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33204
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33304
+        }
+      ],
+      "TOWER": 20,
+      "EXID": "towerachieve_1"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 30,
+          "GSID": 36021
+        }
+      ],
+      "TOWER": 30,
+      "EXID": "towerachieve_2"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33005
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33105
+        }
+      ],
+      "TOWER": 40,
+      "EXID": "towerachieve_3"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33205
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33305
+        }
+      ],
+      "TOWER": 50,
+      "EXID": "towerachieve_4"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 60,
+      "EXID": "towerachieve_5"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33006
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33106
+        }
+      ],
+      "TOWER": 70,
+      "EXID": "towerachieve_6"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33206
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33306
+        }
+      ],
+      "TOWER": 80,
+      "EXID": "towerachieve_7"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 90,
+      "EXID": "towerachieve_8"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33007
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33107
+        }
+      ],
+      "TOWER": 100,
+      "EXID": "towerachieve_9"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33207
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33307
+        }
+      ],
+      "TOWER": 110,
+      "EXID": "towerachieve_10"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 120,
+      "EXID": "towerachieve_11"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33008
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33108
+        }
+      ],
+      "TOWER": 130,
+      "EXID": "towerachieve_12"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33208
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33308
+        }
+      ],
+      "TOWER": 140,
+      "EXID": "towerachieve_13"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 150,
+      "EXID": "towerachieve_14"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33009
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33109
+        }
+      ],
+      "TOWER": 160,
+      "EXID": "towerachieve_15"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33209
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33309
+        }
+      ],
+      "TOWER": 170,
+      "EXID": "towerachieve_16"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 180,
+      "EXID": "towerachieve_17"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33010
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33110
+        }
+      ],
+      "TOWER": 190,
+      "EXID": "towerachieve_18"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33210
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33310
+        }
+      ],
+      "TOWER": 200,
+      "EXID": "towerachieve_19"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 210,
+      "EXID": "towerachieve_20"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33011
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33111
+        }
+      ],
+      "TOWER": 220,
+      "EXID": "towerachieve_21"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33211
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33311
+        }
+      ],
+      "TOWER": 230,
+      "EXID": "towerachieve_22"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 240,
+      "EXID": "towerachieve_23"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 250,
+      "EXID": "towerachieve_24"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 260,
+      "EXID": "towerachieve_25"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 270,
+      "EXID": "towerachieve_26"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 280,
+      "EXID": "towerachieve_27"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 290,
+      "EXID": "towerachieve_28"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 300,
+      "EXID": "towerachieve_29"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 310,
+      "EXID": "towerachieve_30"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 320,
+      "EXID": "towerachieve_31"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 50,
+          "GSID": 36001
+        }
+      ],
+      "TOWER": 330,
+      "EXID": "towerachieve_32"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 340,
+      "EXID": "towerachieve_33"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 350,
+      "EXID": "towerachieve_34"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 360,
+      "EXID": "towerachieve_35"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 370,
+      "EXID": "towerachieve_36"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 380,
+      "EXID": "towerachieve_37"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 390,
+      "EXID": "towerachieve_38"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 400,
+      "EXID": "towerachieve_39"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 410,
+      "EXID": "towerachieve_40"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 420,
+      "EXID": "towerachieve_41"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 430,
+      "EXID": "towerachieve_42"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 440,
+      "EXID": "towerachieve_43"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 450,
+      "EXID": "towerachieve_44"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 460,
+      "EXID": "towerachieve_45"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 470,
+      "EXID": "towerachieve_46"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 480,
+      "EXID": "towerachieve_47"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 490,
+      "EXID": "towerachieve_48"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 500,
+      "EXID": "towerachieve_49"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 510,
+      "EXID": "towerachieve_50"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 520,
+      "EXID": "towerachieve_51"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 530,
+      "EXID": "towerachieve_52"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 540,
+      "EXID": "towerachieve_53"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 550,
+      "EXID": "towerachieve_54"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 560,
+      "EXID": "towerachieve_55"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 570,
+      "EXID": "towerachieve_56"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33012
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33112
+        }
+      ],
+      "TOWER": 580,
+      "EXID": "towerachieve_57"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33212
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33312
+        }
+      ],
+      "TOWER": 590,
+      "EXID": "towerachieve_58"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32104
+        }
+      ],
+      "TOWER": 600,
+      "EXID": "towerachieve_59"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33013
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33113
+        }
+      ],
+      "TOWER": 610,
+      "EXID": "towerachieve_60"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33213
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33313
+        }
+      ],
+      "TOWER": 620,
+      "EXID": "towerachieve_61"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 630,
+      "EXID": "towerachieve_62"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33013
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33113
+        }
+      ],
+      "TOWER": 640,
+      "EXID": "towerachieve_63"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33213
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33313
+        }
+      ],
+      "TOWER": 650,
+      "EXID": "towerachieve_64"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 660,
+      "EXID": "towerachieve_65"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33013
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33113
+        }
+      ],
+      "TOWER": 670,
+      "EXID": "towerachieve_66"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33213
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33313
+        }
+      ],
+      "TOWER": 680,
+      "EXID": "towerachieve_67"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 32101
+        }
+      ],
+      "TOWER": 690,
+      "EXID": "towerachieve_68"
+    },
+    {
+      "REWARDS": [
+        {
+          "COUNT": 1,
+          "GSID": 33013
+        },
+        {
+          "COUNT": 1,
+          "GSID": 33113
+        }
+      ],
+      "TOWER": 700,
+      "EXID": "towerachieve_69"
+    }
+  ]
+}

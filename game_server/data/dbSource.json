@@ -1,0 +1,838 @@
+{
+  "30001": {
+    "LBSHOW": 1,
+    "GSID": 30001,
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 2,
+        "PAGE": "bigbattlepage",
+        "NAME": "战役",
+        "NAME_VN": "Chiến Dịch"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "NAME": "武将经验",
+    "NAME_VN": "Exp Võ Tướng"
+  },
+  "30002": {
+    "ITEMS": [
+      {
+        "ID": 5,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武场",
+        "NAME_VN": "Diễn Võ Trường"
+      }
+    ],
+    "GSID": 30002,
+    "NAME": "勋章",
+    "NAME_VN": "Huân Chương"
+  },
+  "30020": {
+    "ITEMS": [
+      {
+        "ID": 11,
+        "PAGE": "legionhomepage",
+        "NAME": "军团",
+        "NAME_VN": "Quân Đoàn"
+      }
+    ],
+    "GSID": 30020,
+    "NAME": "军团贡献",
+    "NAME_VN": "Quân Đoàn Cống Hiến"
+  },
+  "30013": {
+    "ITEMS": [
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      }
+    ],
+    "GSID": 30013,
+    "NAME": "龙玉",
+    "NAME_VN": "Long Ngọc"
+  },
+  "30021": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30021,
+    "NAME": "3星任务卷轴",
+    "NAME_VN": "Quyển Trục 3 Sao"
+  },
+  "138003": {
+    "ITEMS": [
+      {
+        "ID": 19,
+        "PAGE": "cardpubpage",
+        "NAME": "酒馆",
+        "NAME_VN": "Tửu Quán"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 138003,
+    "NAME": "任意3星武将",
+    "NAME_VN": "Võ Tướng Bất Kỳ 3 Sao"
+  },
+  "30005": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 5,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武场",
+        "NAME_VN": "Diễn Võ Trường"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 30005,
+    "NAME": "普通招募令",
+    "NAME_VN": "Chiêu Mộ Lệnh"
+  },
+  "30014": {
+    "ITEMS": [
+      {
+        "ID": 10,
+        "PAGE": "generalrelivepage",
+        "NAME": "驿站",
+        "NAME_VN": "Dịch Trạm"
+      }
+    ],
+    "GSID": 30014,
+    "NAME": "求贤帖",
+    "NAME_VN": "Cầu Hiền Thiếp"
+  },
+  "30028": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 30028,
+    "NAME": "演武令",
+    "NAME_VN": "Diễn Võ Lệnh"
+  },
+  "136000": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 18,
+        "PAGE": "officepage",
+        "NAME": "招降武将",
+        "NAME_VN": "Chiêu Hàng Võ Tướng"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      },
+      {
+        "ID": 2,
+        "PAGE": "bigbattlepage",
+        "NAME": "战役",
+        "NAME_VN": "Chiến Dịch"
+      }
+    ],
+    "GSID": 136000,
+    "NAME": "武将碎片",
+    "NAME_VN": "Mảnh Tướng"
+  },
+  "30011": {
+    "LBSHOW": 1,
+    "GSID": 30011,
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      },
+      {
+        "ID": 8,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武商店",
+        "NAME_VN": "Cửa Hàng Diễn Võ"
+      }
+    ],
+    "NAME": "点将令",
+    "NAME_VN": "Điểm Tướng Lệnh"
+  },
+  "30026": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30026,
+    "NAME": "坐骑丹",
+    "NAME_VN": "Tọa Kỵ Đan"
+  },
+  "30031": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30031,
+    "NAME": "7星任务卷轴",
+    "NAME_VN": "Quyển Trục 7 Sao"
+  },
+  "30029": {
+    "ITEMS": [
+      {
+        "ID": 13,
+        "PAGE": "officepage",
+        "NAME": "官职",
+        "NAME_VN": "Chức Quan"
+      },
+      {
+        "ID": 2,
+        "PAGE": "bigbattlepage",
+        "NAME": "战役",
+        "NAME_VN": "Chiến Dịch"
+      }
+    ],
+    "GSID": 30029,
+    "NAME": "威望",
+    "NAME_VN": "Uy Vọng"
+  },
+  "38006": {
+    "LBSHOW": 1,
+    "GSID": 38006,
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 16,
+        "PAGE": "goldmidaspage",
+        "NAME": "点金",
+        "NAME_VN": "Điểm Kim"
+      },
+      {
+        "ID": 2,
+        "PAGE": "bigbattlepage",
+        "NAME": "战役",
+        "NAME_VN": "Chiến Dịch"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      }
+    ],
+    "NAME": "铜钱",
+    "NAME_VN": "Tiền Đồng"
+  },
+  "138005": {
+    "ITEMS": [
+      {
+        "ID": 19,
+        "PAGE": "cardpubpage",
+        "NAME": "酒馆",
+        "NAME_VN": "Tửu Quán"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 8,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武商店",
+        "NAME_VN": "Cửa Hàng Diễn Võ"
+      }
+    ],
+    "GSID": 138005,
+    "NAME": "任意5星武将",
+    "NAME_VN": "Võ Tướng Bất Kỳ 5 Sao"
+  },
+  "138001": {
+    "ITEMS": [
+      {
+        "ID": 19,
+        "PAGE": "cardpubpage",
+        "NAME": "酒馆",
+        "NAME_VN": "Tửu Quán"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 17,
+        "PAGE": "generalpage",
+        "NAME": "封神",
+        "NAME_VN": "Phong Thần"
+      }
+    ],
+    "GSID": 138001,
+    "NAME": "指定5星武将",
+    "NAME_VN": "Võ Tướng Chỉ Định 5 Sao"
+  },
+  "137000": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      }
+    ],
+    "GSID": 137000,
+    "NAME": "宝物碎片",
+    "NAME_VN": "Mảnh Bảo Vật"
+  },
+  "30015": {
+    "LBSHOW": 1,
+    "GSID": 30015,
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 21,
+        "PAGE": "practicetowerpage",
+        "NAME": "试炼塔",
+        "NAME_VN": "Tháp Thí Luyện"
+      },
+      {
+        "ID": 2,
+        "PAGE": "bigbattlepage",
+        "NAME": "战役",
+        "NAME_VN": "Chiến Dịch"
+      },
+      {
+        "ID": 5,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武场",
+        "NAME_VN": "Diễn Võ Trường"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "NAME": "进阶石",
+    "NAME_VN": "Tiến Giai Thạch"
+  },
+  "138006": {
+    "ITEMS": [
+      {
+        "ID": 17,
+        "PAGE": "generalpage",
+        "NAME": "封神",
+        "NAME_VN": "Phong Thần"
+      }
+    ],
+    "GSID": 138006,
+    "NAME": "任意6星武将",
+    "NAME_VN": "Võ Tướng Bất Kỳ 6 Sao"
+  },
+  "30024": {
+    "ITEMS": [
+      {
+        "ID": 12,
+        "PAGE": "windowspagesetnum",
+        "NAME": "元宝购买",
+        "NAME_VN": "Mua Nguyên Bảo"
+      },
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30024,
+    "NAME": "兵符",
+    "NAME_VN": "Binh Phù"
+  },
+  "30003": {
+    "ITEMS": [
+      {
+        "ID": 6,
+        "PAGE": "expeditionpage",
+        "NAME": "远征",
+        "NAME_VN": "Viễn Chinh"
+      }
+    ],
+    "GSID": 30003,
+    "NAME": "战功",
+    "NAME_VN": "Chiến Công"
+  },
+  "30009": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 30009,
+    "NAME": "高级神符",
+    "NAME_VN": "Thần Phù Cao Cấp"
+  },
+  "38001": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 38001,
+    "NAME": "主公等级经验",
+    "NAME_VN": "Exp Nhân Vật"
+  },
+  "138002": {
+    "ITEMS": [
+      {
+        "ID": 17,
+        "PAGE": "generalpage",
+        "NAME": "封神",
+        "NAME_VN": "Phong Thần"
+      }
+    ],
+    "GSID": 138002,
+    "NAME": "指定6星武将",
+    "NAME_VN": "Võ Tướng Chỉ Định 6 Sao"
+  },
+  "30030": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30030,
+    "NAME": "6星任务卷轴",
+    "NAME_VN": "Quyển Trục 6 Sao"
+  },
+  "138004": {
+    "ITEMS": [
+      {
+        "ID": 19,
+        "PAGE": "cardpubpage",
+        "NAME": "酒馆",
+        "NAME_VN": "Tửu Quán"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 8,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武商店",
+        "NAME_VN": "Cửa Hàng Diễn Võ"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 138004,
+    "NAME": "任意4星武将",
+    "NAME_VN": "Võ Tướng Bất Kỳ 4 Sao"
+  },
+  "30008": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 30008,
+    "NAME": "神符",
+    "NAME_VN": "Thần Phù"
+  },
+  "30012": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      },
+      {
+        "ID": 8,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武商店",
+        "NAME_VN": "Cửa Hàng Diễn Võ"
+      }
+    ],
+    "GSID": 30012,
+    "NAME": "将魂",
+    "NAME_VN": "Tướng Hồn"
+  },
+  "30022": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      }
+    ],
+    "GSID": 30022,
+    "NAME": "5星任务卷轴",
+    "NAME_VN": "Quyển Trục 5 Sao"
+  },
+  "38005": {
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 13,
+        "PAGE": "officepage",
+        "NAME": "官职",
+        "NAME_VN": "Chức Quan"
+      },
+      {
+        "ID": 14,
+        "PAGE": "friendpage",
+        "NAME": "好友探索",
+        "NAME_VN": "Bạn Bè Thăm Dò"
+      },
+      {
+        "ID": 15,
+        "PAGE": "rechargepage",
+        "NAME": "充值",
+        "NAME_VN": "Nạp Tiền"
+      }
+    ],
+    "GSID": 38005,
+    "NAME": "元宝",
+    "NAME_VN": "Nguyên Bảo"
+  },
+  "30017": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 6,
+        "PAGE": "expeditionpage",
+        "NAME": "远征",
+        "NAME_VN": "Viễn Chinh"
+      }
+    ],
+    "GSID": 30017,
+    "NAME": "五彩石",
+    "NAME_VN": "Ngũ Thải Thạch"
+  },
+  "138007": {
+    "ITEMS": [
+      {
+        "ID": 17,
+        "PAGE": "generalpage",
+        "NAME": "封神",
+        "NAME_VN": "Phong Thần"
+      }
+    ],
+    "GSID": 138007,
+    "NAME": "任意9星武将",
+    "NAME_VN": "Võ Tướng Bất Kỳ 9 Sao"
+  },
+  "30010": {
+    "ITEMS": [
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      }
+    ],
+    "GSID": 30010,
+    "NAME": "观星积分",
+    "NAME_VN": "Điểm Quan Tinh"
+  },
+  "138000": {
+    "ITEMS": [
+      {
+        "ID": 19,
+        "PAGE": "cardpubpage",
+        "NAME": "酒馆",
+        "NAME_VN": "Tửu Quán"
+      },
+      {
+        "ID": 9,
+        "PAGE": "carddrawpage",
+        "NAME": "点将台",
+        "NAME_VN": "Điểm Tướng Đài"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "GSID": 138000,
+    "NAME": "指定4星武将",
+    "NAME_VN": "Võ Tướng Chỉ Định 4 Sao"
+  },
+  "134000": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      }
+    ],
+    "GSID": 134000,
+    "NAME": "宝物",
+    "NAME_VN": "Bảo Vật"
+  },
+  "133000": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      },
+      {
+        "ID": 20,
+        "PAGE": "fusionpage",
+        "NAME": "铁匠铺",
+        "NAME_VN": "Tiệm Thợ Rèn"
+      }
+    ],
+    "GSID": 133000,
+    "NAME": "装备",
+    "NAME_VN": "Trang Bị"
+  },
+  "30006": {
+    "LBSHOW": 1,
+    "GSID": 30006,
+    "ITEMS": [
+      {
+        "ID": 7,
+        "PAGE": "itnmissionpage",
+        "NAME": "内政任务",
+        "NAME_VN": "Nhiệm Vụ Nội Chính"
+      },
+      {
+        "ID": 5,
+        "PAGE": "pvpentrancepage",
+        "NAME": "演武场",
+        "NAME_VN": "Diễn Võ Trường"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      },
+      {
+        "ID": 4,
+        "PAGE": "shoppage",
+        "NAME": "集市",
+        "NAME_VN": "Chợ"
+      }
+    ],
+    "NAME": "高级招募令",
+    "NAME_VN": "Chiêu Mộ Lệnh Cao Cấp"
+  },
+  "30016": {
+    "ITEMS": [
+      {
+        "ID": 1,
+        "PAGE": "autobattlepage",
+        "NAME": "征战挂机",
+        "NAME_VN": "AFK Chinh Chiến"
+      },
+      {
+        "ID": 6,
+        "PAGE": "expeditionpage",
+        "NAME": "远征",
+        "NAME_VN": "Viễn Chinh"
+      },
+      {
+        "ID": 3,
+        "PAGE": "lookstarpage",
+        "NAME": "观星",
+        "NAME_VN": "Quan Tinh"
+      }
+    ],
+    "GSID": 30016,
+    "NAME": "圣灵石",
+    "NAME_VN": "Thánh Linh Thạch"
+  }
+}

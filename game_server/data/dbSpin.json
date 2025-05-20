@@ -1,0 +1,155 @@
+[
+  {
+    "SCORE": [
+      {
+        "SIGN": 90000,
+        "COUNT": 100,
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30028
+          }
+        ]
+      },
+      {
+        "SIGN": 90001,
+        "COUNT": 300,
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30006
+          }
+        ]
+      },
+      {
+        "SIGN": 90002,
+        "COUNT": 500,
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30009
+          }
+        ]
+      },
+      {
+        "SIGN": 90003,
+        "COUNT": 800,
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30009
+          }
+        ]
+      },
+      {
+        "SIGN": 90004,
+        "COUNT": 1000,
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30009
+          }
+        ]
+      }
+    ],
+    "1": {
+      "COUNT": 1,
+      "GSID": 30008,
+      "DROP": [
+        30010,
+        30027
+      ]
+    },
+    "BUYCOIN": {
+      "COUNT": 50,
+      "GSID": 38005,
+      "EXID": "spincoin_0"
+    },
+    "REFRESH": {
+      "COUNT": 50,
+      "GSID": 38005
+    },
+    "10": {
+      "COUNT": 8,
+      "GSID": 30008,
+      "DROP": [
+        30010,
+        30027
+      ]
+    }
+  },
+  {
+    "1": {
+      "COUNT": 1,
+      "GSID": 30009,
+      "DROP": [
+        30025,
+        30027
+      ]
+    },
+    "REFRESH": {
+      "COUNT": 100,
+      "GSID": 38005
+    },
+    "SCORE": [
+      {
+        "SIGN": 90005,
+        "COUNT": 100,
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30011
+          }
+        ]
+      },
+      {
+        "SIGN": 90006,
+        "COUNT": 300,
+        "REWARD": [
+          {
+            "COUNT": 1,
+            "GSID": 30011
+          }
+        ]
+      },
+      {
+        "SIGN": 90007,
+        "COUNT": 500,
+        "REWARD": [
+          {
+            "COUNT": 2,
+            "GSID": 30011
+          }
+        ]
+      },
+      {
+        "SIGN": 90008,
+        "COUNT": 800,
+        "REWARD": [
+          {
+            "COUNT": 3,
+            "GSID": 30011
+          }
+        ]
+      },
+      {
+        "SIGN": 90009,
+        "COUNT": 1000,
+        "REWARD": [
+          {
+            "COUNT": 50,
+            "GSID": 36001
+          }
+        ]
+      }
+    ],
+    "10": {
+      "COUNT": 8,
+      "GSID": 30009,
+      "DROP": [
+        30025,
+        30027
+      ]
+    }
+  }
+]

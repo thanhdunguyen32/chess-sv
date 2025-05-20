@@ -1,0 +1,53 @@
+package beans;
+
+option optimize_for = SPEED;
+option java_package = "game.module.item.bean";
+
+message HeroEquimentPack {
+	message HeroEquiOneInfo{
+		required int32 position = 1;
+		required int32 fumo_level = 2;
+		required int32 fumo_progress = 3;
+	}
+	repeated HeroEquiOneInfo equip_info = 1;
+}
+
+message DBHeroSkillPack{
+	repeated int32 skill_level = 1;
+}
+
+//新手引导特殊信息
+message PlayerNovicePack{
+	repeated int32 finish_novice = 1;
+}
+
+//玩家拥有的头像框
+message PlayerHeadFramePack{
+	repeated int32 own_head_frame = 1;
+}
+
+message DBHeroIdPack{
+	repeated int32 hero_id = 1;
+}
+
+message DBHeroRunePack{
+	repeated DBRuneInfoBean rune_info_bean = 1;//符文道具信息
+	repeated int32 rune_open_id = 2;//符文开启信息
+}
+
+message DBRuneInfoBean{
+	required int32 position = 1;//0攻击，1防御，2辅助，3攻击扩展，4防御扩展，5辅助扩展
+	required int32 rune_template_id = 2;
+}
+
+//好友魔法药水合成信息
+message DBFriendPotion{
+	repeated int32 postion_combine_count = 1;
+	required int64 combine_time = 2;
+	repeated DbFriendPotionEffect potion_effect = 3;
+}
+
+message DbFriendPotionEffect{
+	required int32 potion_id = 1;
+	required int64 finish_time = 2;
+}

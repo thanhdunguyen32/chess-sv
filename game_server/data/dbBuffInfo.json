@@ -1,0 +1,6181 @@
+{
+  "b42153s": {
+    "btype": 1,
+    "model": 10068,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b40182": {
+    "btype": 1,
+    "model": 10066,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pasp",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "prdc",
+        "num": 20
+      }
+    ],
+    "dispel": 999
+  },
+  "b18123e": {
+    "btype": 2,
+    "model": "18121e",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 980,
+        "type": "atk",
+        "num": -25
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pmps",
+        "num": -35
+      }
+    ],
+    "dispel": 2
+  },
+  "b49009": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "def",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "mdef",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b470312": {
+    "btype": 1,
+    "model": 470312,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pmbs",
+        "num": 10
+      },
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "ppbs",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b44121": {
+    "btype": 2,
+    "model": 10089,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46292": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pasp",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b44211": {
+    "btype": 1,
+    "model": 10045,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "def",
+        "num": 5
+      },
+      {
+        "maxcount": 5,
+        "stype": 4,
+        "type": "atk",
+        "num": 5
+      },
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "pasp",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b46451": {
+    "btype": 2,
+    "model": 46451,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9999,
+        "type": "pmps",
+        "num": -50
+      }
+    ],
+    "dispel": 999
+  },
+  "b42022": {
+    "btype": 1,
+    "model": 10002,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pasp",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "peach",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b46131": {
+    "btype": 2,
+    "model": 10033,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "atk",
+        "num": -15
+      }
+    ],
+    "dispel": 2
+  },
+  "b48091": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "mdef",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44413": {
+    "btype": 1,
+    "model": 44411,
+    "buffarr": [
+      {
+        "maxcount": 20,
+        "stype": 3,
+        "type": "prdc",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46321": {
+    "btype": 2,
+    "model": 10059,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 991,
+        "type": "def",
+        "num": -20
+      },
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "mdef",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46178s": {
+    "btype": 1,
+    "model": 10054,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pasp",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b40443": {
+    "btype": 1,
+    "model": 40441,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 56,
+        "type": "pdam",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pefc",
+        "num": 60
+      },
+      {
+        "maxcount": 1,
+        "stype": 51,
+        "type": "def",
+        "num": 75
+      },
+      {
+        "stype": 51,
+        "type": "mdef",
+        "num": 75
+      }
+    ],
+    "dispel": 999
+  },
+  "b42412": {
+    "btype": 1,
+    "model": 42411,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 31,
+        "type": "mdef",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b17041": {
+    "btype": 2,
+    "model": 17041,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "blood",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b42176": {
+    "btype": 1,
+    "model": 10071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pmps",
+        "num": 8
+      }
+    ],
+    "dispel": 999
+  },
+  "b40001": {
+    "btype": 1,
+    "model": 10021,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "def",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "mdef",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b44137": {
+    "btype": 1,
+    "model": 10039,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "pasp",
+        "num": 75
+      }
+    ],
+    "dispel": 2
+  },
+  "b18063": {
+    "btype": 2,
+    "model": 18061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "doom",
+        "num": 150
+      }
+    ],
+    "dispel": 999
+  },
+  "b49015": {
+    "btype": 1,
+    "model": 49015,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 27,
+        "type": "prdc",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 922,
+        "type": "atk",
+        "num": -12
+      }
+    ],
+    "dispel": 2
+  },
+  "b42203": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "def",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b18133e": {
+    "btype": 1,
+    "model": "xuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "xuezhou",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b44122": {
+    "btype": 2,
+    "model": 10089,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42178": {
+    "btype": 1,
+    "model": 10071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pmps",
+        "num": 12
+      }
+    ],
+    "dispel": 999
+  },
+  "b46236": {
+    "btype": 2,
+    "model": 10059,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 995,
+        "type": "def",
+        "num": -20
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "mdef",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44283": {
+    "btype": 1,
+    "model": 10020,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b40011": {
+    "btype": 1,
+    "model": 10023,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42181": {
+    "btype": 2,
+    "model": 10073,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "pasp",
+        "num": -35
+      }
+    ],
+    "dispel": 999
+  },
+  "b18021": {
+    "btype": 2,
+    "model": 18021,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "amiss",
+        "num": 100
+      }
+    ],
+    "dispel": 999
+  },
+  "b40012": {
+    "btype": 1,
+    "model": 10023,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "10018": {
+    "btype": 2,
+    "model": 10018,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "bdef": 1,
+    "dispel": 2
+  },
+  "b46176s": {
+    "btype": 1,
+    "model": 10054,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pasp",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44196": {
+    "btype": 1,
+    "model": 10044,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hexhp",
+        "num": 100
+      }
+    ],
+    "dispel": 999
+  },
+  "b42381": {
+    "btype": 2,
+    "model": 10059,
+    "buffarr": [
+      {
+        "maxcount": 20,
+        "stype": 991,
+        "type": "mdef",
+        "num": -8
+      }
+    ],
+    "dispel": 2
+  },
+  "b48113": {
+    "btype": 1,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppthr",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b44003": {
+    "btype": 1,
+    "model": 10035,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 3
+      }
+    ],
+    "dispel": 999
+  },
+  "b40036": {
+    "btype": 1,
+    "model": 10026,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 4,
+        "type": "pasp",
+        "num": 6
+      },
+      {
+        "maxcount": 5,
+        "stype": 2,
+        "type": "ppbs",
+        "num": 3
+      }
+    ],
+    "dispel": 2
+  },
+  "b18032": {
+    "btype": 1,
+    "model": 18031,
+    "buffarr": [
+      {
+        "maxcount": 4,
+        "stype": 1,
+        "type": "def",
+        "num": 20
+      },
+      {
+        "maxcount": 4,
+        "stype": 2,
+        "type": "mdef",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b49003": {
+    "btype": 1,
+    "model": "pdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdex",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48034": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "prdc",
+        "num": 5
+      }
+    ],
+    "dispel": 999
+  },
+  "b17091": {
+    "btype": 1,
+    "model": 17091,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 19,
+        "type": "pasp",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pcri",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b46431": {
+    "btype": 1,
+    "model": 46431,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 17,
+        "type": "atk",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "ppbs",
+        "num": 10
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "pmbs",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b42117": {
+    "btype": 1,
+    "model": 10067,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 1,
+        "type": "pskidam",
+        "num": 8
+      }
+    ],
+    "dispel": 2
+  },
+  "b49005": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 17,
+        "type": "pasp",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "db40003": {
+    "btype": 2,
+    "model": 10022,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sneer",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b40053": {
+    "btype": 2,
+    "model": 10024,
+    "buffarr": [
+      {
+        "maxcount": 15,
+        "stype": 997,
+        "type": "def",
+        "num": -6
+      }
+    ],
+    "dispel": 2
+  },
+  "b42161": {
+    "btype": 2,
+    "model": 10006,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "suolian",
+        "num": 18
+      }
+    ],
+    "dispel": 999
+  },
+  "b46191": {
+    "btype": 1,
+    "model": 10056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44212": {
+    "btype": 1,
+    "model": 10045,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "def",
+        "num": 6
+      },
+      {
+        "maxcount": 5,
+        "stype": 4,
+        "type": "atk",
+        "num": 7
+      },
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "pasp",
+        "num": 6
+      }
+    ],
+    "dispel": 2
+  },
+  "b48006": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "def",
+        "num": 5
+      }
+    ],
+    "dispel": 999
+  },
+  "b44072": {
+    "btype": 2,
+    "model": 10037,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "bleed",
+        "num": 75
+      },
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010137": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48032": {
+    "btype": 1,
+    "model": "hurmadd",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdam",
+        "num": 20
+      }
+    ],
+    "dispel": 999
+  },
+  "b18096": {
+    "btype": 2,
+    "model": 18096,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "sneer",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b18062": {
+    "btype": 2,
+    "model": 18061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "doom",
+        "num": 100
+      }
+    ],
+    "dispel": 999
+  },
+  "b48103": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "prdc",
+        "num": 12
+      }
+    ],
+    "dispel": 2
+  },
+  "b40071": {
+    "btype": 1,
+    "model": 10028,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "atk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42153e": {
+    "btype": 2,
+    "model": 10069,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "gmp",
+        "num": -4
+      }
+    ],
+    "dispel": 999
+  },
+  "b42202": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "def",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48008": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "def",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "fubu": {
+    "btype": 1,
+    "model": "fubu",
+    "buffarr": [],
+    "dispel": 999
+  },
+  "b42043": {
+    "btype": 1,
+    "model": 10003,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "guanyu",
+        "num": 85
+      }
+    ],
+    "dispel": 999
+  },
+  "b46101": {
+    "btype": 2,
+    "model": 10082,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "atk",
+        "num": -10
+      }
+    ],
+    "dispel": 2
+  },
+  "10065": {
+    "btype": 2,
+    "model": 10065,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 995,
+        "type": "atk",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b40081s": {
+    "btype": 1,
+    "model": 10084,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "atk",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "pasp",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46081": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010143": {
+    "btype": 1,
+    "model": "pmps",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pmps",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b44243": {
+    "btype": 2,
+    "model": 10077,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "def",
+        "num": -80
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "amiss",
+        "num": 100
+      }
+    ],
+    "dispel": 999
+  },
+  "b42183": {
+    "btype": 2,
+    "model": 10073,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "pasp",
+        "num": -35
+      }
+    ],
+    "dispel": 999
+  },
+  "b42151e": {
+    "btype": 2,
+    "model": 10069,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "gmp",
+        "num": -2
+      }
+    ],
+    "dispel": 999
+  },
+  "b18016": {
+    "btype": 2,
+    "model": 18016,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "curse",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b46217": {
+    "btype": 1,
+    "model": 10057,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "huichun",
+        "num": 130
+      }
+    ],
+    "dispel": 2
+  },
+  "b46216": {
+    "btype": 1,
+    "model": 10057,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "huichun",
+        "num": 80
+      }
+    ],
+    "dispel": 2
+  },
+  "b17123": {
+    "btype": 1,
+    "model": 17121,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "liuxiu",
+        "num": 125
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "dinu",
+        "num": "b17121s"
+      }
+    ],
+    "dispel": 999
+  },
+  "b42116": {
+    "btype": 1,
+    "model": 10067,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 1,
+        "type": "pskidam",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b42417": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 30,
+        "stype": 32,
+        "type": "pasp",
+        "num": 6
+      }
+    ],
+    "dispel": 2
+  },
+  "b44181": {
+    "btype": 1,
+    "model": 10043,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "pasp",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "luck",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "xianfeng2": {
+    "btype": 1,
+    "model": 10092,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 2
+      }
+    ],
+    "dispel": 999
+  },
+  "b18081": {
+    "btype": 1,
+    "model": 18081,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 20,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "ppbs",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "pmbs",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46111": {
+    "btype": 2,
+    "model": 10087,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "mdef",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b46102": {
+    "btype": 2,
+    "model": 10082,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "atk",
+        "num": -15
+      }
+    ],
+    "dispel": 2
+  },
+  "b40236": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "prdc",
+        "num": 60
+      }
+    ],
+    "dispel": 2
+  },
+  "b18031": {
+    "btype": 1,
+    "model": 18031,
+    "buffarr": [
+      {
+        "maxcount": 4,
+        "stype": 1,
+        "type": "def",
+        "num": 15
+      },
+      {
+        "maxcount": 4,
+        "stype": 2,
+        "type": "mdef",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b40132": {
+    "btype": 1,
+    "model": 10029,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "def",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "mdef",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b17071": {
+    "btype": 1,
+    "model": 17071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b48086": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "def",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b18121f": {
+    "btype": 1,
+    "model": "18121f",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "fadun",
+        "num": 400
+      }
+    ],
+    "dispel": 999
+  },
+  "b40133": {
+    "btype": 1,
+    "model": 10029,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "def",
+        "num": 55
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "mdef",
+        "num": 55
+      }
+    ],
+    "dispel": 2
+  },
+  "b40002": {
+    "btype": 1,
+    "model": 10021,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "def",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "mdef",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b46116": {
+    "btype": 2,
+    "model": 10083,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hurmadd",
+        "num": 15
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 15
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46052": {
+    "btype": 1,
+    "model": 10051,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 250
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b42042": {
+    "btype": 1,
+    "model": 10003,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "guanyu",
+        "num": 70
+      }
+    ],
+    "dispel": 999
+  },
+  "b18036": {
+    "btype": 2,
+    "model": 18036,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "bleed",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b44138": {
+    "btype": 1,
+    "model": 10039,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "pasp",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b44151": {
+    "btype": 1,
+    "model": 10040,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_1",
+        "num": 1.5
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_2",
+        "num": 35
+      }
+    ],
+    "dispel": 999
+  },
+  "b42162": {
+    "btype": 2,
+    "model": 10006,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "suolian",
+        "num": 24
+      }
+    ],
+    "dispel": 999
+  },
+  "b42091": {
+    "btype": 1,
+    "model": 10010,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "srec",
+        "num": 200
+      }
+    ],
+    "dispel": 2
+  },
+  "b48016": {
+    "btype": 1,
+    "model": "ppthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppthr",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b40038": {
+    "btype": 1,
+    "model": 10026,
+    "buffarr": [
+      {
+        "maxcount": 7,
+        "stype": 4,
+        "type": "pasp",
+        "num": 10
+      },
+      {
+        "maxcount": 7,
+        "stype": 2,
+        "type": "ppbs",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b44401a": {
+    "btype": 1,
+    "model": "44401a",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "menghu",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b80000": {
+    "btype": 1,
+    "model": 80000,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 21,
+        "type": "pasp",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b18123d": {
+    "model": "18121d",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 23,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b44193": {
+    "btype": 2,
+    "model": 10033,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "atk",
+        "num": -50
+      }
+    ],
+    "dispel": 2
+  },
+  "10050": {
+    "btype": 1,
+    "model": 10050,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "nodead",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b48023": {
+    "btype": 1,
+    "model": "pmthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pmthr",
+        "num": 20
+      }
+    ],
+    "dispel": 999
+  },
+  "b48118": {
+    "btype": 1,
+    "model": "pdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pdex",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46021": {
+    "btype": 2,
+    "model": 10049,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "atk",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44071": {
+    "btype": 2,
+    "model": 10037,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "bleed",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b46222": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "pasp",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46192": {
+    "btype": 1,
+    "model": 10056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44017": {
+    "btype": 1,
+    "model": 10081,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkdun",
+        "num": 200
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lostdun",
+        "num": 40
+      }
+    ],
+    "dispel": 999
+  },
+  "b470112": {
+    "btype": 1,
+    "model": 470112,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pratk",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b42281": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "def",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010136": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pasp",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44281": {
+    "btype": 1,
+    "model": 10020,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "yazhi": {
+    "btype": 2,
+    "model": 10034,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "yazhi",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b46112": {
+    "btype": 2,
+    "model": 10087,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "mdef",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "unluck": {
+    "btype": 2,
+    "model": 10038,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "unluck",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b48002": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "atk",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b48072": {
+    "btype": 1,
+    "model": 10094,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 16,
+        "type": "pasp",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "prdc",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44081": {
+    "btype": 2,
+    "model": 10005,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "silent",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b44273": {
+    "btype": 1,
+    "model": 10091,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pcri",
+        "num": 60
+      }
+    ],
+    "dispel": 2
+  },
+  "b44152": {
+    "btype": 1,
+    "model": 10040,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_1",
+        "num": 2
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_2",
+        "num": 40
+      }
+    ],
+    "dispel": 999
+  },
+  "b44073": {
+    "btype": 2,
+    "model": 10037,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "bleed",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b42021": {
+    "btype": 1,
+    "model": 10002,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pasp",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "peach",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b42262": {
+    "btype": 1,
+    "model": 10012,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 6
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "prdc",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44002": {
+    "btype": 1,
+    "model": 10035,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 2.5
+      }
+    ],
+    "dispel": 999
+  },
+  "b44162": {
+    "btype": 1,
+    "model": 10042,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 600
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mhurm",
+        "num": 200
+      }
+    ],
+    "dispel": 999
+  },
+  "b48126": {
+    "btype": 1,
+    "model": 48126,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pratk",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b48101": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "prdc",
+        "num": 8
+      }
+    ],
+    "dispel": 2
+  },
+  "b48127": {
+    "btype": 1,
+    "model": 48127,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pratk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46237": {
+    "btype": 2,
+    "model": 10059,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 995,
+        "type": "def",
+        "num": -25
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "mdef",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b49004": {
+    "btype": 1,
+    "model": "pmdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pmdex",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b17101": {
+    "btype": 1,
+    "model": 17101,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "prdc",
+        "num": 80
+      }
+    ],
+    "dispel": 999
+  },
+  "b18121d": {
+    "model": "18121d",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 23,
+        "type": "pasp",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44056": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 991,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "C10092": {
+    "btype": 2,
+    "model": 10092,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 990,
+        "type": "prdc",
+        "num": -50
+      }
+    ],
+    "dispel": 2
+  },
+  "b42023": {
+    "btype": 1,
+    "model": 10002,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "peach",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b40423": {
+    "btype": 1,
+    "model": 40421,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkevery",
+        "num": 105
+      }
+    ],
+    "dispel": 999
+  },
+  "b40381": {
+    "btype": 2,
+    "model": 10016,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46117": {
+    "btype": 2,
+    "model": 10083,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hurmadd",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 15
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 65
+      }
+    ],
+    "dispel": 2
+  },
+  "b46431b": {
+    "btype": 2,
+    "model": "46431b",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "pdam",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "prdc",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b44202": {
+    "btype": 1,
+    "model": 10019,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "def",
+        "num": 65
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "mdef",
+        "num": 65
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "rebs",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b18002": {
+    "btype": 1,
+    "model": 18001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 15,
+        "type": "atk",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "ppbs",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pmbs",
+        "num": 25
+      },
+      {
+        "stype": 1,
+        "type": "atkfumo",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b44031": {
+    "btype": 1,
+    "model": 10036,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "def",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "mdef",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "getmp",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b48027": {
+    "btype": 1,
+    "model": "pcriup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pcri",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b46176e": {
+    "btype": 2,
+    "model": 10055,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b42152e": {
+    "btype": 2,
+    "model": 10069,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "gmp",
+        "num": -3
+      }
+    ],
+    "dispel": 999
+  },
+  "b44016": {
+    "btype": 1,
+    "model": 10081,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkdun",
+        "num": 200
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lostdun",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b40111": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppbs",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 20,
+        "type": "pasp",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pmrdc",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "10058": {
+    "btype": 1,
+    "model": 10027,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "nohurm",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b46098": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 55
+      },
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "10039": {
+    "btype": 1,
+    "model": 10039,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "pasp",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b42221": {
+    "btype": 1,
+    "model": 10011,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44132": {
+    "btype": 1,
+    "model": 10076,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "once",
+        "num": 250
+      }
+    ],
+    "dispel": 999
+  },
+  "10004": {
+    "btype": 2,
+    "model": 10004,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "stun",
+        "num": 1
+      }
+    ],
+    "bdef": 1,
+    "dispel": 2
+  },
+  "b44272": {
+    "btype": 1,
+    "model": 10091,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pcri",
+        "num": 45
+      }
+    ],
+    "dispel": 2
+  },
+  "b44282": {
+    "btype": 1,
+    "model": 10020,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 70
+      }
+    ],
+    "dispel": 2
+  },
+  "b48093": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "mdef",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b42261": {
+    "btype": 1,
+    "model": 10012,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 6
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "prdc",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b40181": {
+    "btype": 1,
+    "model": 10066,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pasp",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "prdc",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b46261": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b42152s": {
+    "btype": 1,
+    "model": 10068,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 8
+      }
+    ],
+    "dispel": 999
+  },
+  "b46291": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b44341": {
+    "btype": 2,
+    "model": 10047,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 997,
+        "type": "atk",
+        "num": -20
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b17056": {
+    "btype": 1,
+    "model": 17056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "tuxi",
+        "num": 1
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkfumo",
+        "num": 2
+      }
+    ],
+    "dispel": 2
+  },
+  "b40281": {
+    "btype": 2,
+    "model": 10033,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "atk",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "amiss": {
+    "btype": 1,
+    "model": 18021,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "amiss",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b46381": {
+    "btype": 1,
+    "model": 10063,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b18056": {
+    "btype": 2,
+    "model": 18056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46002": {
+    "btype": 1,
+    "model": 10048,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "pasp",
+        "num": 55
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mmiss",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b470211": {
+    "btype": 2,
+    "model": 470121,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b44131": {
+    "btype": 1,
+    "model": 10076,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "once",
+        "num": 200
+      }
+    ],
+    "dispel": 999
+  },
+  "b40441": {
+    "btype": 1,
+    "model": 40441,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 56,
+        "type": "pdam",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pefc",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 51,
+        "type": "def",
+        "num": 45
+      },
+      {
+        "stype": 51,
+        "type": "mdef",
+        "num": 45
+      }
+    ],
+    "dispel": 999
+  },
+  "b46171": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "db40001": {
+    "btype": 2,
+    "model": 10022,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sneer",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b46153": {
+    "btype": 1,
+    "model": 10052,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "moyin",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b40131": {
+    "btype": 1,
+    "model": 10029,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "def",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "mdef",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48087": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "def",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b40143": {
+    "btype": 2,
+    "model": 10031,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "burn",
+        "num": 70
+      }
+    ],
+    "dispel": 2
+  },
+  "b49012": {
+    "btype": 1,
+    "model": 49012,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hundun",
+        "num": 1
+      },
+      {
+        "maxcount": 1,
+        "stype": 23,
+        "type": "pasp",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pskidam",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "silent": {
+    "btype": 2,
+    "model": 10005,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "silent",
+        "num": 1
+      }
+    ],
+    "bdef": 1,
+    "dispel": 1
+  },
+  "b44201": {
+    "btype": 1,
+    "model": 10019,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "def",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "mdef",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "rebs",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b44361": {
+    "btype": 2,
+    "model": 10073,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "pasp",
+        "num": -15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44116": {
+    "btype": 2,
+    "model": "b44116",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b48011": {
+    "btype": 1,
+    "model": 10093,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "mdef",
+        "num": 5
+      }
+    ],
+    "dispel": 999
+  },
+  "b20009": {
+    "btype": 1,
+    "model": 20009,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pefc",
+        "num": 500
+      }
+    ],
+    "dispel": 2
+  },
+  "b18131s": {
+    "btype": 1,
+    "model": "sxuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sxuezhou",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b44041": {
+    "btype": 1,
+    "model": 10090,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "atk",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pcri",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdex",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46083": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 70
+      }
+    ],
+    "dispel": 2
+  },
+  "b44271": {
+    "btype": 1,
+    "model": 10091,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pcri",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b48122": {
+    "btype": 1,
+    "model": "pmdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pmdex",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b46433": {
+    "btype": 1,
+    "model": 46431,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 17,
+        "type": "atk",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "ppbs",
+        "num": 10
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "pmbs",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b48018": {
+    "btype": 1,
+    "model": "ppthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppthr",
+        "num": 20
+      }
+    ],
+    "dispel": 999
+  },
+  "b48046": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppbs",
+        "num": 8
+      }
+    ],
+    "dispel": 2
+  },
+  "b44133": {
+    "btype": 1,
+    "model": 10076,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "once",
+        "num": 300
+      }
+    ],
+    "dispel": 999
+  },
+  "b40202": {
+    "btype": 2,
+    "model": 10017,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "def",
+        "num": -90
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "mdef",
+        "num": -90
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b40021": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 990,
+        "type": "healeff",
+        "num": -100
+      }
+    ],
+    "dispel": 2
+  },
+  "b46432": {
+    "btype": 1,
+    "model": 46431,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 17,
+        "type": "atk",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "ppbs",
+        "num": 10
+      },
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "pmbs",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b46223": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "pasp",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b40422": {
+    "btype": 1,
+    "model": 40421,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkevery",
+        "num": 100
+      }
+    ],
+    "dispel": 999
+  },
+  "b46023": {
+    "btype": 2,
+    "model": 10049,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "atk",
+        "num": -50
+      }
+    ],
+    "dispel": 2
+  },
+  "b49013": {
+    "btype": 1,
+    "model": 49013,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pefc",
+        "num": 60
+      }
+    ],
+    "dispel": 2
+  },
+  "b46001": {
+    "btype": 1,
+    "model": 10048,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "pasp",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mmiss",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b40237": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "prdc",
+        "num": 75
+      }
+    ],
+    "dispel": 2
+  },
+  "b46151": {
+    "btype": 1,
+    "model": 10052,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "moyin",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b48106": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b48107": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46452": {
+    "btype": 2,
+    "model": 46451,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9999,
+        "type": "pmps",
+        "num": -50
+      }
+    ],
+    "dispel": 999
+  },
+  "b48116": {
+    "btype": 1,
+    "model": "pdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pdex",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b46421": {
+    "btype": 2,
+    "model": 46421,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "eyun",
+        "num": 80
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "yazhi",
+        "num": 1
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "noheal",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b46317": {
+    "btype": 2,
+    "model": 10062,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 990,
+        "type": "atk",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b46113": {
+    "btype": 2,
+    "model": 10087,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "mdef",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48021": {
+    "btype": 1,
+    "model": "pmthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pmthr",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b48092": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "mdef",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b49006": {
+    "btype": 1,
+    "model": "pmbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pmbs",
+        "num": 5
+      },
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "ppbs",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b44381": {
+    "btype": 1,
+    "model": 10079,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "atk",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 250
+      }
+    ],
+    "dispel": 2
+  },
+  "b18003": {
+    "btype": 1,
+    "model": 18001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 15,
+        "type": "atk",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "ppbs",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pmbs",
+        "num": 25
+      },
+      {
+        "stype": 1,
+        "type": "atkfumo",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b18122s": {
+    "btype": 1,
+    "model": "18122s",
+    "buffarr": [
+      {
+        "maxcount": 100,
+        "stype": 24,
+        "type": "pasp",
+        "num": 10
+      },
+      {
+        "maxcount": 100,
+        "stype": 18,
+        "type": "atk",
+        "num": 5
+      }
+    ],
+    "dispel": 1
+  },
+  "10009": {
+    "btype": 1,
+    "model": 10009,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pasp",
+        "num": 400
+      }
+    ],
+    "dispel": 2
+  },
+  "b44203": {
+    "btype": 1,
+    "model": 10019,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "def",
+        "num": 80
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "mdef",
+        "num": 80
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "rebs",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b47001": {
+    "btype": 2,
+    "model": 47001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 991,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46218": {
+    "btype": 1,
+    "model": 10057,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "huichun",
+        "num": 180
+      }
+    ],
+    "dispel": 2
+  },
+  "b18001": {
+    "btype": 1,
+    "model": 18001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 15,
+        "type": "atk",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "ppbs",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pmbs",
+        "num": 25
+      },
+      {
+        "stype": 1,
+        "type": "atkfumo",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b46118": {
+    "btype": 2,
+    "model": 10083,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hurmadd",
+        "num": 45
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 15
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b48121": {
+    "btype": 1,
+    "model": "pmdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pmdex",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b18061": {
+    "btype": 2,
+    "model": 18061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "doom",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b42411": {
+    "btype": 1,
+    "model": 42411,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 31,
+        "type": "mdef",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "diyun": {
+    "btype": 1,
+    "model": "diyun",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "diyun",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b46082": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b17061": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b42001e": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "def",
+        "num": -30
+      }
+    ],
+    "bdef": 1,
+    "dispel": 2
+  },
+  "b18132e": {
+    "btype": 1,
+    "model": "xuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "xuezhou",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b40201": {
+    "btype": 2,
+    "model": 10017,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "def",
+        "num": -70
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "mdef",
+        "num": -70
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "bdef": 1,
+    "dispel": 2
+  },
+  "b48108": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b17096": {
+    "btype": 2,
+    "model": 17096,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 989,
+        "type": "pasp",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b18017": {
+    "btype": 2,
+    "model": 18016,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "curse",
+        "num": 55
+      }
+    ],
+    "dispel": 2
+  },
+  "b48007": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "def",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b18132s": {
+    "btype": 1,
+    "model": "sxuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sxuezhou",
+        "num": 20
+      }
+    ],
+    "dispel": 999
+  },
+  "b48036": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "prdc",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b80002": {
+    "btype": 1,
+    "model": 80002,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "pdex",
+        "num": 15
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "pmdex",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b18133s": {
+    "btype": 1,
+    "model": "sxuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sxuezhou",
+        "num": 25
+      }
+    ],
+    "dispel": 999
+  },
+  "b49016": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 991,
+        "type": "healeff",
+        "num": -70
+      }
+    ],
+    "dispel": 2
+  },
+  "b40051": {
+    "btype": 2,
+    "model": 10024,
+    "buffarr": [
+      {
+        "maxcount": 9,
+        "stype": 997,
+        "type": "def",
+        "num": -6
+      }
+    ],
+    "dispel": 2
+  },
+  "b17072": {
+    "btype": 1,
+    "model": 17071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "xianfeng3": {
+    "btype": 1,
+    "model": 10092,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 2.5
+      }
+    ],
+    "dispel": 999
+  },
+  "b44401b": {
+    "btype": 1,
+    "model": "44401b",
+    "buffarr": [
+      {
+        "maxcount": 100,
+        "stype": 3,
+        "type": "pdam",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b46053": {
+    "btype": 1,
+    "model": 10051,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 300
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b44292": {
+    "btype": 1,
+    "model": 10046,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pprdc",
+        "num": 60
+      }
+    ],
+    "dispel": 2
+  },
+  "b48031": {
+    "btype": 1,
+    "model": "hurmadd",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdam",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b40183": {
+    "btype": 1,
+    "model": 10066,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "prdc",
+        "num": 25
+      }
+    ],
+    "dispel": 999
+  },
+  "b48047": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppbs",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b40142": {
+    "btype": 2,
+    "model": 10031,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "burn",
+        "num": 55
+      }
+    ],
+    "dispel": 2
+  },
+  "b44293": {
+    "btype": 1,
+    "model": 10046,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pprdc",
+        "num": 80
+      }
+    ],
+    "dispel": 2
+  },
+  "b17121": {
+    "btype": 1,
+    "model": 17121,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "liuxiu",
+        "num": 75
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "dinu",
+        "num": "b17121s"
+      }
+    ],
+    "dispel": 999
+  },
+  "b46453": {
+    "btype": 2,
+    "model": 46451,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9999,
+        "type": "pmps",
+        "num": -50
+      }
+    ],
+    "dispel": 999
+  },
+  "b40003": {
+    "btype": 1,
+    "model": 10021,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "def",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "mdef",
+        "num": 100
+      }
+    ],
+    "dispel": 2
+  },
+  "b40341": {
+    "btype": 2,
+    "model": 10014,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "atk",
+        "num": -10
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b42223": {
+    "btype": 1,
+    "model": 10011,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "C10079": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 79,
+        "type": "pasp",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b49008": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 10,
+        "stype": 18,
+        "type": "pasp",
+        "num": 4
+      }
+    ],
+    "dispel": 2
+  },
+  "b48088": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "def",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b42182": {
+    "btype": 2,
+    "model": 10073,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "pasp",
+        "num": -35
+      }
+    ],
+    "dispel": 999
+  },
+  "b18122e": {
+    "btype": 2,
+    "model": "18121e",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 980,
+        "type": "atk",
+        "num": -25
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pmps",
+        "num": -35
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010142": {
+    "btype": 1,
+    "model": "pmps",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pmps",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b42151s": {
+    "btype": 1,
+    "model": 10068,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "gmp",
+        "num": 6
+      }
+    ],
+    "dispel": 999
+  },
+  "b42413": {
+    "btype": 1,
+    "model": 42411,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 31,
+        "type": "mdef",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b42061": {
+    "btype": 1,
+    "model": 10056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "atk",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "def",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "mdef",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b42171": {
+    "btype": 1,
+    "model": 10070,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "prdc",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46221": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "pasp",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46193": {
+    "btype": 1,
+    "model": 10056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "atk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48003": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b48013": {
+    "btype": 1,
+    "model": 10093,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "mdef",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b46436": {
+    "btype": 1,
+    "model": 46436,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "pdam",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "10041": {
+    "btype": 1,
+    "model": 10041,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "huoli",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b20008": {
+    "btype": 1,
+    "model": 20008,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 23,
+        "type": "pasp",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b48033": {
+    "btype": 1,
+    "model": "hurmadd",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdam",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b44136": {
+    "btype": 1,
+    "model": 10039,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "pasp",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b46096": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b42201": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "def",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44291": {
+    "btype": 1,
+    "model": 10046,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pprdc",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b44412": {
+    "btype": 1,
+    "model": 44411,
+    "buffarr": [
+      {
+        "maxcount": 20,
+        "stype": 3,
+        "type": "prdc",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b46318": {
+    "btype": 2,
+    "model": 10062,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 990,
+        "type": "atk",
+        "num": -40
+      }
+    ],
+    "dispel": 2
+  },
+  "b42001s": {
+    "btype": 1,
+    "model": 10000,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pdam",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b17053": {
+    "btype": 1,
+    "model": 17051,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 20,
+        "type": "pasp",
+        "num": 30
+      },
+      {
+        "maxcount": 3,
+        "stype": 9,
+        "type": "prdc",
+        "num": 11
+      }
+    ],
+    "dispel": 999
+  },
+  "b42163": {
+    "btype": 2,
+    "model": 10006,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "suolian",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b48028": {
+    "btype": 1,
+    "model": "pcriup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pcri",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b1010141": {
+    "btype": 1,
+    "model": "pmps",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pmps",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b44101": {
+    "btype": 2,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 15,
+        "type": "pasp",
+        "num": 15
+      },
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "atk",
+        "num": 12
+      }
+    ],
+    "dispel": 2
+  },
+  "b42211": {
+    "btype": 1,
+    "model": 10072,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "luck",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b470111": {
+    "btype": 1,
+    "model": 470111,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 12,
+        "type": "atk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48071": {
+    "btype": 1,
+    "model": 10094,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 16,
+        "type": "pasp",
+        "num": 20
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "prdc",
+        "num": -15
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010138": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 77,
+        "type": "pasp",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b44183": {
+    "btype": 1,
+    "model": 10043,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "luck",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "C10080": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 79,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b46238": {
+    "btype": 2,
+    "model": 10059,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 995,
+        "type": "def",
+        "num": -30
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "mdef",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b18121s": {
+    "btype": 1,
+    "model": "18121s",
+    "buffarr": [
+      {
+        "maxcount": 100,
+        "stype": 24,
+        "type": "pasp",
+        "num": 8
+      },
+      {
+        "maxcount": 100,
+        "stype": 18,
+        "type": "atk",
+        "num": 4
+      }
+    ],
+    "dispel": 1
+  },
+  "b48112": {
+    "btype": 1,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppthr",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b470311": {
+    "btype": 1,
+    "model": 470311,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b80001": {
+    "btype": 1,
+    "model": 80001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b40141": {
+    "btype": 2,
+    "model": 10031,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "burn",
+        "num": 40
+      }
+    ],
+    "dispel": 2
+  },
+  "b46313": {
+    "btype": 1,
+    "model": 10061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 45
+      }
+    ],
+    "dispel": 999
+  },
+  "b49001": {
+    "btype": 1,
+    "model": "hurmadd",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pdam",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b49011": {
+    "btype": 1,
+    "model": 49011,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 15,
+        "type": "pmbs",
+        "num": 1
+      },
+      {
+        "maxcount": 99,
+        "stype": 15,
+        "type": "ppbs",
+        "num": 1
+      },
+      {
+        "maxcount": 99,
+        "stype": 4,
+        "type": "pcri",
+        "num": 1
+      },
+      {
+        "stype": 25,
+        "type": "pasp",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b18057": {
+    "btype": 2,
+    "model": 18056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b44411": {
+    "btype": 1,
+    "model": 44411,
+    "buffarr": [
+      {
+        "maxcount": 20,
+        "stype": 3,
+        "type": "prdc",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b46312": {
+    "btype": 1,
+    "model": 10061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 35
+      }
+    ],
+    "dispel": 999
+  },
+  "b17001": {
+    "btype": 1,
+    "model": 17001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lockhp",
+        "num": 30
+      }
+    ],
+    "dispel": 999
+  },
+  "b44301": {
+    "btype": 1,
+    "model": 10078,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hurmheal",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b18123s": {
+    "btype": 1,
+    "model": "18123s",
+    "buffarr": [
+      {
+        "maxcount": 100,
+        "stype": 24,
+        "type": "pasp",
+        "num": 12
+      },
+      {
+        "maxcount": 100,
+        "stype": 18,
+        "type": "atk",
+        "num": 6
+      }
+    ],
+    "dispel": 1
+  },
+  "b44213": {
+    "btype": 1,
+    "model": 10045,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "def",
+        "num": 7
+      },
+      {
+        "maxcount": 5,
+        "stype": 4,
+        "type": "atk",
+        "num": 10
+      },
+      {
+        "maxcount": 5,
+        "stype": 8,
+        "type": "pasp",
+        "num": 7
+      }
+    ],
+    "dispel": 2
+  },
+  "b17073": {
+    "btype": 1,
+    "model": 17071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 14,
+        "type": "atk",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b44182": {
+    "btype": 1,
+    "model": 10043,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "pasp",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "luck",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b40112": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppbs",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 20,
+        "type": "pasp",
+        "num": 35
+      },
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pmrdc",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b17062": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b46311": {
+    "btype": 1,
+    "model": 10061,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 25
+      }
+    ],
+    "dispel": 999
+  },
+  "b20007": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 22,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b44191": {
+    "btype": 2,
+    "model": 10033,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "atk",
+        "num": -50
+      }
+    ],
+    "dispel": 2
+  },
+  "b40052": {
+    "btype": 2,
+    "model": 10024,
+    "buffarr": [
+      {
+        "maxcount": 12,
+        "stype": 997,
+        "type": "def",
+        "num": -6
+      }
+    ],
+    "dispel": 2
+  },
+  "b42321": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 991,
+        "type": "def",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44018": {
+    "btype": 1,
+    "model": 10081,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkdun",
+        "num": 200
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lostdun",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b44401": {
+    "btype": 1,
+    "model": 44401,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 400
+      }
+    ],
+    "dispel": 999
+  },
+  "b40238": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "prdc",
+        "num": 90
+      }
+    ],
+    "dispel": 2
+  },
+  "b44163": {
+    "btype": 1,
+    "model": 10042,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 800
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mhurm",
+        "num": 250
+      }
+    ],
+    "dispel": 999
+  },
+  "b40113": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppbs",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 20,
+        "type": "pasp",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pmrdc",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b46022": {
+    "btype": 2,
+    "model": 10049,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "atk",
+        "num": -35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46401": {
+    "btype": 2,
+    "model": 10086,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "bleed",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b1010161": {
+    "btype": 1,
+    "model": 1010161,
+    "buffarr": [
+      {
+        "maxcount": 5,
+        "stype": 78,
+        "type": "def",
+        "num": 10
+      },
+      {
+        "maxcount": 5,
+        "stype": 78,
+        "type": "mdef",
+        "num": 10
+      },
+      {
+        "maxcount": 5,
+        "stype": 78,
+        "type": "ppbs",
+        "num": 2
+      },
+      {
+        "stype": 78,
+        "type": "pmbs",
+        "num": 2
+      }
+    ],
+    "dispel": 2
+  },
+  "b46003": {
+    "btype": 1,
+    "model": 10048,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "pasp",
+        "num": 70
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mmiss",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b17121s": {
+    "btype": 1,
+    "model": "17121s",
+    "buffarr": [
+      {
+        "maxcount": 15,
+        "stype": 3,
+        "type": "pskidam",
+        "num": 40
+      }
+    ],
+    "dispel": 999
+  },
+  "b48117": {
+    "btype": 1,
+    "model": "pdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pdex",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b44153": {
+    "btype": 1,
+    "model": 10040,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_1",
+        "num": 2.5
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "lusu_2",
+        "num": 45
+      }
+    ],
+    "dispel": 999
+  },
+  "b42222": {
+    "btype": 1,
+    "model": 10011,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 75
+      },
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "atk",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b40431": {
+    "btype": 1,
+    "model": 40431,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 16,
+        "type": "atk",
+        "num": 5
+      },
+      {
+        "maxcount": 99,
+        "stype": 22,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42118": {
+    "btype": 1,
+    "model": 10067,
+    "buffarr": [
+      {
+        "maxcount": 99,
+        "stype": 1,
+        "type": "pskidam",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b18058": {
+    "btype": 2,
+    "model": 18056,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 50
+      }
+    ],
+    "dispel": 2
+  },
+  "b40203": {
+    "btype": 2,
+    "model": 10017,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "def",
+        "num": -100
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "mdef",
+        "num": -100
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b42416": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 30,
+        "stype": 32,
+        "type": "pasp",
+        "num": 4
+      }
+    ],
+    "dispel": 2
+  },
+  "b48111": {
+    "btype": 1,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppthr",
+        "num": 15
+      }
+    ],
+    "dispel": 2
+  },
+  "b48041": {
+    "btype": 2,
+    "model": "healdis",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "healeff",
+        "num": -60
+      }
+    ],
+    "dispel": 2
+  },
+  "b46177s": {
+    "btype": 1,
+    "model": 10054,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "pasp",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b18122d": {
+    "model": "18121d",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 23,
+        "type": "pasp",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b46051": {
+    "btype": 1,
+    "model": 10051,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 200
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pasp",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b18018": {
+    "btype": 2,
+    "model": 18016,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "curse",
+        "num": 70
+      }
+    ],
+    "dispel": 2
+  },
+  "b44001": {
+    "btype": 1,
+    "model": 10035,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 25
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sunce",
+        "num": 2
+      }
+    ],
+    "dispel": 999
+  },
+  "xianfeng1": {
+    "btype": 1,
+    "model": 10092,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "heal",
+        "num": 1.5
+      }
+    ],
+    "dispel": 999
+  },
+  "b46152": {
+    "btype": 1,
+    "model": 10052,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 9,
+        "type": "moyin",
+        "num": 65
+      }
+    ],
+    "dispel": 2
+  },
+  "nohurm": {
+    "btype": 1,
+    "model": 10027,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "nohurm",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b48026": {
+    "btype": 1,
+    "model": "pcriup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pcri",
+        "num": 5
+      }
+    ],
+    "dispel": 999
+  },
+  "b20000": {
+    "btype": 1,
+    "model": 20000,
+    "buffarr": [
+      {
+        "maxcount": 20,
+        "stype": 18,
+        "type": "atk",
+        "num": 5
+      }
+    ],
+    "dispel": 2
+  },
+  "b48022": {
+    "btype": 1,
+    "model": "pmthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "pmthr",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b44242": {
+    "btype": 2,
+    "model": 10077,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "def",
+        "num": -60
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "amiss",
+        "num": 75
+      }
+    ],
+    "dispel": 999
+  },
+  "b48073": {
+    "btype": 1,
+    "model": 10094,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 16,
+        "type": "pasp",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 999,
+        "type": "prdc",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b17051": {
+    "btype": 1,
+    "model": 17051,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 20,
+        "type": "pasp",
+        "num": 20
+      },
+      {
+        "maxcount": 3,
+        "stype": 9,
+        "type": "prdc",
+        "num": 7
+      }
+    ],
+    "dispel": 999
+  },
+  "b44161": {
+    "btype": 1,
+    "model": 10042,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 400
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "mhurm",
+        "num": 150
+      }
+    ],
+    "dispel": 999
+  },
+  "b46437": {
+    "btype": 1,
+    "model": 46436,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "pdam",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b48048": {
+    "btype": 1,
+    "model": "ppbsup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "ppbs",
+        "num": 12
+      }
+    ],
+    "dispel": 2
+  },
+  "b48128": {
+    "btype": 1,
+    "model": 48128,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pratk",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42031": {
+    "btype": 2,
+    "model": 10008,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "xuanshang",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "yanwu": {
+    "btype": 1,
+    "model": "yanwu",
+    "buffarr": [],
+    "dispel": 999
+  },
+  "b46177e": {
+    "btype": 2,
+    "model": 10055,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pasp",
+        "num": -25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42177": {
+    "btype": 1,
+    "model": 10071,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 2,
+        "type": "pmps",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b48001": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "atk",
+        "num": 5
+      }
+    ],
+    "dispel": 999
+  },
+  "b44241": {
+    "btype": 2,
+    "model": 10077,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "def",
+        "num": -40
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "amiss",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b18131e": {
+    "btype": 1,
+    "model": "xuezhou",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "xuezhou",
+        "num": 50
+      }
+    ],
+    "dispel": 999
+  },
+  "b17052": {
+    "btype": 1,
+    "model": 17051,
+    "buffarr": [
+      {
+        "maxcount": 3,
+        "stype": 20,
+        "type": "pasp",
+        "num": 25
+      },
+      {
+        "maxcount": 3,
+        "stype": 9,
+        "type": "prdc",
+        "num": 9
+      }
+    ],
+    "dispel": 999
+  },
+  "b17063": {
+    "btype": 1,
+    "model": "atkup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 13,
+        "type": "atk",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b40401": {
+    "btype": 2,
+    "model": 10001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "def",
+        "num": -30
+      }
+    ],
+    "bdef": 1,
+    "dispel": 2
+  },
+  "b48123": {
+    "btype": 1,
+    "model": "pmdexup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 3,
+        "type": "pmdex",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b48102": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 7,
+        "type": "prdc",
+        "num": 10
+      }
+    ],
+    "dispel": 2
+  },
+  "b17122": {
+    "btype": 1,
+    "model": 17121,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "liuxiu",
+        "num": 100
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "dinu",
+        "num": "b17121s"
+      }
+    ],
+    "dispel": 999
+  },
+  "b42041": {
+    "btype": 1,
+    "model": 10003,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "guanyu",
+        "num": 55
+      }
+    ],
+    "dispel": 999
+  },
+  "b48017": {
+    "btype": 1,
+    "model": "ppthrup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "ppthr",
+        "num": 15
+      }
+    ],
+    "dispel": 999
+  },
+  "b18121e": {
+    "btype": 2,
+    "model": "18121e",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 980,
+        "type": "atk",
+        "num": -25
+      },
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pmps",
+        "num": -35
+      }
+    ],
+    "dispel": 2
+  },
+  "db40002": {
+    "btype": 2,
+    "model": 10022,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "sneer",
+        "num": 1
+      }
+    ],
+    "dispel": 2
+  },
+  "b46178e": {
+    "btype": 2,
+    "model": 10055,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 996,
+        "type": "pasp",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "C10081": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 79,
+        "type": "pasp",
+        "num": 35
+      }
+    ],
+    "dispel": 2
+  },
+  "b46293": {
+    "btype": 1,
+    "model": 10080,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pasp",
+        "num": 55
+      }
+    ],
+    "dispel": 2
+  },
+  "b18033": {
+    "btype": 1,
+    "model": 18031,
+    "buffarr": [
+      {
+        "maxcount": 4,
+        "stype": 1,
+        "type": "def",
+        "num": 25
+      },
+      {
+        "maxcount": 4,
+        "stype": 2,
+        "type": "mdef",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b42418": {
+    "btype": 1,
+    "model": "paspup",
+    "buffarr": [
+      {
+        "maxcount": 30,
+        "stype": 32,
+        "type": "pasp",
+        "num": 8
+      }
+    ],
+    "dispel": 2
+  },
+  "b46097": {
+    "btype": 2,
+    "model": 10064,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "poison",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 993,
+        "type": "pasp",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b40361": {
+    "btype": 1,
+    "model": "defup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "def",
+        "num": 40
+      },
+      {
+        "maxcount": 1,
+        "stype": 10,
+        "type": "mdef",
+        "num": 40
+      }
+    ],
+    "dispel": 1
+  },
+  "b46316": {
+    "btype": 2,
+    "model": 10062,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 990,
+        "type": "atk",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b40037": {
+    "btype": 1,
+    "model": 10026,
+    "buffarr": [
+      {
+        "maxcount": 6,
+        "stype": 4,
+        "type": "pasp",
+        "num": 8
+      },
+      {
+        "maxcount": 6,
+        "stype": 2,
+        "type": "ppbs",
+        "num": 4
+      }
+    ],
+    "dispel": 2
+  },
+  "b46456": {
+    "btype": 1,
+    "model": 46456,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "wudi",
+        "num": 1
+      },
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hundun",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b48012": {
+    "btype": 1,
+    "model": 10093,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 5,
+        "type": "mdef",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b48035": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 6,
+        "type": "prdc",
+        "num": 10
+      }
+    ],
+    "dispel": 999
+  },
+  "b40421": {
+    "btype": 1,
+    "model": 40421,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "atkevery",
+        "num": 90
+      }
+    ],
+    "dispel": 999
+  },
+  "10007": {
+    "btype": 1,
+    "model": 10007,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "nohurm",
+        "num": 1
+      }
+    ],
+    "dispel": 999
+  },
+  "b40136": {
+    "btype": 2,
+    "model": 10030,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 997,
+        "type": "pasp",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b42263": {
+    "btype": 1,
+    "model": 10012,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "recover",
+        "num": 6
+      },
+      {
+        "maxcount": 1,
+        "stype": 4,
+        "type": "prdc",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44123": {
+    "btype": 2,
+    "model": 10089,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "burn",
+        "num": 30
+      }
+    ],
+    "dispel": 2
+  },
+  "b46438": {
+    "btype": 1,
+    "model": 46436,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 998,
+        "type": "pdam",
+        "num": -30
+      }
+    ],
+    "dispel": 2
+  },
+  "b20001": {
+    "btype": 1,
+    "model": 80001,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b40013": {
+    "btype": 1,
+    "model": 10023,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 1,
+        "type": "hpdun",
+        "num": 25
+      }
+    ],
+    "dispel": 2
+  },
+  "b49002": {
+    "btype": 1,
+    "model": "prdcup",
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 8,
+        "type": "prdc",
+        "num": 20
+      }
+    ],
+    "dispel": 2
+  },
+  "b44192": {
+    "btype": 2,
+    "model": 10033,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 994,
+        "type": "atk",
+        "num": -50
+      }
+    ],
+    "dispel": 2
+  },
+  "b46103": {
+    "btype": 2,
+    "model": 10082,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 992,
+        "type": "atk",
+        "num": -20
+      }
+    ],
+    "dispel": 2
+  },
+  "b40442": {
+    "btype": 1,
+    "model": 40441,
+    "buffarr": [
+      {
+        "maxcount": 1,
+        "stype": 56,
+        "type": "pdam",
+        "num": 30
+      },
+      {
+        "maxcount": 1,
+        "stype": 11,
+        "type": "pefc",
+        "num": 50
+      },
+      {
+        "maxcount": 1,
+        "stype": 51,
+        "type": "def",
+        "num": 60
+      },
+      {
+        "stype": 51,
+        "type": "mdef",
+        "num": 60
+      }
+    ],
+    "dispel": 999
+  }
+}

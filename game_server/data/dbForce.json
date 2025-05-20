@@ -1,0 +1,130 @@
+{
+  "1": {
+    "FNAME": "sili",
+    "CITY": [
+      101,
+      102,
+      103,
+      104,
+      105,
+      106
+    ],
+    "NICON": "dongzuo",
+    "GENERAL": 16221,
+    "ICON": "sl_dong",
+    "NAME": "董卓",
+    "NAME_VN": "Đổng Trác"
+  },
+  "5": {
+    "FNAME": "jingzhou",
+    "CITY": [
+      141,
+      142,
+      143,
+      144,
+      145,
+      146
+    ],
+    "NICON": "liubiao",
+    "GENERAL": 16301,
+    "ICON": "sl_liu",
+    "NAME": "刘表",
+    "NAME_VN": "Lưu Biểu"
+  },
+  "2": {
+    "FNAME": "yanzhou",
+    "CITY": [
+      111,
+      112,
+      113,
+      114,
+      115,
+      116
+    ],
+    "NICON": "caocao",
+    "GENERAL": 10081,
+    "ICON": "sl_cao",
+    "NAME": "曹操",
+    "NAME_VN": "Tào Tháo"
+  },
+  "8": {
+    "FNAME": "jizhou",
+    "CITY": [
+      171,
+      172,
+      173,
+      174,
+      175,
+      176
+    ],
+    "NICON": "gongsunzan",
+    "GENERAL": 16261,
+    "ICON": "sl_gong",
+    "NAME": "公孙瓒",
+    "NAME_VN": "Công Tôn Toản"
+  },
+  "4": {
+    "FNAME": "yangzhou",
+    "CITY": [
+      131,
+      132,
+      133,
+      134,
+      135,
+      136
+    ],
+    "NICON": "sunquan",
+    "GENERAL": 14181,
+    "ICON": "sl_sun",
+    "NAME": "孙权",
+    "NAME_VN": "Tôn Quyền"
+  },
+  "3": {
+    "FNAME": "xuzhou",
+    "CITY": [
+      121,
+      122,
+      123,
+      124,
+      125,
+      126
+    ],
+    "NICON": "liubei",
+    "GENERAL": 12021,
+    "ICON": "sl_liu",
+    "NAME": "刘备",
+    "NAME_VN": "Lưu Bị"
+  },
+  "7": {
+    "FNAME": "liangzhou",
+    "CITY": [
+      161,
+      162,
+      163,
+      164,
+      165,
+      166
+    ],
+    "NICON": "mateng",
+    "GENERAL": 16361,
+    "ICON": "sl_ma",
+    "NAME": "马腾",
+    "NAME_VN": "Mã Đằng"
+  },
+  "6": {
+    "FNAME": "yizhou",
+    "CITY": [
+      151,
+      152,
+      153,
+      154,
+      155,
+      156
+    ],
+    "NICON": "liuzhang",
+    "GENERAL": 16381,
+    "ICON": "sl_liu",
+    "NAME": "刘璋",
+    "NAME_VN": "Lưu Chương"
+  }
+}

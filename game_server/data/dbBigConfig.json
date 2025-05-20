@@ -1,0 +1,59 @@
+[
+  {
+    "INTRO": "Sản xuất đại lượng kim tệ!",
+    "PASSID": 90100,
+    "MAP": [
+      2001,
+      2002,
+      2003,
+      2004,
+      2005,
+      2006,
+      2007,
+      2008,
+      2009,
+      2010
+    ],
+    "TYPE": 1,
+    "NAME": "金币战役",
+    "NAME_VN": "Chiến Dịch Kim Tiền"
+  },
+  {
+    "INTRO": "Sản xuất đại lượng kinh nghiệm võ tướng!",
+    "PASSID": 90101,
+    "MAP": [
+      2101,
+      2102,
+      2103,
+      2104,
+      2105,
+      2106,
+      2107,
+      2108,
+      2109,
+      2110
+    ],
+    "TYPE": 2,
+    "NAME": "经验战役",
+    "NAME_VN": "Chiến Dịch Kinh Nghiệm"
+  },
+  {
+    "INTRO": "Sản xuất ngẫu nhiên mảnh võ tướng!",
+    "PASSID": 90102,
+    "MAP": [
+      2201,
+      2202,
+      2203,
+      2204,
+      2205,
+      2206,
+      2207,
+      2208,
+      2209,
+      2210
+    ],
+    "TYPE": 3,
+    "NAME": "碎片战役",
+    "NAME_VN": "Chiến Dịch Mảnh"
+  }
+]

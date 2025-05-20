@@ -1,0 +1,1945 @@
+{
+  "22262": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星姜维碎片",
+    "NAME_VN": "Mảnh Khương Duy 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12262,
+    "EXID": "gchip_22262",
+    "STAR": 5
+  },
+  "20221": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星庞德碎片",
+    "NAME_VN": "Mảnh Bàng Đức 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10221,
+    "EXID": "gchip_20221",
+    "STAR": 4
+  },
+  "24401": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星孙坚碎片",
+    "NAME_VN": "Mảnh Tôn Kiên 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14401,
+    "EXID": "gchip_24401",
+    "STAR": 5
+  },
+  "26301": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星刘表碎片",
+    "NAME_VN": "Mảnh Lưu Biểu 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16301,
+    "EXID": "gchip_26301",
+    "STAR": 4
+  },
+  "24321": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星孙休碎片",
+    "NAME_VN": "Mảnh Tôn Nghỉ 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14321,
+    "EXID": "gchip_24321",
+    "STAR": 3
+  },
+  "24241": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星陆抗碎片",
+    "NAME_VN": "Mảnh Lục Kháng 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14241,
+    "EXID": "gchip_24241",
+    "STAR": 4
+  },
+  "36007": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "魔王5星碎片",
+    "NAME_VN": "Mảnh Ma Vương 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Ma Vương",
+    "GCOND": [
+      1005,
+      2006
+    ],
+    "EXID": "grchip_36007",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "22121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星马岱碎片",
+    "NAME_VN": "Mảnh Mã Đại 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12121,
+    "EXID": "gchip_22121",
+    "STAR": 5
+  },
+  "26341": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星袁术碎片",
+    "NAME_VN": "Mảnh Viên Thuật 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16341,
+    "EXID": "gchip_26341",
+    "STAR": 3
+  },
+  "22281": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星刘封碎片",
+    "NAME_VN": "Mảnh Lưu Phong 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12281,
+    "EXID": "gchip_22281",
+    "STAR": 3
+  },
+  "22202": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星魏延碎片",
+    "NAME_VN": "Mảnh Ngụy Duyên 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12202,
+    "EXID": "gchip_22202",
+    "STAR": 5
+  },
+  "20282": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星王朗碎片",
+    "NAME_VN": "Mảnh Vương Lãng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10282,
+    "EXID": "gchip_20282",
+    "STAR": 5
+  },
+  "28062": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星明智光秀碎片",
+    "NAME_VN": "Mảnh Akechi Mitsuhide 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18062,
+    "EXID": "gchip_28062",
+    "STAR": 5
+  },
+  "24282": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星大乔碎片",
+    "NAME_VN": "Mảnh Đại Kiều 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14282,
+    "EXID": "gchip_24282",
+    "STAR": 5
+  },
+  "20242": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星邓艾碎片",
+    "NAME_VN": "Mảnh Đặng Ngải 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10242,
+    "EXID": "gchip_20242",
+    "STAR": 5
+  },
+  "26001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星吕布碎片",
+    "NAME_VN": "Mảnh Lữ Bố 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16001,
+    "EXID": "gchip_26001",
+    "STAR": 5
+  },
+  "27061": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星汉献帝碎片",
+    "NAME_VN": "Mảnh Hán Hiến Đế 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17061,
+    "EXID": "gchip_27061",
+    "STAR": 4
+  },
+  "27101": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星禁军碎片",
+    "NAME_VN": "Mảnh Cấm Quân 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17101,
+    "EXID": "gchip_27101",
+    "STAR": 3
+  },
+  "36082": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 2,
+    "NAME": "魏国1星碎片",
+    "NAME_VN": "Mảnh Ngụy Quốc 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể nhận được một tướng 1 sao Ngụy Quốc",
+    "GCOND": [
+      1001,
+      2001
+    ],
+    "EXID": "grchip_36082",
+    "ICON": 36041,
+    "STAR": 1
+  },
+  "24221": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星凌统碎片",
+    "NAME_VN": "Mảnh Lăng Thống 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14221,
+    "EXID": "gchip_24221",
+    "STAR": 4
+  },
+  "26242": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星高顺碎片",
+    "NAME_VN": "Mảnh Cao Thuận 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16242,
+    "EXID": "gchip_26242",
+    "STAR": 5
+  },
+  "20241": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星邓艾碎片",
+    "NAME_VN": "Mảnh Đặng Ngải 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10241,
+    "EXID": "gchip_20241",
+    "STAR": 4
+  },
+  "36085": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 2,
+    "NAME": "群雄1星碎片",
+    "NAME_VN": "Mảnh Quần Hùng 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể nhận được một tướng 1 sao",
+    "GCOND": [
+      1001,
+      2004
+    ],
+    "EXID": "grchip_36085",
+    "ICON": 36041,
+    "STAR": 1
+  },
+  "36084": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 2,
+    "NAME": "吴国1星碎片",
+    "NAME_VN": "Mảnh Ngô Quốc 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể nhận được một tướng 1 sao Ngô Quốc",
+    "GCOND": [
+      1001,
+      2003
+    ],
+    "EXID": "grchip_36084",
+    "ICON": 36041,
+    "STAR": 1
+  },
+  "36026": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "帝王4星碎片",
+    "NAME_VN": "Mảnh Đế Vương 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao Đế Vương",
+    "GCOND": [
+      1004,
+      2005
+    ],
+    "EXID": "grchip_36026",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "36024": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "吴国4星碎片",
+    "NAME_VN": "Mảnh Ngô Quốc 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao Ngô Quốc",
+    "GCOND": [
+      1004,
+      2003
+    ],
+    "EXID": "grchip_36024",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "26021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星孟获碎片",
+    "NAME_VN": "Mảnh Mạnh Hoạch 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16021,
+    "EXID": "gchip_26021",
+    "STAR": 5
+  },
+  "24101": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星周瑜碎片",
+    "NAME_VN": "Mảnh Chu Du 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14101,
+    "EXID": "gchip_24101",
+    "STAR": 5
+  },
+  "24061": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星太史慈碎片",
+    "NAME_VN": "Mảnh Thái Sử Từ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14061,
+    "EXID": "gchip_24061",
+    "STAR": 5
+  },
+  "27062": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星汉献帝碎片",
+    "NAME_VN": "Mảnh Hán Hiến Đế 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17062,
+    "EXID": "gchip_27062",
+    "STAR": 5
+  },
+  "22242": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星黄月英碎片",
+    "NAME_VN": "Mảnh Hoàng Nguyệt Anh 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12242,
+    "EXID": "gchip_22242",
+    "STAR": 5
+  },
+  "28082": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星本多忠胜碎片",
+    "NAME_VN": "Mảnh Honda Tadakatsu 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18082,
+    "EXID": "gchip_28082",
+    "STAR": 5
+  },
+  "22321": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星王平碎片",
+    "NAME_VN": "Mảnh Vương Bình 2 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12321,
+    "EXID": "gchip_22321",
+    "STAR": 2
+  },
+  "36102": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "刺客5星碎片",
+    "NAME_VN": "Mảnh Thích Khách 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Thích Khách",
+    "GCOND": [
+      1005,
+      3002
+    ],
+    "EXID": "grchip_36102",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "24421": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星程普碎片",
+    "NAME_VN": "Mảnh Trình Phổ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14421,
+    "EXID": "gchip_24421",
+    "STAR": 5
+  },
+  "20302": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星甄姬碎片",
+    "NAME_VN": "Mảnh Chân Cơ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10302,
+    "EXID": "gchip_20302",
+    "STAR": 5
+  },
+  "22381": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星法正碎片",
+    "NAME_VN": "Mảnh Pháp Chính 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12381,
+    "EXID": "gchip_22381",
+    "STAR": 5
+  },
+  "26121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星蔡文姬碎片",
+    "NAME_VN": "Mảnh Thái Văn Cơ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16121,
+    "EXID": "gchip_26121",
+    "STAR": 5
+  },
+  "26282": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星袁绍碎片",
+    "NAME_VN": "Mảnh Viên Thiệu 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16282,
+    "EXID": "gchip_26282",
+    "STAR": 5
+  },
+  "26361": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星马腾碎片",
+    "NAME_VN": "Mảnh Mã Đằng 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16361,
+    "EXID": "gchip_26361",
+    "STAR": 2
+  },
+  "28021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星上杉谦信碎片",
+    "NAME_VN": "Mảnh Uesugi Kenshin 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18021,
+    "EXID": "gchip_28021",
+    "STAR": 5
+  },
+  "36044": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "吴国3星碎片",
+    "NAME_VN": "Mảnh Ngô Quốc 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể nhận được một tướng 3 sao Ngô Quốc",
+    "GCOND": [
+      1003,
+      2003
+    ],
+    "EXID": "grchip_36044",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "22101": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星黄忠碎片",
+    "NAME_VN": "Mảnh Hoàng Trung 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12101,
+    "EXID": "gchip_22101",
+    "STAR": 5
+  },
+  "36023": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "蜀国4星碎片",
+    "NAME_VN": "Mảnh Thục Quốc 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao Thục Quốc",
+    "GCOND": [
+      1004,
+      2002
+    ],
+    "EXID": "grchip_36023",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "22222": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星张星彩碎片",
+    "NAME_VN": "Mảnh Trương Tinh Thải 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12222,
+    "EXID": "gchip_22222",
+    "STAR": 5
+  },
+  "36004": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "吴国5星碎片",
+    "NAME_VN": "Mảnh Ngô Quốc 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Ngô Quốc",
+    "GCOND": [
+      1005,
+      2003
+    ],
+    "EXID": "grchip_36004",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "36045": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "群雄3星碎片",
+    "NAME_VN": "Mảnh Quần Hùng 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể nhận được một tướng 3 sao",
+    "GCOND": [
+      1003,
+      2004
+    ],
+    "EXID": "grchip_36045",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "22041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星关羽碎片",
+    "NAME_VN": "Mảnh Quan Vũ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12041,
+    "EXID": "gchip_22041",
+    "STAR": 5
+  },
+  "20081": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星曹操碎片",
+    "NAME_VN": "Mảnh Tào Tháo 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10081,
+    "EXID": "gchip_20081",
+    "STAR": 5
+  },
+  "22161": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星庞统碎片",
+    "NAME_VN": "Mảnh Bàng Thống 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12161,
+    "EXID": "gchip_22161",
+    "STAR": 5
+  },
+  "24161": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星步练师碎片",
+    "NAME_VN": "Mảnh Bộ Luyện Sư 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14161,
+    "EXID": "gchip_24161",
+    "STAR": 5
+  },
+  "26321": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星文聘碎片",
+    "NAME_VN": "Mảnh Văn Sính 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16321,
+    "EXID": "gchip_26321",
+    "STAR": 3
+  },
+  "26161": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星张角碎片",
+    "NAME_VN": "Mảnh Trương Giác 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16161,
+    "EXID": "gchip_26161",
+    "STAR": 5
+  },
+  "20381": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星刘晔碎片",
+    "NAME_VN": "Mảnh Lưu Diệp 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10381,
+    "EXID": "gchip_20381",
+    "STAR": 2
+  },
+  "36104": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "法师5星碎片",
+    "NAME_VN": "Mảnh Pháp Sư 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Pháp Sư",
+    "GCOND": [
+      1005,
+      3004
+    ],
+    "EXID": "grchip_36104",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "36002": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "魏国5星碎片",
+    "NAME_VN": "Mảnh Ngụy Quốc 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Ngụy Quốc",
+    "GCOND": [
+      1005,
+      2001
+    ],
+    "EXID": "grchip_36002",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "26281": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星袁绍碎片",
+    "NAME_VN": "Mảnh Viên Thiệu 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16281,
+    "EXID": "gchip_26281",
+    "STAR": 4
+  },
+  "20021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星许褚碎片",
+    "NAME_VN": "Mảnh Hứa Chử 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10021,
+    "EXID": "gchip_20021",
+    "STAR": 5
+  },
+  "20181": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星荀彧碎片",
+    "NAME_VN": "Mảnh Tuân Úc 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10181,
+    "EXID": "gchip_20181",
+    "STAR": 5
+  },
+  "27021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星项羽碎片",
+    "NAME_VN": "Mảnh Hạng Vũ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17021,
+    "EXID": "gchip_27021",
+    "STAR": 5
+  },
+  "36043": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "蜀国3星碎片",
+    "NAME_VN": "Mảnh Thục Quốc 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể nhận được một tướng 3 sao Thục Quốc",
+    "GCOND": [
+      1003,
+      2002
+    ],
+    "EXID": "grchip_36043",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "28061": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星明智光秀碎片",
+    "NAME_VN": "Mảnh Akechi Mitsuhide 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18061,
+    "EXID": "gchip_28061",
+    "STAR": 4
+  },
+  "26141": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星陈宫碎片",
+    "NAME_VN": "Mảnh Trần Cung 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16141,
+    "EXID": "gchip_26141",
+    "STAR": 5
+  },
+  "36083": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 2,
+    "NAME": "蜀国1星碎片",
+    "NAME_VN": "Mảnh Thục Quốc 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể nhận được một tướng 1 sao Thục Quốc",
+    "GCOND": [
+      1001,
+      2002
+    ],
+    "EXID": "grchip_36083",
+    "ICON": 36041,
+    "STAR": 1
+  },
+  "20101": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星夏侯渊碎片",
+    "NAME_VN": "Mảnh Hạ Hầu Uyên 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10101,
+    "EXID": "gchip_20101",
+    "STAR": 5
+  },
+  "27041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星韩信碎片",
+    "NAME_VN": "Mảnh Hàn Tín 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17041,
+    "EXID": "gchip_27041",
+    "STAR": 5
+  },
+  "20201": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星典韦碎片",
+    "NAME_VN": "Mảnh Điển Vi 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10201,
+    "EXID": "gchip_20201",
+    "STAR": 4
+  },
+  "36006": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "帝王5星碎片",
+    "NAME_VN": "Mảnh Đế Vương 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Đế Vương",
+    "GCOND": [
+      1005,
+      2005
+    ],
+    "EXID": "grchip_36006",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "24081": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星孙尚香碎片",
+    "NAME_VN": "Mảnh Tôn Thượng Hương 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14081,
+    "EXID": "gchip_24081",
+    "STAR": 5
+  },
+  "22141": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星诸葛亮碎片",
+    "NAME_VN": "Mảnh Gia Cát Lượng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12141,
+    "EXID": "gchip_22141",
+    "STAR": 5
+  },
+  "24141": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星鲁肃碎片",
+    "NAME_VN": "Mảnh Lỗ Túc 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14141,
+    "EXID": "gchip_24141",
+    "STAR": 5
+  },
+  "26081": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星祝融碎片",
+    "NAME_VN": "Mảnh Chúc Dung 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16081,
+    "EXID": "gchip_26081",
+    "STAR": 5
+  },
+  "36063": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 2,
+    "NAME": "蜀国2星碎片",
+    "NAME_VN": "Mảnh Thục Quốc 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể nhận được một tướng 2 sao Thục Quốc",
+    "GCOND": [
+      1002,
+      2002
+    ],
+    "EXID": "grchip_36063",
+    "ICON": 36041,
+    "STAR": 2
+  },
+  "36064": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 2,
+    "NAME": "吴国2星碎片",
+    "NAME_VN": "Mảnh Ngô Quốc 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể nhận được một tướng 2 sao Ngô Quốc",
+    "GCOND": [
+      1002,
+      2003
+    ],
+    "EXID": "grchip_36064",
+    "ICON": 36041,
+    "STAR": 2
+  },
+  "36047": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "魔王3星碎片",
+    "NAME_VN": "Mảnh Ma Vương 3 Sao",
+    "INTRO": "Thu thập đủ 20 Cái Mảnh có thể nhận Được Một 3 sao Ma Vương",
+    "GCOND": [
+      1003,
+      2006
+    ],
+    "EXID": "grchip_36047",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "22061": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星赵云碎片",
+    "NAME_VN": "Mảnh Triệu Vân 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12061,
+    "EXID": "gchip_22061",
+    "STAR": 5
+  },
+  "20301": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星甄姬碎片",
+    "NAME_VN": "Mảnh Chân Cơ 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10301,
+    "EXID": "gchip_20301",
+    "STAR": 4
+  },
+  "20222": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星庞德碎片",
+    "NAME_VN": "Mảnh Bàng Đức 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10222,
+    "EXID": "gchip_20222",
+    "STAR": 5
+  },
+  "22361": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 1,
+    "NAME": "1星刀斧手碎片",
+    "NAME_VN": "Mảnh Đao Phủ Thủ 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12361,
+    "EXID": "gchip_22361",
+    "STAR": 1
+  },
+  "24202": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星黄盖碎片",
+    "NAME_VN": "Mảnh Hoàng Cái 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14202,
+    "EXID": "gchip_24202",
+    "STAR": 5
+  },
+  "22081": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星马超碎片",
+    "NAME_VN": "Mảnh Mã Siêu 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12081,
+    "EXID": "gchip_22081",
+    "STAR": 5
+  },
+  "28121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星丰臣秀吉碎片",
+    "NAME_VN": "Mảnh Toyotomi Hideyoshi 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18121,
+    "EXID": "gchip_28121",
+    "STAR": 5
+  },
+  "24301": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星周泰碎片",
+    "NAME_VN": "Mảnh Chu Thái 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14301,
+    "EXID": "gchip_24301",
+    "STAR": 3
+  },
+  "24361": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星诸葛瑾碎片",
+    "NAME_VN": "Mảnh Gia Cát Cẩn 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14361,
+    "EXID": "gchip_24361",
+    "STAR": 2
+  },
+  "26061": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星华雄碎片",
+    "NAME_VN": "Mảnh Hoa Hùng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16061,
+    "EXID": "gchip_26061",
+    "STAR": 5
+  },
+  "24341": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星韩当碎片",
+    "NAME_VN": "Mảnh Hàn Đương 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14341,
+    "EXID": "gchip_24341",
+    "STAR": 2
+  },
+  "26261": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星公孙瓒碎片",
+    "NAME_VN": "Mảnh Công Tôn Toản 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16261,
+    "EXID": "gchip_26261",
+    "STAR": 4
+  },
+  "22182": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星关兴碎片",
+    "NAME_VN": "Mảnh Quan Hưng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12182,
+    "EXID": "gchip_22182",
+    "STAR": 5
+  },
+  "20421": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星张郃碎片",
+    "NAME_VN": "Mảnh Trương Cáp 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10421,
+    "EXID": "gchip_20421",
+    "STAR": 5
+  },
+  "20161": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星贾诩碎片",
+    "NAME_VN": "Mảnh Giả Hủ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10161,
+    "EXID": "gchip_20161",
+    "STAR": 5
+  },
+  "36081": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 2,
+    "NAME": "随机1星碎片",
+    "NAME_VN": "Mảnh Ngẫu Nhiên 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể nhận được một tướng 1 sao",
+    "GCOND": [
+      1001
+    ],
+    "EXID": "grchip_36081",
+    "ICON": 36041,
+    "STAR": 1
+  },
+  "27082": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星司马炎碎片",
+    "NAME_VN": "Mảnh Tư Mã Viêm 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17082,
+    "EXID": "gchip_27082",
+    "STAR": 5
+  },
+  "36005": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "群雄5星碎片",
+    "NAME_VN": "Mảnh Quần Hùng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao",
+    "GCOND": [
+      1005,
+      2004
+    ],
+    "EXID": "grchip_36005",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "22221": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星张星彩碎片",
+    "NAME_VN": "Mảnh Trương Tinh Thải 4 Sao",
+    "INTRO": "Thu thập đủ 40 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12221,
+    "EXID": "gchip_22221",
+    "STAR": 4
+  },
+  "36041": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "随机3星碎片",
+    "NAME_VN": "Mảnh Ngẫu Nhiên 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể nhận được một tướng 3 sao",
+    "GCOND": [
+      1003
+    ],
+    "EXID": "grchip_36041",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "22201": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星魏延碎片",
+    "NAME_VN": "Mảnh Ngụy Duyên 4 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12201,
+    "EXID": "gchip_22201",
+    "STAR": 4
+  },
+  "22401": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星马良碎片",
+    "NAME_VN": "Mảnh Mã Lương 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12401,
+    "EXID": "gchip_22401",
+    "STAR": 5
+  },
+  "28041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星服部半藏碎片",
+    "NAME_VN": "Mảnh Hattori Hanzo 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18041,
+    "EXID": "gchip_28041",
+    "STAR": 5
+  },
+  "24041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星吕蒙碎片",
+    "NAME_VN": "Mảnh Lữ Mông 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14041,
+    "EXID": "gchip_24041",
+    "STAR": 5
+  },
+  "20262": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星于禁碎片",
+    "NAME_VN": "Mảnh Vu Cấm 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10262,
+    "EXID": "gchip_20262",
+    "STAR": 5
+  },
+  "36046": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "帝王3星碎片",
+    "NAME_VN": "Mảnh Đế Vương 3 Sao",
+    "INTRO": "Thu thập đủ 20 Cái Mảnh có thể nhận Được Một 3 sao Đế Vương",
+    "GCOND": [
+      1003,
+      2005
+    ],
+    "EXID": "grchip_36046",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "26421": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星李儒碎片",
+    "NAME_VN": "Mảnh Lý Nho 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16421,
+    "EXID": "gchip_26421",
+    "STAR": 5
+  },
+  "24381": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 1,
+    "NAME": "1星侍女碎片",
+    "NAME_VN": "Mảnh Thị Nữ 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14381,
+    "EXID": "gchip_24381",
+    "STAR": 1
+  },
+  "27121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星刘秀碎片",
+    "NAME_VN": "Mảnh Lưu Tú 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17121,
+    "EXID": "gchip_27121",
+    "STAR": 5
+  },
+  "20061": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星夏侯惇碎片",
+    "NAME_VN": "Mảnh Hạ Hầu Đôn 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10061,
+    "EXID": "gchip_20061",
+    "STAR": 5
+  },
+  "26041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星吕玲琦碎片",
+    "NAME_VN": "Mảnh Lữ Linh Kỳ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16041,
+    "EXID": "gchip_26041",
+    "STAR": 5
+  },
+  "36101": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "战士5星碎片",
+    "NAME_VN": "Mảnh Chiến Sĩ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Chiến Binh",
+    "GCOND": [
+      1005,
+      3001
+    ],
+    "EXID": "grchip_36101",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "36022": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "魏国4星碎片",
+    "NAME_VN": "Mảnh Ngụy Quốc 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao Ngụy Quốc",
+    "GCOND": [
+      1004,
+      2001
+    ],
+    "EXID": "grchip_36022",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "22241": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星黄月英碎片",
+    "NAME_VN": "Mảnh Hoàng Nguyệt Anh 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12241,
+    "EXID": "gchip_22241",
+    "STAR": 4
+  },
+  "36003": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "蜀国5星碎片",
+    "NAME_VN": "Mảnh Thục Quốc 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Thục Quốc",
+    "GCOND": [
+      1005,
+      2002
+    ],
+    "EXID": "grchip_36003",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "20121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星郭嘉碎片",
+    "NAME_VN": "Mảnh Quách Gia 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10121,
+    "EXID": "gchip_20121",
+    "STAR": 5
+  },
+  "24121": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星陆逊碎片",
+    "NAME_VN": "Mảnh Lục Tốn 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14121,
+    "EXID": "gchip_24121",
+    "STAR": 5
+  },
+  "26401": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 1,
+    "NAME": "1星黄巾军碎片",
+    "NAME_VN": "Mảnh Quân Khăn Vàng 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16401,
+    "EXID": "gchip_26401",
+    "STAR": 1
+  },
+  "24261": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星小乔碎片",
+    "NAME_VN": "Mảnh Tiểu Kiều 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14261,
+    "EXID": "gchip_24261",
+    "STAR": 4
+  },
+  "27081": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星司马炎碎片",
+    "NAME_VN": "Mảnh Tư Mã Viêm 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17081,
+    "EXID": "gchip_27081",
+    "STAR": 4
+  },
+  "36105": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "辅助5星碎片",
+    "NAME_VN": "Mảnh Phụ Trợ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Phụ Trợ",
+    "GCOND": [
+      1005,
+      3005
+    ],
+    "EXID": "grchip_36105",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "36065": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 2,
+    "NAME": "群雄2星碎片",
+    "NAME_VN": "Mảnh Quần Hùng 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể nhận được một tướng 2 sao",
+    "GCOND": [
+      1002,
+      2004
+    ],
+    "EXID": "grchip_36065",
+    "ICON": 36041,
+    "STAR": 2
+  },
+  "20321": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星曹休碎片",
+    "NAME_VN": "Mảnh Tào Hưu 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10321,
+    "EXID": "gchip_20321",
+    "STAR": 3
+  },
+  "36021": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "随机4星碎片",
+    "NAME_VN": "Mảnh Ngẫu Nhiên 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao",
+    "GCOND": [
+      1004
+    ],
+    "EXID": "grchip_36021",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "20141": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星司马懿碎片",
+    "NAME_VN": "Mảnh Tư Mã Ý 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10141,
+    "EXID": "gchip_20141",
+    "STAR": 5
+  },
+  "24281": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星大乔碎片",
+    "NAME_VN": "Mảnh Đại Kiều 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14281,
+    "EXID": "gchip_24281",
+    "STAR": 4
+  },
+  "26101": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星于吉碎片",
+    "NAME_VN": "Mảnh Vu Cát 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16101,
+    "EXID": "gchip_26101",
+    "STAR": 5
+  },
+  "24001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星孙策碎片",
+    "NAME_VN": "Mảnh Tôn Sách 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14001,
+    "EXID": "gchip_24001",
+    "STAR": 5
+  },
+  "20341": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星曹植碎片",
+    "NAME_VN": "Mảnh Tào Thực 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10341,
+    "EXID": "gchip_20341",
+    "STAR": 3
+  },
+  "22001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星张飞碎片",
+    "NAME_VN": "Mảnh Trương Phi 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12001,
+    "EXID": "gchip_22001",
+    "STAR": 5
+  },
+  "26302": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星刘表碎片",
+    "NAME_VN": "Mảnh Lưu Biểu 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16302,
+    "EXID": "gchip_26302",
+    "STAR": 5
+  },
+  "26262": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星公孙瓒碎片",
+    "NAME_VN": "Mảnh Công Tôn Toản 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16262,
+    "EXID": "gchip_26262",
+    "STAR": 5
+  },
+  "22341": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星简雍碎片",
+    "NAME_VN": "Mảnh Giản Ung 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12341,
+    "EXID": "gchip_22341",
+    "STAR": 2
+  },
+  "20401": {
+    "QUALITY": 1,
+    "CHIP": 5,
+    "CTYPE": 1,
+    "NAME": "1星强弩兵碎片",
+    "NAME_VN": "Mảnh Cường Nỏ Binh 1 Sao",
+    "INTRO": "Thu thập đủ 5 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10401,
+    "EXID": "gchip_20401",
+    "STAR": 1
+  },
+  "36001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "随机5星碎片",
+    "NAME_VN": "Mảnh Ngẫu Nhiên 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao",
+    "GCOND": [
+      1005
+    ],
+    "EXID": "grchip_36001",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "36042": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 2,
+    "NAME": "魏国3星碎片",
+    "NAME_VN": "Mảnh Ngụy Quốc 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể nhận được một tướng 3 sao Ngụy Quốc",
+    "GCOND": [
+      1003,
+      2001
+    ],
+    "EXID": "grchip_36042",
+    "ICON": 36041,
+    "STAR": 3
+  },
+  "28001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星织田信长碎片",
+    "NAME_VN": "Mảnh Oda Nobunaga 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18001,
+    "EXID": "gchip_28001",
+    "STAR": 5
+  },
+  "26241": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星高顺碎片",
+    "NAME_VN": "Mảnh Cao Thuận 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16241,
+    "EXID": "gchip_26241",
+    "STAR": 4
+  },
+  "36025": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "群雄4星碎片",
+    "NAME_VN": "Mảnh Quần Hùng 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao",
+    "GCOND": [
+      1004,
+      2004
+    ],
+    "EXID": "grchip_36025",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "24201": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星黄盖碎片",
+    "NAME_VN": "Mảnh Hoàng Cái 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14201,
+    "EXID": "gchip_24201",
+    "STAR": 4
+  },
+  "26222": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星董卓碎片",
+    "NAME_VN": "Mảnh Đổng Trác 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16222,
+    "EXID": "gchip_26222",
+    "STAR": 5
+  },
+  "36061": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 2,
+    "NAME": "随机2星碎片",
+    "NAME_VN": "Mảnh Ngẫu Nhiên 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể nhận được một tướng 2 sao",
+    "GCOND": [
+      1002
+    ],
+    "EXID": "grchip_36061",
+    "ICON": 36041,
+    "STAR": 2
+  },
+  "22261": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星姜维碎片",
+    "NAME_VN": "Mảnh Khương Duy 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12261,
+    "EXID": "gchip_22261",
+    "STAR": 4
+  },
+  "24021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星甘宁碎片",
+    "NAME_VN": "Mảnh Cam Ninh 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14021,
+    "EXID": "gchip_24021",
+    "STAR": 5
+  },
+  "26441": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星左慈碎片",
+    "NAME_VN": "Mảnh Tả Từ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16441,
+    "EXID": "gchip_26441",
+    "STAR": 5
+  },
+  "20001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星曹仁碎片",
+    "NAME_VN": "Mảnh Tào Nhân 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10001,
+    "EXID": "gchip_20001",
+    "STAR": 5
+  },
+  "26381": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星刘璋碎片",
+    "NAME_VN": "Mảnh Lưu Chương 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16381,
+    "EXID": "gchip_26381",
+    "STAR": 2
+  },
+  "36103": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 2,
+    "NAME": "射手5星碎片",
+    "NAME_VN": "Mảnh Xạ Thủ 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể nhận được một tướng 5 sao Xạ Thủ",
+    "GCOND": [
+      1005,
+      3003
+    ],
+    "EXID": "grchip_36103",
+    "ICON": 36001,
+    "STAR": 5
+  },
+  "26181": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星貂蝉碎片",
+    "NAME_VN": "Mảnh Điêu Thuyền 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16181,
+    "EXID": "gchip_26181",
+    "STAR": 5
+  },
+  "36027": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 2,
+    "NAME": "魔王4星碎片",
+    "NAME_VN": "Mảnh Ma Vương 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể nhận được một tướng 4 sao Ma Vương",
+    "GCOND": [
+      1004,
+      2006
+    ],
+    "EXID": "grchip_36027",
+    "ICON": 36021,
+    "STAR": 4
+  },
+  "36062": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 2,
+    "NAME": "魏国2星碎片",
+    "NAME_VN": "Mảnh Ngụy Quốc 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể nhận được một tướng 2 sao Ngụy Quốc",
+    "GCOND": [
+      1002,
+      2001
+    ],
+    "EXID": "grchip_36062",
+    "ICON": 36041,
+    "STAR": 2
+  },
+  "24222": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星凌统碎片",
+    "NAME_VN": "Mảnh Lăng Thống 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14222,
+    "EXID": "gchip_24222",
+    "STAR": 5
+  },
+  "20261": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星于禁碎片",
+    "NAME_VN": "Mảnh Vu Cấm 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10261,
+    "EXID": "gchip_20261",
+    "STAR": 4
+  },
+  "22181": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星关兴碎片",
+    "NAME_VN": "Mảnh Quan Hưng 4 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12181,
+    "EXID": "gchip_22181",
+    "STAR": 4
+  },
+  "27001": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星刘邦碎片",
+    "NAME_VN": "Mảnh Lưu Bang 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 17001,
+    "EXID": "gchip_27001",
+    "STAR": 5
+  },
+  "20441": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星徐晃碎片",
+    "NAME_VN": "Mảnh Từ Hoảng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10441,
+    "EXID": "gchip_20441",
+    "STAR": 5
+  },
+  "20361": {
+    "QUALITY": 2,
+    "CHIP": 10,
+    "CTYPE": 1,
+    "NAME": "2星乐进碎片",
+    "NAME_VN": "Mảnh Nhạc Tiến 2 Sao",
+    "INTRO": "Thu thập đủ 10 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10361,
+    "EXID": "gchip_20361",
+    "STAR": 2
+  },
+  "22301": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星徐庶碎片",
+    "NAME_VN": "Mảnh Từ Thứ 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12301,
+    "EXID": "gchip_22301",
+    "STAR": 3
+  },
+  "26201": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星华陀碎片",
+    "NAME_VN": "Mảnh Hoa Đà 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16201,
+    "EXID": "gchip_26201",
+    "STAR": 5
+  },
+  "28081": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星本多忠胜碎片",
+    "NAME_VN": "Mảnh Honda Tadakatsu 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18081,
+    "EXID": "gchip_28081",
+    "STAR": 4
+  },
+  "20281": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星王朗碎片",
+    "NAME_VN": "Mảnh Vương Lãng 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10281,
+    "EXID": "gchip_20281",
+    "STAR": 4
+  },
+  "26221": {
+    "QUALITY": 4,
+    "CHIP": 30,
+    "CTYPE": 1,
+    "NAME": "4星董卓碎片",
+    "NAME_VN": "Mảnh Đổng Trác 4 Sao",
+    "INTRO": "Thu thập đủ 30 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 16221,
+    "EXID": "gchip_26221",
+    "STAR": 4
+  },
+  "28101": {
+    "QUALITY": 3,
+    "CHIP": 20,
+    "CTYPE": 1,
+    "NAME": "3星浪人碎片",
+    "NAME_VN": "Mảnh Lãng Nhân 3 Sao",
+    "INTRO": "Thu thập đủ 20 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 18101,
+    "EXID": "gchip_28101",
+    "STAR": 3
+  },
+  "24181": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星孙权碎片",
+    "NAME_VN": "Mảnh Tôn Quyền 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14181,
+    "EXID": "gchip_24181",
+    "STAR": 5
+  },
+  "24262": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星小乔碎片",
+    "NAME_VN": "Mảnh Tiểu Kiều 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14262,
+    "EXID": "gchip_24262",
+    "STAR": 5
+  },
+  "22021": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星刘备碎片",
+    "NAME_VN": "Mảnh Lưu Bị 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 12021,
+    "EXID": "gchip_22021",
+    "STAR": 5
+  },
+  "20202": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星典韦碎片",
+    "NAME_VN": "Mảnh Điển Vi 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10202,
+    "EXID": "gchip_20202",
+    "STAR": 5
+  },
+  "20041": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星张辽碎片",
+    "NAME_VN": "Mảnh Trương Liêu 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 10041,
+    "EXID": "gchip_20041",
+    "STAR": 5
+  },
+  "24242": {
+    "QUALITY": 5,
+    "CHIP": 50,
+    "CTYPE": 1,
+    "NAME": "5星陆抗碎片",
+    "NAME_VN": "Mảnh Lục Kháng 5 Sao",
+    "INTRO": "Thu thập đủ 50 mảnh có thể triệu hoán anh hùng này",
+    "GCOND": 14242,
+    "EXID": "gchip_24242",
+    "STAR": 5
+  }
+}

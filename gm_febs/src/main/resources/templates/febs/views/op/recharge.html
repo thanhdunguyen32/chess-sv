@@ -1,0 +1,74 @@
+<div class="layui-fluid layui-anim febs-anim" id="febs-recharge" lay-title="Quản lý gói nạp">
+    <div class="layui-row febs-container">
+        <div class="layui-col-md12">
+            <div class="layui-card">
+                <div class="layui-card-body febs-table-full">
+                    <form class="layui-form layui-table-form" lay-filter="recharge-table-form">
+                        <div class="layui-row">
+                            <!-- <div class="layui-col-md10">
+                                <div class="layui-form-item">
+                                    <div class="layui-inline">
+                                        <label class="layui-form-label">Tên gói:</label>
+                                        <div class="layui-input-inline">
+                                            <input type="text" name="name" autocomplete="off" class="layui-input">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="layui-col-md2 layui-col-sm12 layui-col-xs12 table-action-area">
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="query">
+                                    <i class="layui-icon">&#xe848;</i>
+                                </div>
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action" id="reset">
+                                    <i class="layui-icon">&#xe79b;</i>
+                                </div>
+                                <div class="layui-btn layui-btn-sm layui-btn-primary table-action action-more">
+                                    <i class="layui-icon">&#xe875;</i>
+                                </div>
+                            </div> -->
+                        </div>
+                    </form>
+                    <!-- <table lay-filter="rechargeTable" lay-data="{id: 'rechargeTable'}"></table> -->
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script data-th-inline="javascript" type="text/javascript">
+    var ctx = [[@{/}]];
+</script>
+<script type="text/javascript">
+    // layui.use(['jquery', 'febs', 'table', 'layer', 'form'], function () {
+    //     var $ = layui.jquery,
+    //         febs = layui.febs,
+    //         table = layui.table,
+    //         layer = layui.layer,
+    //         form = layui.form;
+
+    //     initTable();
+
+    //     function initTable() {
+    //         table.render({
+    //             elem: '#rechargeTable',
+    //             url: ctx + 'recharge/list',
+    //             method: 'get',
+    //             response: {statusCode: 200},
+    //             request: {
+    //                 pageName: 'pageNum',
+    //                 limitName: 'pageSize'
+    //             },
+    //             cols: [[
+    //                 {field: 'id', title: 'ID', width: 60},
+    //                 {field: 'name', title: 'Tên gói'},
+    //                 {field: 'price', title: 'Giá (VNĐ)'},
+    //                 {field: 'coins', title: 'Số xu'},
+    //                 {field: 'status', title: 'Trạng thái'},
+    //                 {field: 'createTime', title: 'Ngày tạo'},
+    //                 {title: 'Thao tác', toolbar: '#recharge-option', width: 140}
+    //             ]],
+    //             page: true,
+    //             height: 'full-120'
+    //         });
+    //     }
+    // });
+</script>

@@ -1,0 +1,142 @@
+{
+  "1": {
+    "INTRO": "Tấn Công +5%",
+    "LOCK": 10,
+    "ICON": "wuhun_talent_1",
+    "NAME": "武力天赋",
+    "NAME_VN": "Thiên Phú Võ Lực"
+  },
+  "20004": {
+    "ANIM": "pot_xiniu",
+    "INTRO": "Khi bị chí mạng, sát thương thêm của đòn chí mạng giảm 45%.",
+    "ICON": "icon_wuhun_20004",
+    "NAME": "犀牛之魂",
+    "NAME_VN": "Hồn Tê Ngưu"
+  },
+  "20006": {
+    "ANIM": "pot_jinji",
+    "INTRO": "Nhận 10% hút máu vật lý.",
+    "ICON": "icon_wuhun_20006",
+    "NAME": "金鸡之魂",
+    "NAME_VN": "Hồn Kim Kê"
+  },
+  "20002": {
+    "ANIM": "pot_juxiang",
+    "INTRO": "Khi bắt đầu trận đấu, nhận hiệu ứng tăng 20% HP.",
+    "ICON": "icon_wuhun_20002",
+    "NAME": "巨象之魂",
+    "NAME_VN": "Hồn Cự Tượng"
+  },
+  "2": {
+    "INTRO": "HP +10%",
+    "LOCK": 10,
+    "ICON": "wuhun_talent_2",
+    "NAME": "体力天赋",
+    "NAME_VN": "Thiên Phú Thể Lực"
+  },
+  "20009": {
+    "ANIM": "pot_yuelu",
+    "INTRO": "Sau khi sử dụng kỹ năng chủ động, nhận trạng thái miễn dịch trong 4 giây (miễn dịch mọi hiệu ứng khống chế).",
+    "ICON": "icon_wuhun_20009",
+    "NAME": "月鹿之魂",
+    "NAME_VN": "Hồn Nguyệt Lộc"
+  },
+  "20013": {
+    "ANIM": "pot_lieying",
+    "INTRO": "Sau khi sử dụng kỹ năng chủ động, hồi 25 điểm năng lượng.",
+    "ICON": "icon_wuhun_20013",
+    "NAME": "猎鹰之魂",
+    "NAME_VN": "Hồn Liệp Ưng"
+  },
+  "20014": {
+    "ANIM": "pot_xinhu",
+    "INTRO": "Khi gây ST Phép, tạo thêm một vụ nổ, gây 100% ST Phép lên kẻ địch trong phạm vi 1 ô, hồi chiêu 4 giây.",
+    "ICON": "icon_wuhun_20014",
+    "NAME": "心狐之魂",
+    "NAME_VN": "Hồn Tâm Hồ"
+  },
+  "20010": {
+    "ANIM": "pot_fushe",
+    "INTRO": "Sau khi sử dụng kỹ năng chủ động, các đòn đánh thường sẽ gây thêm 15% ST Phép, duy trì 4 giây.",
+    "ICON": "icon_wuhun_20010",
+    "NAME": "蝮蛇之魂",
+    "NAME_VN": "Hồn Phúc Xà"
+  },
+  "4": {
+    "INTRO": "Tốc Đánh +5%",
+    "LOCK": 12,
+    "ICON": "wuhun_talent_4",
+    "NAME": "敏捷天赋",
+    "NAME_VN": "Thiên Phú Mẫn Tiệp"
+  },
+  "20007": {
+    "ANIM": "pot_huohou",
+    "INTRO": "Khi bắt đầu trận đấu, đồng đội trong phạm vi 1 ô trên dưới (bao gồm cả bản thân) nhận tăng 25% Tốc Đánh, duy trì 10 giây (không cộng dồn).",
+    "ICON": "icon_wuhun_20007",
+    "NAME": "火猴之魂",
+    "NAME_VN": "Hồn Hỏa Hầu"
+  },
+  "20011": {
+    "ANIM": "pot_xushu",
+    "INTRO": "Mỗi lần hồi máu mục tiêu (không tính hút máu), có 50% xác suất hồi máu cho mục tiêu có máu thấp nhất trong phạm vi 2 ô xung quanh (chỉ kích hoạt 1 lần).",
+    "ICON": "icon_wuhun_20011",
+    "NAME": "虚鼠之魂",
+    "NAME_VN": "Hồn Hư Thử"
+  },
+  "20008": {
+    "ANIM": "pot_xuebao",
+    "INTRO": "Mỗi lần nhận sát thương sẽ tăng 1% Tốc Đánh, duy trì 30 giây, hồi chiêu 0.5 giây (có thể cộng dồn).",
+    "ICON": "icon_wuhun_20008",
+    "NAME": "雪豹之魂",
+    "NAME_VN": "Hồn Tuyết Báo"
+  },
+  "5": {
+    "INTRO": "ST Kỹ Năng +8%",
+    "LOCK": 14,
+    "ICON": "wuhun_talent_5",
+    "NAME": "智力天赋",
+    "NAME_VN": "Thiên Phú Trí Lực"
+  },
+  "20012": {
+    "ANIM": "pot_shanzhu",
+    "INTRO": "Khi máu của bản thân dưới 30%, hồi phục 35% HP cho tất cả đồng đội trong phạm vi 1.5 ô xung quanh.",
+    "ICON": "icon_wuhun_20012",
+    "NAME": "山猪之魂",
+    "NAME_VN": "Hồn Sơn Trư"
+  },
+  "3": {
+    "INTRO": "Hộ Giáp/Kháng Phép +8%",
+    "LOCK": 10,
+    "ICON": "wuhun_talent_3",
+    "NAME": "耐力天赋",
+    "NAME_VN": "Thiên Phú Nại Lực"
+  },
+  "20000": {
+    "ANIM": "pot_menghu",
+    "INTRO": "Mỗi khi tiêu diệt một đơn vị địch trên chiến trường, tăng vĩnh viễn 5% Tấn Công",
+    "ICON": "icon_wuhun_20000",
+    "NAME": "猛虎之魂",
+    "NAME_VN": "Hồn Mãnh Hổ"
+  },
+  "20005": {
+    "ANIM": "pot_lingyuan",
+    "INTRO": "Giảm 35% sát thương từ kỹ năng.",
+    "ICON": "icon_wuhun_20005",
+    "NAME": "灵猿之魂",
+    "NAME_VN": "Hồn Linh Viên"
+  },
+  "20003": {
+    "ANIM": "pot_chuanshanjia",
+    "INTRO": "Khi nhận sát thương đánh thường, phản lại 35% ST Chuẩn lên kẻ gây sát thương, hồi chiêu 0.5 giây.",
+    "ICON": "icon_wuhun_20003",
+    "NAME": "穿山甲之魂",
+    "NAME_VN": "Hồn Xuyên Sơn Giáp"
+  },
+  "20001": {
+    "ANIM": "pot_heixiong",
+    "INTRO": "Khi bắt đầu trận đấu, đồng đội trong phạm vi 1 ô trên dưới (bao gồm cả bản thân) nhận được lá chắn bằng 20% HP của bản thân, duy trì 8 giây (không cộng dồn).",
+    "ICON": "icon_wuhun_20001",
+    "NAME": "黑熊之魂",
+    "NAME_VN": "Hồn Hắc Hùng"
+  }
+}
