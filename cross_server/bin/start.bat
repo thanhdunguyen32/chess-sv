@@ -1,1 +1,0 @@
-java -server -Xms256M -Xmx2048M -XX:MaxPermSize=128m -XX:+UseG1GC -jar seed_jclient-1.0.2.jar
